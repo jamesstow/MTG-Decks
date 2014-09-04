@@ -1,0 +1,1067 @@
+
+<cards>
+  <name>Premium_Deck_Series__Slivers</name>
+  <key>Premium_Deck_Series__Slivers</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>207897
+      </id>
+      <name>Acidic Sliver
+      </name>
+      <cost>{B}{R}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>All Slivers have "{2}, Sacrifice this permanent: This permanent deals 2 damage to target creature or player."
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.812
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>13
+      </num>
+      <text>All Slivers have "{2}, Sacrifice this permanent: This permanent deals 2 damage to target creature or player."
+      </text>
+    </mc>
+    <mc>
+      <id>207921
+      </id>
+      <name>Amoeboid Changeling
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;{T}: Target creature gains all creature types until end of turn.&lt;br&gt;{T}: Target creature loses all creature types until end of turn.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.091
+      </rating>
+      <artist>Nils Hamm
+      </artist>
+      <num>3
+      </num>
+      <text>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;{T}: Target creature gains all creature types until end of turn.&lt;br&gt;{T}: Target creature loses all creature types until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>207930
+      </id>
+      <name>Ancient Ziggurat
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.603
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>31
+      </num>
+      <text>{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell.
+      </text>
+    </mc>
+    <mc>
+      <id>207925
+      </id>
+      <name>Aphetto Dredging
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.321
+      </rating>
+      <artist>Monte Michael Moore
+      </artist>
+      <num>28
+      </num>
+      <text>Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>207898
+      </id>
+      <name>Armor Sliver
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>All Sliver creatures have "{2}: This creature gets +0/+1 until end of turn."
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.978
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>16
+      </num>
+      <text>All Sliver creatures have "{2}: This creature gets +0/+1 until end of turn."
+      </text>
+    </mc>
+    <mc>
+      <id>207899
+      </id>
+      <name>Barbed Sliver
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>All Sliver creatures have "{2}: This creature gets +1/+0 until end of turn."
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.121
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>18
+      </num>
+      <text>All Sliver creatures have "{2}: This creature gets +1/+0 until end of turn."
+      </text>
+    </mc>
+    <mc>
+      <id>208039
+      </id>
+      <name>Brood Sliver
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.463
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>22
+      </num>
+      <text>Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>207900
+      </id>
+      <name>Clot Sliver
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>All Slivers have "{2}: Regenerate this permanent."
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.587
+      </rating>
+      <artist>Jeff Laubenstein
+      </artist>
+      <num>5
+      </num>
+      <text>All Slivers have "{2}: Regenerate this permanent."
+      </text>
+    </mc>
+    <mc>
+      <id>207927
+      </id>
+      <name>Coat of Arms
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. &lt;i&gt;(For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)&lt;/i&gt;
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.538
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>29
+      </num>
+      <text>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. &lt;i&gt;(For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>207901
+      </id>
+      <name>Crystalline Sliver
+      </name>
+      <cost>{W}{U}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>All Slivers have shroud. &lt;i&gt;(They can't be the targets of spells or abilities.)&lt;/i&gt;
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.719
+      </rating>
+      <artist>L. A. Williams
+      </artist>
+      <num>11
+      </num>
+      <text>All Slivers have shroud. &lt;i&gt;(They can't be the targets of spells or abilities.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>207926
+      </id>
+      <name>Distant Melody
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose a creature type. Draw a card for each permanent you control of that type.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.194
+      </rating>
+      <artist>Omar Rayyan
+      </artist>
+      <num>27
+      </num>
+      <text>Choose a creature type. Draw a card for each permanent you control of that type.
+      </text>
+    </mc>
+    <mc>
+      <id>207934
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.633
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>41
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>207902
+      </id>
+      <name>Frenzy Sliver
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>All Sliver creatures have frenzy 1. &lt;i&gt;(Whenever a Sliver attacks and isn't blocked, it gets +1/+0 until end of turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.896
+      </rating>
+      <artist>Glen Angus
+      </artist>
+      <num>6
+      </num>
+      <text>All Sliver creatures have frenzy 1. &lt;i&gt;(Whenever a Sliver attacks and isn't blocked, it gets +1/+0 until end of turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>207903
+      </id>
+      <name>Fungus Sliver
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Fungus Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>All Sliver creatures have "Whenever this creature is dealt damage, put a +1/+1 counter on it." &lt;i&gt;(The damage is dealt before the counter is put on.)&lt;/i&gt;
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>21
+      </num>
+      <text>All Sliver creatures have "Whenever this creature is dealt damage, put a +1/+1 counter on it." &lt;i&gt;(The damage is dealt before the counter is put on.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>207904
+      </id>
+      <name>Fury Sliver
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>All Sliver creatures have double strike.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.603
+      </rating>
+      <artist>Parente
+      </artist>
+      <num>25
+      </num>
+      <text>All Sliver creatures have double strike.
+      </text>
+    </mc>
+    <mc>
+      <id>207905
+      </id>
+      <name>Gemhide Sliver
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>All Slivers have "{T}: Add one mana of any color to your mana pool."
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.648
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>8
+      </num>
+      <text>All Slivers have "{T}: Add one mana of any color to your mana pool."
+      </text>
+    </mc>
+    <mc>
+      <id>207906
+      </id>
+      <name>Heart Sliver
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>All Sliver creatures have haste.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.309
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>7
+      </num>
+      <text>All Sliver creatures have haste.
+      </text>
+    </mc>
+    <mc>
+      <id>207924
+      </id>
+      <name>Heartstone
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.875
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>26
+      </num>
+      <text>Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.
+      </text>
+    </mc>
+    <mc>
+      <id>207907
+      </id>
+      <name>Hibernation Sliver
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>All Slivers have "Pay 2 life: Return this permanent to its owner's hand."
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.98
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>12
+      </num>
+      <text>All Slivers have "Pay 2 life: Return this permanent to its owner's hand."
+      </text>
+    </mc>
+    <mc>
+      <id>207908
+      </id>
+      <name>Homing Sliver
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Each Sliver card in each player's hand has slivercycling {3}.&lt;br&gt;Slivercycling {3} &lt;i&gt;({3}, Discard this card: Search your library for a Sliver card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.483
+      </rating>
+      <artist>Trevor Hairsine
+      </artist>
+      <num>19
+      </num>
+      <text>Each Sliver card in each player's hand has slivercycling {3}.&lt;br&gt;Slivercycling {3} &lt;i&gt;({3}, Discard this card: Search your library for a Sliver card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>207935
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.365
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>38
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>208040
+      </id>
+      <name>Metallic Sliver
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact Creature - Sliver
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>L. A. Williams
+      </artist>
+      <num>1
+      </num>
+    </mc>
+    <mc>
+      <id>207910
+      </id>
+      <name>Might Sliver
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>All Sliver creatures get +2/+2.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.414
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>23
+      </num>
+      <text>All Sliver creatures get +2/+2.
+      </text>
+    </mc>
+    <mc>
+      <id>207936
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.021
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>40
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>207911
+      </id>
+      <name>Muscle Sliver
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>All Sliver creatures get +1/+1.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>9
+      </num>
+      <text>All Sliver creatures get +1/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>207912
+      </id>
+      <name>Necrotic Sliver
+      </name>
+      <cost>{1}{W}{B}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>All Slivers have "{3}, Sacrifice this permanent: Destroy target permanent."
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.627
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>20
+      </num>
+      <text>All Slivers have "{3}, Sacrifice this permanent: Destroy target permanent."
+      </text>
+    </mc>
+    <mc>
+      <id>207937
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.086
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>37
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>207913
+      </id>
+      <name>Quick Sliver
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flash&lt;br&gt;Any player may play Sliver cards as though they had flash.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.893
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>10
+      </num>
+      <text>Flash&lt;br&gt;Any player may play Sliver cards as though they had flash.
+      </text>
+    </mc>
+    <mc>
+      <id>208042
+      </id>
+      <name>Rootbound Crag
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.328
+      </rating>
+      <artist>Matt Stewart
+      </artist>
+      <num>32
+      </num>
+      <text>Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>207933
+      </id>
+      <name>Rupture Spire
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Rupture Spire enters the battlefield tapped.&lt;br&gt;When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.078
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>33
+      </num>
+      <text>Rupture Spire enters the battlefield tapped.&lt;br&gt;When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>207915
+      </id>
+      <name>Sliver Overlord
+      </name>
+      <cost>{W}{U}{B}{R}{G}
+      </cost>
+      <type>Legendary Creature - Sliver Mutant
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>{3}: Search your library for a Sliver card, reveal that card, and put it into your hand. Then shuffle your library.&lt;br&gt;{3}: Gain control of target Sliver. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.664
+      </rating>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>24
+      </num>
+      <text>{3}: Search your library for a Sliver card, reveal that card, and put it into your hand. Then shuffle your library.&lt;br&gt;{3}: Gain control of target Sliver. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>207916
+      </id>
+      <name>Spectral Sliver
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Sliver Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>All Sliver creatures have "{2}: This creature gets +1/+1 until end of turn."
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.639
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>17
+      </num>
+      <text>All Sliver creatures have "{2}: This creature gets +1/+1 until end of turn."
+      </text>
+    </mc>
+    <mc>
+      <id>208041
+      </id>
+      <name>Spined Sliver
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.237
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>14
+      </num>
+      <text>Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.
+      </text>
+    </mc>
+    <mc>
+      <id>207938
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.75
+      </rating>
+      <artist>Brom
+      </artist>
+      <num>39
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>207928
+      </id>
+      <name>Terramorphic Expanse
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.698
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>34
+      </num>
+      <text>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>207918
+      </id>
+      <name>Victual Sliver
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>All Slivers have "{2}, Sacrifice this permanent: You gain 4 life."
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.562
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>15
+      </num>
+      <text>All Slivers have "{2}, Sacrifice this permanent: You gain 4 life."
+      </text>
+    </mc>
+    <mc>
+      <id>207919
+      </id>
+      <name>Virulent Sliver
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>All Sliver creatures have poisonous 1. &lt;i&gt;(Whenever a Sliver deals combat damage to a player, that player gets a poison counter. A player with ten or more poison counters loses the game.)&lt;/i&gt;
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.409
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>2
+      </num>
+      <text>All Sliver creatures have poisonous 1. &lt;i&gt;(Whenever a Sliver deals combat damage to a player, that player gets a poison counter. A player with ten or more poison counters loses the game.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>208043
+      </id>
+      <name>Vivid Creek
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Vivid Creek enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.397
+      </rating>
+      <artist>Fred Fields
+      </artist>
+      <num>35
+      </num>
+      <text>Vivid Creek enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>207922
+      </id>
+      <name>Vivid Grove
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Vivid Grove enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>36
+      </num>
+      <text>Vivid Grove enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>207929
+      </id>
+      <name>Wild Pair
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness and put it onto the battlefield. If you do, shuffle your library.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.743
+      </rating>
+      <artist>Mark Brill
+      </artist>
+      <num>30
+      </num>
+      <text>Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness and put it onto the battlefield. If you do, shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>207920
+      </id>
+      <name>Winged Sliver
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>All Sliver creatures have flying.
+      </oracleText>
+      <edition>Premium Deck Series: Slivers
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.685
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>4
+      </num>
+      <text>All Sliver creatures have flying.
+      </text>
+    </mc>
+  </list>
+</cards>

@@ -1,0 +1,3431 @@
+
+<cards>
+  <name>Mirrodin_Besieged</name>
+  <key>Mirrodin_Besieged</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>214045
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.458
+      </rating>
+      <artist>Tomasz Jedruszek
+      </artist>
+      <num>152
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>214066
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.316
+      </rating>
+      <artist>Tomasz Jedruszek
+      </artist>
+      <num>153
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>214057
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.909
+      </rating>
+      <artist>James Paick
+      </artist>
+      <num>146
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>220366
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>2.549
+      </rating>
+      <artist>James Paick
+      </artist>
+      <num>147
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>220367
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.222
+      </rating>
+      <artist>Lars Grant-West
+      </artist>
+      <num>150
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>220368
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>2.607
+      </rating>
+      <artist>Lars Grant-West
+      </artist>
+      <num>151
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>213818
+      </id>
+      <name>Accorder Paladin
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>1
+      </num>
+      <text>Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>213794
+      </id>
+      <name>Ardent Recruit
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Metalcraft- Ardent Recruit gets +2/+2 as long as you control three or more artifacts.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>2
+      </num>
+      <text>Metalcraft- Ardent Recruit gets +2/+2 as long as you control three or more artifacts.
+      </text>
+    </mc>
+    <mc>
+      <id>213792
+      </id>
+      <name>Banishment Decree
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put target artifact, creature, or enchantment on top of its owner's library.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>3
+      </num>
+      <text>Put target artifact, creature, or enchantment on top of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>214061
+      </id>
+      <name>Black Sun's Zenith
+      </name>
+      <cost>{X}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put X -1/-1 counters on each creature. Shuffle Black Sun's Zenith into its owner's library.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>39
+      </num>
+      <text>Put X -1/-1 counters on each creature. Shuffle Black Sun's Zenith into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>214049
+      </id>
+      <name>Bladed Sentinel
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{W}: Bladed Sentinel gains vigilance until end of turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>98
+      </num>
+      <text>{W}: Bladed Sentinel gains vigilance until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>221563
+      </id>
+      <name>Blightsteel Colossus
+      </name>
+      <cost>{12}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>11
+      </power>
+      <toughness>11
+      </toughness>
+      <oracleText>Trample, infect&lt;br&gt;Blightsteel Colossus is indestructible.&lt;br&gt;If Blightsteel Colossus would be put into a graveyard from anywhere, reveal Blightsteel Colossus and shuffle it into its owner's library instead.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <num>99
+      </num>
+      <text>Trample, infect&lt;br&gt;Blightsteel Colossus is indestructible.&lt;br&gt;If Blightsteel Colossus would be put into a graveyard from anywhere, reveal Blightsteel Colossus and shuffle it into its owner's library instead.
+      </text>
+    </mc>
+    <mc>
+      <id>213820
+      </id>
+      <name>Blightwidow
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>77
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>213793
+      </id>
+      <name>Blisterstick Shaman
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Blisterstick Shaman enters the battlefield, it deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>58
+      </num>
+      <text>When Blisterstick Shaman enters the battlefield, it deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>221556
+      </id>
+      <name>Blue Sun's Zenith
+      </name>
+      <cost>{X}{U}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player draws X cards. Shuffle Blue Sun's Zenith into its owner's library.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>20
+      </num>
+      <text>Target player draws X cards. Shuffle Blue Sun's Zenith into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>214040
+      </id>
+      <name>Bonehoard
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +X/+X, where X is the number of creature cards in all graveyards.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>100
+      </num>
+      <text>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +X/+X, where X is the number of creature cards in all graveyards.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>213800
+      </id>
+      <name>Brass Squire
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Myr
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Attach target Equipment you control to target creature you control.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>101
+      </num>
+      <text>{T}: Attach target Equipment you control to target creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>213771
+      </id>
+      <name>Burn the Impure
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Burn the Impure deals 3 damage to target creature. If that creature has infect, Burn the Impure deals 3 damage to that creature's controller.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>59
+      </num>
+      <text>Burn the Impure deals 3 damage to target creature. If that creature has infect, Burn the Impure deals 3 damage to that creature's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>213789
+      </id>
+      <name>Caustic Hound
+      </name>
+      <cost>{5}{B}
+      </cost>
+      <type>Creature - Hound
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Caustic Hound dies, each player loses 4 life.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>40
+      </num>
+      <text>When Caustic Hound dies, each player loses 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>213808
+      </id>
+      <name>Choking Fumes
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put a -1/-1 counter on each attacking creature.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>4
+      </num>
+      <text>Put a -1/-1 counter on each attacking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>213756
+      </id>
+      <name>Concussive Bolt
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Concussive Bolt deals 4 damage to target player.&lt;br&gt;Metalcraft- If you control three or more artifacts, creatures that player controls can't block this turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>60
+      </num>
+      <text>Concussive Bolt deals 4 damage to target player.&lt;br&gt;Metalcraft- If you control three or more artifacts, creatures that player controls can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>214063
+      </id>
+      <name>Consecrated Sphinx
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Creature - Sphinx
+      </type>
+      <power>4
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever an opponent draws a card, you may draw two cards.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <num>21
+      </num>
+      <text>Flying&lt;br&gt;Whenever an opponent draws a card, you may draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>213775
+      </id>
+      <name>Contested War Zone
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Whenever a creature deals combat damage to you, that creature's controller gains control of Contested War Zone.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}: Attacking creatures get +1/+0 until end of turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>144
+      </num>
+      <text>Whenever a creature deals combat damage to you, that creature's controller gains control of Contested War Zone.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}: Attacking creatures get +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>213805
+      </id>
+      <name>Copper Carapace
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +2/+2 and can't block.&lt;br&gt;Equip {3} &lt;i&gt;({3}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>102
+      </num>
+      <text>Equipped creature gets +2/+2 and can't block.&lt;br&gt;Equip {3} &lt;i&gt;({3}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>213822
+      </id>
+      <name>Core Prowler
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Horror
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;When Core Prowler dies, proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>103
+      </num>
+      <text>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;When Core Prowler dies, proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>214043
+      </id>
+      <name>Corrupted Conscience
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;You control enchanted creature.&lt;br&gt;Enchanted creature has infect. &lt;i&gt;(It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>22
+      </num>
+      <text>Enchant creature&lt;br&gt;You control enchanted creature.&lt;br&gt;Enchanted creature has infect. &lt;i&gt;(It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>214029
+      </id>
+      <name>Creeping Corrosion
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all artifacts.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>78
+      </num>
+      <text>Destroy all artifacts.
+      </text>
+    </mc>
+    <mc>
+      <id>213806
+      </id>
+      <name>Crush
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target noncreature artifact.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>61
+      </num>
+      <text>Destroy target noncreature artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>214037
+      </id>
+      <name>Cryptoplasm
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, you may have Cryptoplasm become a copy of another target creature. If you do, Cryptoplasm gains this ability.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>23
+      </num>
+      <text>At the beginning of your upkeep, you may have Cryptoplasm become a copy of another target creature. If you do, Cryptoplasm gains this ability.
+      </text>
+    </mc>
+    <mc>
+      <id>213749
+      </id>
+      <name>Darksteel Plate
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Darksteel Plate is indestructible.&lt;br&gt;Equipped creature is indestructible.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>104
+      </num>
+      <text>Darksteel Plate is indestructible.&lt;br&gt;Equipped creature is indestructible.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>214055
+      </id>
+      <name>Decimator Web
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{4}, {T}: Target opponent loses 2 life, gets a poison counter, then puts the top six cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>105
+      </num>
+      <text>{4}, {T}: Target opponent loses 2 life, gets a poison counter, then puts the top six cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>213765
+      </id>
+      <name>Distant Memories
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a card, exile it, then shuffle your library. Any opponent may have you put that card into your hand. If no player does, you draw three cards.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>24
+      </num>
+      <text>Search your library for a card, exile it, then shuffle your library. Any opponent may have you put that card into your hand. If no player does, you draw three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>213760
+      </id>
+      <name>Divine Offering
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact. You gain life equal to its converted mana cost.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>5
+      </num>
+      <text>Destroy target artifact. You gain life equal to its converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>214032
+      </id>
+      <name>Dross Ripper
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Hound
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{2}{B}: Dross Ripper gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>106
+      </num>
+      <text>{2}{B}: Dross Ripper gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>213732
+      </id>
+      <name>Fangren Marauder
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Whenever an artifact is put into a graveyard from the battlefield, you may gain 5 life.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>79
+      </num>
+      <text>Whenever an artifact is put into a graveyard from the battlefield, you may gain 5 life.
+      </text>
+    </mc>
+    <mc>
+      <id>221560
+      </id>
+      <name>Flayer Husk
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +1/+1.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>107
+      </num>
+      <text>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +1/+1.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>213817
+      </id>
+      <name>Flensermite
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Gremlin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>41
+      </num>
+      <text>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>213759
+      </id>
+      <name>Flesh-Eater Imp
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Imp
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;Sacrifice a creature: Flesh-Eater Imp gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>42
+      </num>
+      <text>Flying&lt;br&gt;Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;Sacrifice a creature: Flesh-Eater Imp gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>213791
+      </id>
+      <name>Frantic Salvage
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put any number of target artifact cards from your graveyard on top of your library.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>6
+      </num>
+      <text>Put any number of target artifact cards from your graveyard on top of your library.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>213736
+      </id>
+      <name>Fuel for the Cause
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell, then proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>25
+      </num>
+      <text>Counter target spell, then proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>214053
+      </id>
+      <name>Galvanoth
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>At the beginning of your upkeep, you may look at the top card of your library. If it's an instant or sorcery card, you may cast it without paying its mana cost.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>62
+      </num>
+      <text>At the beginning of your upkeep, you may look at the top card of your library. If it's an instant or sorcery card, you may cast it without paying its mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>214072
+      </id>
+      <name>Glissa, the Traitor
+      </name>
+      <cost>{B}{G}{G}
+      </cost>
+      <type>Legendary Creature - Zombie Elf
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>First strike, deathtouch&lt;br&gt;Whenever a creature an opponent controls dies, you may return target artifact card from your graveyard to your hand.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <num>96
+      </num>
+      <text>First strike, deathtouch&lt;br&gt;Whenever a creature an opponent controls dies, you may return target artifact card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>213783
+      </id>
+      <name>Glissa's Courier
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Mountainwalk
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>80
+      </num>
+      <text>Mountainwalk
+      </text>
+    </mc>
+    <mc>
+      <id>213763
+      </id>
+      <name>Gnathosaur
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Sacrifice an artifact: Gnathosaur gains trample until end of turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>63
+      </num>
+      <text>Sacrifice an artifact: Gnathosaur gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>213799
+      </id>
+      <name>Go for the Throat
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonartifact creature.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>43
+      </num>
+      <text>Destroy target nonartifact creature.
+      </text>
+    </mc>
+    <mc>
+      <id>213782
+      </id>
+      <name>Goblin Wardriver
+      </name>
+      <cost>{R}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>64
+      </num>
+      <text>Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>213798
+      </id>
+      <name>Gore Vassal
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Hound
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice Gore Vassal: Put a -1/-1 counter on target creature. Then if that creature's toughness is 1 or greater, regenerate it.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>7
+      </num>
+      <text>Sacrifice Gore Vassal: Put a -1/-1 counter on target creature. Then if that creature's toughness is 1 or greater, regenerate it.
+      </text>
+    </mc>
+    <mc>
+      <id>221559
+      </id>
+      <name>Green Sun's Zenith
+      </name>
+      <cost>{X}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a green creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. Shuffle Green Sun's Zenith into its owner's library.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>81
+      </num>
+      <text>Search your library for a green creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. Shuffle Green Sun's Zenith into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>214073
+      </id>
+      <name>Gruesome Encore
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put target creature card from an opponent's graveyard onto the battlefield under your control. It gains haste. Exile it at the beginning of the next end step. If that creature would leave the battlefield, exile it instead of putting it anywhere else.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>44
+      </num>
+      <text>Put target creature card from an opponent's graveyard onto the battlefield under your control. It gains haste. Exile it at the beginning of the next end step. If that creature would leave the battlefield, exile it instead of putting it anywhere else.
+      </text>
+    </mc>
+    <mc>
+      <id>213768
+      </id>
+      <name>Gust-Skimmer
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact Creature - Insect
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{U}: Gust-Skimmer gains flying until end of turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>108
+      </num>
+      <text>{U}: Gust-Skimmer gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>214052
+      </id>
+      <name>Hellkite Igniter
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying, haste&lt;br&gt;{1}{R}: Hellkite Igniter gets +X/+0 until end of turn, where X is the number of artifacts you control.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>65
+      </num>
+      <text>Flying, haste&lt;br&gt;{1}{R}: Hellkite Igniter gets +X/+0 until end of turn, where X is the number of artifacts you control.
+      </text>
+    </mc>
+    <mc>
+      <id>214064
+      </id>
+      <name>Hero of Bladehold
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever Hero of Bladehold attacks, put two 1/1 white Soldier creature tokens onto the battlefield tapped and attacking.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <num>8
+      </num>
+      <text>Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever Hero of Bladehold attacks, put two 1/1 white Soldier creature tokens onto the battlefield tapped and attacking.
+      </text>
+    </mc>
+    <mc>
+      <id>214028
+      </id>
+      <name>Hero of Oxid Ridge
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever Hero of Oxid Ridge attacks, creatures with power 1 or less can't block this turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <num>66
+      </num>
+      <text>Haste&lt;br&gt;Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever Hero of Oxid Ridge attacks, creatures with power 1 or less can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>213807
+      </id>
+      <name>Hexplate Golem
+      </name>
+      <cost>{7}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>5
+      </power>
+      <toughness>7
+      </toughness>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>109
+      </num>
+    </mc>
+    <mc>
+      <id>213723
+      </id>
+      <name>Horrifying Revelation
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards a card, then puts the top card of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>45
+      </num>
+      <text>Target player discards a card, then puts the top card of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>213737
+      </id>
+      <name>Ichor Wellspring
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>When Ichor Wellspring enters the battlefield or is put into a graveyard from the battlefield, draw a card.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>110
+      </num>
+      <text>When Ichor Wellspring enters the battlefield or is put into a graveyard from the battlefield, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>213731
+      </id>
+      <name>Inkmoth Nexus
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}: Inkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying and infect until end of turn. It's still a land. &lt;i&gt;(It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>145
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}: Inkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying and infect until end of turn. It's still a land. &lt;i&gt;(It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>213788
+      </id>
+      <name>Into the Core
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile two target artifacts.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>67
+      </num>
+      <text>Exile two target artifacts.
+      </text>
+    </mc>
+    <mc>
+      <id>214056
+      </id>
+      <name>Kemba's Legion
+      </name>
+      <cost>{5}{W}{W}
+      </cost>
+      <type>Creature - Cat Soldier
+      </type>
+      <power>4
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;Kemba's Legion can block an additional creature for each Equipment attached to Kemba's Legion.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>9
+      </num>
+      <text>Vigilance&lt;br&gt;Kemba's Legion can block an additional creature for each Equipment attached to Kemba's Legion.
+      </text>
+    </mc>
+    <mc>
+      <id>214035
+      </id>
+      <name>Knowledge Pool
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Imprint- When Knowledge Pool enters the battlefield, each player exiles the top three cards of his or her library.&lt;br&gt;Whenever a player casts a spell from his or her hand, that player exiles it. If the player does, he or she may cast another nonland card exiled with Knowledge Pool without paying that card's mana cost.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>111
+      </num>
+      <text>Imprint- When Knowledge Pool enters the battlefield, each player exiles the top three cards of his or her library.&lt;br&gt;Whenever a player casts a spell from his or her hand, that player exiles it. If the player does, he or she may cast another nonland card exiled with Knowledge Pool without paying that card's mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>213766
+      </id>
+      <name>Koth's Courier
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Forestwalk
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>68
+      </num>
+      <text>Forestwalk
+      </text>
+    </mc>
+    <mc>
+      <id>213810
+      </id>
+      <name>Kuldotha Flamefiend
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Kuldotha Flamefiend enters the battlefield, you may sacrifice an artifact. If you do, Kuldotha Flamefiend deals 4 damage divided as you choose among any number of target creatures and/or players.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>69
+      </num>
+      <text>When Kuldotha Flamefiend enters the battlefield, you may sacrifice an artifact. If you do, Kuldotha Flamefiend deals 4 damage divided as you choose among any number of target creatures and/or players.
+      </text>
+    </mc>
+    <mc>
+      <id>213787
+      </id>
+      <name>Kuldotha Ringleader
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Giant Berserker
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;&lt;br&gt;Kuldotha Ringleader attacks each turn if able.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>70
+      </num>
+      <text>Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;&lt;br&gt;Kuldotha Ringleader attacks each turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>213739
+      </id>
+      <name>Lead the Stampede
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>82
+      </num>
+      <text>Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>222860
+      </id>
+      <name>Leonin Relic-Warder
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Cat Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Leonin Relic-Warder enters the battlefield, you may exile target artifact or enchantment.&lt;br&gt;When Leonin Relic-Warder leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>10
+      </num>
+      <text>When Leonin Relic-Warder enters the battlefield, you may exile target artifact or enchantment.&lt;br&gt;When Leonin Relic-Warder leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>213770
+      </id>
+      <name>Leonin Skyhunter
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Cat Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>11
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>213761
+      </id>
+      <name>Loxodon Partisan
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Elephant Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>12
+      </num>
+      <text>Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>214059
+      </id>
+      <name>Lumengrid Gargoyle
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Gargoyle
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>112
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>213740
+      </id>
+      <name>Magnetic Mine
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Whenever another artifact is put into a graveyard from the battlefield, Magnetic Mine deals 2 damage to that artifact's controller.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>113
+      </num>
+      <text>Whenever another artifact is put into a graveyard from the battlefield, Magnetic Mine deals 2 damage to that artifact's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>214044
+      </id>
+      <name>Massacre Wurm
+      </name>
+      <cost>{3}{B}{B}{B}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>When Massacre Wurm enters the battlefield, creatures your opponents control get -2/-2 until end of turn.&lt;br&gt;Whenever a creature an opponent controls dies, that player loses 2 life.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <num>46
+      </num>
+      <text>When Massacre Wurm enters the battlefield, creatures your opponents control get -2/-2 until end of turn.&lt;br&gt;Whenever a creature an opponent controls dies, that player loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>221554
+      </id>
+      <name>Master's Call
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put two 1/1 colorless Myr artifact creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>13
+      </num>
+      <text>Put two 1/1 colorless Myr artifact creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>213796
+      </id>
+      <name>Melira's Keepers
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Melira's Keepers can't have counters placed on it.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>83
+      </num>
+      <text>Melira's Keepers can't have counters placed on it.
+      </text>
+    </mc>
+    <mc>
+      <id>213812
+      </id>
+      <name>Metallic Mastery
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Gain control of target artifact until end of turn. Untap that artifact. It gains haste until end of turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>71
+      </num>
+      <text>Gain control of target artifact until end of turn. Untap that artifact. It gains haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>213802
+      </id>
+      <name>Mirran Crusader
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Double strike, protection from black and from green
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>14
+      </num>
+      <text>Double strike, protection from black and from green
+      </text>
+    </mc>
+    <mc>
+      <id>213819
+      </id>
+      <name>Mirran Mettle
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +2/+2 until end of turn.&lt;br&gt;Metalcraft- That creature gets +4/+4 until end of turn instead if you control three or more artifacts.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>84
+      </num>
+      <text>Target creature gets +2/+2 until end of turn.&lt;br&gt;Metalcraft- That creature gets +4/+4 until end of turn instead if you control three or more artifacts.
+      </text>
+    </mc>
+    <mc>
+      <id>213779
+      </id>
+      <name>Mirran Spy
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Drone
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever you cast an artifact spell, you may untap target creature.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>26
+      </num>
+      <text>Flying&lt;br&gt;Whenever you cast an artifact spell, you may untap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>214068
+      </id>
+      <name>Mirrorworks
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Whenever another nontoken artifact enters the battlefield under your control, you may pay {2}. If you do, put a token that's a copy of that artifact onto the battlefield.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>114
+      </num>
+      <text>Whenever another nontoken artifact enters the battlefield under your control, you may pay {2}. If you do, put a token that's a copy of that artifact onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>214071
+      </id>
+      <name>Mitotic Manipulation
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at the top seven cards of your library. You may put one of those cards onto the battlefield if it has the same name as a permanent. Put the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>27
+      </num>
+      <text>Look at the top seven cards of your library. You may put one of those cards onto the battlefield if it has the same name as a permanent. Put the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>222863
+      </id>
+      <name>Morbid Plunder
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return up to two target creature cards from your graveyard to your hand.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>47
+      </num>
+      <text>Return up to two target creature cards from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>213725
+      </id>
+      <name>Mortarpod
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +0/+1 and has "Sacrifice this creature: This creature deals 1 damage to target creature or player."&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>115
+      </num>
+      <text>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +0/+1 and has "Sacrifice this creature: This creature deals 1 damage to target creature or player."&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>213734
+      </id>
+      <name>Myr Sire
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact Creature - Myr
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Myr Sire dies, put a 1/1 colorless Myr artifact creature token onto the battlefield.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>116
+      </num>
+      <text>When Myr Sire dies, put a 1/1 colorless Myr artifact creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>213757
+      </id>
+      <name>Myr Turbine
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Put a 1/1 colorless Myr artifact creature token onto the battlefield.&lt;br&gt;{T}, Tap five untapped Myr you control: Search your library for a Myr creature card, put it onto the battlefield, then shuffle your library.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>117
+      </num>
+      <text>{T}: Put a 1/1 colorless Myr artifact creature token onto the battlefield.&lt;br&gt;{T}, Tap five untapped Myr you control: Search your library for a Myr creature card, put it onto the battlefield, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>214067
+      </id>
+      <name>Myr Welder
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Myr
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Imprint- {T}: Exile target artifact card from a graveyard.&lt;br&gt;Myr Welder has all activated abilities of all cards exiled with it.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>118
+      </num>
+      <text>Imprint- {T}: Exile target artifact card from a graveyard.&lt;br&gt;Myr Welder has all activated abilities of all cards exiled with it.
+      </text>
+    </mc>
+    <mc>
+      <id>213816
+      </id>
+      <name>Nested Ghoul
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Zombie Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever a source deals damage to Nested Ghoul, put a 2/2 black Zombie creature token onto the battlefield.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>48
+      </num>
+      <text>Whenever a source deals damage to Nested Ghoul, put a 2/2 black Zombie creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>213754
+      </id>
+      <name>Neurok Commando
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Shroud&lt;br&gt;Whenever Neurok Commando deals combat damage to a player, you may draw a card.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>28
+      </num>
+      <text>Shroud&lt;br&gt;Whenever Neurok Commando deals combat damage to a player, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>214036
+      </id>
+      <name>Oculus
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Homunculus
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Oculus dies, you may draw a card.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>29
+      </num>
+      <text>When Oculus dies, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>213795
+      </id>
+      <name>Ogre Resister
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Ogre
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>72
+      </num>
+    </mc>
+    <mc>
+      <id>213781
+      </id>
+      <name>Peace Strider
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Peace Strider enters the battlefield, you gain 3 life.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>119
+      </num>
+      <text>When Peace Strider enters the battlefield, you gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>213797
+      </id>
+      <name>Phyresis
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has infect. &lt;i&gt;(It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>49
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has infect. &lt;i&gt;(It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>213724
+      </id>
+      <name>Phyrexian Crusader
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Zombie Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike, protection from red and from white&lt;br&gt;Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>50
+      </num>
+      <text>First strike, protection from red and from white&lt;br&gt;Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>213743
+      </id>
+      <name>Phyrexian Digester
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>120
+      </num>
+      <text>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>214060
+      </id>
+      <name>Phyrexian Hydra
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Hydra
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;If damage would be dealt to Phyrexian Hydra, prevent that damage. Put a -1/-1 counter on Phyrexian Hydra for each 1 damage prevented this way.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>85
+      </num>
+      <text>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;If damage would be dealt to Phyrexian Hydra, prevent that damage. Put a -1/-1 counter on Phyrexian Hydra for each 1 damage prevented this way.
+      </text>
+    </mc>
+    <mc>
+      <id>214038
+      </id>
+      <name>Phyrexian Juggernaut
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Juggernaut
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;Phyrexian Juggernaut attacks each turn if able.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>121
+      </num>
+      <text>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;Phyrexian Juggernaut attacks each turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>213804
+      </id>
+      <name>Phyrexian Rager
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>51
+      </num>
+      <text>When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>214048
+      </id>
+      <name>Phyrexian Rebirth
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all creatures, then put an X/X colorless Horror artifact creature token onto the battlefield, where X is the number of creatures destroyed this way.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>15
+      </num>
+      <text>Destroy all creatures, then put an X/X colorless Horror artifact creature token onto the battlefield, where X is the number of creatures destroyed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>220589
+      </id>
+      <name>Phyrexian Revoker
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact Creature - Horror
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>As Phyrexian Revoker enters the battlefield, name a nonland card.&lt;br&gt;Activated abilities of sources with the chosen name can't be activated.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>122
+      </num>
+      <text>As Phyrexian Revoker enters the battlefield, name a nonland card.&lt;br&gt;Activated abilities of sources with the chosen name can't be activated.
+      </text>
+    </mc>
+    <mc>
+      <id>214074
+      </id>
+      <name>Phyrexian Vatmother
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, you get a poison counter.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>52
+      </num>
+      <text>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, you get a poison counter.
+      </text>
+    </mc>
+    <mc>
+      <id>221561
+      </id>
+      <name>Pierce Strider
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Pierce Strider enters the battlefield, target opponent loses 3 life.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>123
+      </num>
+      <text>When Pierce Strider enters the battlefield, target opponent loses 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>213742
+      </id>
+      <name>Piston Sledge
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>When Piston Sledge enters the battlefield, attach it to target creature you control.&lt;br&gt;Equipped creature gets +3/+1.&lt;br&gt;Equip—Sacrifice an artifact.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>124
+      </num>
+      <text>When Piston Sledge enters the battlefield, attach it to target creature you control.&lt;br&gt;Equipped creature gets +3/+1.&lt;br&gt;Equip—Sacrifice an artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>213744
+      </id>
+      <name>Pistus Strike
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature with flying. Its controller gets a poison counter.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>86
+      </num>
+      <text>Destroy target creature with flying. Its controller gets a poison counter.
+      </text>
+    </mc>
+    <mc>
+      <id>213785
+      </id>
+      <name>Plague Myr
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact Creature - Myr
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;{T}: Add {1} to your mana pool.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>125
+      </num>
+      <text>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;{T}: Add {1} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>213752
+      </id>
+      <name>Plaguemaw Beast
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}, Sacrifice a creature: Proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>87
+      </num>
+      <text>{T}, Sacrifice a creature: Proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>214034
+      </id>
+      <name>Praetor's Counsel
+      </name>
+      <cost>{5}{G}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return all cards from your graveyard to your hand. Exile Praetor's Counsel. You have no maximum hand size for the rest of the game.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <num>88
+      </num>
+      <text>Return all cards from your graveyard to your hand. Exile Praetor's Counsel. You have no maximum hand size for the rest of the game.
+      </text>
+    </mc>
+    <mc>
+      <id>213814
+      </id>
+      <name>Priests of Norn
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>16
+      </num>
+      <text>Vigilance&lt;br&gt;Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>214047
+      </id>
+      <name>Psychosis Crawler
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact Creature - Horror
+      </type>
+      <oracleText>Psychosis Crawler's power and toughness are each equal to the number of cards in your hand.&lt;br&gt;Whenever you draw a card, each opponent loses 1 life.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>126
+      </num>
+      <text>Psychosis Crawler's power and toughness are each equal to the number of cards in your hand.&lt;br&gt;Whenever you draw a card, each opponent loses 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>213762
+      </id>
+      <name>Quicksilver Geyser
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return up to two target nonland permanents to their owners' hands.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>30
+      </num>
+      <text>Return up to two target nonland permanents to their owners' hands.
+      </text>
+    </mc>
+    <mc>
+      <id>213755
+      </id>
+      <name>Quilled Slagwurm
+      </name>
+      <cost>{4}{G}{G}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>8
+      </power>
+      <toughness>8
+      </toughness>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>89
+      </num>
+    </mc>
+    <mc>
+      <id>213767
+      </id>
+      <name>Rally the Forces
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Attacking creatures get +1/+0 and gain first strike until end of turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>73
+      </num>
+      <text>Attacking creatures get +1/+0 and gain first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>213815
+      </id>
+      <name>Razorfield Rhino
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Rhino
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Metalcraft- Razorfield Rhino gets +2/+2 as long as you control three or more artifacts.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>127
+      </num>
+      <text>Metalcraft- Razorfield Rhino gets +2/+2 as long as you control three or more artifacts.
+      </text>
+    </mc>
+    <mc>
+      <id>221558
+      </id>
+      <name>Red Sun's Zenith
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Red Sun's Zenith deals X damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead. Shuffle Red Sun's Zenith into its owner's library.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>74
+      </num>
+      <text>Red Sun's Zenith deals X damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead. Shuffle Red Sun's Zenith into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>213774
+      </id>
+      <name>Rot Wolf
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Wolf
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;Whenever a creature dealt damage by Rot Wolf this turn dies, you may draw a card.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>90
+      </num>
+      <text>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;Whenever a creature dealt damage by Rot Wolf this turn dies, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>213746
+      </id>
+      <name>Rusted Slasher
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Horror
+      </type>
+      <power>4
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice an artifact: Regenerate Rusted Slasher.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>128
+      </num>
+      <text>Sacrifice an artifact: Regenerate Rusted Slasher.
+      </text>
+    </mc>
+    <mc>
+      <id>214062
+      </id>
+      <name>Sangromancer
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Vampire Shaman
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a creature an opponent controls dies, you may gain 3 life.&lt;br&gt;Whenever an opponent discards a card, you may gain 3 life.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>53
+      </num>
+      <text>Flying&lt;br&gt;Whenever a creature an opponent controls dies, you may gain 3 life.&lt;br&gt;Whenever an opponent discards a card, you may gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>213751
+      </id>
+      <name>Scourge Servant
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>54
+      </num>
+      <text>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>213748
+      </id>
+      <name>Septic Rats
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Rat
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;Whenever Septic Rats attacks, if defending player is poisoned, it gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>55
+      </num>
+      <text>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;Whenever Septic Rats attacks, if defending player is poisoned, it gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>213780
+      </id>
+      <name>Serum Raker
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Serum Raker dies, each player discards a card.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>31
+      </num>
+      <text>Flying&lt;br&gt;When Serum Raker dies, each player discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>214042
+      </id>
+      <name>Shimmer Myr
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Myr
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash&lt;br&gt;You may cast artifact cards as though they had flash.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>129
+      </num>
+      <text>Flash&lt;br&gt;You may cast artifact cards as though they had flash.
+      </text>
+    </mc>
+    <mc>
+      <id>213786
+      </id>
+      <name>Shriekhorn
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Shriekhorn enters the battlefield with three charge counters on it.&lt;br&gt;{T}, Remove a charge counter from Shriekhorn: Target player puts the top two cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>130
+      </num>
+      <text>Shriekhorn enters the battlefield with three charge counters on it.&lt;br&gt;{T}, Remove a charge counter from Shriekhorn: Target player puts the top two cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>213773
+      </id>
+      <name>Signal Pest
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact Creature - Pest
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;&lt;br&gt;Signal Pest can't be blocked except by creatures with flying or reach.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>131
+      </num>
+      <text>Battle cry &lt;i&gt;(Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)&lt;/i&gt;&lt;br&gt;Signal Pest can't be blocked except by creatures with flying or reach.
+      </text>
+    </mc>
+    <mc>
+      <id>213738
+      </id>
+      <name>Silverskin Armor
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +1/+1 and is an artifact in addition to its other types.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>132
+      </num>
+      <text>Equipped creature gets +1/+1 and is an artifact in addition to its other types.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>221562
+      </id>
+      <name>Skinwing
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +2/+2 and has flying.&lt;br&gt;Equip {6}
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>133
+      </num>
+      <text>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +2/+2 and has flying.&lt;br&gt;Equip {6}
+      </text>
+    </mc>
+    <mc>
+      <id>214054
+      </id>
+      <name>Slagstorm
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose one- Slagstorm deals 3 damage to each creature; or Slagstorm deals 3 damage to each player.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>75
+      </num>
+      <text>Choose one- Slagstorm deals 3 damage to each creature; or Slagstorm deals 3 damage to each player.
+      </text>
+    </mc>
+    <mc>
+      <id>213776
+      </id>
+      <name>Sphere of the Suns
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Sphere of the Suns enters the battlefield tapped and with three charge counters on it.&lt;br&gt;{T}, Remove a charge counter from Sphere of the Suns: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>134
+      </num>
+      <text>Sphere of the Suns enters the battlefield tapped and with three charge counters on it.&lt;br&gt;{T}, Remove a charge counter from Sphere of the Suns: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>214069
+      </id>
+      <name>Spin Engine
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{R}: Target creature can't block Spin Engine this turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>135
+      </num>
+      <text>{R}: Target creature can't block Spin Engine this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>214076
+      </id>
+      <name>Spine of Ish Sah
+      </name>
+      <cost>{7}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>When Spine of Ish Sah enters the battlefield, destroy target permanent.&lt;br&gt;When Spine of Ish Sah is put into a graveyard from the battlefield, return Spine of Ish Sah to its owner's hand.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>136
+      </num>
+      <text>When Spine of Ish Sah enters the battlefield, destroy target permanent.&lt;br&gt;When Spine of Ish Sah is put into a graveyard from the battlefield, return Spine of Ish Sah to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>222859
+      </id>
+      <name>Spiraling Duelist
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Human Berserker
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Metalcraft- Spiraling Duelist has double strike as long as you control three or more artifacts.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>76
+      </num>
+      <text>Metalcraft- Spiraling Duelist has double strike as long as you control three or more artifacts.
+      </text>
+    </mc>
+    <mc>
+      <id>213801
+      </id>
+      <name>Spire Serpent
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Serpent
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Defender&lt;br&gt;Metalcraft- As long as you control three or more artifacts, Spire Serpent gets +2/+2 and can attack as though it didn't have defender.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>32
+      </num>
+      <text>Defender&lt;br&gt;Metalcraft- As long as you control three or more artifacts, Spire Serpent gets +2/+2 and can attack as though it didn't have defender.
+      </text>
+    </mc>
+    <mc>
+      <id>221557
+      </id>
+      <name>Spread the Sickness
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target creature, then proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>56
+      </num>
+      <text>Destroy target creature, then proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>213726
+      </id>
+      <name>Steel Sabotage
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Counter target artifact spell; or return target artifact to its owner's hand.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>33
+      </num>
+      <text>Choose one- Counter target artifact spell; or return target artifact to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>213790
+      </id>
+      <name>Strandwalker
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +2/+4 and has reach.&lt;br&gt;Equip {4}
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>137
+      </num>
+      <text>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +2/+4 and has reach.&lt;br&gt;Equip {4}
+      </text>
+    </mc>
+    <mc>
+      <id>214070
+      </id>
+      <name>Sword of Feast and Famine
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +2/+2 and has protection from black and from green.&lt;br&gt;Whenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <num>138
+      </num>
+      <text>Equipped creature gets +2/+2 and has protection from black and from green.&lt;br&gt;Whenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>214041
+      </id>
+      <name>Tangle Hulk
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{2}{G}: Regenerate Tangle Hulk.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>139
+      </num>
+      <text>{2}{G}: Regenerate Tangle Hulk.
+      </text>
+    </mc>
+    <mc>
+      <id>222862
+      </id>
+      <name>Tangle Mantis
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Trample
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>91
+      </num>
+      <text>Trample
+      </text>
+    </mc>
+    <mc>
+      <id>214065
+      </id>
+      <name>Tezzeret, Agent of Bolas
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Planeswalker - Tezzeret
+      </type>
+      <toughness>3
+      </toughness>
+      <oracleText>+1: Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.&lt;br&gt;-1: Target artifact becomes a 5/5 artifact creature.&lt;br&gt;-4: Target player loses X life and you gain X life, where X is twice the number of artifacts you control.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <num>97
+      </num>
+      <text>+1: Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.&lt;br&gt;-1: Target artifact becomes a 5/5 artifact creature.&lt;br&gt;-4: Target player loses X life and you gain X life, where X is twice the number of artifacts you control.
+      </text>
+    </mc>
+    <mc>
+      <id>214039
+      </id>
+      <name>Thopter Assembly
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Thopter
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, if you control no Thopters other than Thopter Assembly, return Thopter Assembly to its owner's hand and put five 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>140
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, if you control no Thopters other than Thopter Assembly, return Thopter Assembly to its owner's hand and put five 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>214050
+      </id>
+      <name>Thrun, the Last Troll
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Legendary Creature - Troll Shaman
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Thrun, the Last Troll can't be countered.&lt;br&gt;Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;{1}{G}: Regenerate Thrun.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <num>92
+      </num>
+      <text>Thrun, the Last Troll can't be countered.&lt;br&gt;Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;{1}{G}: Regenerate Thrun.
+      </text>
+    </mc>
+    <mc>
+      <id>213758
+      </id>
+      <name>Tine Shrike
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>17
+      </num>
+      <text>Flying&lt;br&gt;Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>213730
+      </id>
+      <name>Titan Forge
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}, {T}: Put a charge counter on Titan Forge.&lt;br&gt;{T}, Remove three charge counters from Titan Forge: Put a 9/9 colorless Golem artifact creature token onto the battlefield.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>141
+      </num>
+      <text>{3}, {T}: Put a charge counter on Titan Forge.&lt;br&gt;{T}, Remove three charge counters from Titan Forge: Put a 9/9 colorless Golem artifact creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>213764
+      </id>
+      <name>Training Drone
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Drone
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Training Drone can't attack or block unless it's equipped.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>142
+      </num>
+      <text>Training Drone can't attack or block unless it's equipped.
+      </text>
+    </mc>
+    <mc>
+      <id>213753
+      </id>
+      <name>Treasure Mage
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal that card, and put it into your hand. If you do, shuffle your library.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>34
+      </num>
+      <text>When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal that card, and put it into your hand. If you do, shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>213821
+      </id>
+      <name>Turn the Tide
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Creatures your opponents control get -2/-0 until end of turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>35
+      </num>
+      <text>Creatures your opponents control get -2/-0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>213778
+      </id>
+      <name>Unnatural Predation
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +1/+1 and gains trample until end of turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>93
+      </num>
+      <text>Target creature gets +1/+1 and gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>222861
+      </id>
+      <name>Vedalken Anatomist
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Vedalken Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{2}{U}, {T}: Put a -1/-1 counter on target creature. You may tap or untap that creature.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>36
+      </num>
+      <text>{2}{U}, {T}: Put a -1/-1 counter on target creature. You may tap or untap that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>213750
+      </id>
+      <name>Vedalken Infuser
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Vedalken Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>At the beginning of your upkeep, you may put a charge counter on target artifact.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>37
+      </num>
+      <text>At the beginning of your upkeep, you may put a charge counter on target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>214030
+      </id>
+      <name>Victory's Herald
+      </name>
+      <cost>{3}{W}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Victory's Herald attacks, attacking creatures gain flying and lifelink until end of turn.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>18
+      </num>
+      <text>Flying&lt;br&gt;Whenever Victory's Herald attacks, attacking creatures gain flying and lifelink until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>213784
+      </id>
+      <name>Viridian Claw
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +1/+0 and has first strike.&lt;br&gt;Equip {1}
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>143
+      </num>
+      <text>Equipped creature gets +1/+0 and has first strike.&lt;br&gt;Equip {1}
+      </text>
+    </mc>
+    <mc>
+      <id>213772
+      </id>
+      <name>Viridian Corrupter
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Elf Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;When Viridian Corrupter enters the battlefield, destroy target artifact.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>94
+      </num>
+      <text>Infect &lt;i&gt;(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)&lt;/i&gt;&lt;br&gt;When Viridian Corrupter enters the battlefield, destroy target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>213728
+      </id>
+      <name>Viridian Emissary
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Viridian Emissary dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>95
+      </num>
+      <text>When Viridian Emissary dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>213777
+      </id>
+      <name>Virulent Wound
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put a -1/-1 counter on target creature. When that creature dies this turn, its controller gets a poison counter.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>57
+      </num>
+      <text>Put a -1/-1 counter on target creature. When that creature dies this turn, its controller gets a poison counter.
+      </text>
+    </mc>
+    <mc>
+      <id>213735
+      </id>
+      <name>Vivisection
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Vivisection, sacrifice a creature.&lt;br&gt;Draw three cards.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>38
+      </num>
+      <text>As an additional cost to cast Vivisection, sacrifice a creature.&lt;br&gt;Draw three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>221555
+      </id>
+      <name>White Sun's Zenith
+      </name>
+      <cost>{X}{W}{W}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put X 2/2 white Cat creature tokens onto the battlefield. Shuffle White Sun's Zenith into its owner's library.
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>19
+      </num>
+      <text>Put X 2/2 white Cat creature tokens onto the battlefield. Shuffle White Sun's Zenith into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>214031
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Mark Tedin
+      </artist>
+      <num>154
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>214075
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Mark Tedin
+      </artist>
+      <num>155
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>220369
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jung Park
+      </artist>
+      <num>148
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>220365
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Mirrodin Besieged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jung Park
+      </artist>
+      <num>149
+      </num>
+      <text>U
+      </text>
+    </mc>
+  </list>
+</cards>

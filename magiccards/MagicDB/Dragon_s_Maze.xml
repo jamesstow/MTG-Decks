@@ -1,0 +1,3863 @@
+
+<cards>
+  <name>Dragon_s_Maze</name>
+  <key>Dragon_s_Maze</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>369036
+      </id>
+      <name>Advent of the Wurm
+      </name>
+      <cost>{1}{G}{G}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put a 5/5 green Wurm creature token with trample onto the battlefield.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>51
+      </num>
+      <text>Put a 5/5 green Wurm creature token with trample onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>368961
+      </id>
+      <name>Ætherling
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>{U}: Exile Ætherling. Return it to the battlefield under its owner's control at the beginning of the next end step.&lt;br&gt;{U}: Ætherling can't be blocked this turn.&lt;br&gt;{1}: Ætherling gets +1/-1 until end of turn.&lt;br&gt;{1}: Ætherling gets -1/+1 until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>11
+      </num>
+      <text>{U}: Exile Ætherling. Return it to the battlefield under its owner's control at the beginning of the next end step.&lt;br&gt;{U}: Ætherling can't be blocked this turn.&lt;br&gt;{1}: Ætherling gets +1/-1 until end of turn.&lt;br&gt;{1}: Ætherling gets -1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>369041
+      </id>
+      <name>Alive // Well (Alive)
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put a 3/3 green Centaur creature token onto the battlefield.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>121
+      </num>
+      <text>Put a 3/3 green Centaur creature token onto the battlefield.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Alive</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Well</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>368989
+      </id>
+      <name>Armed // Dangerous (Armed)
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +1/+1 and gains double strike until end of turn.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>122
+      </num>
+      <text>Target creature gets +1/+1 and gains double strike until end of turn.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Armed</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Dangerous</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>369082
+      </id>
+      <name>Armored Wolf-Rider
+      </name>
+      <cost>{3}{G}{W}
+      </cost>
+      <type>Creature - Elf Knight
+      </type>
+      <power>4
+      </power>
+      <toughness>6
+      </toughness>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>52
+      </num>
+    </mc>
+    <mc>
+      <id>369016
+      </id>
+      <name>Ascended Lawmage
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Creature - Vedalken Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying, hexproof
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Yee
+      </artist>
+      <num>53
+      </num>
+      <text>Flying, hexproof
+      </text>
+    </mc>
+    <mc>
+      <id>369042
+      </id>
+      <name>Far // Away (Away)
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player sacrifices a creature.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>127
+      </num>
+      <text>Target player sacrifices a creature.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Away</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Far</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>369053
+      </id>
+      <name>Awe for the Guilds
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Monocolored creatures can't block this turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>31
+      </num>
+      <text>Monocolored creatures can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>369017
+      </id>
+      <name>Azorius Cluestone
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {W} or {U} to your mana pool.&lt;br&gt;{W}{U}, {T}, Sacrifice Azorius Cluestone: Draw a card.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raoul Vitale
+      </artist>
+      <num>136
+      </num>
+      <text>{T}: Add {W} or {U} to your mana pool.&lt;br&gt;{W}{U}, {T}, Sacrifice Azorius Cluestone: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>368974
+      </id>
+      <name>Azorius Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Azorius Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Drew Baker
+      </artist>
+      <num>146
+      </num>
+      <text>Azorius Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>369044
+      </id>
+      <name>Bane Alley Blackguard
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>21
+      </num>
+    </mc>
+    <mc>
+      <id>368984
+      </id>
+      <name>Battering Krasis
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Fish Beast
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jack Wang
+      </artist>
+      <num>41
+      </num>
+      <text>Trample&lt;br&gt;Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>369063
+      </id>
+      <name>Beck // Call (Beck)
+      </name>
+      <cost>{G}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Whenever a creature enters the battlefield this turn, you may draw a card.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>123
+      </num>
+      <text>Whenever a creature enters the battlefield this turn, you may draw a card.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Beck</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Call</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>369000
+      </id>
+      <name>Beetleform Mage
+      </name>
+      <cost>{1}{G}{U}
+      </cost>
+      <type>Creature - Human Insect Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{G}{U}: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Marco Nelor
+      </artist>
+      <num>54
+      </num>
+      <text>{G}{U}: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>368985
+      </id>
+      <name>Blast of Genius
+      </name>
+      <cost>{4}{U}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose target creature or player. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's converted mana cost to that creature or player.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Terese Nielsen
+      </artist>
+      <num>55
+      </num>
+      <text>Choose target creature or player. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's converted mana cost to that creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>369047
+      </id>
+      <name>Blaze Commando
+      </name>
+      <cost>{3}{R}{W}
+      </cost>
+      <type>Creature - Minotaur Soldier
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever an instant or sorcery spell you control deals damage, put two 1/1 red and white Soldier creature tokens with haste onto the battlefield.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>56
+      </num>
+      <text>Whenever an instant or sorcery spell you control deals damage, put two 1/1 red and white Soldier creature tokens with haste onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>368991
+      </id>
+      <name>Flesh // Blood (Blood)
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature you control deals damage equal to its power to target creature or player.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>128
+      </num>
+      <text>Target creature you control deals damage equal to its power to target creature or player.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Blood</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Flesh</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>368954
+      </id>
+      <name>Blood Baron of Vizkopa
+      </name>
+      <cost>{3}{W}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Lifelink, protection from white and from black&lt;br&gt;As long as you have 30 or more life and an opponent has 10 or less life, Blood Baron of Vizkopa gets +6/+6 and has flying.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Anthony Palumbo
+      </artist>
+      <num>57
+      </num>
+      <text>Lifelink, protection from white and from black&lt;br&gt;As long as you have 30 or more life and an opponent has 10 or less life, Blood Baron of Vizkopa gets +6/+6 and has flying.
+      </text>
+    </mc>
+    <mc>
+      <id>369030
+      </id>
+      <name>Blood Scrivener
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>If you would draw a card while you have no cards in hand, instead draw two cards and lose 1 life.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>22
+      </num>
+      <text>If you would draw a card while you have no cards in hand, instead draw two cards and lose 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>369051
+      </id>
+      <name>Boros Battleshaper
+      </name>
+      <cost>{5}{R}{W}
+      </cost>
+      <type>Creature - Minotaur Soldier
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>At the beginning of each combat, up to one target creature attacks or blocks this combat if able and up to one target creature can't attack or block this combat.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>58
+      </num>
+      <text>At the beginning of each combat, up to one target creature attacks or blocks this combat if able and up to one target creature can't attack or block this combat.
+      </text>
+    </mc>
+    <mc>
+      <id>368997
+      </id>
+      <name>Boros Cluestone
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {R} or {W} to your mana pool.&lt;br&gt;{R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raoul Vitale
+      </artist>
+      <num>137
+      </num>
+      <text>{T}: Add {R} or {W} to your mana pool.&lt;br&gt;{R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>369008
+      </id>
+      <name>Boros Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Boros Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {W} to your mana pool.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>147
+      </num>
+      <text>Boros Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>369028
+      </id>
+      <name>Boros Mastiff
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Hound
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Battalion- Whenever Boros Mastiff and at least two other creatures attack, Boros Mastiff gains lifelink until end of turn. &lt;i&gt;(Damage dealt by a creature with lifelink also causes its controller to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>1
+      </num>
+      <text>Battalion- Whenever Boros Mastiff and at least two other creatures attack, Boros Mastiff gains lifelink until end of turn. &lt;i&gt;(Damage dealt by a creature with lifelink also causes its controller to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>369009
+      </id>
+      <name>Breaking // Entering (Breaking)
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player puts the top eight cards of his or her library into his or her graveyard.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>124
+      </num>
+      <text>Target player puts the top eight cards of his or her library into his or her graveyard.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Breaking</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Entering</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>368953
+      </id>
+      <name>Bred for the Hunt
+      </name>
+      <cost>{1}{G}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, you may draw a card.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>59
+      </num>
+      <text>Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>368971
+      </id>
+      <name>Bronzebeak Moa
+      </name>
+      <cost>{2}{G}{W}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever another creature enters the battlefield under your control, Bronzebeak Moa gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>60
+      </num>
+      <text>Whenever another creature enters the battlefield under your control, Bronzebeak Moa gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>369080
+      </id>
+      <name>Turn // Burn (Burn)
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Burn deals 2 damage to target creature or player.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>134
+      </num>
+      <text>Burn deals 2 damage to target creature or player.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Burn</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Turn</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>369057
+      </id>
+      <name>Carnage Gladiator
+      </name>
+      <cost>{2}{B}{R}
+      </cost>
+      <type>Creature - Skeleton Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever a creature blocks, that creature's controller loses 1 life.&lt;br&gt;{1}{B}{R}: Regenerate Carnage Gladiator.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>61
+      </num>
+      <text>Whenever a creature blocks, that creature's controller loses 1 life.&lt;br&gt;{1}{B}{R}: Regenerate Carnage Gladiator.
+      </text>
+    </mc>
+    <mc>
+      <id>368982
+      </id>
+      <name>Catch // Release (Catch)
+      </name>
+      <cost>{1}{U}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Gain control of target permanent until end of turn. Untap it. It gains haste until end of turn.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>125
+      </num>
+      <text>Gain control of target permanent until end of turn. Untap it. It gains haste until end of turn.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Catch</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Release</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>369029
+      </id>
+      <name>Clear a Path
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target creature with defender.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>32
+      </num>
+      <text>Destroy target creature with defender.
+      </text>
+    </mc>
+    <mc>
+      <id>368999
+      </id>
+      <name>Council of the Absolute
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Creature - Human Advisor
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>As Council of the Absolute enters the battlefield, name a card other than a creature or land card.&lt;br&gt;Your opponents can't cast cards with the chosen name.&lt;br&gt;Spells with the chosen name you cast cost {2} less to cast.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>62
+      </num>
+      <text>As Council of the Absolute enters the battlefield, name a card other than a creature or land card.&lt;br&gt;Your opponents can't cast cards with the chosen name.&lt;br&gt;Spells with the chosen name you cast cost {2} less to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>369056
+      </id>
+      <name>Crypt Incursion
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile all creature cards from target player's graveyard. You gain 3 life for each card exiled this way.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>23
+      </num>
+      <text>Exile all creature cards from target player's graveyard. You gain 3 life for each card exiled this way.
+      </text>
+    </mc>
+    <mc>
+      <id>369003
+      </id>
+      <name>Deadbridge Chant
+      </name>
+      <cost>{4}{B}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Deadbridge Chant enters the battlefield, put the top ten cards of your library into your graveyard.&lt;br&gt;At the beginning of your upkeep, choose a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, put it into your hand.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>63
+      </num>
+      <text>When Deadbridge Chant enters the battlefield, put the top ten cards of your library into your graveyard.&lt;br&gt;At the beginning of your upkeep, choose a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, put it into your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>369039
+      </id>
+      <name>Debt to the Deathless
+      </name>
+      <cost>{X}{W}{W}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each opponent loses two times X life. You gain life equal to the life lost this way.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>64
+      </num>
+      <text>Each opponent loses two times X life. You gain life equal to the life lost this way.
+      </text>
+    </mc>
+    <mc>
+      <id>369084
+      </id>
+      <name>Deputy of Acquittals
+      </name>
+      <cost>{W}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Deputy of Acquittals enters the battlefield, you may return another target creature you control to its owner's hand.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>65
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Deputy of Acquittals enters the battlefield, you may return another target creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>369096
+      </id>
+      <name>Dimir Cluestone
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {U} or {B} to your mana pool.&lt;br&gt;{U}{B}, {T}, Sacrifice Dimir Cluestone: Draw a card.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raoul Vitale
+      </artist>
+      <num>138
+      </num>
+      <text>{T}: Add {U} or {B} to your mana pool.&lt;br&gt;{U}{B}, {T}, Sacrifice Dimir Cluestone: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>369058
+      </id>
+      <name>Dimir Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Dimir Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Cliff Childs
+      </artist>
+      <num>148
+      </num>
+      <text>Dimir Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>369089
+      </id>
+      <name>Down // Dirty (Dirty)
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target card from your graveyard to your hand.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>126
+      </num>
+      <text>Return target card from your graveyard to your hand.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Dirty</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Down</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>369061
+      </id>
+      <name>Dragonshift
+      </name>
+      <cost>{1}{U}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, target creature you control becomes a 4/4 blue and red Dragon, loses all abilities, and gains flying.&lt;br&gt;Overload {3}{U}{U}{R}{R} &lt;i&gt;(You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>66
+      </num>
+      <text>Until end of turn, target creature you control becomes a 4/4 blue and red Dragon, loses all abilities, and gains flying.&lt;br&gt;Overload {3}{U}{U}{R}{R} &lt;i&gt;(You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>369086
+      </id>
+      <name>Drown in Filth
+      </name>
+      <cost>{B}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose target creature. Put the top four cards of your library into your graveyard, then that creature gets -1/-1 until end of turn for each land card in your graveyard.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>67
+      </num>
+      <text>Choose target creature. Put the top four cards of your library into your graveyard, then that creature gets -1/-1 until end of turn for each land card in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>368944
+      </id>
+      <name>Emmara Tandris
+      </name>
+      <cost>{5}{G}{W}
+      </cost>
+      <type>Legendary Creature - Elf Shaman
+      </type>
+      <power>5
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Prevent all damage that would be dealt to creature tokens you control.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mark Winters
+      </artist>
+      <num>68
+      </num>
+      <text>Prevent all damage that would be dealt to creature tokens you control.
+      </text>
+    </mc>
+    <mc>
+      <id>369055
+      </id>
+      <name>Exava, Rakdos Blood Witch
+      </name>
+      <cost>{2}{B}{R}
+      </cost>
+      <type>Legendary Creature - Human Cleric
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>First strike, haste&lt;br&gt;Unleash &lt;i&gt;(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;Each other creature you control with a +1/+1 counter on it has haste.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>69
+      </num>
+      <text>First strike, haste&lt;br&gt;Unleash &lt;i&gt;(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;Each other creature you control with a +1/+1 counter on it has haste.
+      </text>
+    </mc>
+    <mc>
+      <id>368962
+      </id>
+      <name>Fatal Fumes
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -4/-2 until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>24
+      </num>
+      <text>Target creature gets -4/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>368969
+      </id>
+      <name>Feral Animist
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{3}: Feral Animist gets +X/+0 until end of turn, where X is its power.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>70
+      </num>
+      <text>{3}: Feral Animist gets +X/+0 until end of turn, where X is its power.
+      </text>
+    </mc>
+    <mc>
+      <id>368955
+      </id>
+      <name>Fluxcharger
+      </name>
+      <cost>{2}{U}{R}
+      </cost>
+      <type>Creature - Weird
+      </type>
+      <power>1
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever you cast an instant or sorcery spell, you may switch Fluxcharger's power and toughness until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>71
+      </num>
+      <text>Flying&lt;br&gt;Whenever you cast an instant or sorcery spell, you may switch Fluxcharger's power and toughness until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>369095
+      </id>
+      <name>Gaze of Granite
+      </name>
+      <cost>{X}{B}{B}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy each nonland permanent with converted mana cost X or less.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>72
+      </num>
+      <text>Destroy each nonland permanent with converted mana cost X or less.
+      </text>
+    </mc>
+    <mc>
+      <id>369097
+      </id>
+      <name>Give // Take (Give)
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put three +1/+1 counters on target creature.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>129
+      </num>
+      <text>Put three +1/+1 counters on target creature.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Give</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Take</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>368987
+      </id>
+      <name>Gleam of Battle
+      </name>
+      <cost>{4}{R}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature you control attacks, put a +1/+1 counter on it.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>73
+      </num>
+      <text>Whenever a creature you control attacks, put a +1/+1 counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>368964
+      </id>
+      <name>Goblin Test Pilot
+      </name>
+      <cost>{1}{U}{R}
+      </cost>
+      <type>Creature - Goblin Wizard
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{T}: Goblin Test Pilot deals 2 damage to target creature or player chosen at random.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>74
+      </num>
+      <text>Flying&lt;br&gt;{T}: Goblin Test Pilot deals 2 damage to target creature or player chosen at random.
+      </text>
+    </mc>
+    <mc>
+      <id>369023
+      </id>
+      <name>Golgari Cluestone
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {B} or {G} to your mana pool.&lt;br&gt;{B}{G}, {T}, Sacrifice Golgari Cluestone: Draw a card.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raoul Vitale
+      </artist>
+      <num>139
+      </num>
+      <text>{T}: Add {B} or {G} to your mana pool.&lt;br&gt;{B}{G}, {T}, Sacrifice Golgari Cluestone: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>368960
+      </id>
+      <name>Golgari Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Golgari Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {B} or {G} to your mana pool.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Eytan Zana
+      </artist>
+      <num>149
+      </num>
+      <text>Golgari Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {B} or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>369035
+      </id>
+      <name>Gruul Cluestone
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {R} or {G} to your mana pool.&lt;br&gt;{R}{G}, {T}, Sacrifice Gruul Cluestone: Draw a card.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raoul Vitale
+      </artist>
+      <num>140
+      </num>
+      <text>{T}: Add {R} or {G} to your mana pool.&lt;br&gt;{R}{G}, {T}, Sacrifice Gruul Cluestone: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>369040
+      </id>
+      <name>Gruul Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Gruul Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Randy Gallegos
+      </artist>
+      <num>150
+      </num>
+      <text>Gruul Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>368956
+      </id>
+      <name>Gruul War Chant
+      </name>
+      <cost>{2}{R}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Each attacking creature you control gets +1/+0 and can't be blocked except by two or more creatures.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>75
+      </num>
+      <text>Each attacking creature you control gets +1/+0 and can't be blocked except by two or more creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>369077
+      </id>
+      <name>Haazda Snare Squad
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever Haazda Snare Squad attacks, you may pay {W}. If you do, tap target creature an opponent controls.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>2
+      </num>
+      <text>Whenever Haazda Snare Squad attacks, you may pay {W}. If you do, tap target creature an opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>369087
+      </id>
+      <name>Haunter of Nightveil
+      </name>
+      <cost>{3}{U}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Creatures your opponents control get -1/-0.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>76
+      </num>
+      <text>Creatures your opponents control get -1/-0.
+      </text>
+    </mc>
+    <mc>
+      <id>369021
+      </id>
+      <name>Hidden Strings
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You may tap or untap target permanent, then you may tap or untap another target permanent.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>12
+      </num>
+      <text>You may tap or untap target permanent, then you may tap or untap another target permanent.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>369048
+      </id>
+      <name>Hired Torturer
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Defender&lt;br&gt;{3}{B}, {T}: Target opponent loses 2 life, then reveals a card at random from his or her hand.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>25
+      </num>
+      <text>Defender&lt;br&gt;{3}{B}, {T}: Target opponent loses 2 life, then reveals a card at random from his or her hand.
+      </text>
+    </mc>
+    <mc>
+      <id>368948
+      </id>
+      <name>Izzet Cluestone
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {U} or {R} to your mana pool.&lt;br&gt;{U}{R}, {T}, Sacrifice Izzet Cluestone: Draw a card.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raoul Vitale
+      </artist>
+      <num>141
+      </num>
+      <text>{T}: Add {U} or {R} to your mana pool.&lt;br&gt;{U}{R}, {T}, Sacrifice Izzet Cluestone: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>368995
+      </id>
+      <name>Izzet Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Izzet Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {R} to your mana pool.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>151
+      </num>
+      <text>Izzet Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>368947
+      </id>
+      <name>Jelenn Sphinx
+      </name>
+      <cost>{3}{W}{U}
+      </cost>
+      <type>Creature - Sphinx
+      </type>
+      <power>1
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying, vigilance&lt;br&gt;Whenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Wesley Burt
+      </artist>
+      <num>77
+      </num>
+      <text>Flying, vigilance&lt;br&gt;Whenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>369064
+      </id>
+      <name>Korozda Gorgon
+      </name>
+      <cost>{3}{B}{G}
+      </cost>
+      <type>Creature - Gorgon
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Deathtouch&lt;br&gt;{2}, Remove a +1/+1 counter from a creature you control: Target creature gets -1/-1 until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>78
+      </num>
+      <text>Deathtouch&lt;br&gt;{2}, Remove a +1/+1 counter from a creature you control: Target creature gets -1/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>369052
+      </id>
+      <name>Krasis Incubation
+      </name>
+      <cost>{2}{G}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block, and its activated abilities can't be activated.&lt;br&gt;{1}{G}{U}, Return Krasis Incubation to its owner's hand: Put two +1/+1 counters on enchanted creature.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Marco Nelor
+      </artist>
+      <num>79
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't attack or block, and its activated abilities can't be activated.&lt;br&gt;{1}{G}{U}, Return Krasis Incubation to its owner's hand: Put two +1/+1 counters on enchanted creature.
+      </text>
+    </mc>
+    <mc>
+      <id>369059
+      </id>
+      <name>Kraul Warrior
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Insect Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{5}{G}: Kraul Warrior gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>David Rapoza
+      </artist>
+      <num>42
+      </num>
+      <text>{5}{G}: Kraul Warrior gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>368983
+      </id>
+      <name>Lavinia of the Tenth
+      </name>
+      <cost>{3}{W}{U}
+      </cost>
+      <type>Legendary Creature - Human Soldier
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Protection from red&lt;br&gt;When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. &lt;i&gt;(Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>80
+      </num>
+      <text>Protection from red&lt;br&gt;When Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. &lt;i&gt;(Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>369066
+      </id>
+      <name>Legion's Initiative
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Red creatures you control get +1/+0.&lt;br&gt;White creatures you control get +0/+1.&lt;br&gt;{R}{W}, Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gain haste until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>81
+      </num>
+      <text>Red creatures you control get +1/+0.&lt;br&gt;White creatures you control get +0/+1.&lt;br&gt;{R}{W}, Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gain haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>369071
+      </id>
+      <name>Profit // Loss (Loss)
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Creatures your opponents control get -1/-1 until end of turn.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>130
+      </num>
+      <text>Creatures your opponents control get -1/-1 until end of turn.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Loss</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Profit</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>368965
+      </id>
+      <name>Lyev Decree
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Detain up to two target creatures your opponents control. &lt;i&gt;(Until your next turn, those creatures can't attack or block and their activated abilities can't be activated.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>3
+      </num>
+      <text>Detain up to two target creatures your opponents control. &lt;i&gt;(Until your next turn, those creatures can't attack or block and their activated abilities can't be activated.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368981
+      </id>
+      <name>Master of Cruelties
+      </name>
+      <cost>{3}{B}{R}
+      </cost>
+      <type>Creature - Demon
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>First strike, deathtouch&lt;br&gt;Master of Cruelties can only attack alone.&lt;br&gt;Whenever Master of Cruelties attacks a player and isn't blocked, that player's life total becomes 1. Master of Cruelties assigns no combat damage this combat.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>82
+      </num>
+      <text>First strike, deathtouch&lt;br&gt;Master of Cruelties can only attack alone.&lt;br&gt;Whenever Master of Cruelties attacks a player and isn't blocked, that player's life total becomes 1. Master of Cruelties assigns no combat damage this combat.
+      </text>
+    </mc>
+    <mc>
+      <id>368994
+      </id>
+      <name>Maw of the Obzedat
+      </name>
+      <cost>{3}{W}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Sacrifice a creature: Creatures you control get +1/+1 until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Randy Gallegos
+      </artist>
+      <num>83
+      </num>
+      <text>Sacrifice a creature: Creatures you control get +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>369050
+      </id>
+      <name>Maze Abomination
+      </name>
+      <cost>{5}{B}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;Multicolored creatures you control have deathtouch.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>26
+      </num>
+      <text>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;Multicolored creatures you control have deathtouch.
+      </text>
+    </mc>
+    <mc>
+      <id>369091
+      </id>
+      <name>Maze Behemoth
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Multicolored creatures you control have trample.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>43
+      </num>
+      <text>Trample&lt;br&gt;Multicolored creatures you control have trample.
+      </text>
+    </mc>
+    <mc>
+      <id>369014
+      </id>
+      <name>Maze Glider
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Multicolored creatures you control have flying.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>13
+      </num>
+      <text>Flying&lt;br&gt;Multicolored creatures you control have flying.
+      </text>
+    </mc>
+    <mc>
+      <id>369076
+      </id>
+      <name>Maze Rusher
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>6
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Multicolored creatures you control have haste.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>33
+      </num>
+      <text>Haste&lt;br&gt;Multicolored creatures you control have haste.
+      </text>
+    </mc>
+    <mc>
+      <id>368976
+      </id>
+      <name>Maze Sentinel
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;Multicolored creatures you control have vigilance.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>4
+      </num>
+      <text>Vigilance&lt;br&gt;Multicolored creatures you control have vigilance.
+      </text>
+    </mc>
+    <mc>
+      <id>369038
+      </id>
+      <name>Maze's End
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Maze's End enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{3}, {T}, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Cliff Childs
+      </artist>
+      <num>152
+      </num>
+      <text>Maze's End enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{3}, {T}, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game.
+      </text>
+    </mc>
+    <mc>
+      <id>369062
+      </id>
+      <name>Melek, Izzet Paragon
+      </name>
+      <cost>{4}{U}{R}
+      </cost>
+      <type>Legendary Creature - Weird Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Play with the top card of your library revealed.&lt;br&gt;You may cast the top card of your library if it's an instant or sorcery card.&lt;br&gt;Whenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jason Chan
+      </artist>
+      <num>84
+      </num>
+      <text>Play with the top card of your library revealed.&lt;br&gt;You may cast the top card of your library if it's an instant or sorcery card.&lt;br&gt;Whenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.
+      </text>
+    </mc>
+    <mc>
+      <id>368957
+      </id>
+      <name>Mending Touch
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Regenerate target creature.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karla Ortiz
+      </artist>
+      <num>44
+      </num>
+      <text>Regenerate target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>368980
+      </id>
+      <name>Mindstatic
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell unless its controller pays {6}.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>14
+      </num>
+      <text>Counter target spell unless its controller pays {6}.
+      </text>
+    </mc>
+    <mc>
+      <id>369026
+      </id>
+      <name>Mirko Vosk, Mind Drinker
+      </name>
+      <cost>{3}{U}{B}
+      </cost>
+      <type>Legendary Creature - Vampire
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Mirko Vosk, Mind Drinker deals combat damage to a player, that player reveals cards from the top of his or her library until he or she reveals four land cards, then puts those cards into his or her graveyard.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>85
+      </num>
+      <text>Flying&lt;br&gt;Whenever Mirko Vosk, Mind Drinker deals combat damage to a player, that player reveals cards from the top of his or her library until he or she reveals four land cards, then puts those cards into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>369049
+      </id>
+      <name>Morgue Burst
+      </name>
+      <cost>{4}{B}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target creature card from your graveyard to your hand. Morgue Burst deals damage to target creature or player equal to the power of the card returned this way.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>86
+      </num>
+      <text>Return target creature card from your graveyard to your hand. Morgue Burst deals damage to target creature or player equal to the power of the card returned this way.
+      </text>
+    </mc>
+    <mc>
+      <id>369007
+      </id>
+      <name>Murmuring Phantasm
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>0
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Defender
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>15
+      </num>
+      <text>Defender
+      </text>
+    </mc>
+    <mc>
+      <id>368988
+      </id>
+      <name>Mutant's Prey
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature you control with a +1/+1 counter on it fights target creature an opponent controls. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>45
+      </num>
+      <text>Target creature you control with a +1/+1 counter on it fights target creature an opponent controls. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>369093
+      </id>
+      <name>Nivix Cyclops
+      </name>
+      <cost>{1}{U}{R}
+      </cost>
+      <type>Creature - Cyclops
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender&lt;br&gt;Whenever you cast an instant or sorcery spell, Nivix Cyclops gets +3/+0 until end of turn and can attack this turn as though it didn't have defender.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>87
+      </num>
+      <text>Defender&lt;br&gt;Whenever you cast an instant or sorcery spell, Nivix Cyclops gets +3/+0 until end of turn and can attack this turn as though it didn't have defender.
+      </text>
+    </mc>
+    <mc>
+      <id>368973
+      </id>
+      <name>Notion Thief
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flash&lt;br&gt;If an opponent would draw a card except the first one he or she draws in each of his or her draw steps, instead that player skips that draw and you draw a card.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>88
+      </num>
+      <text>Flash&lt;br&gt;If an opponent would draw a card except the first one he or she draws in each of his or her draw steps, instead that player skips that draw and you draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>369002
+      </id>
+      <name>Obzedat's Aid
+      </name>
+      <cost>{3}{W}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target permanent card from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>89
+      </num>
+      <text>Return target permanent card from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>368996
+      </id>
+      <name>Opal Lake Gatekeepers
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Vedalken Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Opal Lake Gatekeepers enters the battlefield, if you control two or more Gates, you may draw a card.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>16
+      </num>
+      <text>When Opal Lake Gatekeepers enters the battlefield, if you control two or more Gates, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>369078
+      </id>
+      <name>Orzhov Cluestone
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {W} or {B} to your mana pool.&lt;br&gt;{W}{B}, {T}, Sacrifice Orzhov Cluestone: Draw a card.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raoul Vitale
+      </artist>
+      <num>142
+      </num>
+      <text>{T}: Add {W} or {B} to your mana pool.&lt;br&gt;{W}{B}, {T}, Sacrifice Orzhov Cluestone: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>369079
+      </id>
+      <name>Orzhov Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Orzhov Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {W} or {B} to your mana pool.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>153
+      </num>
+      <text>Orzhov Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {W} or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>369054
+      </id>
+      <name>Phytoburst
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +5/+5 until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Izzy
+      </artist>
+      <num>46
+      </num>
+      <text>Target creature gets +5/+5 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>369099
+      </id>
+      <name>Pilfered Plans
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player puts the top two cards of his or her library into his or her graveyard. Draw two cards.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Michael C. Hayes
+      </artist>
+      <num>90
+      </num>
+      <text>Target player puts the top two cards of his or her library into his or her graveyard. Draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>369069
+      </id>
+      <name>Plasm Capture
+      </name>
+      <cost>{G}{G}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors to your mana pool, where X is that spell's converted mana cost.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>91
+      </num>
+      <text>Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors to your mana pool, where X is that spell's converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>369006
+      </id>
+      <name>Pontiff of Blight
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Zombie Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;&lt;br&gt;Other creatures you control have extort. &lt;i&gt;(If a creature has multiple instances of extort, each triggers separately.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>27
+      </num>
+      <text>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;&lt;br&gt;Other creatures you control have extort. &lt;i&gt;(If a creature has multiple instances of extort, each triggers separately.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>369013
+      </id>
+      <name>Possibility Storm
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a player casts a spell from his or her hand, that player exiles it, then exiles cards from the top of his or her library until he or she exiles a card that shares a card type with it. That player may cast that card without paying its mana cost. Then he or she puts all cards exiled with Possibility Storm on the bottom of his or her library in a random order.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jason Felix
+      </artist>
+      <num>34
+      </num>
+      <text>Whenever a player casts a spell from his or her hand, that player exiles it, then exiles cards from the top of his or her library until he or she exiles a card that shares a card type with it. That player may cast that card without paying its mana cost. Then he or she puts all cards exiled with Possibility Storm on the bottom of his or her library in a random order.
+      </text>
+    </mc>
+    <mc>
+      <id>369001
+      </id>
+      <name>Progenitor Mimic
+      </name>
+      <cost>{4}{G}{U}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>You may have Progenitor Mimic enter the battlefield as a copy of any creature on the battlefield except it gains "At the beginning of your upkeep, if this creature isn't a token, put a token onto the battlefield that's a copy of this creature."
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>92
+      </num>
+      <text>You may have Progenitor Mimic enter the battlefield as a copy of any creature on the battlefield except it gains "At the beginning of your upkeep, if this creature isn't a token, put a token onto the battlefield that's a copy of this creature."
+      </text>
+    </mc>
+    <mc>
+      <id>369024
+      </id>
+      <name>Protect // Serve (Protect)
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +2/+4 until end of turn.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>131
+      </num>
+      <text>Target creature gets +2/+4 until end of turn.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Protect</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Serve</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>369090
+      </id>
+      <name>Punish the Enemy
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Punish the Enemy deals 3 damage to target player and 3 damage to target creature.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>35
+      </num>
+      <text>Punish the Enemy deals 3 damage to target player and 3 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>369073
+      </id>
+      <name>Putrefy
+      </name>
+      <cost>{1}{B}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or creature. It can't be regenerated.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>93
+      </num>
+      <text>Destroy target artifact or creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>368946
+      </id>
+      <name>Pyrewild Shaman
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Bloodrush- {1}{R}, Discard Pyrewild Shaman: Target attacking creature gets +3/+1 until end of turn.&lt;br&gt;Whenever one or more creatures you control deal combat damage to a player, if Pyrewild Shaman is in your graveyard, you may pay {3}. If you do, return Pyrewild Shaman to your hand.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>36
+      </num>
+      <text>Bloodrush- {1}{R}, Discard Pyrewild Shaman: Target attacking creature gets +3/+1 until end of turn.&lt;br&gt;Whenever one or more creatures you control deal combat damage to a player, if Pyrewild Shaman is in your graveyard, you may pay {3}. If you do, return Pyrewild Shaman to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>368975
+      </id>
+      <name>Rakdos Cluestone
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {B} or {R} to your mana pool.&lt;br&gt;{B}{R}, {T}, Sacrifice Rakdos Cluestone: Draw a card.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raoul Vitale
+      </artist>
+      <num>143
+      </num>
+      <text>{T}: Add {B} or {R} to your mana pool.&lt;br&gt;{B}{R}, {T}, Sacrifice Rakdos Cluestone: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>369085
+      </id>
+      <name>Rakdos Drake
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Unleash &lt;i&gt;(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>28
+      </num>
+      <text>Flying&lt;br&gt;Unleash &lt;i&gt;(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368990
+      </id>
+      <name>Rakdos Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Rakdos Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Eytan Zana
+      </artist>
+      <num>154
+      </num>
+      <text>Rakdos Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>369031
+      </id>
+      <name>Ral Zarek
+      </name>
+      <cost>{2}{U}{R}
+      </cost>
+      <type>Planeswalker - Ral
+      </type>
+      <toughness>4
+      </toughness>
+      <oracleText>+1: Tap target permanent, then untap another target permanent.&lt;br&gt;-2: Ral Zarek deals 3 damage to target creature or player.&lt;br&gt;-7: Flip five coins. Take an extra turn after this one for each coin that comes up heads.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>94
+      </num>
+      <text>+1: Tap target permanent, then untap another target permanent.&lt;br&gt;-2: Ral Zarek deals 3 damage to target creature or player.&lt;br&gt;-7: Flip five coins. Take an extra turn after this one for each coin that comes up heads.
+      </text>
+    </mc>
+    <mc>
+      <id>368967
+      </id>
+      <name>Ready // Willing (Ready)
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Creatures you control gain indestructible until end of turn. Untap each creature you control.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>132
+      </num>
+      <text>Creatures you control gain indestructible until end of turn. Untap each creature you control.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Ready</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Willing</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>368958
+      </id>
+      <name>Reap Intellect
+      </name>
+      <cost>{X}{2}{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals his or her hand. You choose up to X nonland cards from it and exile them. For each card exiled this way, search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles his or her library.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>95
+      </num>
+      <text>Target opponent reveals his or her hand. You choose up to X nonland cards from it and exile them. For each card exiled this way, search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>369022
+      </id>
+      <name>Render Silent
+      </name>
+      <cost>{W}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell. Its controller can't cast spells this turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>96
+      </num>
+      <text>Counter target spell. Its controller can't cast spells this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>369033
+      </id>
+      <name>Renegade Krasis
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Beast Mutant
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;&lt;br&gt;Whenever Renegade Krasis evolves, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Howard Lyon
+      </artist>
+      <num>47
+      </num>
+      <text>Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;&lt;br&gt;Whenever Renegade Krasis evolves, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>368993
+      </id>
+      <name>Renounce the Guilds
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Each player sacrifices a multicolored permanent.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>5
+      </num>
+      <text>Each player sacrifices a multicolored permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>368978
+      </id>
+      <name>Restore the Peace
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return each creature that dealt damage this turn to its owner's hand.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>97
+      </num>
+      <text>Return each creature that dealt damage this turn to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>368979
+      </id>
+      <name>Riot Control
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You gain 1 life for each creature your opponents control. Prevent all damage that would be dealt to you this turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>6
+      </num>
+      <text>You gain 1 life for each creature your opponents control. Prevent all damage that would be dealt to you this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>368998
+      </id>
+      <name>Riot Piker
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Berserker
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Riot Piker attacks each turn if able.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>37
+      </num>
+      <text>First strike&lt;br&gt;Riot Piker attacks each turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>368986
+      </id>
+      <name>Rot Farm Skeleton
+      </name>
+      <cost>{2}{B}{G}
+      </cost>
+      <type>Creature - Plant Skeleton
+      </type>
+      <power>4
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Rot Farm Skeleton can't block.&lt;br&gt;{2}{B}{G}, Put the top four cards of your library into your graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Maciej Kuciara
+      </artist>
+      <num>98
+      </num>
+      <text>Rot Farm Skeleton can't block.&lt;br&gt;{2}{B}{G}, Put the top four cards of your library into your graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.
+      </text>
+    </mc>
+    <mc>
+      <id>369075
+      </id>
+      <name>Rubblebelt Maaka
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Bloodrush- {R}, Discard Rubblebelt Maaka: Target attacking creature gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Eric Velhagen
+      </artist>
+      <num>38
+      </num>
+      <text>Bloodrush- {R}, Discard Rubblebelt Maaka: Target attacking creature gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>368966
+      </id>
+      <name>Runner's Bane
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature with power 3 or less&lt;br&gt;When Runner's Bane enters the battlefield, tap enchanted creature.&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>17
+      </num>
+      <text>Enchant creature with power 3 or less&lt;br&gt;When Runner's Bane enters the battlefield, tap enchanted creature.&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>369025
+      </id>
+      <name>Ruric Thar, the Unbowed
+      </name>
+      <cost>{4}{R}{G}
+      </cost>
+      <type>Legendary Creature - Ogre Warrior
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Vigilance, reach&lt;br&gt;Ruric Thar, the Unbowed attacks each turn if able.&lt;br&gt;Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to that player.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>99
+      </num>
+      <text>Vigilance, reach&lt;br&gt;Ruric Thar, the Unbowed attacks each turn if able.&lt;br&gt;Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to that player.
+      </text>
+    </mc>
+    <mc>
+      <id>369088
+      </id>
+      <name>Saruli Gatekeepers
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elf Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Saruli Gatekeepers enters the battlefield, if you control two or more Gates, you gain 7 life.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>48
+      </num>
+      <text>When Saruli Gatekeepers enters the battlefield, if you control two or more Gates, you gain 7 life.
+      </text>
+    </mc>
+    <mc>
+      <id>368952
+      </id>
+      <name>Savageborn Hydra
+      </name>
+      <cost>{X}{R}{G}
+      </cost>
+      <type>Creature - Hydra
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Double strike&lt;br&gt;Savageborn Hydra enters the battlefield with X +1/+1 counters on it.&lt;br&gt;{1}{R/G}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>100
+      </num>
+      <text>Double strike&lt;br&gt;Savageborn Hydra enters the battlefield with X +1/+1 counters on it.&lt;br&gt;{1}{R/G}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
+      </text>
+    </mc>
+    <mc>
+      <id>369005
+      </id>
+      <name>Scab-Clan Giant
+      </name>
+      <cost>{4}{R}{G}
+      </cost>
+      <type>Creature - Giant Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>When Scab-Clan Giant enters the battlefield, it fights target creature an opponent controls chosen at random.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>101
+      </num>
+      <text>When Scab-Clan Giant enters the battlefield, it fights target creature an opponent controls chosen at random.
+      </text>
+    </mc>
+    <mc>
+      <id>369092
+      </id>
+      <name>Scion of Vitu-Ghazi
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Scion of Vitu-Ghazi enters the battlefield, if you cast it from your hand, put a 1/1 white Bird creature token with flying onto the battlefield, then populate. &lt;i&gt;(Put a token onto the battlefield that's a copy of a creature token you control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>7
+      </num>
+      <text>When Scion of Vitu-Ghazi enters the battlefield, if you cast it from your hand, put a 1/1 white Bird creature token with flying onto the battlefield, then populate. &lt;i&gt;(Put a token onto the battlefield that's a copy of a creature token you control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>369060
+      </id>
+      <name>Selesnya Cluestone
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {G} or {W} to your mana pool.&lt;br&gt;{G}{W}, {T}, Sacrifice Selesnya Cluestone: Draw a card.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raoul Vitale
+      </artist>
+      <num>144
+      </num>
+      <text>{T}: Add {G} or {W} to your mana pool.&lt;br&gt;{G}{W}, {T}, Sacrifice Selesnya Cluestone: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>369018
+      </id>
+      <name>Selesnya Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Selesnya Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Howard Lyon
+      </artist>
+      <num>155
+      </num>
+      <text>Selesnya Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>368945
+      </id>
+      <name>Showstopper
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, creatures you control gain "When this creature dies, it deals 2 damage to target creature an opponent controls."
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>102
+      </num>
+      <text>Until end of turn, creatures you control gain "When this creature dies, it deals 2 damage to target creature an opponent controls."
+      </text>
+    </mc>
+    <mc>
+      <id>368963
+      </id>
+      <name>Simic Cluestone
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {G} or {U} to your mana pool.&lt;br&gt;{G}{U}, {T}, Sacrifice Simic Cluestone: Draw a card.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raoul Vitale
+      </artist>
+      <num>145
+      </num>
+      <text>{T}: Add {G} or {U} to your mana pool.&lt;br&gt;{G}{U}, {T}, Sacrifice Simic Cluestone: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>368959
+      </id>
+      <name>Simic Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Simic Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {G} or {U} to your mana pool.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>156
+      </num>
+      <text>Simic Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {G} or {U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>368968
+      </id>
+      <name>Sin Collector
+      </name>
+      <cost>{1}{W}{B}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Sin Collector enters the battlefield, target opponent reveals his or her hand. You choose an instant or sorcery card from it and exile that card.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>103
+      </num>
+      <text>When Sin Collector enters the battlefield, target opponent reveals his or her hand. You choose an instant or sorcery card from it and exile that card.
+      </text>
+    </mc>
+    <mc>
+      <id>369043
+      </id>
+      <name>Sinister Possession
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature attacks or blocks, its controller loses 2 life.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Anthony Palumbo
+      </artist>
+      <num>29
+      </num>
+      <text>Enchant creature&lt;br&gt;Whenever enchanted creature attacks or blocks, its controller loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>369068
+      </id>
+      <name>Sire of Insanity
+      </name>
+      <cost>{4}{B}{R}
+      </cost>
+      <type>Creature - Demon
+      </type>
+      <power>6
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>At the beginning of each end step, each player discards his or her hand.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>104
+      </num>
+      <text>At the beginning of each end step, each player discards his or her hand.
+      </text>
+    </mc>
+    <mc>
+      <id>369083
+      </id>
+      <name>Skylasher
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash&lt;br&gt;Skylasher can't be countered.&lt;br&gt;Reach, protection from blue
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>49
+      </num>
+      <text>Flash&lt;br&gt;Skylasher can't be countered.&lt;br&gt;Reach, protection from blue
+      </text>
+    </mc>
+    <mc>
+      <id>369067
+      </id>
+      <name>Smelt-Ward Gatekeepers
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Smelt-Ward Gatekeepers enters the battlefield, if you control two or more Gates, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>39
+      </num>
+      <text>When Smelt-Ward Gatekeepers enters the battlefield, if you control two or more Gates, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>369015
+      </id>
+      <name>Species Gorger
+      </name>
+      <cost>{3}{G}{U}
+      </cost>
+      <type>Creature - Frog Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>At the beginning of your upkeep, return a creature you control to its owner's hand.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Min Yum
+      </artist>
+      <num>105
+      </num>
+      <text>At the beginning of your upkeep, return a creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>368972
+      </id>
+      <name>Spike Jester
+      </name>
+      <cost>{B}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>106
+      </num>
+      <text>Haste
+      </text>
+    </mc>
+    <mc>
+      <id>368992
+      </id>
+      <name>Steeple Roc
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying, first strike
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>8
+      </num>
+      <text>Flying, first strike
+      </text>
+    </mc>
+    <mc>
+      <id>368949
+      </id>
+      <name>Sunspire Gatekeepers
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Sunspire Gatekeepers enters the battlefield, if you control two or more Gates, put a 2/2 white Knight creature token with vigilance onto the battlefield.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Chippy
+      </artist>
+      <num>9
+      </num>
+      <text>When Sunspire Gatekeepers enters the battlefield, if you control two or more Gates, put a 2/2 white Knight creature token with vigilance onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>369098
+      </id>
+      <name>Tajic, Blade of the Legion
+      </name>
+      <cost>{2}{R}{W}
+      </cost>
+      <type>Legendary Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Indestructible&lt;br&gt;Battalion- Whenever Tajic, Blade of the Legion and at least two other creatures attack, Tajic gets +5/+5 until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>107
+      </num>
+      <text>Indestructible&lt;br&gt;Battalion- Whenever Tajic, Blade of the Legion and at least two other creatures attack, Tajic gets +5/+5 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>368950
+      </id>
+      <name>Wear // Tear (Tear)
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target enchantment.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>135
+      </num>
+      <text>Destroy target enchantment.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Tear</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Wear</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>369011
+      </id>
+      <name>Teysa, Envoy of Ghosts
+      </name>
+      <cost>{5}{W}{B}
+      </cost>
+      <type>Legendary Creature - Human Advisor
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Vigilance, protection from creatures&lt;br&gt;Whenever a creature deals combat damage to you, destroy that creature. Put a 1/1 white and black Spirit creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karla Ortiz
+      </artist>
+      <num>108
+      </num>
+      <text>Vigilance, protection from creatures&lt;br&gt;Whenever a creature deals combat damage to you, destroy that creature. Put a 1/1 white and black Spirit creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>369020
+      </id>
+      <name>Thrashing Mossdog
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Plant Hound
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Scavenge {4}{G}{G} &lt;i&gt;({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>50
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Scavenge {4}{G}{G} &lt;i&gt;({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368970
+      </id>
+      <name>Tithe Drinker
+      </name>
+      <cost>{W}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;&lt;br&gt;Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>109
+      </num>
+      <text>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;&lt;br&gt;Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>369032
+      </id>
+      <name>Toil // Trouble (Toil)
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player draws two cards and loses 2 life.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>133
+      </num>
+      <text>Target player draws two cards and loses 2 life.&lt;br&gt;Fuse &lt;i&gt;(You may cast one or both halves of this card from your hand.)&lt;/i&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Toil</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Trouble</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>369034
+      </id>
+      <name>Trait Doctoring
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another until end of turn.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>18
+      </num>
+      <text>Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another until end of turn.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>369072
+      </id>
+      <name>Trostani's Summoner
+      </name>
+      <cost>{5}{G}{W}
+      </cost>
+      <type>Creature - Elf Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Trostani's Summoner enters the battlefield, put a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample onto the battlefield.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Howard Lyon
+      </artist>
+      <num>110
+      </num>
+      <text>When Trostani's Summoner enters the battlefield, put a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>369046
+      </id>
+      <name>Ubul Sar Gatekeepers
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Zombie Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Ubul Sar Gatekeepers enters the battlefield, if you control two or more Gates, target creature an opponent controls gets -2/-2 until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>30
+      </num>
+      <text>When Ubul Sar Gatekeepers enters the battlefield, if you control two or more Gates, target creature an opponent controls gets -2/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>369010
+      </id>
+      <name>Uncovered Clues
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at the top four cards of your library. You may reveal up to two instant and/or sorcery cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>19
+      </num>
+      <text>Look at the top four cards of your library. You may reveal up to two instant and/or sorcery cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>369074
+      </id>
+      <name>Unflinching Courage
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has trample and lifelink.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>111
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has trample and lifelink.
+      </text>
+    </mc>
+    <mc>
+      <id>368977
+      </id>
+      <name>Varolz, the Scar-Striped
+      </name>
+      <cost>{1}{B}{G}
+      </cost>
+      <type>Legendary Creature - Troll Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Each creature card in your graveyard has scavenge. The scavenge cost is equal to its mana cost. &lt;i&gt;(Exile a creature card from your graveyard and pay its mana cost: Put a number of +1/+1 counters equal to that card's power on target creature. Scavenge only as a sorcery.)&lt;/i&gt;&lt;br&gt;Sacrifice another creature: Regenerate Varolz, the Scar-Striped.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>112
+      </num>
+      <text>Each creature card in your graveyard has scavenge. The scavenge cost is equal to its mana cost. &lt;i&gt;(Exile a creature card from your graveyard and pay its mana cost: Put a number of +1/+1 counters equal to that card's power on target creature. Scavenge only as a sorcery.)&lt;/i&gt;&lt;br&gt;Sacrifice another creature: Regenerate Varolz, the Scar-Striped.
+      </text>
+    </mc>
+    <mc>
+      <id>369070
+      </id>
+      <name>Viashino Firstblade
+      </name>
+      <cost>{1}{R}{W}
+      </cost>
+      <type>Creature - Viashino Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste&lt;br&gt;When Viashino Firstblade enters the battlefield, it gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>113
+      </num>
+      <text>Haste&lt;br&gt;When Viashino Firstblade enters the battlefield, it gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>368951
+      </id>
+      <name>Voice of Resurgence
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever an opponent casts a spell during your turn or when Voice of Resurgence dies, put a green and white Elemental creature token onto the battlefield with "This creature's power and toughness are each equal to the number of creatures you control."
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>114
+      </num>
+      <text>Whenever an opponent casts a spell during your turn or when Voice of Resurgence dies, put a green and white Elemental creature token onto the battlefield with "This creature's power and toughness are each equal to the number of creatures you control."
+      </text>
+    </mc>
+    <mc>
+      <id>369045
+      </id>
+      <name>Vorel of the Hull Clade
+      </name>
+      <cost>{1}{G}{U}
+      </cost>
+      <type>Legendary Creature - Human Merfolk
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{G}{U}, {T}: For each counter on target artifact, creature, or land, put another of those counters on that permanent.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>115
+      </num>
+      <text>{G}{U}, {T}: For each counter on target artifact, creature, or land, put another of those counters on that permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>369012
+      </id>
+      <name>Wake the Reflections
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Populate. &lt;i&gt;(Put a token onto the battlefield that's a copy of a creature token you control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Cynthia Sheppard
+      </artist>
+      <num>10
+      </num>
+      <text>Populate. &lt;i&gt;(Put a token onto the battlefield that's a copy of a creature token you control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>369081
+      </id>
+      <name>Warleader's Helix
+      </name>
+      <cost>{2}{R}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Warleader's Helix deals 4 damage to target creature or player and you gain 4 life.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>116
+      </num>
+      <text>Warleader's Helix deals 4 damage to target creature or player and you gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>369094
+      </id>
+      <name>Warped Physique
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +X/-X until end of turn, where X is the number of cards in your hand.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>117
+      </num>
+      <text>Target creature gets +X/-X until end of turn, where X is the number of cards in your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>369004
+      </id>
+      <name>Weapon Surge
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature you control gets +1/+0 and gains first strike until end of turn.&lt;br&gt;Overload {1}{R} &lt;i&gt;(You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")&lt;/i&gt;
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jason Felix
+      </artist>
+      <num>40
+      </num>
+      <text>Target creature you control gets +1/+0 and gains first strike until end of turn.&lt;br&gt;Overload {1}{R} &lt;i&gt;(You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>369037
+      </id>
+      <name>Wind Drake
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>John Severin Brassell
+      </artist>
+      <num>20
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>369027
+      </id>
+      <name>Woodlot Crawler
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Forestwalk, protection from green
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>118
+      </num>
+      <text>Forestwalk, protection from green
+      </text>
+    </mc>
+    <mc>
+      <id>369019
+      </id>
+      <name>Zhur-Taa Ancient
+      </name>
+      <cost>{3}{R}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>7
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>119
+      </num>
+      <text>Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
+      </text>
+    </mc>
+    <mc>
+      <id>369065
+      </id>
+      <name>Zhur-Taa Druid
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Creature - Human Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Add {G} to your mana pool.&lt;br&gt;Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent.
+      </oracleText>
+      <edition>Dragon's Maze
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Winters
+      </artist>
+      <num>120
+      </num>
+      <text>{T}: Add {G} to your mana pool.&lt;br&gt;Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent.
+      </text>
+    </mc>
+  </list>
+</cards>

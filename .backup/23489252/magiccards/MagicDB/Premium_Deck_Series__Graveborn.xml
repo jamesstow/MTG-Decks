@@ -1,0 +1,595 @@
+
+<cards>
+  <name>Premium_Deck_Series__Graveborn</name>
+  <key>Premium_Deck_Series__Graveborn</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>270475
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>27
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>270473
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>James Paick
+      </artist>
+      <num>28
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>270474
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jung Park
+      </artist>
+      <num>29
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>270476
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Alan Pollack
+      </artist>
+      <num>30
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>265167
+      </id>
+      <name>Animate Dead
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature card in a graveyard&lt;br&gt;When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.&lt;br&gt;Enchanted creature gets -1/-0.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Enchant creature card in a graveyard&lt;br&gt;When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.&lt;br&gt;Enchanted creature gets -1/-0.
+      </text>
+    </mc>
+    <mc>
+      <id>270455
+      </id>
+      <name>Buried Alive
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>270456
+      </id>
+      <name>Entomb
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Search your library for a card and put that card into your graveyard. Then shuffle your library.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Search your library for a card and put that card into your graveyard. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>270457
+      </id>
+      <name>Last Rites
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Discard any number of cards. Target player reveals his or her hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Discard any number of cards. Target player reveals his or her hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.
+      </text>
+    </mc>
+    <mc>
+      <id>270454
+      </id>
+      <name>Zombie Infestation
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>270462
+      </id>
+      <name>Exhume
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player puts a creature card from his or her graveyard onto the battlefield.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Each player puts a creature card from his or her graveyard onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>270468
+      </id>
+      <name>Polluted Mire
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Polluted Mire enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Polluted Mire enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>270452
+      </id>
+      <name>Reanimate
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>270450
+      </id>
+      <name>Verdant Force
+      </name>
+      <cost>{5}{G}{G}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>At the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>At the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>270466
+      </id>
+      <name>Crystal Vein
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}, Sacrifice Crystal Vein: Add {2} to your mana pool.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}, Sacrifice Crystal Vein: Add {2} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>270465
+      </id>
+      <name>Duress
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+      </text>
+    </mc>
+    <mc>
+      <id>270467
+      </id>
+      <name>Ebon Stronghold
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Ebon Stronghold enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Ebon Stronghold enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>270448
+      </id>
+      <name>Avatar of Woe
+      </name>
+      <cost>{6}{B}{B}
+      </cost>
+      <type>Creature - Avatar
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.&lt;br&gt;Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;{T}: Destroy target creature. It can't be regenerated.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.&lt;br&gt;Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;{T}: Destroy target creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>265166
+      </id>
+      <name>Cabal Therapy
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Name a nonland card. Target player reveals his or her hand and discards all cards with that name.&lt;br&gt;Flashback—Sacrifice a creature. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Name a nonland card. Target player reveals his or her hand and discards all cards with that name.&lt;br&gt;Flashback—Sacrifice a creature. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>270453
+      </id>
+      <name>Twisted Abomination
+      </name>
+      <cost>{5}{B}
+      </cost>
+      <type>Creature - Zombie Mutant
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{B}: Regenerate Twisted Abomination.&lt;br&gt;Swampcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{B}: Regenerate Twisted Abomination.&lt;br&gt;Swampcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>270464
+      </id>
+      <name>Hidden Horror
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.
+      </text>
+    </mc>
+    <mc>
+      <id>270463
+      </id>
+      <name>Dread Return
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target creature card from your graveyard to the battlefield.&lt;br&gt;Flashback—Sacrifice three creatures. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Return target creature card from your graveyard to the battlefield.&lt;br&gt;Flashback—Sacrifice three creatures. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>270458
+      </id>
+      <name>Faceless Butcher
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Nightmare Horror
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.&lt;br&gt;When Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.&lt;br&gt;When Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>270140
+      </id>
+      <name>Crosis, the Purger
+      </name>
+      <cost>{3}{U}{B}{R}
+      </cost>
+      <type>Legendary Creature - Dragon
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Crosis, the Purger deals combat damage to a player, you may pay {2}{B}. If you do, choose a color, then that player reveals his or her hand and discards all cards of that color.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying&lt;br&gt;Whenever Crosis, the Purger deals combat damage to a player, you may pay {2}{B}. If you do, choose a color, then that player reveals his or her hand and discards all cards of that color.
+      </text>
+    </mc>
+    <mc>
+      <id>270446
+      </id>
+      <name>Sphinx of the Steel Wind
+      </name>
+      <cost>{5}{W}{U}{B}
+      </cost>
+      <type>Artifact Creature - Sphinx
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying, first strike, vigilance, lifelink, protection from red and from green
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>Flying, first strike, vigilance, lifelink, protection from red and from green
+      </text>
+    </mc>
+    <mc>
+      <id>270447
+      </id>
+      <name>Inkwell Leviathan
+      </name>
+      <cost>{7}{U}{U}
+      </cost>
+      <type>Artifact Creature - Leviathan
+      </type>
+      <power>7
+      </power>
+      <toughness>11
+      </toughness>
+      <oracleText>Islandwalk, trample, shroud
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Islandwalk, trample, shroud
+      </text>
+    </mc>
+    <mc>
+      <id>270459
+      </id>
+      <name>Putrid Imp
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Zombie Imp
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Discard a card: Putrid Imp gains flying until end of turn.&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Discard a card: Putrid Imp gains flying until end of turn.&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>270451
+      </id>
+      <name>Terastodon
+      </name>
+      <cost>{6}{G}{G}
+      </cost>
+      <type>Creature - Elephant
+      </type>
+      <power>9
+      </power>
+      <toughness>9
+      </toughness>
+      <oracleText>When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>270449
+      </id>
+      <name>Blazing Archon
+      </name>
+      <cost>{6}{W}{W}{W}
+      </cost>
+      <type>Creature - Archon
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Creatures can't attack you.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying&lt;br&gt;Creatures can't attack you.
+      </text>
+    </mc>
+    <mc>
+      <id>270460
+      </id>
+      <name>Sickening Dreams
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Sickening Dreams, discard X cards.&lt;br&gt;Sickening Dreams deals X damage to each creature and each player.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>As an additional cost to cast Sickening Dreams, discard X cards.&lt;br&gt;Sickening Dreams deals X damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>270461
+      </id>
+      <name>Diabolic Servitude
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.&lt;br&gt;When the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.&lt;br&gt;When Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude.
+      </oracleText>
+      <edition>Premium Deck Series: Graveborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.&lt;br&gt;When the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.&lt;br&gt;When Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude.
+      </text>
+    </mc>
+  </list>
+</cards>

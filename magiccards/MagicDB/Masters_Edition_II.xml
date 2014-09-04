@@ -1,0 +1,6263 @@
+
+<cards>
+  <name>Masters_Edition_II</name>
+  <key>Masters_Edition_II</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>184585
+      </id>
+      <name>Abbey Gargoyles
+      </name>
+      <cost>{2}{W}{W}{W}
+      </cost>
+      <type>Creature - Gargoyle
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying, protection from red
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.0
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>1
+      </num>
+      <text>Flying, protection from red
+      </text>
+    </mc>
+    <mc>
+      <id>184599
+      </id>
+      <name>Adarkar Sentinel
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact Creature - Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{1}: Adarkar Sentinel gets +0/+1 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.114
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>201
+      </num>
+      <text>{1}: Adarkar Sentinel gets +0/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184464
+      </id>
+      <name>Aeolipile
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}, Sacrifice Aeolipile: Aeolipile deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.232
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>202
+      </num>
+      <text>{1}, {T}, Sacrifice Aeolipile: Aeolipile deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>184722
+      </id>
+      <name>Æther Storm
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creature spells can't be cast.&lt;br&gt;Pay 4 life: Destroy Æther Storm. It can't be regenerated. Any player may activate this ability.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>39
+      </num>
+      <text>Creature spells can't be cast.&lt;br&gt;Pay 4 life: Destroy Æther Storm. It can't be regenerated. Any player may activate this ability.
+      </text>
+    </mc>
+    <mc>
+      <id>184543
+      </id>
+      <name>Ambush Party
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike, haste
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.533
+      </rating>
+      <artist>Charles Gillespie
+      </artist>
+      <num>115
+      </num>
+      <text>First strike, haste
+      </text>
+    </mc>
+    <mc>
+      <id>184600
+      </id>
+      <name>Anarchy
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all white permanents.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.45
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>116
+      </num>
+      <text>Destroy all white permanents.
+      </text>
+    </mc>
+    <mc>
+      <id>184746
+      </id>
+      <name>Angel of Fury
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Angel of Fury is put into your graveyard from the battlefield, you may shuffle it into your library.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.667
+      </rating>
+      <artist>Keith Parkinson
+      </artist>
+      <num>2
+      </num>
+      <text>Flying&lt;br&gt;When Angel of Fury is put into your graveyard from the battlefield, you may shuffle it into your library.
+      </text>
+    </mc>
+    <mc>
+      <id>184753
+      </id>
+      <name>Angel of Light
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying, vigilance
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.179
+      </rating>
+      <artist>Todd Lockwood
+      </artist>
+      <num>3
+      </num>
+      <text>Flying, vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>184586
+      </id>
+      <name>An-Zerrin Ruins
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>As An-Zerrin Ruins enters the battlefield, choose a creature type.&lt;br&gt;Creatures of the chosen type don't untap during their controllers' untap steps.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.79
+      </rating>
+      <artist>Dennis Detwiller
+      </artist>
+      <num>117
+      </num>
+      <text>As An-Zerrin Ruins enters the battlefield, choose a creature type.&lt;br&gt;Creatures of the chosen type don't untap during their controllers' untap steps.
+      </text>
+    </mc>
+    <mc>
+      <id>184726
+      </id>
+      <name>Armor of Faith
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1.&lt;br&gt;{W}: Enchanted creature gets +0/+1 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.571
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>4
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1.&lt;br&gt;{W}: Enchanted creature gets +0/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184684
+      </id>
+      <name>Armor Thrull
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.688
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>77
+      </num>
+      <text>{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>184728
+      </id>
+      <name>Armored Griffin
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Griffin
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying, vigilance
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.9
+      </rating>
+      <artist>Bradley Williams
+      </artist>
+      <num>5
+      </num>
+      <text>Flying, vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>184601
+      </id>
+      <name>Ashen Ghoul
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste&lt;br&gt;{B}: Return Ashen Ghoul from your graveyard to the battlefield. Activate this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.676
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>78
+      </num>
+      <text>Haste&lt;br&gt;{B}: Return Ashen Ghoul from your graveyard to the battlefield. Activate this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul.
+      </text>
+    </mc>
+    <mc>
+      <id>184760
+      </id>
+      <name>Ashnod's Cylix
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}, {T}: Target player looks at the top three cards of his or her library, puts one of them back on top of his or her library, then exiles the rest.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.194
+      </rating>
+      <artist>Nicola Leonard
+      </artist>
+      <num>203
+      </num>
+      <text>{3}, {T}: Target player looks at the top three cards of his or her library, puts one of them back on top of his or her library, then exiles the rest.
+      </text>
+    </mc>
+    <mc>
+      <id>184712
+      </id>
+      <name>Aurochs
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Aurochs
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Whenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.091
+      </rating>
+      <artist>Ken Meyer, Jr.
+      </artist>
+      <num>153
+      </num>
+      <text>Trample&lt;br&gt;Whenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.
+      </text>
+    </mc>
+    <mc>
+      <id>184490
+      </id>
+      <name>Aysen Bureaucrats
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Advisor
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Tap target creature with power 2 or less.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.861
+      </rating>
+      <artist>Alan Rabinowitz
+      </artist>
+      <num>6
+      </num>
+      <text>{T}: Tap target creature with power 2 or less.
+      </text>
+    </mc>
+    <mc>
+      <id>184587
+      </id>
+      <name>Aysen Crusader
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <oracleText>Aysen Crusader's power and toughness are each equal to 2 plus the number of Soldiers and Warriors you control.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.595
+      </rating>
+      <artist>NéNé Thomas
+      </artist>
+      <num>7
+      </num>
+      <text>Aysen Crusader's power and toughness are each equal to 2 plus the number of Soldiers and Warriors you control.
+      </text>
+    </mc>
+    <mc>
+      <id>184748
+      </id>
+      <name>Badlands
+      </name>
+      <type>Land - Swamp Mountain
+      </type>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.833
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>225
+      </num>
+    </mc>
+    <mc>
+      <id>184603
+      </id>
+      <name>Balduvian Conjurer
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Target snow land becomes a 2/2 creature until end of turn. It's still a land.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.385
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>40
+      </num>
+      <text>{T}: Target snow land becomes a 2/2 creature until end of turn. It's still a land.
+      </text>
+    </mc>
+    <mc>
+      <id>184735
+      </id>
+      <name>Balduvian Dead
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{2}{R}, Exile a creature card from your graveyard: Put a 3/1 black and red Graveborn creature token with haste onto the battlefield. Sacrifice it at the beginning of the next end step.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.778
+      </rating>
+      <artist>Mike Kimble
+      </artist>
+      <num>79
+      </num>
+      <text>{2}{R}, Exile a creature card from your graveyard: Put a 3/1 black and red Graveborn creature token with haste onto the battlefield. Sacrifice it at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>184757
+      </id>
+      <name>Balduvian Hydra
+      </name>
+      <cost>{X}{R}{R}
+      </cost>
+      <type>Creature - Hydra
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Balduvian Hydra enters the battlefield with X +1/+0 counters on it.&lt;br&gt;Remove a +1/+0 counter from Balduvian Hydra: Prevent the next 1 damage that would be dealt to Balduvian Hydra this turn.&lt;br&gt;{R}{R}{R}: Put a +1/+0 counter on Balduvian Hydra. Activate this ability only during your upkeep.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.269
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>118
+      </num>
+      <text>Balduvian Hydra enters the battlefield with X +1/+0 counters on it.&lt;br&gt;Remove a +1/+0 counter from Balduvian Hydra: Prevent the next 1 damage that would be dealt to Balduvian Hydra this turn.&lt;br&gt;{R}{R}{R}: Put a +1/+0 counter on Balduvian Hydra. Activate this ability only during your upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>184533
+      </id>
+      <name>Balduvian Trading Post
+      </name>
+      <type>Land
+      </type>
+      <oracleText>If Balduvian Trading Post would enter the battlefield, sacrifice an untapped Mountain instead. If you do, put Balduvian Trading Post onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add {1}{R} to your mana pool.&lt;br&gt;{1}, {T}: Balduvian Trading Post deals 1 damage to target attacking creature.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.024
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>226
+      </num>
+      <text>If Balduvian Trading Post would enter the battlefield, sacrifice an untapped Mountain instead. If you do, put Balduvian Trading Post onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add {1}{R} to your mana pool.&lt;br&gt;{1}, {T}: Balduvian Trading Post deals 1 damage to target attacking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>184604
+      </id>
+      <name>Barbed Sextant
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color to your mana pool. Draw a card at the beginning of the next turn's upkeep.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.947
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>204
+      </num>
+      <text>{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color to your mana pool. Draw a card at the beginning of the next turn's upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>184605
+      </id>
+      <name>Binding Grasp
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;At the beginning of your upkeep, sacrifice Binding Grasp unless you pay {1}{U}.&lt;br&gt;You control enchanted creature.&lt;br&gt;Enchanted creature gets +0/+1.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.639
+      </rating>
+      <artist>Ruth Thompson
+      </artist>
+      <num>41
+      </num>
+      <text>Enchant creature&lt;br&gt;At the beginning of your upkeep, sacrifice Binding Grasp unless you pay {1}{U}.&lt;br&gt;You control enchanted creature.&lt;br&gt;Enchanted creature gets +0/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>184534
+      </id>
+      <name>Bounty of the Hunt
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You may exile a green card from your hand rather than pay Bounty of the Hunt's mana cost.&lt;br&gt;Distribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.553
+      </rating>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>154
+      </num>
+      <text>You may exile a green card from your hand rather than pay Bounty of the Hunt's mana cost.&lt;br&gt;Distribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step.
+      </text>
+    </mc>
+    <mc>
+      <id>184606
+      </id>
+      <name>Brainstorm
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Draw three cards, then put two cards from your hand on top of your library in any order.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.702
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>42
+      </num>
+      <text>Draw three cards, then put two cards from your hand on top of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>184685
+      </id>
+      <name>Brassclaw Orcs
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Brassclaw Orcs can't block creatures with power 2 or greater.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.344
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>119
+      </num>
+      <text>Brassclaw Orcs can't block creatures with power 2 or greater.
+      </text>
+    </mc>
+    <mc>
+      <id>184767
+      </id>
+      <name>Brimstone Dragon
+      </name>
+      <cost>{6}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying, haste
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.394
+      </rating>
+      <artist>David A. Cherry
+      </artist>
+      <num>120
+      </num>
+      <text>Flying, haste
+      </text>
+    </mc>
+    <mc>
+      <id>184736
+      </id>
+      <name>Brine Shaman
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Human Cleric Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn.&lt;br&gt;{1}{U}{U}, Sacrifice a creature: Counter target creature spell.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Cornelius Brudi
+      </artist>
+      <num>80
+      </num>
+      <text>{T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn.&lt;br&gt;{1}{U}{U}, Sacrifice a creature: Counter target creature spell.
+      </text>
+    </mc>
+    <mc>
+      <id>184589
+      </id>
+      <name>Broken Visage
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonartifact attacking creature. It can't be regenerated. Put a black Spirit creature token with that creature's power and toughness onto the battlefield. Sacrifice the token at the beginning of the next end step.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Mike Kimble
+      </artist>
+      <num>81
+      </num>
+      <text>Destroy target nonartifact attacking creature. It can't be regenerated. Put a black Spirit creature token with that creature's power and toughness onto the battlefield. Sacrifice the token at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>184761
+      </id>
+      <name>Browse
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{2}{U}{U}: Look at the top five cards of your library, put one of them into your hand, and exile the rest.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.821
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>43
+      </num>
+      <text>{2}{U}{U}: Look at the top five cards of your library, put one of them into your hand, and exile the rest.
+      </text>
+    </mc>
+    <mc>
+      <id>184762
+      </id>
+      <name>Burnout
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target instant spell if it's blue.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.694
+      </rating>
+      <artist>Mike Raabe
+      </artist>
+      <num>121
+      </num>
+      <text>Counter target instant spell if it's blue.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>184777
+      </id>
+      <name>Carapace
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +0/+2.&lt;br&gt;Sacrifice Carapace: Regenerate enchanted creature.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.059
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>155
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +0/+2.&lt;br&gt;Sacrifice Carapace: Regenerate enchanted creature.
+      </text>
+    </mc>
+    <mc>
+      <id>184607
+      </id>
+      <name>Caribou Range
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land you control&lt;br&gt;Enchanted land has "{W}{W}, {T}: Put a 0/1 white Caribou creature token onto the battlefield."&lt;br&gt;Sacrifice a Caribou token: You gain 1 life.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.969
+      </rating>
+      <artist>Ruth Thompson
+      </artist>
+      <num>8
+      </num>
+      <text>Enchant land you control&lt;br&gt;Enchanted land has "{W}{W}, {T}: Put a 0/1 white Caribou creature token onto the battlefield."&lt;br&gt;Sacrifice a Caribou token: You gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>184669
+      </id>
+      <name>Cloak of Confusion
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature you control&lt;br&gt;Whenever enchanted creature attacks and isn't blocked, you may have it assign no combat damage this turn. If you do, defending player discards a card at random.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.077
+      </rating>
+      <artist>Margaret Organ-Kean
+      </artist>
+      <num>82
+      </num>
+      <text>Enchant creature you control&lt;br&gt;Whenever enchanted creature attacks and isn't blocked, you may have it assign no combat damage this turn. If you do, defending player discards a card at random.
+      </text>
+    </mc>
+    <mc>
+      <id>184590
+      </id>
+      <name>Clockwork Steed
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Horse
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Clockwork Steed enters the battlefield with four +1/+0 counters on it.&lt;br&gt;Clockwork Steed can't be blocked by artifact creatures.&lt;br&gt;At end of combat, if Clockwork Steed attacked or blocked this combat, remove a +1/+0 counter from it.&lt;br&gt;{X}, {T}: Put up to X +1/+0 counters on Clockwork Steed. This ability can't cause the total number of +1/+0 counters on Clockwork Steed to be greater than four. Activate this ability only during your upkeep.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.38
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>205
+      </num>
+      <text>Clockwork Steed enters the battlefield with four +1/+0 counters on it.&lt;br&gt;Clockwork Steed can't be blocked by artifact creatures.&lt;br&gt;At end of combat, if Clockwork Steed attacked or blocked this combat, remove a +1/+0 counter from it.&lt;br&gt;{X}, {T}: Put up to X +1/+0 counters on Clockwork Steed. This ability can't cause the total number of +1/+0 counters on Clockwork Steed to be greater than four. Activate this ability only during your upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>184686
+      </id>
+      <name>Combat Medic
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Cleric Soldier
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.286
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>9
+      </num>
+      <text>{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184609
+      </id>
+      <name>Conquer
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;You control enchanted land.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.974
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>122
+      </num>
+      <text>Enchant land&lt;br&gt;You control enchanted land.
+      </text>
+    </mc>
+    <mc>
+      <id>184687
+      </id>
+      <name>Counterspell
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.814
+      </rating>
+      <artist>L. A. Williams
+      </artist>
+      <num>44
+      </num>
+      <text>Counter target spell.
+      </text>
+    </mc>
+    <mc>
+      <id>184612
+      </id>
+      <name>Dance of the Dead
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature card in a graveyard&lt;br&gt;When Dance of the Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Dance of the Dead." Return enchanted creature card to the battlefield tapped under your control and attach Dance of the Dead to it. When Dance of the Dead leaves the battlefield, that creature's controller sacrifices it.&lt;br&gt;Enchanted creature gets +1/+1 and doesn't untap during its controller's untap step. &lt;br&gt;At the beginning of the upkeep of enchanted creature's controller, that player may pay {1}{B}. If he or she does, untap that creature.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.4
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>83
+      </num>
+      <text>Enchant creature card in a graveyard&lt;br&gt;When Dance of the Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Dance of the Dead." Return enchanted creature card to the battlefield tapped under your control and attach Dance of the Dead to it. When Dance of the Dead leaves the battlefield, that creature's controller sacrifices it.&lt;br&gt;Enchanted creature gets +1/+1 and doesn't untap during its controller's untap step. &lt;br&gt;At the beginning of the upkeep of enchanted creature's controller, that player may pay {1}{B}. If he or she does, untap that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>184613
+      </id>
+      <name>Dark Banishing
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonblack creature. It can't be regenerated.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.708
+      </rating>
+      <artist>Drew Tucker
+      </artist>
+      <num>84
+      </num>
+      <text>Destroy target nonblack creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>184537
+      </id>
+      <name>Death Spark
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Death Spark deals 1 damage to target creature or player.&lt;br&gt;At the beginning of your upkeep, if Death Spark is in your graveyard with a creature card directly above it, you may pay {1}. If you do, return Death Spark to your hand.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.083
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>123
+      </num>
+      <text>Death Spark deals 1 damage to target creature or player.&lt;br&gt;At the beginning of your upkeep, if Death Spark is in your graveyard with a creature card directly above it, you may pay {1}. If you do, return Death Spark to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>184477
+      </id>
+      <name>Deep Spawn
+      </name>
+      <cost>{5}{U}{U}{U}
+      </cost>
+      <type>Creature - Homarid
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Trample&lt;br&gt;At the beginning of your upkeep, sacrifice Deep Spawn unless you put the top two cards of your library into your graveyard.&lt;br&gt;{U}: Deep Spawn gains shroud until end of turn and doesn't untap during your next untap step. Tap Deep Spawn. &lt;i&gt;(A permanent with shroud can't be the target of spells or abilities.)&lt;/i&gt;
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.931
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>45
+      </num>
+      <text>Trample&lt;br&gt;At the beginning of your upkeep, sacrifice Deep Spawn unless you put the top two cards of your library into your graveyard.&lt;br&gt;{U}: Deep Spawn gains shroud until end of turn and doesn't untap during your next untap step. Tap Deep Spawn. &lt;i&gt;(A permanent with shroud can't be the target of spells or abilities.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>184614
+      </id>
+      <name>Demonic Consultation
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Name a card. Exile the top six cards of your library, then reveal cards from the top of your library until you reveal the named card. Put that card into your hand and exile all other cards revealed this way.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.4
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>85
+      </num>
+      <text>Name a card. Exile the top six cards of your library, then reveal cards from the top of your library until you reveal the named card. Put that card into your hand and exile all other cards revealed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>184615
+      </id>
+      <name>Despotic Scepter
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Destroy target permanent you own. It can't be regenerated.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.66
+      </rating>
+      <artist>Richard Thomas
+      </artist>
+      <num>206
+      </num>
+      <text>{T}: Destroy target permanent you own. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>184616
+      </id>
+      <name>Diabolic Vision
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at the top five cards of your library. Put one of them into your hand and the rest on top of your library in any order.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.346
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>191
+      </num>
+      <text>Look at the top five cards of your library. Put one of them into your hand and the rest on top of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>184689
+      </id>
+      <name>Disenchant
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.145
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>10
+      </num>
+      <text>Destroy target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>184618
+      </id>
+      <name>Dreams of the Dead
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{U}: Return target white or black creature card from your graveyard to the battlefield. That creature gains "Cumulative upkeep {2}." If the creature would leave the battlefield, exile it instead of putting it anywhere else. &lt;i&gt;(At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.769
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>46
+      </num>
+      <text>{1}{U}: Return target white or black creature card from your graveyard to the battlefield. That creature gains "Cumulative upkeep {2}." If the creature would leave the battlefield, exile it instead of putting it anywhere else. &lt;i&gt;(At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>184734
+      </id>
+      <name>Drift of the Dead
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Drift of the Dead's power and toughness are each equal to the number of snow lands you control.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.946
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>86
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Drift of the Dead's power and toughness are each equal to the number of snow lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>184703
+      </id>
+      <name>Dry Spell
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Dry Spell deals 1 damage to each creature and each player.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.853
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>87
+      </num>
+      <text>Dry Spell deals 1 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>184478
+      </id>
+      <name>Dwarven Ruins
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Dwarven Ruins enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;{T}, Sacrifice Dwarven Ruins: Add {R}{R} to your mana pool.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.75
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>227
+      </num>
+      <text>Dwarven Ruins enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;{T}, Sacrifice Dwarven Ruins: Add {R}{R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>184538
+      </id>
+      <name>Dystopia
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep—Pay 1 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;At the beginning of each player's upkeep, that player sacrifices a green or white permanent.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.891
+      </rating>
+      <artist>Ruth Thompson
+      </artist>
+      <num>88
+      </num>
+      <text>Cumulative upkeep—Pay 1 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;At the beginning of each player's upkeep, that player sacrifices a green or white permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>184776
+      </id>
+      <name>Earthlink
+      </name>
+      <cost>{3}{B}{R}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, sacrifice Earthlink unless you pay {2}.&lt;br&gt;Whenever a creature dies, that creature's controller sacrifices a land.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.056
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>192
+      </num>
+      <text>At the beginning of your upkeep, sacrifice Earthlink unless you pay {2}.&lt;br&gt;Whenever a creature dies, that creature's controller sacrifices a land.
+      </text>
+    </mc>
+    <mc>
+      <id>184482
+      </id>
+      <name>Ebon Praetor
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Avatar Praetor
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>First strike, trample&lt;br&gt;At the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor.&lt;br&gt;Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate this ability only during your upkeep and only once each turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.31
+      </rating>
+      <artist>Randy Asplund
+      </artist>
+      <num>89
+      </num>
+      <text>First strike, trample&lt;br&gt;At the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor.&lt;br&gt;Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate this ability only during your upkeep and only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184483
+      </id>
+      <name>Ebon Stronghold
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Ebon Stronghold enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.588
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>228
+      </num>
+      <text>Ebon Stronghold enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>184619
+      </id>
+      <name>Elemental Augury
+      </name>
+      <cost>{U}{B}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{3}: Look at the top three cards of target player's library, then put them back in any order.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.76
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>193
+      </num>
+      <text>{3}: Look at the top three cards of target player's library, then put them back in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>184620
+      </id>
+      <name>Elkin Bottle
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}, {T}: Exile the top card of your library. Until the beginning of your next upkeep, you may play that card.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.667
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>207
+      </num>
+      <text>{3}, {T}: Exile the top card of your library. Until the beginning of your next upkeep, you may play that card.
+      </text>
+    </mc>
+    <mc>
+      <id>184709
+      </id>
+      <name>Elven Lyre
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}, Sacrifice Elven Lyre: Target creature gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.083
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>208
+      </num>
+      <text>{1}, {T}, Sacrifice Elven Lyre: Target creature gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184484
+      </id>
+      <name>Elvish Farmer
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Elvish Farmer.&lt;br&gt;Remove three spore counters from Elvish Farmer: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;Sacrifice a Saproling: You gain 2 life.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.889
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>156
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Elvish Farmer.&lt;br&gt;Remove three spore counters from Elvish Farmer: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;Sacrifice a Saproling: You gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>184602
+      </id>
+      <name>Elvish Hunter
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Archer
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.688
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>157
+      </num>
+      <text>{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>184691
+      </id>
+      <name>Elvish Ranger
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>4
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.211
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>158
+      </num>
+    </mc>
+    <mc>
+      <id>184542
+      </id>
+      <name>Elvish Spirit Guide
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Exile Elvish Spirit Guide from your hand: Add {G} to your mana pool.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.583
+      </rating>
+      <artist>Julie Baroh
+      </artist>
+      <num>159
+      </num>
+      <text>Exile Elvish Spirit Guide from your hand: Add {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>184621
+      </id>
+      <name>Energy Storm
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Prevent all damage that would be dealt by instant and sorcery spells.&lt;br&gt;Creatures with flying don't untap during their controllers' untap steps.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.909
+      </rating>
+      <artist>Sandra Everingham
+      </artist>
+      <num>11
+      </num>
+      <text>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Prevent all damage that would be dealt by instant and sorcery spells.&lt;br&gt;Creatures with flying don't untap during their controllers' untap steps.
+      </text>
+    </mc>
+    <mc>
+      <id>184622
+      </id>
+      <name>Enervate
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Tap target artifact, creature, or land.&lt;br&gt;&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.286
+      </rating>
+      <artist>L. A. Williams
+      </artist>
+      <num>47
+      </num>
+      <text>Tap target artifact, creature, or land.&lt;br&gt;&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>184730
+      </id>
+      <name>Errand of Duty
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put a 1/1 white Knight creature token with banding onto the battlefield. &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.031
+      </rating>
+      <artist>Julie Baroh
+      </artist>
+      <num>12
+      </num>
+      <text>Put a 1/1 white Knight creature token with banding onto the battlefield. &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>184741
+      </id>
+      <name>Errantry
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+0 and can only attack alone.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.444
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>124
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+0 and can only attack alone.
+      </text>
+    </mc>
+    <mc>
+      <id>184718
+      </id>
+      <name>Essence Filter
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all enchantments or all nonwhite enchantments.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.591
+      </rating>
+      <artist>Rick Emond
+      </artist>
+      <num>160
+      </num>
+      <text>Destroy all enchantments or all nonwhite enchantments.
+      </text>
+    </mc>
+    <mc>
+      <id>184731
+      </id>
+      <name>Essence Flare
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+0.&lt;br&gt;At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.2
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>48
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+0.&lt;br&gt;At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>184643
+      </id>
+      <name>Farrel's Mantle
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature attacks and isn't blocked, its controller may have it deal damage equal to its power plus 2 to another target creature. If that player does, the attacking creature assigns no combat damage this turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.821
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>13
+      </num>
+      <text>Enchant creature&lt;br&gt;Whenever enchanted creature attacks and isn't blocked, its controller may have it deal damage equal to its power plus 2 to another target creature. If that player does, the attacking creature assigns no combat damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184729
+      </id>
+      <name>Farrel's Zealot
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.95
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>14
+      </num>
+      <text>Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184485
+      </id>
+      <name>Feral Thallid
+      </name>
+      <cost>{3}{G}{G}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>6
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Feral Thallid.&lt;br&gt;&lt;br&gt;Remove three spore counters from Feral Thallid: Regenerate Feral Thallid.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.571
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>161
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Feral Thallid.&lt;br&gt;&lt;br&gt;Remove three spore counters from Feral Thallid: Regenerate Feral Thallid.
+      </text>
+    </mc>
+    <mc>
+      <id>184723
+      </id>
+      <name>Fire Dragon
+      </name>
+      <cost>{6}{R}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Fire Dragon enters the battlefield, it deals damage equal to the number of Mountains you control to target creature.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.768
+      </rating>
+      <artist>William Simpson
+      </artist>
+      <num>125
+      </num>
+      <text>Flying&lt;br&gt;When Fire Dragon enters the battlefield, it deals damage equal to the number of Mountains you control to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>184743
+      </id>
+      <name>Flame Spirit
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Elemental Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{R}: Flame Spirit gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.5
+      </rating>
+      <artist>Justin Hampton
+      </artist>
+      <num>126
+      </num>
+      <text>{R}: Flame Spirit gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184623
+      </id>
+      <name>Folk of the Pines
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Dryad
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>{1}{G}: Folk of the Pines gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.348
+      </rating>
+      <artist>NéNé Thomas &amp; Catherine Buck
+      </artist>
+      <num>162
+      </num>
+      <text>{1}{G}: Folk of the Pines gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184573
+      </id>
+      <name>Forbidden Lore
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;Enchanted land has "{T}: Target creature gets +2/+1 until end of turn."
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.667
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>163
+      </num>
+      <text>Enchant land&lt;br&gt;Enchanted land has "{T}: Target creature gets +2/+1 until end of turn."
+      </text>
+    </mc>
+    <mc>
+      <id>184624
+      </id>
+      <name>Forgotten Lore
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent chooses a card in your graveyard. You may pay {G}. If you do, repeat this process except that opponent can't choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.077
+      </rating>
+      <artist>Harold McNeill
+      </artist>
+      <num>164
+      </num>
+      <text>Target opponent chooses a card in your graveyard. You may pay {G}. If you do, repeat this process except that opponent can't choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>184625
+      </id>
+      <name>Foul Familiar
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Foul Familiar can't block.&lt;br&gt;{B}, Pay 1 life: Return Foul Familiar to its owner's hand.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.853
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>90
+      </num>
+      <text>Foul Familiar can't block.&lt;br&gt;{B}, Pay 1 life: Return Foul Familiar to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>184626
+      </id>
+      <name>Fumarole
+      </name>
+      <cost>{3}{B}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Fumarole, pay 3 life.&lt;br&gt;Destroy target creature and target land.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.062
+      </rating>
+      <artist>Drew Tucker
+      </artist>
+      <num>194
+      </num>
+      <text>As an additional cost to cast Fumarole, pay 3 life.&lt;br&gt;Destroy target creature and target land.
+      </text>
+    </mc>
+    <mc>
+      <id>184671
+      </id>
+      <name>Funeral March
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When enchanted creature leaves the battlefield, its controller sacrifices a creature.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.893
+      </rating>
+      <artist>John Coulthart
+      </artist>
+      <num>91
+      </num>
+      <text>Enchant creature&lt;br&gt;When enchanted creature leaves the battlefield, its controller sacrifices a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>184771
+      </id>
+      <name>Fungal Bloom
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{G}{G}: Put a spore counter on target Fungus.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.722
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>165
+      </num>
+      <text>{G}{G}: Put a spore counter on target Fungus.
+      </text>
+    </mc>
+    <mc>
+      <id>184580
+      </id>
+      <name>Fyndhorn Pollen
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;All creatures get -1/-0.&lt;br&gt;{1}{G}: All creatures get -1/-0 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.231
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>166
+      </num>
+      <text>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;All creatures get -1/-0.&lt;br&gt;{1}{G}: All creatures get -1/-0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184627
+      </id>
+      <name>Gangrenous Zombies
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Sacrifice Gangrenous Zombies: Gangrenous Zombies deals 1 damage to each creature and each player. If you control a snow Swamp, Gangrenous Zombies deals 2 damage to each creature and each player instead.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.971
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>92
+      </num>
+      <text>{T}, Sacrifice Gangrenous Zombies: Gangrenous Zombies deals 1 damage to each creature and each player. If you control a snow Swamp, Gangrenous Zombies deals 2 damage to each creature and each player instead.
+      </text>
+    </mc>
+    <mc>
+      <id>184692
+      </id>
+      <name>Giant Growth
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.375
+      </rating>
+      <artist>L. A. Williams
+      </artist>
+      <num>167
+      </num>
+      <text>Target creature gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184630
+      </id>
+      <name>Giant Trap Door Spider
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{1}{R}{G}, {T}: Exile Giant Trap Door Spider and target creature without flying that's attacking you.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.457
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>195
+      </num>
+      <text>{1}{R}{G}, {T}: Exile Giant Trap Door Spider and target creature without flying that's attacking you.
+      </text>
+    </mc>
+    <mc>
+      <id>184631
+      </id>
+      <name>Glacial Chasm
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Cumulative upkeep—Pay 2 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When Glacial Chasm enters the battlefield, sacrifice a land.&lt;br&gt;Creatures you control can't attack.&lt;br&gt;Prevent all damage that would be dealt to you.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.773
+      </rating>
+      <artist>Liz Danforth
+      </artist>
+      <num>229
+      </num>
+      <text>Cumulative upkeep—Pay 2 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When Glacial Chasm enters the battlefield, sacrifice a land.&lt;br&gt;Creatures you control can't attack.&lt;br&gt;Prevent all damage that would be dealt to you.
+      </text>
+    </mc>
+    <mc>
+      <id>184632
+      </id>
+      <name>Glacial Crevasses
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Sacrifice a snow Mountain: Prevent all combat damage that would be dealt this turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.125
+      </rating>
+      <artist>Mike Raabe
+      </artist>
+      <num>127
+      </num>
+      <text>Sacrifice a snow Mountain: Prevent all combat damage that would be dealt this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184690
+      </id>
+      <name>Goblin Ski Patrol
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{R}: Goblin Ski Patrol gets +2/+0 and gains flying. Its controller sacrifices it at the beginning of the next end step. Activate this ability only once and only if you control a snow Mountain.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.786
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>128
+      </num>
+      <text>{1}{R}: Goblin Ski Patrol gets +2/+0 and gains flying. Its controller sacrifices it at the beginning of the next end step. Activate this ability only once and only if you control a snow Mountain.
+      </text>
+    </mc>
+    <mc>
+      <id>184693
+      </id>
+      <name>Gorilla Shaman
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Ape Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{X}{X}{1}: Destroy target noncreature artifact with converted mana cost X.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.935
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>129
+      </num>
+      <text>{X}{X}{1}: Destroy target noncreature artifact with converted mana cost X.
+      </text>
+    </mc>
+    <mc>
+      <id>184588
+      </id>
+      <name>Grandmother Sengir
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Legendary Creature - Human Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{1}{B}, {T}: Target creature gets -1/-1 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.222
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>93
+      </num>
+      <text>{1}{B}, {T}: Target creature gets -1/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184548
+      </id>
+      <name>Gustha's Scepter
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Exile a card from your hand face down. You may look at it for as long as it remains exiled.&lt;br&gt;{T}: Return a card you own exiled with Gustha's Scepter to your hand.&lt;br&gt;When you lose control of Gustha's Scepter, put all cards exiled with Gustha's Scepter into their owner's graveyard.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.95
+      </rating>
+      <artist>Sandra Everingham
+      </artist>
+      <num>209
+      </num>
+      <text>{T}: Exile a card from your hand face down. You may look at it for as long as it remains exiled.&lt;br&gt;{T}: Return a card you own exiled with Gustha's Scepter to your hand.&lt;br&gt;When you lose control of Gustha's Scepter, put all cards exiled with Gustha's Scepter into their owner's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>184486
+      </id>
+      <name>Havenwood Battleground
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Havenwood Battleground enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}, Sacrifice Havenwood Battleground: Add {G}{G} to your mana pool.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.727
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>230
+      </num>
+      <text>Havenwood Battleground enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}, Sacrifice Havenwood Battleground: Add {G}{G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>184549
+      </id>
+      <name>Heart of Yavimaya
+      </name>
+      <type>Land
+      </type>
+      <oracleText>If Heart of Yavimaya would enter the battlefield, sacrifice a Forest instead. If you do, put Heart of Yavimaya onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}: Target creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.542
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>231
+      </num>
+      <text>If Heart of Yavimaya would enter the battlefield, sacrifice a Forest instead. If you do, put Heart of Yavimaya onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}: Target creature gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184550
+      </id>
+      <name>Helm of Obedience
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{X}, {T}: Target opponent puts cards from the top of his or her library into his or her graveyard until a creature card or X cards are put into that graveyard this way, whichever comes first. If a creature card is put into that graveyard this way, sacrifice Helm of Obedience and put that card onto the battlefield under your control. X can't be 0.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.78
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>210
+      </num>
+      <text>{X}, {T}: Target opponent puts cards from the top of his or her library into his or her graveyard until a creature card or X cards are put into that graveyard this way, whichever comes first. If a creature card is put into that graveyard this way, sacrifice Helm of Obedience and put that card onto the battlefield under your control. X can't be 0.
+      </text>
+    </mc>
+    <mc>
+      <id>184695
+      </id>
+      <name>Icatian Javelineers
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Icatian Javelineers enters the battlefield with a javelin counter on it.&lt;br&gt;{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.085
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>15
+      </num>
+      <text>Icatian Javelineers enters the battlefield with a javelin counter on it.&lt;br&gt;{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>184491
+      </id>
+      <name>Icatian Phalanx
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.577
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>16
+      </num>
+      <text>Banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>184696
+      </id>
+      <name>Icatian Scout
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}, {T}: Target creature gains first strike until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.812
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>17
+      </num>
+      <text>{1}, {T}: Target creature gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184633
+      </id>
+      <name>Ice Floe
+      </name>
+      <type>Land
+      </type>
+      <oracleText>You may choose not to untap Ice Floe during your untap step.&lt;br&gt;{T}: Tap target creature without flying that's attacking you. It doesn't untap during its controller's untap step for as long as Ice Floe remains tapped.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.45
+      </rating>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>232
+      </num>
+      <text>You may choose not to untap Ice Floe during your untap step.&lt;br&gt;{T}: Tap target creature without flying that's attacking you. It doesn't untap during its controller's untap step for as long as Ice Floe remains tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>184733
+      </id>
+      <name>Iceberg
+      </name>
+      <cost>{X}{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Iceberg enters the battlefield with X ice counters on it.&lt;br&gt;{3}: Put an ice counter on Iceberg.&lt;br&gt;Remove an ice counter from Iceberg: Add {1} to your mana pool.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.565
+      </rating>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>49
+      </num>
+      <text>Iceberg enters the battlefield with X ice counters on it.&lt;br&gt;{3}: Put an ice counter on Iceberg.&lt;br&gt;Remove an ice counter from Iceberg: Add {1} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>184634
+      </id>
+      <name>Icequake
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target land. If that land was a snow land, Icequake deals 1 damage to that land's controller.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.893
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>94
+      </num>
+      <text>Destroy target land. If that land was a snow land, Icequake deals 1 damage to that land's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>184754
+      </id>
+      <name>Icy Prison
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Icy Prison enters the battlefield, exile target creature.&lt;br&gt;At the beginning of your upkeep, sacrifice Icy Prison unless any player pays {3}.&lt;br&gt;When Icy Prison leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>50
+      </num>
+      <text>When Icy Prison enters the battlefield, exile target creature.&lt;br&gt;At the beginning of your upkeep, sacrifice Icy Prison unless any player pays {3}.&lt;br&gt;When Icy Prison leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>184591
+      </id>
+      <name>Ihsan's Shade
+      </name>
+      <cost>{3}{B}{B}{B}
+      </cost>
+      <type>Legendary Creature - Shade Knight
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Protection from white
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.84
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>95
+      </num>
+      <text>Protection from white
+      </text>
+    </mc>
+    <mc>
+      <id>184716
+      </id>
+      <name>Imperial Recruiter
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Human Advisor
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, and put it into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.865
+      </rating>
+      <artist>Mitsuaki Sagiri
+      </artist>
+      <num>130
+      </num>
+      <text>When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, and put it into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>184717
+      </id>
+      <name>Imperial Seal
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.721
+      </rating>
+      <artist>Li Tie
+      </artist>
+      <num>96
+      </num>
+      <text>Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>184636
+      </id>
+      <name>Incinerate
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.6
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>131
+      </num>
+      <text>Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184637
+      </id>
+      <name>Infernal Darkness
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep—Pay {B} and 1 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;If a land is tapped for mana, it produces {B} instead of any other type.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.96
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>97
+      </num>
+      <text>Cumulative upkeep—Pay {B} and 1 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;If a land is tapped for mana, it produces {B} instead of any other type.
+      </text>
+    </mc>
+    <mc>
+      <id>184635
+      </id>
+      <name>Inheritance
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature dies, you may pay {3}. If you do, draw a card.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>18
+      </num>
+      <text>Whenever a creature dies, you may pay {3}. If you do, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>184759
+      </id>
+      <name>Ironclaw Orcs
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Ironclaw Orcs can't block creatures with power 2 or greater.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.444
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>132
+      </num>
+      <text>Ironclaw Orcs can't block creatures with power 2 or greater.
+      </text>
+    </mc>
+    <mc>
+      <id>184551
+      </id>
+      <name>Ivory Gargoyle
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Gargoyle
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Ivory Gargoyle dies, return it to the battlefield under its owner's control at the beginning of the next end step and you skip your next draw step.&lt;br&gt;{4}{W}: Exile Ivory Gargoyle.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.722
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>19
+      </num>
+      <text>Flying&lt;br&gt;When Ivory Gargoyle dies, return it to the battlefield under its owner's control at the beginning of the next end step and you skip your next draw step.&lt;br&gt;{4}{W}: Exile Ivory Gargoyle.
+      </text>
+    </mc>
+    <mc>
+      <id>184638
+      </id>
+      <name>Jester's Mask
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Jester's Mask enters the battlefield tapped.&lt;br&gt;{1}, {T}, Sacrifice Jester's Mask: Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. That player puts those cards into his or her hand, then shuffles his or her library.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.733
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>211
+      </num>
+      <text>Jester's Mask enters the battlefield tapped.&lt;br&gt;{1}, {T}, Sacrifice Jester's Mask: Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. That player puts those cards into his or her hand, then shuffles his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>184639
+      </id>
+      <name>Jeweled Amulet
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}: Put a charge counter on Jeweled Amulet. Note the type of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Jeweled Amulet.&lt;br&gt;{T}, Remove a charge counter from Jeweled Amulet: Add one mana of Jeweled Amulet's last noted type to your mana pool.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.781
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>212
+      </num>
+      <text>{1}, {T}: Put a charge counter on Jeweled Amulet. Note the type of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Jeweled Amulet.&lt;br&gt;{T}, Remove a charge counter from Jeweled Amulet: Add one mana of Jeweled Amulet's last noted type to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>184640
+      </id>
+      <name>Johtull Wurm
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Whenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.484
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>168
+      </num>
+      <text>Whenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.
+      </text>
+    </mc>
+    <mc>
+      <id>184592
+      </id>
+      <name>Joven's Ferrets
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Ferret
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Joven's Ferrets attacks, it gets +0/+2 until end of turn.&lt;br&gt;At end of combat, tap all creatures that blocked Joven's Ferrets this turn. They don't untap during their controller's next untap step.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>169
+      </num>
+      <text>Whenever Joven's Ferrets attacks, it gets +0/+2 until end of turn.&lt;br&gt;At end of combat, tap all creatures that blocked Joven's Ferrets this turn. They don't untap during their controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>184552
+      </id>
+      <name>Juniper Order Advocate
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>As long as Juniper Order Advocate is untapped, green creatures you control get +1/+1.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>20
+      </num>
+      <text>As long as Juniper Order Advocate is untapped, green creatures you control get +1/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>184713
+      </id>
+      <name>Karplusan Giant
+      </name>
+      <cost>{6}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Tap an untapped snow land you control: Karplusan Giant gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.032
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>133
+      </num>
+      <text>Tap an untapped snow land you control: Karplusan Giant gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184553
+      </id>
+      <name>Kaysa
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Legendary Creature - Elf Druid
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Green creatures you control get +1/+1.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.625
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>170
+      </num>
+      <text>Green creatures you control get +1/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>184641
+      </id>
+      <name>Kjeldoran Dead
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Skeleton
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Kjeldoran Dead enters the battlefield, sacrifice a creature.&lt;br&gt;{B}: Regenerate Kjeldoran Dead.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.446
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>98
+      </num>
+      <text>When Kjeldoran Dead enters the battlefield, sacrifice a creature.&lt;br&gt;{B}: Regenerate Kjeldoran Dead.
+      </text>
+    </mc>
+    <mc>
+      <id>184642
+      </id>
+      <name>Kjeldoran Elite Guard
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Target creature gets +2/+2 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Elite Guard. Activate this ability only during combat.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.318
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>21
+      </num>
+      <text>{T}: Target creature gets +2/+2 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Elite Guard. Activate this ability only during combat.
+      </text>
+    </mc>
+    <mc>
+      <id>184554
+      </id>
+      <name>Kjeldoran Home Guard
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>At end of combat, if Kjeldoran Home Guard attacked or blocked this combat, put a -0/-1 counter on Kjeldoran Home Guard and put a 0/1 white Deserter creature token onto the battlefield.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.088
+      </rating>
+      <artist>Andi Rusu
+      </artist>
+      <num>22
+      </num>
+      <text>At end of combat, if Kjeldoran Home Guard attacked or blocked this combat, put a -0/-1 counter on Kjeldoran Home Guard and put a 0/1 white Deserter creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>184555
+      </id>
+      <name>Kjeldoran Outpost
+      </name>
+      <type>Land
+      </type>
+      <oracleText>If Kjeldoran Outpost would enter the battlefield, sacrifice a Plains instead. If you do, put Kjeldoran Outpost onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;{1}{W}, {T}: Put a 1/1 white Soldier creature token onto the battlefield.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>233
+      </num>
+      <text>If Kjeldoran Outpost would enter the battlefield, sacrifice a Plains instead. If you do, put Kjeldoran Outpost onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;{1}{W}, {T}: Put a 1/1 white Soldier creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>184644
+      </id>
+      <name>Kjeldoran Skycaptain
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying; first strike; banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.235
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>23
+      </num>
+      <text>Flying; first strike; banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>184645
+      </id>
+      <name>Knight of Stromgald
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from white&lt;br&gt;{B}: Knight of Stromgald gains first strike until end of turn.&lt;br&gt;{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.826
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>99
+      </num>
+      <text>Protection from white&lt;br&gt;{B}: Knight of Stromgald gains first strike until end of turn.&lt;br&gt;{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184737
+      </id>
+      <name>Krovikan Fetish
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Krovikan Fetish enters the battlefield, draw a card at the beginning of the next turn's upkeep.&lt;br&gt;Enchanted creature gets +1/+1.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.714
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>100
+      </num>
+      <text>Enchant creature&lt;br&gt;When Krovikan Fetish enters the battlefield, draw a card at the beginning of the next turn's upkeep.&lt;br&gt;Enchanted creature gets +1/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>184556
+      </id>
+      <name>Krovikan Horror
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Horror Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of the end step, if Krovikan Horror is in your graveyard with a creature card directly above it, you may return Krovikan Horror to your hand.&lt;br&gt;{1}, Sacrifice a creature: Krovikan Horror deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.192
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>101
+      </num>
+      <text>At the beginning of the end step, if Krovikan Horror is in your graveyard with a creature card directly above it, you may return Krovikan Horror to your hand.&lt;br&gt;{1}, Sacrifice a creature: Krovikan Horror deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>184646
+      </id>
+      <name>Krovikan Sorcerer
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}, Discard a nonblack card: Draw a card.&lt;br&gt;{T}, Discard a black card: Draw two cards, then discard one of them.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.062
+      </rating>
+      <artist>Pat Morrissey
+      </artist>
+      <num>51
+      </num>
+      <text>{T}, Discard a nonblack card: Draw a card.&lt;br&gt;{T}, Discard a black card: Draw two cards, then discard one of them.
+      </text>
+    </mc>
+    <mc>
+      <id>184647
+      </id>
+      <name>Krovikan Vampire
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>At the beginning of each end step, if a creature dealt damage by Krovikan Vampire this turn died, put that card onto the battlefield under your control. Sacrifice it when you lose control of Krovikan Vampire.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.333
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>102
+      </num>
+      <text>At the beginning of each end step, if a creature dealt damage by Krovikan Vampire this turn died, put that card onto the battlefield under your control. Sacrifice it when you lose control of Krovikan Vampire.
+      </text>
+    </mc>
+    <mc>
+      <id>184697
+      </id>
+      <name>Lat-Nam's Legacy
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.81
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>52
+      </num>
+      <text>Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>184648
+      </id>
+      <name>Lava Burst
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Lava Burst deals X damage to target creature or player. If Lava Burst would deal damage to a creature, that damage can't be prevented or dealt instead to another creature or player.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.735
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>134
+      </num>
+      <text>Lava Burst deals X damage to target creature or player. If Lava Burst would deal damage to a creature, that damage can't be prevented or dealt instead to another creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>184772
+      </id>
+      <name>Leaping Lizard
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{1}{G}: Leaping Lizard gets -0/-1 and gains flying until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.5
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>171
+      </num>
+      <text>{1}{G}: Leaping Lizard gets -0/-1 and gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184714
+      </id>
+      <name>Lim-Dûl's High Guard
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Skeleton
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike&lt;br&gt;{1}{B}: Regenerate Lim-Dûl's High Guard.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.125
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>103
+      </num>
+      <text>First strike&lt;br&gt;{1}{B}: Regenerate Lim-Dûl's High Guard.
+      </text>
+    </mc>
+    <mc>
+      <id>184559
+      </id>
+      <name>Lodestone Bauble
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}, Sacrifice Lodestone Bauble: Put up to four target basic land cards from a player's graveyard on top of his or her library in any order. That player draws a card at the beginning of the next turn's upkeep.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.042
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>213
+      </num>
+      <text>{1}, {T}, Sacrifice Lodestone Bauble: Put up to four target basic land cards from a player's graveyard on top of his or her library in any order. That player draws a card at the beginning of the next turn's upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>184649
+      </id>
+      <name>Lost Order of Jarkeld
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <oracleText>As Lost Order of Jarkeld enters the battlefield, choose an opponent.&lt;br&gt;Lost Order of Jarkeld's power and toughness are each equal to 1 plus the number of creatures the chosen player controls.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.656
+      </rating>
+      <artist>Andi Rusu
+      </artist>
+      <num>24
+      </num>
+      <text>As Lost Order of Jarkeld enters the battlefield, choose an opponent.&lt;br&gt;Lost Order of Jarkeld's power and toughness are each equal to 1 plus the number of creatures the chosen player controls.
+      </text>
+    </mc>
+    <mc>
+      <id>184732
+      </id>
+      <name>Magus of the Unseen
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{U}, {T}: Untap target artifact an opponent controls and gain control of it until end of turn. It gains haste until end of turn. When you lose control of the artifact, tap it.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.833
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>53
+      </num>
+      <text>{1}{U}, {T}: Untap target artifact an opponent controls and gain control of it until end of turn. It gains haste until end of turn. When you lose control of the artifact, tap it.
+      </text>
+    </mc>
+    <mc>
+      <id>184773
+      </id>
+      <name>Mana Crypt
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.&lt;br&gt;{T}: Add {2} to your mana pool.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.426
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>214
+      </num>
+      <text>At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.&lt;br&gt;{T}: Add {2} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>184593
+      </id>
+      <name>Marjhan
+      </name>
+      <cost>{5}{U}{U}
+      </cost>
+      <type>Creature - Leviathan
+      </type>
+      <power>8
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>Marjhan doesn't untap during your untap step.&lt;br&gt;{U}{U}, Sacrifice a creature: Untap Marjhan. Activate this ability only during your upkeep.&lt;br&gt;Marjhan can't attack unless defending player controls an Island.&lt;br&gt;{U}{U}: Marjhan gets -1/-0 until end of turn and deals 1 damage to target attacking creature without flying.&lt;br&gt;When you control no Islands, sacrifice Marjhan.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.611
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>54
+      </num>
+      <text>Marjhan doesn't untap during your untap step.&lt;br&gt;{U}{U}, Sacrifice a creature: Untap Marjhan. Activate this ability only during your upkeep.&lt;br&gt;Marjhan can't attack unless defending player controls an Island.&lt;br&gt;{U}{U}: Marjhan gets -1/-0 until end of turn and deals 1 damage to target attacking creature without flying.&lt;br&gt;When you control no Islands, sacrifice Marjhan.
+      </text>
+    </mc>
+    <mc>
+      <id>184747
+      </id>
+      <name>Mesmeric Trance
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;{U}, Discard a card: Draw a card.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.75
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>55
+      </num>
+      <text>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;{U}, Discard a card: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>184650
+      </id>
+      <name>Meteor Shower
+      </name>
+      <cost>{X}{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Meteor Shower deals X plus 1 damage divided as you choose among any number of target creatures and/or players.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Rick Emond
+      </artist>
+      <num>135
+      </num>
+      <text>Meteor Shower deals X plus 1 damage divided as you choose among any number of target creatures and/or players.
+      </text>
+    </mc>
+    <mc>
+      <id>184740
+      </id>
+      <name>Minion of Leshrac
+      </name>
+      <cost>{4}{B}{B}{B}
+      </cost>
+      <type>Creature - Demon Minion
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Protection from black&lt;br&gt;At the beginning of your upkeep, Minion of Leshrac deals 5 damage to you unless you sacrifice a creature other than Minion of Leshrac. If Minion of Leshrac deals damage to you this way, tap it.&lt;br&gt;{T}: Destroy target creature or land.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.54
+      </rating>
+      <artist>L.A. Williams
+      </artist>
+      <num>104
+      </num>
+      <text>Protection from black&lt;br&gt;At the beginning of your upkeep, Minion of Leshrac deals 5 damage to you unless you sacrifice a creature other than Minion of Leshrac. If Minion of Leshrac deals damage to you this way, tap it.&lt;br&gt;{T}: Destroy target creature or land.
+      </text>
+    </mc>
+    <mc>
+      <id>184560
+      </id>
+      <name>Mishra's Groundbreaker
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}, Sacrifice Mishra's Groundbreaker: Target land becomes a 3/3 artifact creature that's still a land. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.531
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>215
+      </num>
+      <text>{T}, Sacrifice Mishra's Groundbreaker: Target land becomes a 3/3 artifact creature that's still a land. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>184698
+      </id>
+      <name>Misinformation
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put up to three target cards from an opponent's graveyard on top of his or her library in any order.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.607
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>105
+      </num>
+      <text>Put up to three target cards from an opponent's graveyard on top of his or her library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>184727
+      </id>
+      <name>Mudslide
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures without flying don't untap during their controllers' untap steps.&lt;br&gt;At the beginning of each player's upkeep, that player may choose any number of tapped creatures without flying he or she controls and pay {2} for each creature chosen this way. If the player does, untap those creatures.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.158
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>136
+      </num>
+      <text>Creatures without flying don't untap during their controllers' untap steps.&lt;br&gt;At the beginning of each player's upkeep, that player may choose any number of tapped creatures without flying he or she controls and pay {2} for each creature chosen this way. If the player does, untap those creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>184755
+      </id>
+      <name>Musician
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;{T}: Put a music counter on target creature. If it doesn't have "At the beginning of your upkeep, destroy this creature unless you pay {1} for each music counter on it," it gains that ability.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.75
+      </rating>
+      <artist>Drew Tucker
+      </artist>
+      <num>56
+      </num>
+      <text>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;{T}: Put a music counter on target creature. If it doesn't have "At the beginning of your upkeep, destroy this creature unless you pay {1} for each music counter on it," it gains that ability.
+      </text>
+    </mc>
+    <mc>
+      <id>184594
+      </id>
+      <name>Narwhal
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature - Whale
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike, protection from red
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.911
+      </rating>
+      <artist>David A. Cherry
+      </artist>
+      <num>57
+      </num>
+      <text>First strike, protection from red
+      </text>
+    </mc>
+    <mc>
+      <id>184779
+      </id>
+      <name>Nature's Blessing
+      </name>
+      <cost>{2}{G}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{G}{W}, Discard a card: Put a +1/+1 counter on target creature or that creature gains banding, first strike, or trample. &lt;i&gt;(This effect lasts indefinitely. Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.167
+      </rating>
+      <artist>Sandra Everingham
+      </artist>
+      <num>196
+      </num>
+      <text>{G}{W}, Discard a card: Put a +1/+1 counter on target creature or that creature gains banding, first strike, or trample. &lt;i&gt;(This effect lasts indefinitely. Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>184561
+      </id>
+      <name>Nature's Wrath
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, sacrifice Nature's Wrath unless you pay {G}.&lt;br&gt;Whenever a player puts an Island or blue permanent onto the battlefield, he or she sacrifices an Island or blue permanent.&lt;br&gt;Whenever a player puts a Swamp or black permanent onto the battlefield, he or she sacrifices a Swamp or black permanent.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.423
+      </rating>
+      <artist>Liz Danforth
+      </artist>
+      <num>172
+      </num>
+      <text>At the beginning of your upkeep, sacrifice Nature's Wrath unless you pay {G}.&lt;br&gt;Whenever a player puts an Island or blue permanent onto the battlefield, he or she sacrifices an Island or blue permanent.&lt;br&gt;Whenever a player puts a Swamp or black permanent onto the battlefield, he or she sacrifices a Swamp or black permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>184699
+      </id>
+      <name>Necrite
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.781
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>106
+      </num>
+      <text>Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>184651
+      </id>
+      <name>Necropotence
+      </name>
+      <cost>{B}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Skip your draw step.&lt;br&gt;Whenever you discard a card, exile that card from your graveyard.&lt;br&gt;Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.712
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>107
+      </num>
+      <text>Skip your draw step.&lt;br&gt;Whenever you discard a card, exile that card from your graveyard.&lt;br&gt;Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>184700
+      </id>
+      <name>Night Soil
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.909
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>173
+      </num>
+      <text>{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>184774
+      </id>
+      <name>Orc General
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Orc Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Sacrifice another Orc or Goblin: Other Orc creatures get +1/+1 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.091
+      </rating>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>137
+      </num>
+      <text>{T}, Sacrifice another Orc or Goblin: Other Orc creatures get +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184652
+      </id>
+      <name>Orcish Cannoneers
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Orc Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Orcish Cannoneers deals 2 damage to target creature or player and 3 damage to you.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.8
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>138
+      </num>
+      <text>{T}: Orcish Cannoneers deals 2 damage to target creature or player and 3 damage to you.
+      </text>
+    </mc>
+    <mc>
+      <id>184505
+      </id>
+      <name>Orcish Captain
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Orc Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}: Flip a coin. If you win the flip, target Orc creature gets +2/+0 until end of turn. If you lose the flip, it gets -0/-2 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.6
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>139
+      </num>
+      <text>{1}: Flip a coin. If you win the flip, target Orc creature gets +2/+0 until end of turn. If you lose the flip, it gets -0/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184653
+      </id>
+      <name>Orcish Conscripts
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Orcish Conscripts can't attack unless at least two other creatures attack.&lt;br&gt;&lt;br&gt;Orcish Conscripts can't block unless at least two other creatures block.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.286
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>140
+      </num>
+      <text>Orcish Conscripts can't attack unless at least two other creatures attack.&lt;br&gt;&lt;br&gt;Orcish Conscripts can't block unless at least two other creatures block.
+      </text>
+    </mc>
+    <mc>
+      <id>184654
+      </id>
+      <name>Orcish Farmer
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Target land becomes a Swamp until its controller's next untap step.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.444
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>141
+      </num>
+      <text>{T}: Target land becomes a Swamp until its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>184656
+      </id>
+      <name>Orcish Lumberjack
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.36
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>142
+      </num>
+      <text>{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>184657
+      </id>
+      <name>Orcish Squatters
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Orcish Squatters attacks and isn't blocked, you may gain control of target land defending player controls for as long as you control Orcish Squatters. If you do, Orcish Squatters assigns no combat damage this turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.263
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>143
+      </num>
+      <text>Whenever Orcish Squatters attacks and isn't blocked, you may gain control of target land defending player controls for as long as you control Orcish Squatters. If you do, Orcish Squatters assigns no combat damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184701
+      </id>
+      <name>Orcish Veteran
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Orcish Veteran can't block white creatures with power 2 or greater.&lt;br&gt;{R}: Orcish Veteran gains first strike until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.938
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>144
+      </num>
+      <text>Orcish Veteran can't block white creatures with power 2 or greater.&lt;br&gt;{R}: Orcish Veteran gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184658
+      </id>
+      <name>Order of the Sacred Torch
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Pay 1 life: Counter target black spell.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.091
+      </rating>
+      <artist>Ruth Thompson
+      </artist>
+      <num>25
+      </num>
+      <text>{T}, Pay 1 life: Counter target black spell.
+      </text>
+    </mc>
+    <mc>
+      <id>184659
+      </id>
+      <name>Order of the White Shield
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from black&lt;br&gt;{W}: Order of the White Shield gains first strike until end of turn.&lt;br&gt;{W}{W}: Order of the White Shield gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.825
+      </rating>
+      <artist>Ruth Thompson
+      </artist>
+      <num>26
+      </num>
+      <text>Protection from black&lt;br&gt;{W}: Order of the White Shield gains first strike until end of turn.&lt;br&gt;{W}{W}: Order of the White Shield gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184742
+      </id>
+      <name>Panic
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Panic only during combat before blockers are declared.&lt;br&gt;Target creature can't block this turn.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.929
+      </rating>
+      <artist>Mike Kimble
+      </artist>
+      <num>145
+      </num>
+      <text>Cast Panic only during combat before blockers are declared.&lt;br&gt;Target creature can't block this turn.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>184775
+      </id>
+      <name>Personal Tutor
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a sorcery card and reveal that card. Shuffle your library, then put the card on top of it.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.833
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>58
+      </num>
+      <text>Search your library for a sorcery card and reveal that card. Shuffle your library, then put the card on top of it.
+      </text>
+    </mc>
+    <mc>
+      <id>190426
+      </id>
+      <name>Phantasmal Fiend
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>1
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>{B}: Phantasmal Fiend gets +1/-1 until end of turn.&lt;br&gt;{1}{U}: Switch Phantasmal Fiend's power and toughness until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.667
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>108
+      </num>
+      <text>{B}: Phantasmal Fiend gets +1/-1 until end of turn.&lt;br&gt;{1}{U}: Switch Phantasmal Fiend's power and toughness until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184708
+      </id>
+      <name>Phantasmal Mount
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Illusion Horse
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{T}: Target creature you control with toughness 2 or less gets +1/+1 and gains flying until end of turn. When Phantasmal Mount leaves the battlefield this turn, sacrifice that creature. When the creature leaves the battlefield this turn, sacrifice Phantasmal Mount.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.4
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>59
+      </num>
+      <text>Flying&lt;br&gt;{T}: Target creature you control with toughness 2 or less gets +1/+1 and gains flying until end of turn. When Phantasmal Mount leaves the battlefield this turn, sacrifice that creature. When the creature leaves the battlefield this turn, sacrifice Phantasmal Mount.
+      </text>
+    </mc>
+    <mc>
+      <id>184563
+      </id>
+      <name>Phyrexian Devourer
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Phyrexian Devourer's power is 7 or greater, sacrifice it.&lt;br&gt;Exile the top card of your library: Put X +1/+1 counters on Phyrexian Devourer, where X is the exiled card's converted mana cost.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.907
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>216
+      </num>
+      <text>When Phyrexian Devourer's power is 7 or greater, sacrifice it.&lt;br&gt;Exile the top card of your library: Put X +1/+1 counters on Phyrexian Devourer, where X is the exiled card's converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>184564
+      </id>
+      <name>Phyrexian Portal
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}: If your library has ten or more cards in it, target opponent looks at the top ten cards of your library and separates them into two face-down piles. Exile one of those piles. Search the other pile for a card, put it into your hand, then shuffle the rest of that pile into your library.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.529
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>217
+      </num>
+      <text>{3}: If your library has ten or more cards in it, target opponent looks at the top ten cards of your library and separates them into two face-down piles. Exile one of those piles. Search the other pile for a card, put it into your hand, then shuffle the rest of that pile into your library.
+      </text>
+    </mc>
+    <mc>
+      <id>184567
+      </id>
+      <name>Pillage
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target artifact or land. It can't be regenerated.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.693
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>146
+      </num>
+      <text>Destroy target artifact or land. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>184661
+      </id>
+      <name>Portent
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle his or her library.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.2
+      </rating>
+      <artist>Liz Danforth
+      </artist>
+      <num>60
+      </num>
+      <text>Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle his or her library.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>184763
+      </id>
+      <name>Pyrokinesis
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You may exile a red card from your hand rather than pay Pyrokinesis's mana cost.&lt;br&gt;Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.021
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>147
+      </num>
+      <text>You may exile a red card from your hand rather than pay Pyrokinesis's mana cost.&lt;br&gt;Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>184724
+      </id>
+      <name>Ravages of War
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all lands.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.6
+      </rating>
+      <artist>Fang Yue
+      </artist>
+      <num>27
+      </num>
+      <text>Destroy all lands.
+      </text>
+    </mc>
+    <mc>
+      <id>184663
+      </id>
+      <name>Ray of Command
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.28
+      </rating>
+      <artist>Harold McNeill
+      </artist>
+      <num>61
+      </num>
+      <text>Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.
+      </text>
+    </mc>
+    <mc>
+      <id>184725
+      </id>
+      <name>Red Cliffs Armada
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Red Cliffs Armada can't attack unless defending player controls an Island.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.273
+      </rating>
+      <artist>Zhang Jiazhen
+      </artist>
+      <num>62
+      </num>
+      <text>Red Cliffs Armada can't attack unless defending player controls an Island.
+      </text>
+    </mc>
+    <mc>
+      <id>184597
+      </id>
+      <name>Reinforcements
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put up to three target creature cards from your graveyard on top of your library.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.868
+      </rating>
+      <artist>Diane Vick
+      </artist>
+      <num>28
+      </num>
+      <text>Put up to three target creature cards from your graveyard on top of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>184707
+      </id>
+      <name>Reprisal
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature with power 4 or greater. It can't be regenerated.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.977
+      </rating>
+      <artist>Randy Asplund
+      </artist>
+      <num>29
+      </num>
+      <text>Destroy target creature with power 4 or greater. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>184595
+      </id>
+      <name>Retribution
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose two target creatures an opponent controls. That player chooses and sacrifices one of those creatures. Put a -1/-1 counter on the other.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.192
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>148
+      </num>
+      <text>Choose two target creatures an opponent controls. That player chooses and sacrifices one of those creatures. Put a -1/-1 counter on the other.
+      </text>
+    </mc>
+    <mc>
+      <id>184756
+      </id>
+      <name>Righteous Fury
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all tapped creatures. You gain 2 life for each creature destroyed this way.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.138
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>30
+      </num>
+      <text>Destroy all tapped creatures. You gain 2 life for each creature destroyed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>184664
+      </id>
+      <name>Ritual of Subdual
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;If a land is tapped for mana, it produces colorless mana instead of any other type.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.333
+      </rating>
+      <artist>Justin Hampton
+      </artist>
+      <num>174
+      </num>
+      <text>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;If a land is tapped for mana, it produces colorless mana instead of any other type.
+      </text>
+    </mc>
+    <mc>
+      <id>184570
+      </id>
+      <name>Ritual of the Machine
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Ritual of the Machine, sacrifice a creature.&lt;br&gt;Gain control of target nonartifact, nonblack creature.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.975
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>109
+      </num>
+      <text>As an additional cost to cast Ritual of the Machine, sacrifice a creature.&lt;br&gt;Gain control of target nonartifact, nonblack creature.
+      </text>
+    </mc>
+    <mc>
+      <id>184571
+      </id>
+      <name>Rogue Skycaptain
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Human Rogue Mercenary
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, put a wage counter on Rogue Skycaptain. You may pay {2} for each wage counter on it. If you don't, remove all wage counters from Rogue Skycaptain and an opponent gains control of it.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.536
+      </rating>
+      <artist>Randy Asplund
+      </artist>
+      <num>149
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, put a wage counter on Rogue Skycaptain. You may pay {2} for each wage counter on it. If you don't, remove all wage counters from Rogue Skycaptain and an opponent gains control of it.
+      </text>
+    </mc>
+    <mc>
+      <id>184596
+      </id>
+      <name>Roterothopter
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact Creature - Thopter
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{2}: Roterothopter gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.594
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>218
+      </num>
+      <text>Flying&lt;br&gt;{2}: Roterothopter gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184715
+      </id>
+      <name>Royal Decree
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep {W} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Whenever a Swamp, Mountain, black permanent, or red permanent becomes tapped, Royal Decree deals 1 damage to that permanent's controller.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.75
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>31
+      </num>
+      <text>Cumulative upkeep {W} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Whenever a Swamp, Mountain, black permanent, or red permanent becomes tapped, Royal Decree deals 1 damage to that permanent's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>184758
+      </id>
+      <name>Royal Trooper
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Royal Trooper blocks, it gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.75
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>32
+      </num>
+      <text>Whenever Royal Trooper blocks, it gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184516
+      </id>
+      <name>Ruins of Trokair
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Ruins of Trokair enters the battlefield tapped.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;{T}, Sacrifice Ruins of Trokair: Add {W}{W} to your mana pool.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.056
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>234
+      </num>
+      <text>Ruins of Trokair enters the battlefield tapped.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;{T}, Sacrifice Ruins of Trokair: Add {W}{W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>184608
+      </id>
+      <name>Sacred Boon
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent the next 3 damage that would be dealt to target creature this turn. At the beginning of the next end step, put a +0/+1 counter on that creature for each 1 damage prevented this way.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.025
+      </rating>
+      <artist>Mike Raabe
+      </artist>
+      <num>33
+      </num>
+      <text>Prevent the next 3 damage that would be dealt to target creature this turn. At the beginning of the next end step, put a +0/+1 counter on that creature for each 1 damage prevented this way.
+      </text>
+    </mc>
+    <mc>
+      <id>184749
+      </id>
+      <name>Savannah
+      </name>
+      <type>Land - Forest Plains
+      </type>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.908
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>235
+      </num>
+    </mc>
+    <mc>
+      <id>184572
+      </id>
+      <name>Scars of the Veteran
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You may exile a white card from your hand rather than pay Scars of the Veteran's mana cost.&lt;br&gt;Prevent the next 7 damage that would be dealt to target creature or player this turn. At the beginning of the next end step, put a +0/+1 counter on that creature for each 1 damage prevented this way.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.389
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>34
+      </num>
+      <text>You may exile a white card from your hand rather than pay Scars of the Veteran's mana cost.&lt;br&gt;Prevent the next 7 damage that would be dealt to target creature or player this turn. At the beginning of the next end step, put a +0/+1 counter on that creature for each 1 damage prevented this way.
+      </text>
+    </mc>
+    <mc>
+      <id>184738
+      </id>
+      <name>Screeching Drake
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Screeching Drake enters the battlefield, draw a card, then discard a card.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.5
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>63
+      </num>
+      <text>Flying&lt;br&gt;When Screeching Drake enters the battlefield, draw a card, then discard a card.
+      </text>
+    </mc>
+    <mc>
+      <id>184769
+      </id>
+      <name>Sea Drake
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Sea Drake enters the battlefield, return two target lands you control to their owner's hand.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.707
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>64
+      </num>
+      <text>Flying&lt;br&gt;When Sea Drake enters the battlefield, return two target lands you control to their owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>184660
+      </id>
+      <name>Sea Spirit
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Elemental Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{U}: Sea Spirit gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.1
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>65
+      </num>
+      <text>{U}: Sea Spirit gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184702
+      </id>
+      <name>Shield Bearer
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.611
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>35
+      </num>
+      <text>Banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>184688
+      </id>
+      <name>Shrink
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -5/-0 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.04
+      </rating>
+      <artist>Liz Danforth
+      </artist>
+      <num>175
+      </num>
+      <text>Target creature gets -5/-0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184721
+      </id>
+      <name>Shyft
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, you may have Shyft become the color or colors of your choice. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.333
+      </rating>
+      <artist>Richard Thomas
+      </artist>
+      <num>66
+      </num>
+      <text>At the beginning of your upkeep, you may have Shyft become the color or colors of your choice. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>184665
+      </id>
+      <name>Sibilant Spirit
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Sibilant Spirit attacks, defending player may draw a card.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.0
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>67
+      </num>
+      <text>Flying&lt;br&gt;Whenever Sibilant Spirit attacks, defending player may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>184666
+      </id>
+      <name>Skeleton Ship
+      </name>
+      <cost>{3}{U}{B}
+      </cost>
+      <type>Legendary Creature - Skeleton
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When you control no Islands, sacrifice Skeleton Ship.&lt;br&gt;{T}: Put a -1/-1 counter on target creature.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.054
+      </rating>
+      <artist>Amy Weber &amp; Tom Wänerstrand
+      </artist>
+      <num>197
+      </num>
+      <text>When you control no Islands, sacrifice Skeleton Ship.&lt;br&gt;{T}: Put a -1/-1 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>184667
+      </id>
+      <name>Skull Catapult
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}, Sacrifice a creature: Skull Catapult deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.477
+      </rating>
+      <artist>Bryon Wackwitz
+      </artist>
+      <num>219
+      </num>
+      <text>{1}, {T}, Sacrifice a creature: Skull Catapult deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>184705
+      </id>
+      <name>Snow Fortress
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;{1}: Snow Fortress gets +1/+0 until end of turn.&lt;br&gt;{1}: Snow Fortress gets +0/+1 until end of turn.&lt;br&gt;{3}: Snow Fortress deals 1 damage to target creature without flying that's attacking you.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.556
+      </rating>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>220
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;{1}: Snow Fortress gets +1/+0 until end of turn.&lt;br&gt;{1}: Snow Fortress gets +0/+1 until end of turn.&lt;br&gt;{3}: Snow Fortress deals 1 damage to target creature without flying that's attacking you.
+      </text>
+    </mc>
+    <mc>
+      <id>184812
+      </id>
+      <name>Snow-Covered Forest
+      </name>
+      <type>Basic Snow Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.538
+      </rating>
+      <artist>Pat Morrissey
+      </artist>
+      <num>245
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>184813
+      </id>
+      <name>Snow-Covered Island
+      </name>
+      <type>Basic Snow Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.594
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>242
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>184814
+      </id>
+      <name>Snow-Covered Mountain
+      </name>
+      <type>Basic Snow Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>244
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>184815
+      </id>
+      <name>Snow-Covered Plains
+      </name>
+      <type>Basic Snow Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.738
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>241
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>184816
+      </id>
+      <name>Snow-Covered Swamp
+      </name>
+      <type>Basic Snow Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.54
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>243
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>184574
+      </id>
+      <name>Soldevi Digger
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}: Put the top card of your graveyard on the bottom of your library.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.088
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>221
+      </num>
+      <text>{2}: Put the top card of your graveyard on the bottom of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>184575
+      </id>
+      <name>Soldevi Excavations
+      </name>
+      <type>Land
+      </type>
+      <oracleText>If Soldevi Excavations would enter the battlefield, sacrifice an untapped Island instead. If you do, put Soldevi Excavations onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add {1}{U} to your mana pool.&lt;br&gt;{1}, {T}: Look at the top card of your library. You may put that card on the bottom of your library.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Liz Danforth
+      </artist>
+      <num>236
+      </num>
+      <text>If Soldevi Excavations would enter the battlefield, sacrifice an untapped Island instead. If you do, put Soldevi Excavations onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add {1}{U} to your mana pool.&lt;br&gt;{1}, {T}: Look at the top card of your library. You may put that card on the bottom of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>184668
+      </id>
+      <name>Soldevi Simulacrum
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;{1}: Soldevi Simulacrum gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.633
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>222
+      </num>
+      <text>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;{1}: Soldevi Simulacrum gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184745
+      </id>
+      <name>Songs of the Damned
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Add {B} to your mana pool for each creature card in your graveyard.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.263
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>110
+      </num>
+      <text>Add {B} to your mana pool for each creature card in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>184517
+      </id>
+      <name>Soul Exchange
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Soul Exchange, exile a creature you control.&lt;br&gt;Return target creature card from your graveyard to the battlefield. Put a +2/+2 counter on that creature if the exiled creature was a Thrull.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.435
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>111
+      </num>
+      <text>As an additional cost to cast Soul Exchange, exile a creature you control.&lt;br&gt;Return target creature card from your graveyard to the battlefield. Put a +2/+2 counter on that creature if the exiled creature was a Thrull.
+      </text>
+    </mc>
+    <mc>
+      <id>184611
+      </id>
+      <name>Soul Kiss
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;{B}, Pay 1 life: Enchanted creature gets +2/+2 until end of turn. Activate this ability no more than three times each turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.095
+      </rating>
+      <artist>Nicola Leonard
+      </artist>
+      <num>112
+      </num>
+      <text>Enchant creature&lt;br&gt;{B}, Pay 1 life: Enchanted creature gets +2/+2 until end of turn. Activate this ability no more than three times each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184710
+      </id>
+      <name>Spore Cloud
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.711
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>176
+      </num>
+      <text>Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>184521
+      </id>
+      <name>Spore Flower
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Spore Flower.&lt;br&gt;Remove three spore counters from Spore Flower: Prevent all combat damage that would be dealt this turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.661
+      </rating>
+      <artist>Margaret Organ-Kean
+      </artist>
+      <num>177
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Spore Flower.&lt;br&gt;Remove three spore counters from Spore Flower: Prevent all combat damage that would be dealt this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184670
+      </id>
+      <name>Stampede
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Attacking creatures get +1/+0 and gain trample until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.156
+      </rating>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>178
+      </num>
+      <text>Attacking creatures get +1/+0 and gain trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184655
+      </id>
+      <name>Stone Spirit
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Elemental Spirit
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Stone Spirit can't be blocked by creatures with flying.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.536
+      </rating>
+      <artist>James Allen
+      </artist>
+      <num>150
+      </num>
+      <text>Stone Spirit can't be blocked by creatures with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>184694
+      </id>
+      <name>Stonehands
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +0/+2.&lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.425
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>151
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +0/+2.&lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184581
+      </id>
+      <name>Storm Elemental
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{U}, Exile the top card of your library: Tap target creature with flying.&lt;br&gt;{U}, Exile the top card of your library: If the exiled card is a snow land, Storm Elemental gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.452
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>68
+      </num>
+      <text>Flying&lt;br&gt;{U}, Exile the top card of your library: Tap target creature with flying.&lt;br&gt;{U}, Exile the top card of your library: If the exiled card is a snow land, Storm Elemental gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184672
+      </id>
+      <name>Storm Spirit
+      </name>
+      <cost>{3}{G}{W}{U}
+      </cost>
+      <type>Creature - Elemental Spirit
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{T}: Storm Spirit deals 2 damage to target creature.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.667
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>198
+      </num>
+      <text>Flying&lt;br&gt;{T}: Storm Spirit deals 2 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>184673
+      </id>
+      <name>Stromgald Cabal
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Pay 1 life: Counter target white spell.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.6
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>113
+      </num>
+      <text>{T}, Pay 1 life: Counter target white spell.
+      </text>
+    </mc>
+    <mc>
+      <id>184674
+      </id>
+      <name>Stunted Growth
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player chooses three cards from his or her hand and puts them on top of his or her library in any order.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.643
+      </rating>
+      <artist>NéNé Thomas
+      </artist>
+      <num>179
+      </num>
+      <text>Target player chooses three cards from his or her hand and puts them on top of his or her library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>184744
+      </id>
+      <name>Sustaining Spirit
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Angel Spirit
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Cumulative upkeep {1}{W} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Damage that would reduce your life total to less than 1 reduces it to 1 instead.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.188
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>36
+      </num>
+      <text>Cumulative upkeep {1}{W} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Damage that would reduce your life total to less than 1 reduces it to 1 instead.
+      </text>
+    </mc>
+    <mc>
+      <id>184522
+      </id>
+      <name>Svyelunite Temple
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Svyelunite Temple enters the battlefield tapped.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.133
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>237
+      </num>
+      <text>Svyelunite Temple enters the battlefield tapped.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>184675
+      </id>
+      <name>Swords to Plowshares
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature. Its controller gains life equal to its power.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.718
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>37
+      </num>
+      <text>Exile target creature. Its controller gains life equal to its power.
+      </text>
+    </mc>
+    <mc>
+      <id>184750
+      </id>
+      <name>Taiga
+      </name>
+      <type>Land - Mountain Forest
+      </type>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.913
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>238
+      </num>
+    </mc>
+    <mc>
+      <id>184770
+      </id>
+      <name>Temporal Manipulation
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Take an extra turn after this one.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.286
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>69
+      </num>
+      <text>Take an extra turn after this one.
+      </text>
+    </mc>
+    <mc>
+      <id>184711
+      </id>
+      <name>Thallid
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thallid.&lt;br&gt;Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.838
+      </rating>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>180
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Thallid.&lt;br&gt;Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>184527
+      </id>
+      <name>Thallid Devourer
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thallid Devourer.&lt;br&gt;Remove three spore counters from Thallid Devourer: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;Sacrifice a Saproling: Thallid Devourer gets +1/+2 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.036
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>181
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Thallid Devourer.&lt;br&gt;Remove three spore counters from Thallid Devourer: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;Sacrifice a Saproling: Thallid Devourer gets +1/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184528
+      </id>
+      <name>Thelonite Druid
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Human Cleric Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{G}, {T}, Sacrifice a creature: Forests you control become 2/3 creatures until end of turn. They're still lands.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Margaret Organ-Kean
+      </artist>
+      <num>182
+      </num>
+      <text>{1}{G}, {T}, Sacrifice a creature: Forests you control become 2/3 creatures until end of turn. They're still lands.
+      </text>
+    </mc>
+    <mc>
+      <id>184676
+      </id>
+      <name>Thermokarst
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target land. If that land was a snow land, you gain 1 life.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Ken Meyer, Jr.
+      </artist>
+      <num>183
+      </num>
+      <text>Destroy target land. If that land was a snow land, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>184582
+      </id>
+      <name>Thought Lash
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep—Exile the top card of your library. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When a player doesn't pay Thought Lash's cumulative upkeep, that player exiles all cards from his or her library.&lt;br&gt;Exile the top card of your library: Prevent the next 1 damage that would be dealt to you this turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.543
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>70
+      </num>
+      <text>Cumulative upkeep—Exile the top card of your library. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When a player doesn't pay Thought Lash's cumulative upkeep, that player exiles all cards from his or her library.&lt;br&gt;Exile the top card of your library: Prevent the next 1 damage that would be dealt to you this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184739
+      </id>
+      <name>Thunder Wall
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;{U}: Thunder Wall gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.429
+      </rating>
+      <artist>Richard Thomas
+      </artist>
+      <num>71
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;{U}: Thunder Wall gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184677
+      </id>
+      <name>Time Bomb
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>At the beginning of your upkeep, put a time counter on Time Bomb.&lt;br&gt;{1}, {T}, Sacrifice Time Bomb: Time Bomb deals damage equal to the number of time counters on it to each creature and each player.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.091
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>223
+      </num>
+      <text>At the beginning of your upkeep, put a time counter on Time Bomb.&lt;br&gt;{1}, {T}, Sacrifice Time Bomb: Time Bomb deals damage equal to the number of time counters on it to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>184678
+      </id>
+      <name>Tinder Wall
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Plant Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Sacrifice Tinder Wall: Add {R}{R} to your mana pool.&lt;br&gt;{R}, Sacrifice Tinder Wall: Tinder Wall deals 2 damage to target creature it's blocking.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.612
+      </rating>
+      <artist>Rick Emond
+      </artist>
+      <num>184
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Sacrifice Tinder Wall: Add {R}{R} to your mana pool.&lt;br&gt;{R}, Sacrifice Tinder Wall: Tinder Wall deals 2 damage to target creature it's blocking.
+      </text>
+    </mc>
+    <mc>
+      <id>184751
+      </id>
+      <name>Tundra
+      </name>
+      <type>Land - Plains Island
+      </type>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.902
+      </rating>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>239
+      </num>
+    </mc>
+    <mc>
+      <id>184752
+      </id>
+      <name>Underground Sea
+      </name>
+      <type>Land - Island Swamp
+      </type>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.811
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>240
+      </num>
+    </mc>
+    <mc>
+      <id>184720
+      </id>
+      <name>Varchild's Crusader
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{0}: Varchild's Crusader can't be blocked this turn except by Walls. Sacrifice Varchild's Crusader at the beginning of the next end step.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.864
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>152
+      </num>
+      <text>{0}: Varchild's Crusader can't be blocked this turn except by Walls. Sacrifice Varchild's Crusader at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>184706
+      </id>
+      <name>Viscerid Armor
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1.&lt;br&gt;{1}{U}: Return Viscerid Armor to its owner's hand.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.636
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>72
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1.&lt;br&gt;{1}{U}: Return Viscerid Armor to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>184764
+      </id>
+      <name>Viscerid Drone
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Homarid Drone
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Sacrifice a creature and a Swamp: Destroy target nonartifact creature. It can't be regenerated.&lt;br&gt;{T}, Sacrifice a creature and a snow Swamp: Destroy target creature. It can't be regenerated.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.36
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>73
+      </num>
+      <text>{T}, Sacrifice a creature and a Swamp: Destroy target nonartifact creature. It can't be regenerated.&lt;br&gt;{T}, Sacrifice a creature and a snow Swamp: Destroy target creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>184598
+      </id>
+      <name>Wall of Kelp
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Creature - Plant Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;{U}{U}, {T}: Put a 0/1 blue Plant Wall creature token with defender named Kelp onto the battlefield.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.19
+      </rating>
+      <artist>Alan Rabinowitz
+      </artist>
+      <num>74
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;{U}{U}, {T}: Put a 0/1 blue Plant Wall creature token with defender named Kelp onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>184719
+      </id>
+      <name>Warning
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all combat damage that would be dealt by target attacking creature this turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.15
+      </rating>
+      <artist>Pat Morrissey
+      </artist>
+      <num>38
+      </num>
+      <text>Prevent all combat damage that would be dealt by target attacking creature this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184583
+      </id>
+      <name>Whirling Catapult
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, Exile the top two cards of your library: Whirling Catapult deals 1 damage to each creature with flying and each player.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.464
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>224
+      </num>
+      <text>{2}, Exile the top two cards of your library: Whirling Catapult deals 1 damage to each creature with flying and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>184768
+      </id>
+      <name>Whiteout
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>All creatures lose flying until end of turn.&lt;br&gt;Sacrifice a snow land: Return Whiteout from your graveyard to your hand.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>NéNé Thomas
+      </artist>
+      <num>185
+      </num>
+      <text>All creatures lose flying until end of turn.&lt;br&gt;Sacrifice a snow land: Return Whiteout from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>184679
+      </id>
+      <name>Wiitigo
+      </name>
+      <cost>{3}{G}{G}{G}
+      </cost>
+      <type>Creature - Yeti
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Wiitigo enters the battlefield with six +1/+1 counters on it.&lt;br&gt;At the beginning of your upkeep, put a +1/+1 counter on Wiitigo if it has blocked or been blocked since your last upkeep. Otherwise, remove a +1/+1 counter from it.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.367
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>186
+      </num>
+      <text>Wiitigo enters the battlefield with six +1/+1 counters on it.&lt;br&gt;At the beginning of your upkeep, put a +1/+1 counter on Wiitigo if it has blocked or been blocked since your last upkeep. Otherwise, remove a +1/+1 counter from it.
+      </text>
+    </mc>
+    <mc>
+      <id>184680
+      </id>
+      <name>Wind Spirit
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Elemental Spirit
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Wind Spirit can't be blocked except by two or more creatures.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.767
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>75
+      </num>
+      <text>Flying&lt;br&gt;Wind Spirit can't be blocked except by two or more creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>184628
+      </id>
+      <name>Wings of Aesthir
+      </name>
+      <cost>{W}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+0 and has flying and first strike.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.326
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>199
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+0 and has flying and first strike.
+      </text>
+    </mc>
+    <mc>
+      <id>184584
+      </id>
+      <name>Winter's Night
+      </name>
+      <cost>{R}{G}{W}
+      </cost>
+      <type>World Enchantment
+      </type>
+      <oracleText>Whenever a player taps a snow land for mana, that player adds one mana to his or her mana pool of any type that land produced. That land doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.275
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>200
+      </num>
+      <text>Whenever a player taps a snow land for mana, that player adds one mana to his or her mana pool of any type that land produced. That land doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>184681
+      </id>
+      <name>Withering Wisps
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of the end step, if no creatures are on the battlefield, sacrifice Withering Wisps.&lt;br&gt;{B}: Withering Wisps deals 1 damage to each creature and each player. Activate this ability no more times each turn than the number of snow Swamps you control.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.133
+      </rating>
+      <artist>NéNé Thomas
+      </artist>
+      <num>114
+      </num>
+      <text>At the beginning of the end step, if no creatures are on the battlefield, sacrifice Withering Wisps.&lt;br&gt;{B}: Withering Wisps deals 1 damage to each creature and each player. Activate this ability no more times each turn than the number of snow Swamps you control.
+      </text>
+    </mc>
+    <mc>
+      <id>184778
+      </id>
+      <name>Wolf Pack
+      </name>
+      <cost>{6}{G}{G}
+      </cost>
+      <type>Creature - Wolf
+      </type>
+      <power>7
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>You may have Wolf Pack assign its combat damage as though it weren't blocked.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.922
+      </rating>
+      <artist>Yang Jun Kwon
+      </artist>
+      <num>187
+      </num>
+      <text>You may have Wolf Pack assign its combat damage as though it weren't blocked.
+      </text>
+    </mc>
+    <mc>
+      <id>184682
+      </id>
+      <name>Woolly Mammoths
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Elephant
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Woolly Mammoths has trample as long as you control a snow land.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.676
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>188
+      </num>
+      <text>Woolly Mammoths has trample as long as you control a snow land.
+      </text>
+    </mc>
+    <mc>
+      <id>184539
+      </id>
+      <name>Woolly Spider
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Whenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.477
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>189
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Whenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184765
+      </id>
+      <name>Yavimaya Ancients
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Treefolk
+      </type>
+      <power>2
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>{G}: Yavimaya Ancients gets +1/-2 until end of turn.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.75
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>190
+      </num>
+      <text>{G}: Yavimaya Ancients gets +1/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184683
+      </id>
+      <name>Zuran Spellcaster
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Zuran Spellcaster deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Masters Edition II
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.184
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>76
+      </num>
+      <text>{T}: Zuran Spellcaster deals 1 damage to target creature or player.
+      </text>
+    </mc>
+  </list>
+</cards>

@@ -1,0 +1,4927 @@
+
+<cards>
+  <name>Fallen_Empires</name>
+  <key>Fallen_Empires</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>1827
+      </id>
+      <name>Aeolipile
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}, Sacrifice Aeolipile: Aeolipile deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.652
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>1
+      </num>
+      <text>{1}, {T}, Sacrifice Aeolipile: Aeolipile deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>1828
+      </id>
+      <name>Balm of Restoration
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}, Sacrifice Balm of Restoration: Choose one- You gain 2 life; or prevent the next 2 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.078
+      </rating>
+      <artist>Margaret Organ-Kean
+      </artist>
+      <num>2
+      </num>
+      <text>{1}, {T}, Sacrifice Balm of Restoration: Choose one- You gain 2 life; or prevent the next 2 damage that would be dealt to target creature or player this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1829
+      </id>
+      <name>Conch Horn
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}, Sacrifice Conch Horn: Draw two cards, then put a card from your hand on top of your library.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.471
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>3
+      </num>
+      <text>{1}, {T}, Sacrifice Conch Horn: Draw two cards, then put a card from your hand on top of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>1830
+      </id>
+      <name>Delif's Cone
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}, Sacrifice Delif's Cone: This turn, when target creature you control attacks and isn't blocked, you may gain life equal to its power. If you do, it assigns no combat damage this turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.591
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>4
+      </num>
+      <text>{T}, Sacrifice Delif's Cone: This turn, when target creature you control attacks and isn't blocked, you may gain life equal to its power. If you do, it assigns no combat damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1831
+      </id>
+      <name>Delif's Cube
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}: This turn, when target creature you control attacks and isn't blocked, it assigns no combat damage this turn and you put a cube counter on Delif's Cube.&lt;br&gt;{2}, Remove a cube counter from Delif's Cube: Regenerate target creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.519
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>5
+      </num>
+      <text>{2}, {T}: This turn, when target creature you control attacks and isn't blocked, it assigns no combat damage this turn and you put a cube counter on Delif's Cube.&lt;br&gt;{2}, Remove a cube counter from Delif's Cube: Regenerate target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1832
+      </id>
+      <name>Draconian Cylix
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}, Discard a card at random: Regenerate target creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.905
+      </rating>
+      <artist>Edward Beard, Jr.
+      </artist>
+      <num>6
+      </num>
+      <text>{2}, {T}, Discard a card at random: Regenerate target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1833
+      </id>
+      <name>Elven Lyre
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}, Sacrifice Elven Lyre: Target creature gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.525
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>7
+      </num>
+      <text>{1}, {T}, Sacrifice Elven Lyre: Target creature gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1834
+      </id>
+      <name>Implements of Sacrifice
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}, Sacrifice Implements of Sacrifice: Add two mana of any one color to your mana pool.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.562
+      </rating>
+      <artist>Margaret Organ-Kean
+      </artist>
+      <num>8
+      </num>
+      <text>{1}, {T}, Sacrifice Implements of Sacrifice: Add two mana of any one color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>1835
+      </id>
+      <name>Ring of Renewal
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{5}, {T}: Discard a card at random, then draw two cards.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.417
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>9
+      </num>
+      <text>{5}, {T}: Discard a card at random, then draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>1836
+      </id>
+      <name>Spirit Shield
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may choose not to untap Spirit Shield during your untap step.&lt;br&gt;{2}, {T}: Target creature gets +0/+2 for as long as Spirit Shield remains tapped.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.706
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>10
+      </num>
+      <text>You may choose not to untap Spirit Shield during your untap step.&lt;br&gt;{2}, {T}: Target creature gets +0/+2 for as long as Spirit Shield remains tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>1837
+      </id>
+      <name>Zelyon Sword
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may choose not to untap Zelyon Sword during your untap step.&lt;br&gt;{3}, {T}: Target creature gets +2/+0 for as long as Zelyon Sword remains tapped.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.523
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>11
+      </num>
+      <text>You may choose not to untap Zelyon Sword during your untap step.&lt;br&gt;{3}, {T}: Target creature gets +2/+0 for as long as Zelyon Sword remains tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>1841
+      </id>
+      <name>Armor Thrull
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.368
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>12
+      </num>
+      <text>{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1842
+      </id>
+      <name>Basal Thrull
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.2
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>13
+      </num>
+      <text>{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>1848
+      </id>
+      <name>Ebon Praetor
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Avatar Praetor
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>First strike, trample&lt;br&gt;At the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor.&lt;br&gt;Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate this ability only during your upkeep and only once each turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.3
+      </rating>
+      <artist>Randy Asplund-Faith
+      </artist>
+      <num>14
+      </num>
+      <text>First strike, trample&lt;br&gt;At the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor.&lt;br&gt;Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate this ability only during your upkeep and only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1850
+      </id>
+      <name>Hymn to Tourach
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards two cards at random.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.888
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>15
+      </num>
+      <text>Target player discards two cards at random.
+      </text>
+    </mc>
+    <mc>
+      <id>1863
+      </id>
+      <name>Order of the Ebon Hand
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Cleric Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from white&lt;br&gt;{B}: Order of the Ebon Hand gains first strike until end of turn.&lt;br&gt;{B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.212
+      </rating>
+      <artist>Melissa Benson
+      </artist>
+      <num>16
+      </num>
+      <text>Protection from white&lt;br&gt;{B}: Order of the Ebon Hand gains first strike until end of turn.&lt;br&gt;{B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1865
+      </id>
+      <name>Soul Exchange
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Soul Exchange, exile a creature you control.&lt;br&gt;Return target creature card from your graveyard to the battlefield. Put a +2/+2 counter on that creature if the exiled creature was a Thrull.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.819
+      </rating>
+      <artist>Anthony Waters
+      </artist>
+      <num>17
+      </num>
+      <text>As an additional cost to cast Soul Exchange, exile a creature you control.&lt;br&gt;Return target creature card from your graveyard to the battlefield. Put a +2/+2 counter on that creature if the exiled creature was a Thrull.
+      </text>
+    </mc>
+    <mc>
+      <id>1866
+      </id>
+      <name>Thrull Champion
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Thrull creatures get +1/+1.&lt;br&gt;{T}: Gain control of target Thrull for as long as you control Thrull Champion.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.778
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>18
+      </num>
+      <text>Thrull creatures get +1/+1.&lt;br&gt;{T}: Gain control of target Thrull for as long as you control Thrull Champion.
+      </text>
+    </mc>
+    <mc>
+      <id>1868
+      </id>
+      <name>Thrull Wizard
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Thrull Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{B}: Counter target black spell unless that spell's controller pays {B} or {3}.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.435
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>19
+      </num>
+      <text>{1}{B}: Counter target black spell unless that spell's controller pays {B} or {3}.
+      </text>
+    </mc>
+    <mc>
+      <id>1869
+      </id>
+      <name>Tourach's Chant
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, sacrifice Tourach's Chant unless you pay {B}.&lt;br&gt;Whenever a player puts a Forest onto the battlefield, Tourach's Chant deals 3 damage to that player unless he or she puts a -1/-1 counter on a creature he or she controls.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.694
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>20
+      </num>
+      <text>At the beginning of your upkeep, sacrifice Tourach's Chant unless you pay {B}.&lt;br&gt;Whenever a player puts a Forest onto the battlefield, Tourach's Chant deals 3 damage to that player unless he or she puts a -1/-1 counter on a creature he or she controls.
+      </text>
+    </mc>
+    <mc>
+      <id>1870
+      </id>
+      <name>Tourach's Gate
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land you control&lt;br&gt;Sacrifice a Thrull: Put three time counters on Tourach's Gate.&lt;br&gt;At the beginning of your upkeep, remove a time counter from Tourach's Gate. If there are no time counters on Tourach's Gate, sacrifice it.&lt;br&gt;Tap enchanted land: Attacking creatures you control get +2/-1 until end of turn. Activate this ability only if enchanted land is untapped.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.32
+      </rating>
+      <artist>Sandra Everingham
+      </artist>
+      <num>21
+      </num>
+      <text>Enchant land you control&lt;br&gt;Sacrifice a Thrull: Put three time counters on Tourach's Gate.&lt;br&gt;At the beginning of your upkeep, remove a time counter from Tourach's Gate. If there are no time counters on Tourach's Gate, sacrifice it.&lt;br&gt;Tap enchanted land: Attacking creatures you control get +2/-1 until end of turn. Activate this ability only if enchanted land is untapped.
+      </text>
+    </mc>
+    <mc>
+      <id>1871
+      </id>
+      <name>Deep Spawn
+      </name>
+      <cost>{5}{U}{U}{U}
+      </cost>
+      <type>Creature - Homarid
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Trample&lt;br&gt;At the beginning of your upkeep, sacrifice Deep Spawn unless you put the top two cards of your library into your graveyard.&lt;br&gt;{U}: Deep Spawn gains shroud until end of turn and doesn't untap during your next untap step. Tap Deep Spawn. &lt;i&gt;(A permanent with shroud can't be the target of spells or abilities.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.352
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>22
+      </num>
+      <text>Trample&lt;br&gt;At the beginning of your upkeep, sacrifice Deep Spawn unless you put the top two cards of your library into your graveyard.&lt;br&gt;{U}: Deep Spawn gains shroud until end of turn and doesn't untap during your next untap step. Tap Deep Spawn. &lt;i&gt;(A permanent with shroud can't be the target of spells or abilities.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>1874
+      </id>
+      <name>High Tide
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.516
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>23
+      </num>
+      <text>Until end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </text>
+    </mc>
+    <mc>
+      <id>1876
+      </id>
+      <name>Homarid
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Homarid
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Homarid enters the battlefield with a tide counter on it.&lt;br&gt;At the beginning of your upkeep, put a tide counter on Homarid.&lt;br&gt;As long as there is exactly one tide counter on Homarid, it gets -1/-1.&lt;br&gt;As long as there are exactly three tide counters on Homarid, it gets +1/+1.&lt;br&gt;Whenever there are four tide counters on Homarid, remove all tide counters from it.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.886
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>24
+      </num>
+      <text>Homarid enters the battlefield with a tide counter on it.&lt;br&gt;At the beginning of your upkeep, put a tide counter on Homarid.&lt;br&gt;As long as there is exactly one tide counter on Homarid, it gets -1/-1.&lt;br&gt;As long as there are exactly three tide counters on Homarid, it gets +1/+1.&lt;br&gt;Whenever there are four tide counters on Homarid, remove all tide counters from it.
+      </text>
+    </mc>
+    <mc>
+      <id>1879
+      </id>
+      <name>Homarid Shaman
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature - Homarid Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{U}: Tap target green creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.659
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>25
+      </num>
+      <text>{U}: Tap target green creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1880
+      </id>
+      <name>Homarid Spawning Bed
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{U}{U}, Sacrifice a blue creature: Put X 1/1 blue Camarid creature tokens onto the battlefield, where X is the sacrificed creature's converted mana cost.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.478
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>26
+      </num>
+      <text>{1}{U}{U}, Sacrifice a blue creature: Put X 1/1 blue Camarid creature tokens onto the battlefield, where X is the sacrificed creature's converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>1887
+      </id>
+      <name>Merseine
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature &lt;br&gt;Merseine enters the battlefield with three net counters on it. &lt;br&gt;Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.&lt;br&gt;Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.036
+      </rating>
+      <artist>Drew Tucker
+      </artist>
+      <num>27
+      </num>
+      <text>Enchant creature &lt;br&gt;Merseine enters the battlefield with three net counters on it. &lt;br&gt;Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.&lt;br&gt;Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1888
+      </id>
+      <name>River Merfolk
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Creature - Merfolk
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{U}: River Merfolk gains mountainwalk until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.913
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>28
+      </num>
+      <text>{U}: River Merfolk gains mountainwalk until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1890
+      </id>
+      <name>Svyelunite Priest
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Merfolk Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{U}{U}, {T}: Target creature gains shroud until end of turn. Activate this ability only during your upkeep. &lt;i&gt;(It can't be the target of spells or abilities.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.091
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>29
+      </num>
+      <text>{U}{U}, {T}: Target creature gains shroud until end of turn. Activate this ability only during your upkeep. &lt;i&gt;(It can't be the target of spells or abilities.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>1892
+      </id>
+      <name>Tidal Flats
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{U}{U}: For each attacking creature without flying, its controller may pay {1}. If he or she doesn't, creatures you control blocking that creature gain first strike until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.579
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>30
+      </num>
+      <text>{U}{U}: For each attacking creature without flying, its controller may pay {1}. If he or she doesn't, creatures you control blocking that creature gain first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1894
+      </id>
+      <name>Tidal Influence
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cast Tidal Influence only if no permanents named Tidal Influence are on the battlefield.&lt;br&gt;Tidal Influence enters the battlefield with a tide counter on it.&lt;br&gt;At the beginning of your upkeep, put a tide counter on Tidal Influence.&lt;br&gt;As long as there is exactly one tide counter on Tidal Influence, all blue creatures get -2/-0.&lt;br&gt;As long as there are exactly three tide counters on Tidal Influence, all blue creatures get +2/+0.&lt;br&gt;Whenever there are four tide counters on Tidal Influence, remove all tide counters from it.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.861
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>31
+      </num>
+      <text>Cast Tidal Influence only if no permanents named Tidal Influence are on the battlefield.&lt;br&gt;Tidal Influence enters the battlefield with a tide counter on it.&lt;br&gt;At the beginning of your upkeep, put a tide counter on Tidal Influence.&lt;br&gt;As long as there is exactly one tide counter on Tidal Influence, all blue creatures get -2/-0.&lt;br&gt;As long as there are exactly three tide counters on Tidal Influence, all blue creatures get +2/+0.&lt;br&gt;Whenever there are four tide counters on Tidal Influence, remove all tide counters from it.
+      </text>
+    </mc>
+    <mc>
+      <id>1895
+      </id>
+      <name>Vodalian Knights
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Merfolk Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Vodalian Knights can't attack unless defending player controls an Island.&lt;br&gt;When you control no Islands, sacrifice Vodalian Knights.&lt;br&gt;{U}: Vodalian Knights gains flying until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.5
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>32
+      </num>
+      <text>First strike&lt;br&gt;Vodalian Knights can't attack unless defending player controls an Island.&lt;br&gt;When you control no Islands, sacrifice Vodalian Knights.&lt;br&gt;{U}: Vodalian Knights gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1898
+      </id>
+      <name>Vodalian Mage
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Merfolk Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{U}, {T}: Counter target spell unless its controller pays {1}.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.536
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>33
+      </num>
+      <text>{U}, {T}: Counter target spell unless its controller pays {1}.
+      </text>
+    </mc>
+    <mc>
+      <id>1903
+      </id>
+      <name>Vodalian War Machine
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Tap an untapped Merfolk you control: Vodalian War Machine can attack this turn as though it didn't have defender.&lt;br&gt;Tap an untapped Merfolk you control: Vodalian War Machine gets +2/+1 until end of turn.&lt;br&gt;When Vodalian War Machine dies, destroy all Merfolk tapped this turn to pay for its abilities.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.176
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>34
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Tap an untapped Merfolk you control: Vodalian War Machine can attack this turn as though it didn't have defender.&lt;br&gt;Tap an untapped Merfolk you control: Vodalian War Machine gets +2/+1 until end of turn.&lt;br&gt;When Vodalian War Machine dies, destroy all Merfolk tapped this turn to pay for its abilities.
+      </text>
+    </mc>
+    <mc>
+      <id>1906
+      </id>
+      <name>Elven Fortress
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{G}: Target blocking creature gets +0/+1 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.938
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>35
+      </num>
+      <text>{1}{G}: Target blocking creature gets +0/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1908
+      </id>
+      <name>Elvish Farmer
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Elvish Farmer.&lt;br&gt;Remove three spore counters from Elvish Farmer: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;Sacrifice a Saproling: You gain 2 life.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.262
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>36
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Elvish Farmer.&lt;br&gt;Remove three spore counters from Elvish Farmer: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;Sacrifice a Saproling: You gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>1911
+      </id>
+      <name>Elvish Hunter
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Archer
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.109
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>37
+      </num>
+      <text>{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>1914
+      </id>
+      <name>Elvish Scout
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{G}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by it this turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.675
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>38
+      </num>
+      <text>{G}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by it this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1915
+      </id>
+      <name>Feral Thallid
+      </name>
+      <cost>{3}{G}{G}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>6
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Feral Thallid.&lt;br&gt;&lt;br&gt;Remove three spore counters from Feral Thallid: Regenerate Feral Thallid.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.235
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>39
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Feral Thallid.&lt;br&gt;&lt;br&gt;Remove three spore counters from Feral Thallid: Regenerate Feral Thallid.
+      </text>
+    </mc>
+    <mc>
+      <id>1916
+      </id>
+      <name>Fungal Bloom
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{G}{G}: Put a spore counter on target Fungus.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.87
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>40
+      </num>
+      <text>{G}{G}: Put a spore counter on target Fungus.
+      </text>
+    </mc>
+    <mc>
+      <id>1919
+      </id>
+      <name>Night Soil
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.604
+      </rating>
+      <artist>Drew Tucker
+      </artist>
+      <num>41
+      </num>
+      <text>{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>1921
+      </id>
+      <name>Spore Cloud
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.469
+      </rating>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>42
+      </num>
+      <text>Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>1923
+      </id>
+      <name>Spore Flower
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Spore Flower.&lt;br&gt;Remove three spore counters from Spore Flower: Prevent all combat damage that would be dealt this turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.381
+      </rating>
+      <artist>Margaret Organ-Kean
+      </artist>
+      <num>43
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Spore Flower.&lt;br&gt;Remove three spore counters from Spore Flower: Prevent all combat damage that would be dealt this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1926
+      </id>
+      <name>Thallid
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thallid.&lt;br&gt;Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.84
+      </rating>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>44
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Thallid.&lt;br&gt;Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>1928
+      </id>
+      <name>Thallid Devourer
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thallid Devourer.&lt;br&gt;Remove three spore counters from Thallid Devourer: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;Sacrifice a Saproling: Thallid Devourer gets +1/+2 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.675
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>45
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Thallid Devourer.&lt;br&gt;Remove three spore counters from Thallid Devourer: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;Sacrifice a Saproling: Thallid Devourer gets +1/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1929
+      </id>
+      <name>Thelon's Chant
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, sacrifice Thelon's Chant unless you pay {G}.&lt;br&gt;Whenever a player puts a Swamp onto the battlefield, Thelon's Chant deals 3 damage to that player unless he or she puts a -1/-1 counter on a creature he or she controls.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.107
+      </rating>
+      <artist>Melissa Benson
+      </artist>
+      <num>46
+      </num>
+      <text>At the beginning of your upkeep, sacrifice Thelon's Chant unless you pay {G}.&lt;br&gt;Whenever a player puts a Swamp onto the battlefield, Thelon's Chant deals 3 damage to that player unless he or she puts a -1/-1 counter on a creature he or she controls.
+      </text>
+    </mc>
+    <mc>
+      <id>1930
+      </id>
+      <name>Thelon's Curse
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Blue creatures don't untap during their controllers' untap steps.&lt;br&gt;At the beginning of each player's upkeep, that player may choose any number of tapped blue creatures he or she controls and pay {U} for each creature chosen this way. If the player does, untap those creatures.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.676
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>47
+      </num>
+      <text>Blue creatures don't untap during their controllers' untap steps.&lt;br&gt;At the beginning of each player's upkeep, that player may choose any number of tapped blue creatures he or she controls and pay {U} for each creature chosen this way. If the player does, untap those creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>1931
+      </id>
+      <name>Thelonite Druid
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Human Cleric Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{G}, {T}, Sacrifice a creature: Forests you control become 2/3 creatures until end of turn. They're still lands.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.52
+      </rating>
+      <artist>Margaret Organ-Kean
+      </artist>
+      <num>48
+      </num>
+      <text>{1}{G}, {T}, Sacrifice a creature: Forests you control become 2/3 creatures until end of turn. They're still lands.
+      </text>
+    </mc>
+    <mc>
+      <id>1932
+      </id>
+      <name>Thelonite Monk
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Insect Monk Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Sacrifice a green creature: Target land becomes a Forest. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.479
+      </rating>
+      <artist>Bryon Wackwitz
+      </artist>
+      <num>49
+      </num>
+      <text>{T}, Sacrifice a green creature: Target land becomes a Forest. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>1934
+      </id>
+      <name>Thorn Thallid
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thorn Thallid.&lt;br&gt;Remove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.464
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>50
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Thorn Thallid.&lt;br&gt;Remove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>1941
+      </id>
+      <name>Dwarven Armorer
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Dwarf
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}, {T}, Discard a card: Put a +0/+1 counter or a +1/+0 counter on target creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.229
+      </rating>
+      <artist>Bryon Wackwitz
+      </artist>
+      <num>51
+      </num>
+      <text>{R}, {T}, Discard a card: Put a +0/+1 counter or a +1/+0 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1943
+      </id>
+      <name>Dwarven Lieutenant
+      </name>
+      <cost>{R}{R}
+      </cost>
+      <type>Creature - Dwarf Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{R}: Target Dwarf creature gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.217
+      </rating>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>52
+      </num>
+      <text>{1}{R}: Target Dwarf creature gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1947
+      </id>
+      <name>Goblin Chirurgeon
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacrifice a Goblin: Regenerate target creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.842
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>53
+      </num>
+      <text>Sacrifice a Goblin: Regenerate target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1950
+      </id>
+      <name>Goblin Flotilla
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Islandwalk&lt;br&gt;At the beginning of combat, unless you pay {R}, whenever Goblin Flotilla blocks or becomes blocked by a creature this combat, that creature gains first strike until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.562
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>54
+      </num>
+      <text>Islandwalk&lt;br&gt;At the beginning of combat, unless you pay {R}, whenever Goblin Flotilla blocks or becomes blocked by a creature this combat, that creature gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1951
+      </id>
+      <name>Goblin Grenade
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Goblin Grenade, sacrifice a Goblin.&lt;br&gt;Goblin Grenade deals 5 damage to target creature or player.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.425
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>55
+      </num>
+      <text>As an additional cost to cast Goblin Grenade, sacrifice a Goblin.&lt;br&gt;Goblin Grenade deals 5 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>1954
+      </id>
+      <name>Goblin Kites
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{R}: Target creature you control with toughness 2 or less gains flying until end of turn. Flip a coin at the beginning of the next end step. If you lose the flip, sacrifice that creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.1
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>56
+      </num>
+      <text>{R}: Target creature you control with toughness 2 or less gains flying until end of turn. Flip a coin at the beginning of the next end step. If you lose the flip, sacrifice that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1967
+      </id>
+      <name>Orcish Veteran
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Orcish Veteran can't block white creatures with power 2 or greater.&lt;br&gt;{R}: Orcish Veteran gains first strike until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.071
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>57
+      </num>
+      <text>Orcish Veteran can't block white creatures with power 2 or greater.&lt;br&gt;{R}: Orcish Veteran gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1969
+      </id>
+      <name>Raiding Party
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Raiding Party can't be the target of white spells or abilities from white sources.&lt;br&gt;&lt;br&gt;Sacrifice an Orc: Each player may tap any number of untapped white creatures he or she controls. For each creature tapped this way, that player chooses up to two Plains. Then destroy all Plains that weren't chosen this way by any player.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.69
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>58
+      </num>
+      <text>Raiding Party can't be the target of white spells or abilities from white sources.&lt;br&gt;&lt;br&gt;Sacrifice an Orc: Each player may tap any number of untapped white creatures he or she controls. For each creature tapped this way, that player chooses up to two Plains. Then destroy all Plains that weren't chosen this way by any player.
+      </text>
+    </mc>
+    <mc>
+      <id>1970
+      </id>
+      <name>Combat Medic
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Cleric Soldier
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.609
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>59
+      </num>
+      <text>{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1974
+      </id>
+      <name>Farrel's Mantle
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature attacks and isn't blocked, its controller may have it deal damage equal to its power plus 2 to another target creature. If that player does, the attacking creature assigns no combat damage this turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.062
+      </rating>
+      <artist>Anthony Waters
+      </artist>
+      <num>60
+      </num>
+      <text>Enchant creature&lt;br&gt;Whenever enchanted creature attacks and isn't blocked, its controller may have it deal damage equal to its power plus 2 to another target creature. If that player does, the attacking creature assigns no combat damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1977
+      </id>
+      <name>Farrel's Zealot
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.429
+      </rating>
+      <artist>Melissa Benson
+      </artist>
+      <num>61
+      </num>
+      <text>Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1978
+      </id>
+      <name>Farrelite Priest
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{1}: Add {W} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Farrelite Priest at the beginning of the next end step.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.175
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>62
+      </num>
+      <text>{1}: Add {W} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Farrelite Priest at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>1979
+      </id>
+      <name>Hand of Justice
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Creature - Avatar
+      </type>
+      <power>2
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>{T}, Tap three untapped white creatures you control: Destroy target creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.381
+      </rating>
+      <artist>Melissa Benson
+      </artist>
+      <num>63
+      </num>
+      <text>{T}, Tap three untapped white creatures you control: Destroy target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1980
+      </id>
+      <name>Heroism
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Sacrifice a white creature: For each attacking red creature, prevent all combat damage that would be dealt by that creature this turn unless its controller pays {2}{R}.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.841
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>64
+      </num>
+      <text>Sacrifice a white creature: For each attacking red creature, prevent all combat damage that would be dealt by that creature this turn unless its controller pays {2}{R}.
+      </text>
+    </mc>
+    <mc>
+      <id>1984
+      </id>
+      <name>Icatian Infantry
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}: Icatian Infantry gains first strike until end of turn.&lt;br&gt;{1}: Icatian Infantry gains banding until end of turn. &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.053
+      </rating>
+      <artist>Drew Tucker
+      </artist>
+      <num>65
+      </num>
+      <text>{1}: Icatian Infantry gains first strike until end of turn.&lt;br&gt;{1}: Icatian Infantry gains banding until end of turn. &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>1987
+      </id>
+      <name>Icatian Javelineers
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Icatian Javelineers enters the battlefield with a javelin counter on it.&lt;br&gt;{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.81
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>66
+      </num>
+      <text>Icatian Javelineers enters the battlefield with a javelin counter on it.&lt;br&gt;{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>1988
+      </id>
+      <name>Icatian Lieutenant
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{W}: Target Soldier creature gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.556
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>67
+      </num>
+      <text>{1}{W}: Target Soldier creature gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1990
+      </id>
+      <name>Icatian Moneychanger
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Icatian Moneychanger enters the battlefield with three credit counters on it.&lt;br&gt;When Icatian Moneychanger enters the battlefield, it deals 3 damage to you.&lt;br&gt;At the beginning of your upkeep, put a credit counter on Icatian Moneychanger.&lt;br&gt;Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate this ability only during your upkeep.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.167
+      </rating>
+      <artist>Edward Beard, Jr.
+      </artist>
+      <num>68
+      </num>
+      <text>Icatian Moneychanger enters the battlefield with three credit counters on it.&lt;br&gt;When Icatian Moneychanger enters the battlefield, it deals 3 damage to you.&lt;br&gt;At the beginning of your upkeep, put a credit counter on Icatian Moneychanger.&lt;br&gt;Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate this ability only during your upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>1998
+      </id>
+      <name>Icatian Skirmishers
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike; banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;&lt;br&gt;Whenever Icatian Skirmishers attacks, all creatures banded with it gain first strike until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.05
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>69
+      </num>
+      <text>First strike; banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;&lt;br&gt;Whenever Icatian Skirmishers attacks, all creatures banded with it gain first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2000
+      </id>
+      <name>Order of Leitbur
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Cleric Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from black&lt;br&gt;{W}: Order of Leitbur gains first strike until end of turn.&lt;br&gt;{W}{W}: Order of Leitbur gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.763
+      </rating>
+      <artist>Bryon Wackwitz
+      </artist>
+      <num>70
+      </num>
+      <text>Protection from black&lt;br&gt;{W}: Order of Leitbur gains first strike until end of turn.&lt;br&gt;{W}{W}: Order of Leitbur gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2003
+      </id>
+      <name>Bottomless Vault
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Bottomless Vault enters the battlefield tapped.&lt;br&gt;You may choose not to untap Bottomless Vault during your untap step.&lt;br&gt;At the beginning of your upkeep, if Bottomless Vault is tapped, put a storage counter on it.&lt;br&gt;{T}, Remove any number of storage counters from Bottomless Vault: Add {B} to your mana pool for each storage counter removed this way.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.167
+      </rating>
+      <artist>Pat Morrissey
+      </artist>
+      <num>71
+      </num>
+      <text>Bottomless Vault enters the battlefield tapped.&lt;br&gt;You may choose not to untap Bottomless Vault during your untap step.&lt;br&gt;At the beginning of your upkeep, if Bottomless Vault is tapped, put a storage counter on it.&lt;br&gt;{T}, Remove any number of storage counters from Bottomless Vault: Add {B} to your mana pool for each storage counter removed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>2004
+      </id>
+      <name>Dwarven Hold
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Dwarven Hold enters the battlefield tapped.&lt;br&gt;You may choose not to untap Dwarven Hold during your untap step.&lt;br&gt;At the beginning of your upkeep, if Dwarven Hold is tapped, put a storage counter on it.&lt;br&gt;{T}, Remove any number of storage counters from Dwarven Hold: Add {R} to your mana pool for each storage counter removed this way.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Pat Morrissey
+      </artist>
+      <num>72
+      </num>
+      <text>Dwarven Hold enters the battlefield tapped.&lt;br&gt;You may choose not to untap Dwarven Hold during your untap step.&lt;br&gt;At the beginning of your upkeep, if Dwarven Hold is tapped, put a storage counter on it.&lt;br&gt;{T}, Remove any number of storage counters from Dwarven Hold: Add {R} to your mana pool for each storage counter removed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>2007
+      </id>
+      <name>Havenwood Battleground
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Havenwood Battleground enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}, Sacrifice Havenwood Battleground: Add {G}{G} to your mana pool.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.45
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>73
+      </num>
+      <text>Havenwood Battleground enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}, Sacrifice Havenwood Battleground: Add {G}{G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>2008
+      </id>
+      <name>Hollow Trees
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Hollow Trees enters the battlefield tapped.&lt;br&gt;You may choose not to untap Hollow Trees during your untap step.&lt;br&gt;At the beginning of your upkeep, if Hollow Trees is tapped, put a storage counter on it.&lt;br&gt;{T}, Remove any number of storage counters from Hollow Trees: Add {G} to your mana pool for each storage counter removed this way.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.348
+      </rating>
+      <artist>Pat Morrissey
+      </artist>
+      <num>74
+      </num>
+      <text>Hollow Trees enters the battlefield tapped.&lt;br&gt;You may choose not to untap Hollow Trees during your untap step.&lt;br&gt;At the beginning of your upkeep, if Hollow Trees is tapped, put a storage counter on it.&lt;br&gt;{T}, Remove any number of storage counters from Hollow Trees: Add {G} to your mana pool for each storage counter removed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>2009
+      </id>
+      <name>Icatian Store
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Icatian Store enters the battlefield tapped.&lt;br&gt;You may choose not to untap Icatian Store during your untap step.&lt;br&gt;At the beginning of your upkeep, if Icatian Store is tapped, put a storage counter on it.&lt;br&gt;{T}, Remove any number of storage counters from Icatian Store: Add {W} to your mana pool for each storage counter removed this way.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.717
+      </rating>
+      <artist>Pat Morrissey
+      </artist>
+      <num>75
+      </num>
+      <text>Icatian Store enters the battlefield tapped.&lt;br&gt;You may choose not to untap Icatian Store during your untap step.&lt;br&gt;At the beginning of your upkeep, if Icatian Store is tapped, put a storage counter on it.&lt;br&gt;{T}, Remove any number of storage counters from Icatian Store: Add {W} to your mana pool for each storage counter removed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>2010
+      </id>
+      <name>Rainbow Vale
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add one mana of any color to your mana pool. An opponent gains control of Rainbow Vale at the beginning of the next end step.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.317
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>76
+      </num>
+      <text>{T}: Add one mana of any color to your mana pool. An opponent gains control of Rainbow Vale at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>2011
+      </id>
+      <name>Ruins of Trokair
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Ruins of Trokair enters the battlefield tapped.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;{T}, Sacrifice Ruins of Trokair: Add {W}{W} to your mana pool.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.767
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>77
+      </num>
+      <text>Ruins of Trokair enters the battlefield tapped.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;{T}, Sacrifice Ruins of Trokair: Add {W}{W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>1840
+      </id>
+      <name>Armor Thrull
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.176
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>78
+      </num>
+      <text>{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1839
+      </id>
+      <name>Armor Thrull
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>79
+      </num>
+      <text>{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1838
+      </id>
+      <name>Armor Thrull
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.875
+      </rating>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>80
+      </num>
+      <text>{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1845
+      </id>
+      <name>Basal Thrull
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.2
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>81
+      </num>
+      <text>{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>1844
+      </id>
+      <name>Basal Thrull
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.071
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>82
+      </num>
+      <text>{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>1843
+      </id>
+      <name>Basal Thrull
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.533
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>83
+      </num>
+      <text>{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>1966
+      </id>
+      <name>Brassclaw Orcs
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Brassclaw Orcs can't block creatures with power 2 or greater.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.917
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>84
+      </num>
+      <text>Brassclaw Orcs can't block creatures with power 2 or greater.
+      </text>
+    </mc>
+    <mc>
+      <id>1940
+      </id>
+      <name>Brassclaw Orcs
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Brassclaw Orcs can't block creatures with power 2 or greater.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.789
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>85
+      </num>
+      <text>Brassclaw Orcs can't block creatures with power 2 or greater.
+      </text>
+    </mc>
+    <mc>
+      <id>1938
+      </id>
+      <name>Brassclaw Orcs
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Brassclaw Orcs can't block creatures with power 2 or greater.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.714
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>86
+      </num>
+      <text>Brassclaw Orcs can't block creatures with power 2 or greater.
+      </text>
+    </mc>
+    <mc>
+      <id>1937
+      </id>
+      <name>Brassclaw Orcs
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Brassclaw Orcs can't block creatures with power 2 or greater.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.633
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>87
+      </num>
+      <text>Brassclaw Orcs can't block creatures with power 2 or greater.
+      </text>
+    </mc>
+    <mc>
+      <id>1846
+      </id>
+      <name>Breeding Pit
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.&lt;br&gt;At the beginning of your end step, put a 0/1 black Thrull creature token onto the battlefield.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>88
+      </num>
+      <text>At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.&lt;br&gt;At the beginning of your end step, put a 0/1 black Thrull creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>1973
+      </id>
+      <name>Combat Medic
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Cleric Soldier
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.875
+      </rating>
+      <artist>Liz Danforth
+      </artist>
+      <num>89
+      </num>
+      <text>{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1972
+      </id>
+      <name>Combat Medic
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Cleric Soldier
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>90
+      </num>
+      <text>{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1971
+      </id>
+      <name>Combat Medic
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Cleric Soldier
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.367
+      </rating>
+      <artist>Edward Beard, Jr.
+      </artist>
+      <num>91
+      </num>
+      <text>{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1847
+      </id>
+      <name>Derelor
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Black spells you cast cost {B} more to cast.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.721
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>92
+      </num>
+      <text>Black spells you cast cost {B} more to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>1942
+      </id>
+      <name>Dwarven Catapult
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Dwarven Catapult deals X damage divided evenly, rounded down, among all creatures target opponent controls.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.125
+      </rating>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>93
+      </num>
+      <text>Dwarven Catapult deals X damage divided evenly, rounded down, among all creatures target opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>2005
+      </id>
+      <name>Dwarven Ruins
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Dwarven Ruins enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;{T}, Sacrifice Dwarven Ruins: Add {R}{R} to your mana pool.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.895
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>94
+      </num>
+      <text>Dwarven Ruins enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;{T}, Sacrifice Dwarven Ruins: Add {R}{R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>1946
+      </id>
+      <name>Dwarven Soldier
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Dwarf Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.763
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>95
+      </num>
+      <text>Whenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1945
+      </id>
+      <name>Dwarven Soldier
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Dwarf Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.444
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>96
+      </num>
+      <text>Whenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1944
+      </id>
+      <name>Dwarven Soldier
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Dwarf Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.536
+      </rating>
+      <artist>Randy Asplund-Faith
+      </artist>
+      <num>97
+      </num>
+      <text>Whenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2006
+      </id>
+      <name>Ebon Stronghold
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Ebon Stronghold enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.932
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>98
+      </num>
+      <text>Ebon Stronghold enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>1907
+      </id>
+      <name>Elven Fortress
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{G}: Target blocking creature gets +0/+1 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.688
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>99
+      </num>
+      <text>{1}{G}: Target blocking creature gets +0/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1905
+      </id>
+      <name>Elven Fortress
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{G}: Target blocking creature gets +0/+1 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.667
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>100
+      </num>
+      <text>{1}{G}: Target blocking creature gets +0/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1904
+      </id>
+      <name>Elven Fortress
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{G}: Target blocking creature gets +0/+1 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.545
+      </rating>
+      <artist>Randy Asplund-Faith
+      </artist>
+      <num>101
+      </num>
+      <text>{1}{G}: Target blocking creature gets +0/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1910
+      </id>
+      <name>Elvish Hunter
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Archer
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.675
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>102
+      </num>
+      <text>{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>1909
+      </id>
+      <name>Elvish Hunter
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Archer
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.974
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>103
+      </num>
+      <text>{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>1913
+      </id>
+      <name>Elvish Scout
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{G}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by it this turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.833
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>104
+      </num>
+      <text>{G}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by it this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1912
+      </id>
+      <name>Elvish Scout
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{G}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by it this turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.8
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>105
+      </num>
+      <text>{G}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by it this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1976
+      </id>
+      <name>Farrel's Zealot
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.7
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>106
+      </num>
+      <text>Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1975
+      </id>
+      <name>Farrel's Zealot
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.467
+      </rating>
+      <artist>Edward Beard, Jr.
+      </artist>
+      <num>107
+      </num>
+      <text>Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1949
+      </id>
+      <name>Goblin Chirurgeon
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacrifice a Goblin: Regenerate target creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.63
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>108
+      </num>
+      <text>Sacrifice a Goblin: Regenerate target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1948
+      </id>
+      <name>Goblin Chirurgeon
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacrifice a Goblin: Regenerate target creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.904
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>109
+      </num>
+      <text>Sacrifice a Goblin: Regenerate target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1953
+      </id>
+      <name>Goblin Grenade
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Goblin Grenade, sacrifice a Goblin.&lt;br&gt;Goblin Grenade deals 5 damage to target creature or player.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.459
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>110
+      </num>
+      <text>As an additional cost to cast Goblin Grenade, sacrifice a Goblin.&lt;br&gt;Goblin Grenade deals 5 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>1952
+      </id>
+      <name>Goblin Grenade
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Goblin Grenade, sacrifice a Goblin.&lt;br&gt;Goblin Grenade deals 5 damage to target creature or player.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.538
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>111
+      </num>
+      <text>As an additional cost to cast Goblin Grenade, sacrifice a Goblin.&lt;br&gt;Goblin Grenade deals 5 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>1958
+      </id>
+      <name>Goblin War Drums
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Each creature you control can't be blocked except by two or more creatures.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.786
+      </rating>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>112
+      </num>
+      <text>Each creature you control can't be blocked except by two or more creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>1957
+      </id>
+      <name>Goblin War Drums
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Each creature you control can't be blocked except by two or more creatures.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.529
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>113
+      </num>
+      <text>Each creature you control can't be blocked except by two or more creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>1956
+      </id>
+      <name>Goblin War Drums
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Each creature you control can't be blocked except by two or more creatures.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.133
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>114
+      </num>
+      <text>Each creature you control can't be blocked except by two or more creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>1955
+      </id>
+      <name>Goblin War Drums
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Each creature you control can't be blocked except by two or more creatures.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.825
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>115
+      </num>
+      <text>Each creature you control can't be blocked except by two or more creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>1959
+      </id>
+      <name>Goblin Warrens
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{2}{R}, Sacrifice two Goblins: Put three 1/1 red Goblin creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.543
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>116
+      </num>
+      <text>{2}{R}, Sacrifice two Goblins: Put three 1/1 red Goblin creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>1873
+      </id>
+      <name>High Tide
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.304
+      </rating>
+      <artist>Drew Tucker
+      </artist>
+      <num>117
+      </num>
+      <text>Until end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </text>
+    </mc>
+    <mc>
+      <id>1872
+      </id>
+      <name>High Tide
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.311
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>118
+      </num>
+      <text>Until end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </text>
+    </mc>
+    <mc>
+      <id>1878
+      </id>
+      <name>Homarid
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Homarid
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Homarid enters the battlefield with a tide counter on it.&lt;br&gt;At the beginning of your upkeep, put a tide counter on Homarid.&lt;br&gt;As long as there is exactly one tide counter on Homarid, it gets -1/-1.&lt;br&gt;As long as there are exactly three tide counters on Homarid, it gets +1/+1.&lt;br&gt;Whenever there are four tide counters on Homarid, remove all tide counters from it.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.357
+      </rating>
+      <artist>Bryon Wackwitz
+      </artist>
+      <num>119
+      </num>
+      <text>Homarid enters the battlefield with a tide counter on it.&lt;br&gt;At the beginning of your upkeep, put a tide counter on Homarid.&lt;br&gt;As long as there is exactly one tide counter on Homarid, it gets -1/-1.&lt;br&gt;As long as there are exactly three tide counters on Homarid, it gets +1/+1.&lt;br&gt;Whenever there are four tide counters on Homarid, remove all tide counters from it.
+      </text>
+    </mc>
+    <mc>
+      <id>1875
+      </id>
+      <name>Homarid
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Homarid
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Homarid enters the battlefield with a tide counter on it.&lt;br&gt;At the beginning of your upkeep, put a tide counter on Homarid.&lt;br&gt;As long as there is exactly one tide counter on Homarid, it gets -1/-1.&lt;br&gt;As long as there are exactly three tide counters on Homarid, it gets +1/+1.&lt;br&gt;Whenever there are four tide counters on Homarid, remove all tide counters from it.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.385
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>120
+      </num>
+      <text>Homarid enters the battlefield with a tide counter on it.&lt;br&gt;At the beginning of your upkeep, put a tide counter on Homarid.&lt;br&gt;As long as there is exactly one tide counter on Homarid, it gets -1/-1.&lt;br&gt;As long as there are exactly three tide counters on Homarid, it gets +1/+1.&lt;br&gt;Whenever there are four tide counters on Homarid, remove all tide counters from it.
+      </text>
+    </mc>
+    <mc>
+      <id>1877
+      </id>
+      <name>Homarid
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Homarid
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Homarid enters the battlefield with a tide counter on it.&lt;br&gt;At the beginning of your upkeep, put a tide counter on Homarid.&lt;br&gt;As long as there is exactly one tide counter on Homarid, it gets -1/-1.&lt;br&gt;As long as there are exactly three tide counters on Homarid, it gets +1/+1.&lt;br&gt;Whenever there are four tide counters on Homarid, remove all tide counters from it.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.109
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>121
+      </num>
+      <text>Homarid enters the battlefield with a tide counter on it.&lt;br&gt;At the beginning of your upkeep, put a tide counter on Homarid.&lt;br&gt;As long as there is exactly one tide counter on Homarid, it gets -1/-1.&lt;br&gt;As long as there are exactly three tide counters on Homarid, it gets +1/+1.&lt;br&gt;Whenever there are four tide counters on Homarid, remove all tide counters from it.
+      </text>
+    </mc>
+    <mc>
+      <id>1883
+      </id>
+      <name>Homarid Warrior
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Homarid Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{U}: Homarid Warrior gains shroud until end of turn and doesn't untap during your next untap step. Tap Homarid Warrior. &lt;i&gt;(A permanent with shroud can't be the target of spells or abilities.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.5
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>122
+      </num>
+      <text>{U}: Homarid Warrior gains shroud until end of turn and doesn't untap during your next untap step. Tap Homarid Warrior. &lt;i&gt;(A permanent with shroud can't be the target of spells or abilities.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>1882
+      </id>
+      <name>Homarid Warrior
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Homarid Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{U}: Homarid Warrior gains shroud until end of turn and doesn't untap during your next untap step. Tap Homarid Warrior. &lt;i&gt;(A permanent with shroud can't be the target of spells or abilities.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.69
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>123
+      </num>
+      <text>{U}: Homarid Warrior gains shroud until end of turn and doesn't untap during your next untap step. Tap Homarid Warrior. &lt;i&gt;(A permanent with shroud can't be the target of spells or abilities.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>1881
+      </id>
+      <name>Homarid Warrior
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Homarid Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{U}: Homarid Warrior gains shroud until end of turn and doesn't untap during your next untap step. Tap Homarid Warrior. &lt;i&gt;(A permanent with shroud can't be the target of spells or abilities.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.5
+      </rating>
+      <artist>Randy Asplund-Faith
+      </artist>
+      <num>124
+      </num>
+      <text>{U}: Homarid Warrior gains shroud until end of turn and doesn't untap during your next untap step. Tap Homarid Warrior. &lt;i&gt;(A permanent with shroud can't be the target of spells or abilities.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>1852
+      </id>
+      <name>Hymn to Tourach
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards two cards at random.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.945
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>125
+      </num>
+      <text>Target player discards two cards at random.
+      </text>
+    </mc>
+    <mc>
+      <id>1851
+      </id>
+      <name>Hymn to Tourach
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards two cards at random.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.813
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>126
+      </num>
+      <text>Target player discards two cards at random.
+      </text>
+    </mc>
+    <mc>
+      <id>1849
+      </id>
+      <name>Hymn to Tourach
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards two cards at random.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.877
+      </rating>
+      <artist>Liz Danforth
+      </artist>
+      <num>127
+      </num>
+      <text>Target player discards two cards at random.
+      </text>
+    </mc>
+    <mc>
+      <id>1982
+      </id>
+      <name>Icatian Infantry
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}: Icatian Infantry gains first strike until end of turn.&lt;br&gt;{1}: Icatian Infantry gains banding until end of turn. &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.179
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>128
+      </num>
+      <text>{1}: Icatian Infantry gains first strike until end of turn.&lt;br&gt;{1}: Icatian Infantry gains banding until end of turn. &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>1981
+      </id>
+      <name>Icatian Infantry
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}: Icatian Infantry gains first strike until end of turn.&lt;br&gt;{1}: Icatian Infantry gains banding until end of turn. &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.382
+      </rating>
+      <artist>Edward Beard, Jr.
+      </artist>
+      <num>129
+      </num>
+      <text>{1}: Icatian Infantry gains first strike until end of turn.&lt;br&gt;{1}: Icatian Infantry gains banding until end of turn. &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>1983
+      </id>
+      <name>Icatian Infantry
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}: Icatian Infantry gains first strike until end of turn.&lt;br&gt;{1}: Icatian Infantry gains banding until end of turn. &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.023
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>130
+      </num>
+      <text>{1}: Icatian Infantry gains first strike until end of turn.&lt;br&gt;{1}: Icatian Infantry gains banding until end of turn. &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>1986
+      </id>
+      <name>Icatian Javelineers
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Icatian Javelineers enters the battlefield with a javelin counter on it.&lt;br&gt;{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.722
+      </rating>
+      <artist>Melissa Benson
+      </artist>
+      <num>131
+      </num>
+      <text>Icatian Javelineers enters the battlefield with a javelin counter on it.&lt;br&gt;{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>1985
+      </id>
+      <name>Icatian Javelineers
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Icatian Javelineers enters the battlefield with a javelin counter on it.&lt;br&gt;{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.977
+      </rating>
+      <artist>Edward Beard, Jr.
+      </artist>
+      <num>132
+      </num>
+      <text>Icatian Javelineers enters the battlefield with a javelin counter on it.&lt;br&gt;{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>1989
+      </id>
+      <name>Icatian Moneychanger
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Icatian Moneychanger enters the battlefield with three credit counters on it.&lt;br&gt;When Icatian Moneychanger enters the battlefield, it deals 3 damage to you.&lt;br&gt;At the beginning of your upkeep, put a credit counter on Icatian Moneychanger.&lt;br&gt;Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate this ability only during your upkeep.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.31
+      </rating>
+      <artist>Drew Tucker
+      </artist>
+      <num>133
+      </num>
+      <text>Icatian Moneychanger enters the battlefield with three credit counters on it.&lt;br&gt;When Icatian Moneychanger enters the battlefield, it deals 3 damage to you.&lt;br&gt;At the beginning of your upkeep, put a credit counter on Icatian Moneychanger.&lt;br&gt;Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate this ability only during your upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>1991
+      </id>
+      <name>Icatian Moneychanger
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Icatian Moneychanger enters the battlefield with three credit counters on it.&lt;br&gt;When Icatian Moneychanger enters the battlefield, it deals 3 damage to you.&lt;br&gt;At the beginning of your upkeep, put a credit counter on Icatian Moneychanger.&lt;br&gt;Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate this ability only during your upkeep.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.391
+      </rating>
+      <artist>Melissa Benson
+      </artist>
+      <num>134
+      </num>
+      <text>Icatian Moneychanger enters the battlefield with three credit counters on it.&lt;br&gt;When Icatian Moneychanger enters the battlefield, it deals 3 damage to you.&lt;br&gt;At the beginning of your upkeep, put a credit counter on Icatian Moneychanger.&lt;br&gt;Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate this ability only during your upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>1992
+      </id>
+      <name>Icatian Phalanx
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.278
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>135
+      </num>
+      <text>Banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>1993
+      </id>
+      <name>Icatian Priest
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{W}{W}: Target creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.471
+      </rating>
+      <artist>Drew Tucker
+      </artist>
+      <num>136
+      </num>
+      <text>{1}{W}{W}: Target creature gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1997
+      </id>
+      <name>Icatian Scout
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}, {T}: Target creature gains first strike until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.167
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>137
+      </num>
+      <text>{1}, {T}: Target creature gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1996
+      </id>
+      <name>Icatian Scout
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}, {T}: Target creature gains first strike until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.429
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>138
+      </num>
+      <text>{1}, {T}: Target creature gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1995
+      </id>
+      <name>Icatian Scout
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}, {T}: Target creature gains first strike until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.1
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>139
+      </num>
+      <text>{1}, {T}: Target creature gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1994
+      </id>
+      <name>Icatian Scout
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}, {T}: Target creature gains first strike until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>140
+      </num>
+      <text>{1}, {T}: Target creature gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1999
+      </id>
+      <name>Icatian Town
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put four 1/1 white Citizen creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.222
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>141
+      </num>
+      <text>Put four 1/1 white Citizen creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>1855
+      </id>
+      <name>Initiates of the Ebon Hand
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}: Add {B} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Initiates of the Ebon Hand at the beginning of the next end step.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.391
+      </rating>
+      <artist>Liz Danforth
+      </artist>
+      <num>142
+      </num>
+      <text>{1}: Add {B} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Initiates of the Ebon Hand at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>1854
+      </id>
+      <name>Initiates of the Ebon Hand
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}: Add {B} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Initiates of the Ebon Hand at the beginning of the next end step.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.412
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>143
+      </num>
+      <text>{1}: Add {B} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Initiates of the Ebon Hand at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>1853
+      </id>
+      <name>Initiates of the Ebon Hand
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}: Add {B} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Initiates of the Ebon Hand at the beginning of the next end step.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.55
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>144
+      </num>
+      <text>{1}: Add {B} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Initiates of the Ebon Hand at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>1885
+      </id>
+      <name>Merseine
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature &lt;br&gt;Merseine enters the battlefield with three net counters on it. &lt;br&gt;Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.&lt;br&gt;Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.238
+      </rating>
+      <artist>Margaret Organ-Kean
+      </artist>
+      <num>145
+      </num>
+      <text>Enchant creature &lt;br&gt;Merseine enters the battlefield with three net counters on it. &lt;br&gt;Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.&lt;br&gt;Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1884
+      </id>
+      <name>Merseine
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature &lt;br&gt;Merseine enters the battlefield with three net counters on it. &lt;br&gt;Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.&lt;br&gt;Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.25
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>146
+      </num>
+      <text>Enchant creature &lt;br&gt;Merseine enters the battlefield with three net counters on it. &lt;br&gt;Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.&lt;br&gt;Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1886
+      </id>
+      <name>Merseine
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature &lt;br&gt;Merseine enters the battlefield with three net counters on it. &lt;br&gt;Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.&lt;br&gt;Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.227
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>147
+      </num>
+      <text>Enchant creature &lt;br&gt;Merseine enters the battlefield with three net counters on it. &lt;br&gt;Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.&lt;br&gt;Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1858
+      </id>
+      <name>Mindstab Thrull
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Mindstab Thrull attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.719
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>148
+      </num>
+      <text>Whenever Mindstab Thrull attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>1857
+      </id>
+      <name>Mindstab Thrull
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Mindstab Thrull attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.5
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>149
+      </num>
+      <text>Whenever Mindstab Thrull attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>1856
+      </id>
+      <name>Mindstab Thrull
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Mindstab Thrull attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.958
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>150
+      </num>
+      <text>Whenever Mindstab Thrull attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>1861
+      </id>
+      <name>Necrite
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.75
+      </rating>
+      <artist>Drew Tucker
+      </artist>
+      <num>151
+      </num>
+      <text>Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>1860
+      </id>
+      <name>Necrite
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.667
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>152
+      </num>
+      <text>Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>1859
+      </id>
+      <name>Necrite
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.882
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>153
+      </num>
+      <text>Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>1918
+      </id>
+      <name>Night Soil
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.382
+      </rating>
+      <artist>Sandra Everingham
+      </artist>
+      <num>154
+      </num>
+      <text>{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>1917
+      </id>
+      <name>Night Soil
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.684
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>155
+      </num>
+      <text>{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>1960
+      </id>
+      <name>Orcish Captain
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Orc Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}: Flip a coin. If you win the flip, target Orc creature gets +2/+0 until end of turn. If you lose the flip, it gets -0/-2 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.043
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>156
+      </num>
+      <text>{1}: Flip a coin. If you win the flip, target Orc creature gets +2/+0 until end of turn. If you lose the flip, it gets -0/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1963
+      </id>
+      <name>Orcish Spy
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Orc Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Look at the top three cards of target player's library.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.893
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>157
+      </num>
+      <text>{T}: Look at the top three cards of target player's library.
+      </text>
+    </mc>
+    <mc>
+      <id>1962
+      </id>
+      <name>Orcish Spy
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Orc Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Look at the top three cards of target player's library.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.25
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>158
+      </num>
+      <text>{T}: Look at the top three cards of target player's library.
+      </text>
+    </mc>
+    <mc>
+      <id>1961
+      </id>
+      <name>Orcish Spy
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Orc Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Look at the top three cards of target player's library.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.861
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>159
+      </num>
+      <text>{T}: Look at the top three cards of target player's library.
+      </text>
+    </mc>
+    <mc>
+      <id>1965
+      </id>
+      <name>Orcish Veteran
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Orcish Veteran can't block white creatures with power 2 or greater.&lt;br&gt;{R}: Orcish Veteran gains first strike until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.385
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>160
+      </num>
+      <text>Orcish Veteran can't block white creatures with power 2 or greater.&lt;br&gt;{R}: Orcish Veteran gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1964
+      </id>
+      <name>Orcish Veteran
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Orcish Veteran can't block white creatures with power 2 or greater.&lt;br&gt;{R}: Orcish Veteran gains first strike until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.472
+      </rating>
+      <artist>Melissa Benson
+      </artist>
+      <num>161
+      </num>
+      <text>Orcish Veteran can't block white creatures with power 2 or greater.&lt;br&gt;{R}: Orcish Veteran gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1939
+      </id>
+      <name>Orcish Veteran
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Orcish Veteran can't block white creatures with power 2 or greater.&lt;br&gt;{R}: Orcish Veteran gains first strike until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.2
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>162
+      </num>
+      <text>Orcish Veteran can't block white creatures with power 2 or greater.&lt;br&gt;{R}: Orcish Veteran gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2002
+      </id>
+      <name>Order of Leitbur
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Cleric Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from black&lt;br&gt;{W}: Order of Leitbur gains first strike until end of turn.&lt;br&gt;{W}{W}: Order of Leitbur gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Randy Asplund-Faith
+      </artist>
+      <num>163
+      </num>
+      <text>Protection from black&lt;br&gt;{W}: Order of Leitbur gains first strike until end of turn.&lt;br&gt;{W}{W}: Order of Leitbur gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2001
+      </id>
+      <name>Order of Leitbur
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Cleric Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from black&lt;br&gt;{W}: Order of Leitbur gains first strike until end of turn.&lt;br&gt;{W}{W}: Order of Leitbur gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.775
+      </rating>
+      <artist>Bryon Wackwitz
+      </artist>
+      <num>164
+      </num>
+      <text>Protection from black&lt;br&gt;{W}: Order of Leitbur gains first strike until end of turn.&lt;br&gt;{W}{W}: Order of Leitbur gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1864
+      </id>
+      <name>Order of the Ebon Hand
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Cleric Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from white&lt;br&gt;{B}: Order of the Ebon Hand gains first strike until end of turn.&lt;br&gt;{B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.375
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>165
+      </num>
+      <text>Protection from white&lt;br&gt;{B}: Order of the Ebon Hand gains first strike until end of turn.&lt;br&gt;{B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1862
+      </id>
+      <name>Order of the Ebon Hand
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Cleric Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from white&lt;br&gt;{B}: Order of the Ebon Hand gains first strike until end of turn.&lt;br&gt;{B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.309
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>166
+      </num>
+      <text>Protection from white&lt;br&gt;{B}: Order of the Ebon Hand gains first strike until end of turn.&lt;br&gt;{B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1968
+      </id>
+      <name>Orgg
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Orgg
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Orgg can't attack if defending player controls an untapped creature with power 3 or greater.&lt;br&gt;Orgg can't block creatures with power 3 or greater.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.25
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>167
+      </num>
+      <text>Trample&lt;br&gt;Orgg can't attack if defending player controls an untapped creature with power 3 or greater.&lt;br&gt;Orgg can't block creatures with power 3 or greater.
+      </text>
+    </mc>
+    <mc>
+      <id>2012
+      </id>
+      <name>Sand Silos
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Sand Silos enters the battlefield tapped.&lt;br&gt;You may choose not to untap Sand Silos during your untap step.&lt;br&gt;At the beginning of your upkeep, if Sand Silos is tapped, put a storage counter on it.&lt;br&gt;{T}, Remove any number of storage counters from Sand Silos: Add {U} to your mana pool for each storage counter removed this way.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.071
+      </rating>
+      <artist>Pat Morrissey
+      </artist>
+      <num>168
+      </num>
+      <text>Sand Silos enters the battlefield tapped.&lt;br&gt;You may choose not to untap Sand Silos during your untap step.&lt;br&gt;At the beginning of your upkeep, if Sand Silos is tapped, put a storage counter on it.&lt;br&gt;{T}, Remove any number of storage counters from Sand Silos: Add {U} to your mana pool for each storage counter removed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>1889
+      </id>
+      <name>Seasinger
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Merfolk
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When you control no Islands, sacrifice Seasinger.&lt;br&gt;You may choose not to untap Seasinger during your untap step.&lt;br&gt;{T}: Gain control of target creature whose controller controls an Island for as long as you control Seasinger and Seasinger remains tapped.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.333
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>169
+      </num>
+      <text>When you control no Islands, sacrifice Seasinger.&lt;br&gt;You may choose not to untap Seasinger during your untap step.&lt;br&gt;{T}: Gain control of target creature whose controller controls an Island for as long as you control Seasinger and Seasinger remains tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>1922
+      </id>
+      <name>Spore Cloud
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.045
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>170
+      </num>
+      <text>Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>1920
+      </id>
+      <name>Spore Cloud
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>171
+      </num>
+      <text>Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>2013
+      </id>
+      <name>Svyelunite Temple
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Svyelunite Temple enters the battlefield tapped.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.864
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>172
+      </num>
+      <text>Svyelunite Temple enters the battlefield tapped.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>1927
+      </id>
+      <name>Thallid
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thallid.&lt;br&gt;Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.804
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>173
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Thallid.&lt;br&gt;Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>1925
+      </id>
+      <name>Thallid
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thallid.&lt;br&gt;Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.72
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>174
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Thallid.&lt;br&gt;Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>1924
+      </id>
+      <name>Thallid
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thallid.&lt;br&gt;Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.02
+      </rating>
+      <artist>Edward Beard, Jr.
+      </artist>
+      <num>175
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Thallid.&lt;br&gt;Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>1936
+      </id>
+      <name>Thorn Thallid
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thorn Thallid.&lt;br&gt;Remove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.714
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>176
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Thorn Thallid.&lt;br&gt;Remove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>1935
+      </id>
+      <name>Thorn Thallid
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thorn Thallid.&lt;br&gt;Remove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.615
+      </rating>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>177
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Thorn Thallid.&lt;br&gt;Remove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>1933
+      </id>
+      <name>Thorn Thallid
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thorn Thallid.&lt;br&gt;Remove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.269
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>178
+      </num>
+      <text>At the beginning of your upkeep, put a spore counter on Thorn Thallid.&lt;br&gt;Remove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>1867
+      </id>
+      <name>Thrull Retainer
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1.&lt;br&gt;Sacrifice Thrull Retainer: Regenerate enchanted creature.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.071
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>179
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1.&lt;br&gt;Sacrifice Thrull Retainer: Regenerate enchanted creature.
+      </text>
+    </mc>
+    <mc>
+      <id>1891
+      </id>
+      <name>Tidal Flats
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{U}{U}: For each attacking creature without flying, its controller may pay {1}. If he or she doesn't, creatures you control blocking that creature gain first strike until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.833
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>180
+      </num>
+      <text>{U}{U}: For each attacking creature without flying, its controller may pay {1}. If he or she doesn't, creatures you control blocking that creature gain first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1893
+      </id>
+      <name>Tidal Flats
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{U}{U}: For each attacking creature without flying, its controller may pay {1}. If he or she doesn't, creatures you control blocking that creature gain first strike until end of turn.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.2
+      </rating>
+      <artist>Sandra Everingham
+      </artist>
+      <num>181
+      </num>
+      <text>{U}{U}: For each attacking creature without flying, its controller may pay {1}. If he or she doesn't, creatures you control blocking that creature gain first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>1897
+      </id>
+      <name>Vodalian Mage
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Merfolk Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{U}, {T}: Counter target spell unless its controller pays {1}.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.289
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>182
+      </num>
+      <text>{U}, {T}: Counter target spell unless its controller pays {1}.
+      </text>
+    </mc>
+    <mc>
+      <id>1896
+      </id>
+      <name>Vodalian Mage
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Merfolk Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{U}, {T}: Counter target spell unless its controller pays {1}.
+      </oracleText>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.263
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>183
+      </num>
+      <text>{U}, {T}: Counter target spell unless its controller pays {1}.
+      </text>
+    </mc>
+    <mc>
+      <id>1902
+      </id>
+      <name>Vodalian Soldiers
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Merfolk Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.146
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>184
+      </num>
+    </mc>
+    <mc>
+      <id>1901
+      </id>
+      <name>Vodalian Soldiers
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Merfolk Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.611
+      </rating>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>185
+      </num>
+    </mc>
+    <mc>
+      <id>1900
+      </id>
+      <name>Vodalian Soldiers
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Merfolk Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.281
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>186
+      </num>
+    </mc>
+    <mc>
+      <id>1899
+      </id>
+      <name>Vodalian Soldiers
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Merfolk Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Fallen Empires
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.053
+      </rating>
+      <artist>Melissa Benson
+      </artist>
+      <num>187
+      </num>
+    </mc>
+  </list>
+</cards>

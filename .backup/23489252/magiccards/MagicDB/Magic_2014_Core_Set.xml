@@ -1,0 +1,5551 @@
+
+<cards>
+  <name>Magic_2014_Core_Set</name>
+  <key>Magic_2014_Core_Set</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>370735
+      </id>
+      <name>Academy Raider
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;&lt;br&gt;Whenever Academy Raider deals combat damage to a player, you may discard a card. If you do, draw a card.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>124
+      </num>
+      <text>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;&lt;br&gt;Whenever Academy Raider deals combat damage to a player, you may discard a card. If you do, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370581
+      </id>
+      <name>Accorder's Shield
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +0/+3 and has vigilance. &lt;i&gt;(Attacking doesn't cause it to tap.)&lt;/i&gt;&lt;br&gt;Equip {3} &lt;i&gt;({3}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Alan Pollack
+      </artist>
+      <num>204
+      </num>
+      <text>Equipped creature gets +0/+3 and has vigilance. &lt;i&gt;(Attacking doesn't cause it to tap.)&lt;/i&gt;&lt;br&gt;Equip {3} &lt;i&gt;({3}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370811
+      </id>
+      <name>Accursed Spirit
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>83
+      </num>
+      <text>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370618
+      </id>
+      <name>Act of Treason
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. &lt;i&gt;(It can attack and {T} this turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>125
+      </num>
+      <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. &lt;i&gt;(It can attack and {T} this turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370738
+      </id>
+      <name>Advocate of the Beast
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>At the beginning of your end step, put a +1/+1 counter on target Beast creature you control.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>164
+      </num>
+      <text>At the beginning of your end step, put a +1/+1 counter on target Beast creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>370688
+      </id>
+      <name>Air Servant
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{2}{U}: Tap target creature with flying.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Lars Grant-West
+      </artist>
+      <num>42
+      </num>
+      <text>Flying&lt;br&gt;{2}{U}: Tap target creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>370680
+      </id>
+      <name>Ajani, Caller of the Pride
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Planeswalker - Ajani
+      </type>
+      <toughness>4
+      </toughness>
+      <oracleText>+1: Put a +1/+1 counter on up to one target creature.&lt;br&gt;-3: Target creature gains flying and double strike until end of turn.&lt;br&gt;-8: Put X 2/2 white Cat creature tokens onto the battlefield, where X is your life total.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>1
+      </num>
+      <text>+1: Put a +1/+1 counter on up to one target creature.&lt;br&gt;-3: Target creature gains flying and double strike until end of turn.&lt;br&gt;-8: Put X 2/2 white Cat creature tokens onto the battlefield, where X is your life total.
+      </text>
+    </mc>
+    <mc>
+      <id>370750
+      </id>
+      <name>Ajani's Chosen
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Cat Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever an enchantment enters the battlefield under your control, put a 2/2 white Cat creature token onto the battlefield. If that enchantment is an Aura, you may attach it to the token.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>2
+      </num>
+      <text>Whenever an enchantment enters the battlefield under your control, put a 2/2 white Cat creature token onto the battlefield. If that enchantment is an Aura, you may attach it to the token.
+      </text>
+    </mc>
+    <mc>
+      <id>370677
+      </id>
+      <name>Altar's Reap
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Altar's Reap, sacrifice a creature.&lt;br&gt;Draw two cards.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Donato Giancola
+      </artist>
+      <num>84
+      </num>
+      <text>As an additional cost to cast Altar's Reap, sacrifice a creature.&lt;br&gt;Draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>370612
+      </id>
+      <name>Angelic Accord
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of each end step, if you gained 4 or more life this turn, put a 4/4 white Angel creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Michael C. Hayes
+      </artist>
+      <num>3
+      </num>
+      <text>At the beginning of each end step, if you gained 4 or more life this turn, put a 4/4 white Angel creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370789
+      </id>
+      <name>Angelic Wall
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Flying
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Allen Williams
+      </artist>
+      <num>4
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Flying
+      </text>
+    </mc>
+    <mc>
+      <id>370753
+      </id>
+      <name>Archaeomancer
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>43
+      </num>
+      <text>When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370627
+      </id>
+      <name>Archangel of Thune
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;&lt;br&gt;Whenever you gain life, put a +1/+1 counter on each creature you control.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>5
+      </num>
+      <text>Flying&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;&lt;br&gt;Whenever you gain life, put a +1/+1 counter on each creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>370632
+      </id>
+      <name>Armored Cancrix
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Crab
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Tomasz Jedruszek
+      </artist>
+      <num>44
+      </num>
+    </mc>
+    <mc>
+      <id>370634
+      </id>
+      <name>Artificer's Hex
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant Equipment&lt;br&gt;At the beginning of your upkeep, if enchanted Equipment is attached to a creature, destroy that creature.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>85
+      </num>
+      <text>Enchant Equipment&lt;br&gt;At the beginning of your upkeep, if enchanted Equipment is attached to a creature, destroy that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>370793
+      </id>
+      <name>Auramancer
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Rebecca Guay
+      </artist>
+      <num>6
+      </num>
+      <text>When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370613
+      </id>
+      <name>Awaken the Ancient
+      </name>
+      <cost>{1}{R}{R}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant Mountain&lt;br&gt;Enchanted Mountain is a 7/7 red Giant creature with haste. It's still a land.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>126
+      </num>
+      <text>Enchant Mountain&lt;br&gt;Enchanted Mountain is a 7/7 red Giant creature with haste. It's still a land.
+      </text>
+    </mc>
+    <mc>
+      <id>370624
+      </id>
+      <name>Banisher Priest
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. &lt;i&gt;(That creature returns under its owner's control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>7
+      </num>
+      <text>When Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. &lt;i&gt;(That creature returns under its owner's control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370822
+      </id>
+      <name>Barrage of Expendables
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{R}, Sacrifice a creature: Barrage of Expendables deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Trevor Claxton
+      </artist>
+      <num>127
+      </num>
+      <text>{R}, Sacrifice a creature: Barrage of Expendables deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>370639
+      </id>
+      <name>Battle Sliver
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Sliver creatures you control get +2/+0.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>128
+      </num>
+      <text>Sliver creatures you control get +2/+0.
+      </text>
+    </mc>
+    <mc>
+      <id>370819
+      </id>
+      <name>Blessing
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;{W}: Enchanted creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jason A. Engle
+      </artist>
+      <num>8
+      </num>
+      <text>Enchant creature&lt;br&gt;{W}: Enchanted creature gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370761
+      </id>
+      <name>Blightcaster
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever you cast an enchantment spell, you may have target creature get -2/-2 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>86
+      </num>
+      <text>Whenever you cast an enchantment spell, you may have target creature get -2/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370698
+      </id>
+      <name>Blood Bairn
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacrifice another creature: Blood Bairn gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Yee
+      </artist>
+      <num>87
+      </num>
+      <text>Sacrifice another creature: Blood Bairn gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370593
+      </id>
+      <name>Blur Sliver
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sliver creatures you control have haste. &lt;i&gt;(They can attack and {T} as soon as they come under your control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>129
+      </num>
+      <text>Sliver creatures you control have haste. &lt;i&gt;(They can attack and {T} as soon as they come under your control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370758
+      </id>
+      <name>Bogbrew Witch
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{2}, {T}: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>88
+      </num>
+      <text>{2}, {T}: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>370801
+      </id>
+      <name>Bonescythe Sliver
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sliver creatures you control have double strike. &lt;i&gt;(They deal both first-strike and regular combat damage.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Trevor Claxton
+      </artist>
+      <num>9
+      </num>
+      <text>Sliver creatures you control have double strike. &lt;i&gt;(They deal both first-strike and regular combat damage.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370642
+      </id>
+      <name>Bramblecrush
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target noncreature permanent.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Drew Baker
+      </artist>
+      <num>165
+      </num>
+      <text>Destroy target noncreature permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>370816
+      </id>
+      <name>Brave the Elements
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose a color. White creatures you control gain protection from the chosen color until end of turn. &lt;i&gt;(They can't be blocked, targeted, dealt damage, or enchanted by anything of that color.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Goran Josic
+      </artist>
+      <num>10
+      </num>
+      <text>Choose a color. White creatures you control gain protection from the chosen color until end of turn. &lt;i&gt;(They can't be blocked, targeted, dealt damage, or enchanted by anything of that color.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370739
+      </id>
+      <name>Briarpack Alpha
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Wolf
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>166
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Briarpack Alpha enters the battlefield, target creature gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370778
+      </id>
+      <name>Brindle Boar
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Boar
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacrifice Brindle Boar: You gain 4 life.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dave Allsop
+      </artist>
+      <num>167
+      </num>
+      <text>Sacrifice Brindle Boar: You gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>370661
+      </id>
+      <name>Bubbling Cauldron
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}, Sacrifice a creature: You gain 4 life.&lt;br&gt;{1}, {T}, Sacrifice a creature named Festering Newt: Each opponent loses 4 life. You gain life equal to the life lost this way.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>205
+      </num>
+      <text>{1}, {T}, Sacrifice a creature: You gain 4 life.&lt;br&gt;{1}, {T}, Sacrifice a creature named Festering Newt: Each opponent loses 4 life. You gain life equal to the life lost this way.
+      </text>
+    </mc>
+    <mc>
+      <id>370696
+      </id>
+      <name>Burning Earth
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a player taps a nonbasic land for mana, Burning Earth deals 1 damage to that player.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>rk post
+      </artist>
+      <num>130
+      </num>
+      <text>Whenever a player taps a nonbasic land for mana, Burning Earth deals 1 damage to that player.
+      </text>
+    </mc>
+    <mc>
+      <id>370755
+      </id>
+      <name>Cancel
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>45
+      </num>
+      <text>Counter target spell.
+      </text>
+    </mc>
+    <mc>
+      <id>370757
+      </id>
+      <name>Canyon Minotaur
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Minotaur Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>131
+      </num>
+    </mc>
+    <mc>
+      <id>370821
+      </id>
+      <name>Capashen Knight
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;{1}{W}: Capashen Knight gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jasper Sandner
+      </artist>
+      <num>11
+      </num>
+      <text>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;{1}{W}: Capashen Knight gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370666
+      </id>
+      <name>Celestial Flare
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player sacrifices an attacking or blocking creature.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>12
+      </num>
+      <text>Target player sacrifices an attacking or blocking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>370637
+      </id>
+      <name>Chandra, Pyromaster
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Planeswalker - Chandra
+      </type>
+      <toughness>4
+      </toughness>
+      <oracleText>+1: Chandra, Pyromaster deals 1 damage to target player and 1 damage to up to one target creature that player controls. That creature can't block this turn.&lt;br&gt;0: Exile the top card of your library. You may play it this turn.&lt;br&gt;-7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>132
+      </num>
+      <text>+1: Chandra, Pyromaster deals 1 damage to target player and 1 damage to up to one target creature that player controls. That creature can't block this turn.&lt;br&gt;0: Exile the top card of your library. You may play it this turn.&lt;br&gt;-7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.
+      </text>
+    </mc>
+    <mc>
+      <id>370659
+      </id>
+      <name>Chandra's Outrage
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>133
+      </num>
+      <text>Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>370691
+      </id>
+      <name>Chandra's Phoenix
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Phoenix
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;&lt;br&gt;Whenever an opponent is dealt damage by a red instant or sorcery spell you control or by a red planeswalker you control, return Chandra's Phoenix from your graveyard to your hand.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>134
+      </num>
+      <text>Flying&lt;br&gt;Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;&lt;br&gt;Whenever an opponent is dealt damage by a red instant or sorcery spell you control or by a red planeswalker you control, return Chandra's Phoenix from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370768
+      </id>
+      <name>Charging Griffin
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Griffin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Charging Griffin attacks, it gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Erica Yang
+      </artist>
+      <num>13
+      </num>
+      <text>Flying&lt;br&gt;Whenever Charging Griffin attacks, it gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370823
+      </id>
+      <name>Child of Night
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ash Wood
+      </artist>
+      <num>89
+      </num>
+      <text>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370653
+      </id>
+      <name>Claustrophobia
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Claustrophobia enters the battlefield, tap enchanted creature.&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>46
+      </num>
+      <text>Enchant creature&lt;br&gt;When Claustrophobia enters the battlefield, tap enchanted creature.&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>370622
+      </id>
+      <name>Clone
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>47
+      </num>
+      <text>You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370685
+      </id>
+      <name>Colossal Whale
+      </name>
+      <cost>{5}{U}{U}
+      </cost>
+      <type>Creature - Whale
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Islandwalk &lt;i&gt;(This creature can't be blocked as long as defending player controls an Island.)&lt;/i&gt;&lt;br&gt;Whenever Colossal Whale attacks, you may exile target creature defending player controls until Colossal Whale leaves the battlefield. &lt;i&gt;(That creature returns under its owner's control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>48
+      </num>
+      <text>Islandwalk &lt;i&gt;(This creature can't be blocked as long as defending player controls an Island.)&lt;/i&gt;&lt;br&gt;Whenever Colossal Whale attacks, you may exile target creature defending player controls until Colossal Whale leaves the battlefield. &lt;i&gt;(That creature returns under its owner's control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370804
+      </id>
+      <name>Congregate
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player gains 2 life for each creature on the battlefield.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>14
+      </num>
+      <text>Target player gains 2 life for each creature on the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370667
+      </id>
+      <name>Coral Merfolk
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Merfolk
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>rk post
+      </artist>
+      <num>49
+      </num>
+    </mc>
+    <mc>
+      <id>370800
+      </id>
+      <name>Corpse Hauler
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{2}{B}, Sacrifice Corpse Hauler: Return another target creature card from your graveyard to your hand.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>90
+      </num>
+      <text>{2}{B}, Sacrifice Corpse Hauler: Return another target creature card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370630
+      </id>
+      <name>Corrupt
+      </name>
+      <cost>{5}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dave Allsop
+      </artist>
+      <num>91
+      </num>
+      <text>Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.
+      </text>
+    </mc>
+    <mc>
+      <id>370585
+      </id>
+      <name>Cyclops Tyrant
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Cyclops
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;&lt;br&gt;Cyclops Tyrant can't block creatures with power 2 or less.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zack Stella
+      </artist>
+      <num>135
+      </num>
+      <text>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;&lt;br&gt;Cyclops Tyrant can't block creatures with power 2 or less.
+      </text>
+    </mc>
+    <mc>
+      <id>370782
+      </id>
+      <name>Dark Favor
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Dark Favor enters the battlefield, you lose 1 life.&lt;br&gt;Enchanted creature gets +3/+1.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Allen Williams
+      </artist>
+      <num>92
+      </num>
+      <text>Enchant creature&lt;br&gt;When Dark Favor enters the battlefield, you lose 1 life.&lt;br&gt;Enchanted creature gets +3/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>370596
+      </id>
+      <name>Dark Prophecy
+      </name>
+      <cost>{B}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature you control dies, you draw a card and lose 1 life.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Scott Chou
+      </artist>
+      <num>93
+      </num>
+      <text>Whenever a creature you control dies, you draw a card and lose 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>370734
+      </id>
+      <name>Darksteel Forge
+      </name>
+      <cost>{9}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Artifacts you control have indestructible. &lt;i&gt;(Effects that say "destroy" don't destroy them. Artifact creatures with indestructible can't be destroyed by damage.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>206
+      </num>
+      <text>Artifacts you control have indestructible. &lt;i&gt;(Effects that say "destroy" don't destroy them. Artifact creatures with indestructible can't be destroyed by damage.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370675
+      </id>
+      <name>Darksteel Ingot
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Indestructible &lt;i&gt;(Effects that say "destroy" don't destroy this artifact.)&lt;/i&gt;&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>207
+      </num>
+      <text>Indestructible &lt;i&gt;(Effects that say "destroy" don't destroy this artifact.)&lt;/i&gt;&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>370721
+      </id>
+      <name>Dawnstrike Paladin
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Vigilance &lt;i&gt;(Attacking doesn't cause this creature to tap.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>15
+      </num>
+      <text>Vigilance &lt;i&gt;(Attacking doesn't cause this creature to tap.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370582
+      </id>
+      <name>Deadly Recluse
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Warren Mahy
+      </artist>
+      <num>168
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370775
+      </id>
+      <name>Deathgaze Cockatrice
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Cockatrice
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>94
+      </num>
+      <text>Flying&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370621
+      </id>
+      <name>Demolish
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target artifact or land.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>136
+      </num>
+      <text>Destroy target artifact or land.
+      </text>
+    </mc>
+    <mc>
+      <id>370726
+      </id>
+      <name>Devout Invocation
+      </name>
+      <cost>{6}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Tap any number of untapped creatures you control. Put a 4/4 white Angel creature token with flying onto the battlefield for each creature tapped this way.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>16
+      </num>
+      <text>Tap any number of untapped creatures you control. Put a 4/4 white Angel creature token with flying onto the battlefield for each creature tapped this way.
+      </text>
+    </mc>
+    <mc>
+      <id>370732
+      </id>
+      <name>Diabolic Tutor
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a card and put that card into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>95
+      </num>
+      <text>Search your library for a card and put that card into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>370796
+      </id>
+      <name>Dismiss into Dream
+      </name>
+      <cost>{6}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Each creature your opponents control is an Illusion in addition to its other types and has "When this creature becomes the target of a spell or ability, sacrifice it."
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Sam Wolfe Connelly
+      </artist>
+      <num>50
+      </num>
+      <text>Each creature your opponents control is an Illusion in addition to its other types and has "When this creature becomes the target of a spell or ability, sacrifice it."
+      </text>
+    </mc>
+    <mc>
+      <id>370818
+      </id>
+      <name>Disperse
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target nonland permanent to its owner's hand.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Ellis
+      </artist>
+      <num>51
+      </num>
+      <text>Return target nonland permanent to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370616
+      </id>
+      <name>Divination
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw two cards.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Howard Lyon
+      </artist>
+      <num>52
+      </num>
+      <text>Draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>370748
+      </id>
+      <name>Divine Favor
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Divine Favor enters the battlefield, you gain 3 life.&lt;br&gt;Enchanted creature gets +1/+3.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Allen Williams
+      </artist>
+      <num>17
+      </num>
+      <text>Enchant creature&lt;br&gt;When Divine Favor enters the battlefield, you gain 3 life.&lt;br&gt;Enchanted creature gets +1/+3.
+      </text>
+    </mc>
+    <mc>
+      <id>370783
+      </id>
+      <name>Domestication
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;You control enchanted creature.&lt;br&gt;At the beginning of your end step, if enchanted creature's power is 4 or greater, sacrifice Domestication.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>53
+      </num>
+      <text>Enchant creature&lt;br&gt;You control enchanted creature.&lt;br&gt;At the beginning of your end step, if enchanted creature's power is 4 or greater, sacrifice Domestication.
+      </text>
+    </mc>
+    <mc>
+      <id>370609
+      </id>
+      <name>Doom Blade
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonblack creature.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Chippy
+      </artist>
+      <num>96
+      </num>
+      <text>Destroy target nonblack creature.
+      </text>
+    </mc>
+    <mc>
+      <id>370699
+      </id>
+      <name>Door of Destinies
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>As Door of Destinies enters the battlefield, choose a creature type.&lt;br&gt;Whenever you cast a spell of the chosen type, put a charge counter on Door of Destinies.&lt;br&gt;Creatures you control of the chosen type get +1/+1 for each charge counter on Door of Destinies.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Larry MacDougall
+      </artist>
+      <num>208
+      </num>
+      <text>As Door of Destinies enters the battlefield, choose a creature type.&lt;br&gt;Whenever you cast a spell of the chosen type, put a charge counter on Door of Destinies.&lt;br&gt;Creatures you control of the chosen type get +1/+1 for each charge counter on Door of Destinies.
+      </text>
+    </mc>
+    <mc>
+      <id>370660
+      </id>
+      <name>Dragon Egg
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;When Dragon Egg dies, put a 2/2 red Dragon creature token with flying onto the battlefield. It has "{R}: This creature gets +1/+0 until end of turn."
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jack Wang
+      </artist>
+      <num>137
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;When Dragon Egg dies, put a 2/2 red Dragon creature token with flying onto the battlefield. It has "{R}: This creature gets +1/+0 until end of turn."
+      </text>
+    </mc>
+    <mc>
+      <id>370717
+      </id>
+      <name>Dragon Hatchling
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{R}: Dragon Hatchling gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>138
+      </num>
+      <text>Flying&lt;br&gt;{R}: Dragon Hatchling gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370577
+      </id>
+      <name>Duress
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>97
+      </num>
+      <text>Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+      </text>
+    </mc>
+    <mc>
+      <id>370747
+      </id>
+      <name>Elite Arcanist
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Elite Arcanist enters the battlefield, you may exile an instant card from your hand.&lt;br&gt;{X}, {T}: Copy the exiled card. You may cast the copy without paying its mana cost. X is the converted mana cost of the exiled card.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>James Zapata
+      </artist>
+      <num>54
+      </num>
+      <text>When Elite Arcanist enters the battlefield, you may exile an instant card from your hand.&lt;br&gt;{X}, {T}: Copy the exiled card. You may cast the copy without paying its mana cost. X is the converted mana cost of the exiled card.
+      </text>
+    </mc>
+    <mc>
+      <id>370681
+      </id>
+      <name>Elixir of Immortality
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>209
+      </num>
+      <text>{2}, {T}: You gain 5 life. Shuffle Elixir of Immortality and your graveyard into their owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>370744
+      </id>
+      <name>Elvish Mystic
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Add {G} to your mana pool.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Wesley Burt
+      </artist>
+      <num>169
+      </num>
+      <text>{T}: Add {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>370769
+      </id>
+      <name>Encroaching Wastes
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{4}, {T}, Sacrifice Encroaching Wastes: Destroy target nonbasic land.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>227
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{4}, {T}, Sacrifice Encroaching Wastes: Destroy target nonbasic land.
+      </text>
+    </mc>
+    <mc>
+      <id>370797
+      </id>
+      <name>Enlarge
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +7/+7 and gains trample until end of turn. It must be blocked this turn if able. &lt;i&gt;(If a creature with trample would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Michael Komarck
+      </artist>
+      <num>170
+      </num>
+      <text>Target creature gets +7/+7 and gains trample until end of turn. It must be blocked this turn if able. &lt;i&gt;(If a creature with trample would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370694
+      </id>
+      <name>Essence Scatter
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target creature spell.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jon Foster
+      </artist>
+      <num>55
+      </num>
+      <text>Counter target creature spell.
+      </text>
+    </mc>
+    <mc>
+      <id>370772
+      </id>
+      <name>Festering Newt
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Salamander
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Festering Newt dies, target creature an opponent controls gets -1/-1 until end of turn. That creature gets -4/-4 instead if you control a creature named Bogbrew Witch.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>98
+      </num>
+      <text>When Festering Newt dies, target creature an opponent controls gets -1/-1 until end of turn. That creature gets -4/-4 instead if you control a creature named Bogbrew Witch.
+      </text>
+    </mc>
+    <mc>
+      <id>370786
+      </id>
+      <name>Fiendslayer Paladin
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt; &lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;&lt;br&gt;Fiendslayer Paladin can't be the target of black or red spells your opponents control.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Wesley Burt
+      </artist>
+      <num>18
+      </num>
+      <text>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt; &lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;&lt;br&gt;Fiendslayer Paladin can't be the target of black or red spells your opponents control.
+      </text>
+    </mc>
+    <mc>
+      <id>370715
+      </id>
+      <name>Fireshrieker
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has double strike. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>210
+      </num>
+      <text>Equipped creature has double strike. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370824
+      </id>
+      <name>Flames of the Firebrand
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Flames of the Firebrand deals 3 damage divided as you choose among one, two, or three target creatures and/or players.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Steve Argyle
+      </artist>
+      <num>139
+      </num>
+      <text>Flames of the Firebrand deals 3 damage divided as you choose among one, two, or three target creatures and/or players.
+      </text>
+    </mc>
+    <mc>
+      <id>370741
+      </id>
+      <name>Fleshpulper Giant
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Fleshpulper Giant enters the battlefield, you may destroy target creature with toughness 2 or less.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>140
+      </num>
+      <text>When Fleshpulper Giant enters the battlefield, you may destroy target creature with toughness 2 or less.
+      </text>
+    </mc>
+    <mc>
+      <id>370633
+      </id>
+      <name>Fog
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all combat damage that would be dealt this turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>171
+      </num>
+      <text>Prevent all combat damage that would be dealt this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370729
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>247
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>370712
+      </id>
+      <name>Fortify
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Creatures you control get +2/+0 until end of turn; or creatures you control get +0/+2 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>19
+      </num>
+      <text>Choose one- Creatures you control get +2/+0 until end of turn; or creatures you control get +0/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370678
+      </id>
+      <name>Frost Breath
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>56
+      </num>
+      <text>Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>370590
+      </id>
+      <name>Galerider Sliver
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sliver creatures you control have flying.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>James Zapata
+      </artist>
+      <num>57
+      </num>
+      <text>Sliver creatures you control have flying.
+      </text>
+    </mc>
+    <mc>
+      <id>370687
+      </id>
+      <name>Garruk, Caller of Beasts
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Planeswalker - Garruk
+      </type>
+      <toughness>4
+      </toughness>
+      <oracleText>+1: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.&lt;br&gt;-3: You may put a green creature card from your hand onto the battlefield.&lt;br&gt;-7: You get an emblem with "Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library."
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>172
+      </num>
+      <text>+1: Reveal the top five cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.&lt;br&gt;-3: You may put a green creature card from your hand onto the battlefield.&lt;br&gt;-7: You get an emblem with "Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library."
+      </text>
+    </mc>
+    <mc>
+      <id>370684
+      </id>
+      <name>Garruk's Horde
+      </name>
+      <cost>{5}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Play with the top card of your library revealed.&lt;br&gt;You may cast the top card of your library if it's a creature card. &lt;i&gt;(Do this only any time you could cast that creature card. You still pay the spell's costs.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>173
+      </num>
+      <text>Trample&lt;br&gt;Play with the top card of your library revealed.&lt;br&gt;You may cast the top card of your library if it's a creature card. &lt;i&gt;(Do this only any time you could cast that creature card. You still pay the spell's costs.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370788
+      </id>
+      <name>Giant Growth
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Matt Cavotta
+      </artist>
+      <num>174
+      </num>
+      <text>Target creature gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370781
+      </id>
+      <name>Giant Spider
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Randy Gallegos
+      </artist>
+      <num>175
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370716
+      </id>
+      <name>Gladecover Scout
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Allen Williams
+      </artist>
+      <num>176
+      </num>
+      <text>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370774
+      </id>
+      <name>Glimpse the Future
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Andrew Robinson
+      </artist>
+      <num>58
+      </num>
+      <text>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>370682
+      </id>
+      <name>Gnawing Zombie
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{1}{B}, Sacrifice a creature: Target player loses 1 life and you gain 1 life.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>99
+      </num>
+      <text>{1}{B}, Sacrifice a creature: Target player loses 1 life and you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>370674
+      </id>
+      <name>Goblin Diplomats
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Each creature attacks this turn if able.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Izzy
+      </artist>
+      <num>141
+      </num>
+      <text>{T}: Each creature attacks this turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>370610
+      </id>
+      <name>Goblin Shortcutter
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Goblin Shortcutter enters the battlefield, target creature can't block this turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>142
+      </num>
+      <text>When Goblin Shortcutter enters the battlefield, target creature can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370792
+      </id>
+      <name>Griffin Sentinel
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Griffin
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Vigilance &lt;i&gt;(Attacking doesn't cause this creature to tap.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Warren Mahy
+      </artist>
+      <num>20
+      </num>
+      <text>Flying&lt;br&gt;Vigilance &lt;i&gt;(Attacking doesn't cause this creature to tap.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370776
+      </id>
+      <name>Grim Return
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose target creature card in a graveyard that was put there from the battlefield this turn. Put that card onto the battlefield under your control.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>100
+      </num>
+      <text>Choose target creature card in a graveyard that was put there from the battlefield this turn. Put that card onto the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>370626
+      </id>
+      <name>Groundshaker Sliver
+      </name>
+      <cost>{6}{G}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Sliver creatures you control have trample. &lt;i&gt;(If a Sliver you control would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>177
+      </num>
+      <text>Sliver creatures you control have trample. &lt;i&gt;(If a Sliver you control would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370603
+      </id>
+      <name>Guardian of the Ages
+      </name>
+      <cost>{7}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;When a creature attacks you or a planeswalker you control, if Guardian of the Ages has defender, it loses defender and gains trample.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>211
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;When a creature attacks you or a planeswalker you control, if Guardian of the Ages has defender, it loses defender and gains trample.
+      </text>
+    </mc>
+    <mc>
+      <id>370594
+      </id>
+      <name>Haunted Plate Mail
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +4/+4.&lt;br&gt;{0}: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit artifact creature that's no longer an Equipment. Activate this ability only if you control no creatures.&lt;br&gt;Equip {4} &lt;i&gt;({4}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Izzy
+      </artist>
+      <num>212
+      </num>
+      <text>Equipped creature gets +4/+4.&lt;br&gt;{0}: Until end of turn, Haunted Plate Mail becomes a 4/4 Spirit artifact creature that's no longer an Equipment. Activate this ability only if you control no creatures.&lt;br&gt;Equip {4} &lt;i&gt;({4}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370817
+      </id>
+      <name>Hive Stirrings
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put two 1/1 colorless Sliver creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Maciej Kuciara
+      </artist>
+      <num>21
+      </num>
+      <text>Put two 1/1 colorless Sliver creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370718
+      </id>
+      <name>Howl of the Night Pack
+      </name>
+      <cost>{6}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put a 2/2 green Wolf creature token onto the battlefield for each Forest you control.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Lars Grant-West
+      </artist>
+      <num>178
+      </num>
+      <text>Put a 2/2 green Wolf creature token onto the battlefield for each Forest you control.
+      </text>
+    </mc>
+    <mc>
+      <id>370743
+      </id>
+      <name>Hunt the Weak
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raoul Vitale
+      </artist>
+      <num>179
+      </num>
+      <text>Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370701
+      </id>
+      <name>Illusionary Armor
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +4/+4.&lt;br&gt;When enchanted creature becomes the target of a spell or ability, sacrifice Illusionary Armor.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>59
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +4/+4.&lt;br&gt;When enchanted creature becomes the target of a spell or ability, sacrifice Illusionary Armor.
+      </text>
+    </mc>
+    <mc>
+      <id>370770
+      </id>
+      <name>Imposing Sovereign
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Creatures your opponents control enter the battlefield tapped.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>22
+      </num>
+      <text>Creatures your opponents control enter the battlefield tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>370673
+      </id>
+      <name>Indestructibility
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant permanent&lt;br&gt;Enchanted permanent has indestructible. &lt;i&gt;(Effects that say "destroy" don't destroy that permanent. A creature with indestructible can't be destroyed by damage.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Darrell Riche
+      </artist>
+      <num>23
+      </num>
+      <text>Enchant permanent&lt;br&gt;Enchanted permanent has indestructible. &lt;i&gt;(Effects that say "destroy" don't destroy that permanent. A creature with indestructible can't be destroyed by damage.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370579
+      </id>
+      <name>Into the Wilds
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, look at the top card of your library. If it's a land card, you may put it onto the battlefield.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>180
+      </num>
+      <text>At the beginning of your upkeep, look at the top card of your library. If it's a land card, you may put it onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370608
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Cliff Childs
+      </artist>
+      <num>235
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>370728
+      </id>
+      <name>Jace, Memory Adept
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Planeswalker - Jace
+      </type>
+      <toughness>4
+      </toughness>
+      <oracleText>+1: Draw a card. Target player puts the top card of his or her library into his or her graveyard.&lt;br&gt;0: Target player puts the top ten cards of his or her library into his or her graveyard.&lt;br&gt;-7: Any number of target players each draw twenty cards.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>60
+      </num>
+      <text>+1: Draw a card. Target player puts the top card of his or her library into his or her graveyard.&lt;br&gt;0: Target player puts the top ten cards of his or her library into his or her graveyard.&lt;br&gt;-7: Any number of target players each draw twenty cards.
+      </text>
+    </mc>
+    <mc>
+      <id>370638
+      </id>
+      <name>Jace's Mindseeker
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Creature - Fish Illusion
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Jace's Mindseeker enters the battlefield, target opponent puts the top five cards of his or her library into his or her graveyard. You may cast an instant or sorcery card from among them without paying its mana cost.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>61
+      </num>
+      <text>Flying&lt;br&gt;When Jace's Mindseeker enters the battlefield, target opponent puts the top five cards of his or her library into his or her graveyard. You may cast an instant or sorcery card from among them without paying its mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>370766
+      </id>
+      <name>Kalonian Hydra
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Hydra
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Kalonian Hydra enters the battlefield with four +1/+1 counters on it.&lt;br&gt;Whenever Kalonian Hydra attacks, double the number of +1/+1 counters on each creature you control.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>181
+      </num>
+      <text>Trample&lt;br&gt;Kalonian Hydra enters the battlefield with four +1/+1 counters on it.&lt;br&gt;Whenever Kalonian Hydra attacks, double the number of +1/+1 counters on each creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>370700
+      </id>
+      <name>Kalonian Tusker
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>182
+      </num>
+    </mc>
+    <mc>
+      <id>370595
+      </id>
+      <name>Lava Axe
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Lava Axe deals 5 damage to target player.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Brian Snoddy
+      </artist>
+      <num>143
+      </num>
+      <text>Lava Axe deals 5 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>370767
+      </id>
+      <name>Lay of the Land
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Chuck Lukacs
+      </artist>
+      <num>183
+      </num>
+      <text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>370723
+      </id>
+      <name>Lifebane Zombie
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Zombie Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;&lt;br&gt;When Lifebane Zombie enters the battlefield, target opponent reveals his or her hand. You choose a green or white creature card from it and exile that card.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Min Yum
+      </artist>
+      <num>101
+      </num>
+      <text>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;&lt;br&gt;When Lifebane Zombie enters the battlefield, target opponent reveals his or her hand. You choose a green or white creature card from it and exile that card.
+      </text>
+    </mc>
+    <mc>
+      <id>370795
+      </id>
+      <name>Lightning Talons
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+0 and has first strike. &lt;i&gt;(It deals combat damage before creatures without first strike.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>144
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+0 and has first strike. &lt;i&gt;(It deals combat damage before creatures without first strike.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370658
+      </id>
+      <name>Liliana of the Dark Realms
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Planeswalker - Liliana
+      </type>
+      <toughness>3
+      </toughness>
+      <oracleText>+1: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.&lt;br&gt;-3: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.&lt;br&gt;-6: You get an emblem with "Swamps you control have ‘{T}: Add {B}{B}{B}{B} to your mana pool.'"
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>102
+      </num>
+      <text>+1: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.&lt;br&gt;-3: Target creature gets +X/+X or -X/-X until end of turn, where X is the number of Swamps you control.&lt;br&gt;-6: You get an emblem with "Swamps you control have ‘{T}: Add {B}{B}{B}{B} to your mana pool.'"
+      </text>
+    </mc>
+    <mc>
+      <id>370740
+      </id>
+      <name>Liliana's Reaver
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;Whenever Liliana's Reaver deals combat damage to a player, that player discards a card and you put a 2/2 black Zombie creature token onto the battlefield tapped.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>103
+      </num>
+      <text>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;Whenever Liliana's Reaver deals combat damage to a player, that player discards a card and you put a 2/2 black Zombie creature token onto the battlefield tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>370652
+      </id>
+      <name>Liturgy of Blood
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target creature. Add {B}{B}{B} to your mana pool.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zack Stella
+      </artist>
+      <num>104
+      </num>
+      <text>Destroy target creature. Add {B}{B}{B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>370599
+      </id>
+      <name>Manaweft Sliver
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sliver creatures you control have "{T}: Add one mana of any color to your mana pool."
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Trevor Claxton
+      </artist>
+      <num>184
+      </num>
+      <text>Sliver creatures you control have "{T}: Add one mana of any color to your mana pool."
+      </text>
+    </mc>
+    <mc>
+      <id>370648
+      </id>
+      <name>Marauding Maulhorn
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Marauding Maulhorn attacks each combat if able unless you control a creature named Advocate of the Beast.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>145
+      </num>
+      <text>Marauding Maulhorn attacks each combat if able unless you control a creature named Advocate of the Beast.
+      </text>
+    </mc>
+    <mc>
+      <id>370787
+      </id>
+      <name>Mark of the Vampire
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has lifelink. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>105
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has lifelink. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370708
+      </id>
+      <name>Master of Diversion
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Master of Diversion attacks, tap target creature defending player controls.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Michael Komarck
+      </artist>
+      <num>24
+      </num>
+      <text>Whenever Master of Diversion attacks, tap target creature defending player controls.
+      </text>
+    </mc>
+    <mc>
+      <id>370794
+      </id>
+      <name>Megantic Sliver
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Sliver creatures you control get +3/+3.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>185
+      </num>
+      <text>Sliver creatures you control get +3/+3.
+      </text>
+    </mc>
+    <mc>
+      <id>370762
+      </id>
+      <name>Merfolk Spy
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Merfolk Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Islandwalk &lt;i&gt;(This creature can't be blocked as long as defending player controls an Island.)&lt;/i&gt;&lt;br&gt;Whenever Merfolk Spy deals combat damage to a player, that player reveals a card at random from his or her hand.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Matt Cavotta &amp; Richard Whitters
+      </artist>
+      <num>62
+      </num>
+      <text>Islandwalk &lt;i&gt;(This creature can't be blocked as long as defending player controls an Island.)&lt;/i&gt;&lt;br&gt;Whenever Merfolk Spy deals combat damage to a player, that player reveals a card at random from his or her hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370807
+      </id>
+      <name>Messenger Drake
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Messenger Drake dies, draw a card.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>63
+      </num>
+      <text>Flying&lt;br&gt;When Messenger Drake dies, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370737
+      </id>
+      <name>Millstone
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>213
+      </num>
+      <text>{2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>370711
+      </id>
+      <name>Mind Rot
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards two cards.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Luke
+      </artist>
+      <num>106
+      </num>
+      <text>Target player discards two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>370695
+      </id>
+      <name>Mindsparker
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;Whenever an opponent casts a white or blue instant or sorcery spell, Mindsparker deals 2 damage to that player.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>146
+      </num>
+      <text>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;Whenever an opponent casts a white or blue instant or sorcery spell, Mindsparker deals 2 damage to that player.
+      </text>
+    </mc>
+    <mc>
+      <id>370683
+      </id>
+      <name>Minotaur Abomination
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Zombie Minotaur
+      </type>
+      <power>4
+      </power>
+      <toughness>6
+      </toughness>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>107
+      </num>
+    </mc>
+    <mc>
+      <id>370604
+      </id>
+      <name>Molten Birth
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put two 1/1 red Elemental creature tokens onto the battlefield. Then flip a coin. If you win the flip, return Molten Birth to its owner's hand.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>147
+      </num>
+      <text>Put two 1/1 red Elemental creature tokens onto the battlefield. Then flip a coin. If you win the flip, return Molten Birth to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370591
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jonas De Ro
+      </artist>
+      <num>243
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>370733
+      </id>
+      <name>Mutavault
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Fred Fields
+      </artist>
+      <num>228
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.
+      </text>
+    </mc>
+    <mc>
+      <id>370802
+      </id>
+      <name>Naturalize
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Tim Hildebrandt
+      </artist>
+      <num>186
+      </num>
+      <text>Destroy target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>370719
+      </id>
+      <name>Negate
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target noncreature spell.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>64
+      </num>
+      <text>Counter target noncreature spell.
+      </text>
+    </mc>
+    <mc>
+      <id>370760
+      </id>
+      <name>Nephalia Seakite
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Wayne England
+      </artist>
+      <num>65
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying
+      </text>
+    </mc>
+    <mc>
+      <id>370689
+      </id>
+      <name>Nightmare
+      </name>
+      <cost>{5}{B}
+      </cost>
+      <type>Creature - Nightmare Horse
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Nightmare's power and toughness are each equal to the number of Swamps you control.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Vance Kovacs
+      </artist>
+      <num>108
+      </num>
+      <text>Flying&lt;br&gt;Nightmare's power and toughness are each equal to the number of Swamps you control.
+      </text>
+    </mc>
+    <mc>
+      <id>370705
+      </id>
+      <name>Nightwing Shade
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Shade
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{1}{B}: Nightwing Shade gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>109
+      </num>
+      <text>Flying&lt;br&gt;{1}{B}: Nightwing Shade gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370763
+      </id>
+      <name>Oath of the Ancient Wood
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever Oath of the Ancient Wood or another enchantment enters the battlefield under your control, you may put a +1/+1 counter on target creature.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>187
+      </num>
+      <text>Whenever Oath of the Ancient Wood or another enchantment enters the battlefield under your control, you may put a +1/+1 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>370662
+      </id>
+      <name>Ogre Battledriver
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Ogre Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. &lt;i&gt;(It can attack and {T} this turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>148
+      </num>
+      <text>Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. &lt;i&gt;(It can attack and {T} this turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370751
+      </id>
+      <name>Opportunity
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player draws four cards.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Allen Williams
+      </artist>
+      <num>66
+      </num>
+      <text>Target player draws four cards.
+      </text>
+    </mc>
+    <mc>
+      <id>370812
+      </id>
+      <name>Pacifism
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Robert Bliss
+      </artist>
+      <num>25
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.
+      </text>
+    </mc>
+    <mc>
+      <id>370798
+      </id>
+      <name>Path of Bravery
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>As long as your life total is greater than or equal to your starting life total, creatures you control get +1/+1.&lt;br&gt;Whenever one or more creatures you control attack, you gain life equal to the number of attacking creatures.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>26
+      </num>
+      <text>As long as your life total is greater than or equal to your starting life total, creatures you control get +1/+1.&lt;br&gt;Whenever one or more creatures you control attack, you gain life equal to the number of attacking creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>370742
+      </id>
+      <name>Pay No Heed
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all damage a source of your choice would deal this turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Adam Rex
+      </artist>
+      <num>27
+      </num>
+      <text>Prevent all damage a source of your choice would deal this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370650
+      </id>
+      <name>Phantom Warrior
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Illusion Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Phantom Warrior can't be blocked.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>67
+      </num>
+      <text>Phantom Warrior can't be blocked.
+      </text>
+    </mc>
+    <mc>
+      <id>370765
+      </id>
+      <name>Pillarfield Ox
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Ox
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Andrew Robinson
+      </artist>
+      <num>28
+      </num>
+    </mc>
+    <mc>
+      <id>370649
+      </id>
+      <name>Pitchburn Devils
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Devil
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Pitchburn Devils dies, it deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>149
+      </num>
+      <text>When Pitchburn Devils dies, it deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>370754
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jonas De Ro
+      </artist>
+      <num>231
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>370808
+      </id>
+      <name>Planar Cleansing
+      </name>
+      <cost>{3}{W}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all nonland permanents.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Michael Komarck
+      </artist>
+      <num>29
+      </num>
+      <text>Destroy all nonland permanents.
+      </text>
+    </mc>
+    <mc>
+      <id>370601
+      </id>
+      <name>Plummet
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature with flying.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Pete Venters
+      </artist>
+      <num>188
+      </num>
+      <text>Destroy target creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>370745
+      </id>
+      <name>Predatory Sliver
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sliver creatures you control get +1/+1.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>189
+      </num>
+      <text>Sliver creatures you control get +1/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>370656
+      </id>
+      <name>Primeval Bounty
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever you cast a creature spell, put a 3/3 green Beast creature token onto the battlefield.&lt;br&gt;Whenever you cast a noncreature spell, put three +1/+1 counters on target creature you control.&lt;br&gt;Whenever a land enters the battlefield under your control, you gain 3 life.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Christine Choi
+      </artist>
+      <num>190
+      </num>
+      <text>Whenever you cast a creature spell, put a 3/3 green Beast creature token onto the battlefield.&lt;br&gt;Whenever you cast a noncreature spell, put three +1/+1 counters on target creature you control.&lt;br&gt;Whenever a land enters the battlefield under your control, you gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>370686
+      </id>
+      <name>Pyromancer's Gauntlet
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>If a red instant or sorcery spell you control or a red planeswalker you control would deal damage to a permanent or player, it deals that much damage plus 2 to that permanent or player instead.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Christine Choi
+      </artist>
+      <num>214
+      </num>
+      <text>If a red instant or sorcery spell you control or a red planeswalker you control would deal damage to a permanent or player, it deals that much damage plus 2 to that permanent or player instead.
+      </text>
+    </mc>
+    <mc>
+      <id>370714
+      </id>
+      <name>Quag Sickness
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -1/-1 for each Swamp you control.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>110
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -1/-1 for each Swamp you control.
+      </text>
+    </mc>
+    <mc>
+      <id>370644
+      </id>
+      <name>Quicken
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>The next sorcery card you cast this turn can be cast as though it had flash. &lt;i&gt;(It can be cast any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>68
+      </num>
+      <text>The next sorcery card you cast this turn can be cast as though it had flash. &lt;i&gt;(It can be cast any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370803
+      </id>
+      <name>Ranger's Guile
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature you control gets +1/+1 and gains hexproof until end of turn. &lt;i&gt;(It can't be the target of spells or abilities your opponents control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>191
+      </num>
+      <text>Target creature you control gets +1/+1 and gains hexproof until end of turn. &lt;i&gt;(It can't be the target of spells or abilities your opponents control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370623
+      </id>
+      <name>Ratchet Bomb
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Put a charge counter on Ratchet Bomb.&lt;br&gt;{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Austin Hsu
+      </artist>
+      <num>215
+      </num>
+      <text>{T}: Put a charge counter on Ratchet Bomb.&lt;br&gt;{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb.
+      </text>
+    </mc>
+    <mc>
+      <id>370805
+      </id>
+      <name>Regathan Firecat
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Elemental Cat
+      </type>
+      <power>4
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Eric Velhagen
+      </artist>
+      <num>150
+      </num>
+    </mc>
+    <mc>
+      <id>370580
+      </id>
+      <name>Ring of Three Wishes
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Ring of Three Wishes enters the battlefield with three wish counters on it.&lt;br&gt;{5}, {T}, Remove a wish counter from Ring of Three Wishes: Search your library for a card and put that card into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Mark Winters
+      </artist>
+      <num>216
+      </num>
+      <text>Ring of Three Wishes enters the battlefield with three wish counters on it.&lt;br&gt;{5}, {T}, Remove a wish counter from Ring of Three Wishes: Search your library for a card and put that card into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>370636
+      </id>
+      <name>Rise of the Dark Realms
+      </name>
+      <cost>{7}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put all creature cards from all graveyards onto the battlefield under your control.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Michael Komarck
+      </artist>
+      <num>111
+      </num>
+      <text>Put all creature cards from all graveyards onto the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>370668
+      </id>
+      <name>Rod of Ruin
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>217
+      </num>
+      <text>{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>370693
+      </id>
+      <name>Rootwalla
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Roger Raupp
+      </artist>
+      <num>192
+      </num>
+      <text>{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370764
+      </id>
+      <name>Rumbling Baloth
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>193
+      </num>
+    </mc>
+    <mc>
+      <id>370671
+      </id>
+      <name>Sanguine Bond
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever you gain life, target opponent loses that much life.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>112
+      </num>
+      <text>Whenever you gain life, target opponent loses that much life.
+      </text>
+    </mc>
+    <mc>
+      <id>370710
+      </id>
+      <name>Savage Summoning
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Savage Summoning can't be countered.&lt;br&gt;The next creature card you cast this turn can be cast as though it had flash. That spell can't be countered. That creature enters the battlefield with an additional +1/+1 counter on it.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>194
+      </num>
+      <text>Savage Summoning can't be countered.&lt;br&gt;The next creature card you cast this turn can be cast as though it had flash. That spell can't be countered. That creature enters the battlefield with an additional +1/+1 counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>370629
+      </id>
+      <name>Scavenging Ooze
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Ooze
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Austin Hsu
+      </artist>
+      <num>195
+      </num>
+      <text>{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>370584
+      </id>
+      <name>Scourge of Valkas
+      </name>
+      <cost>{2}{R}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Scourge of Valkas or another Dragon enters the battlefield under your control, it deals X damage to target creature or player, where X is the number of Dragons you control.&lt;br&gt;{R}: Scourge of Valkas gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>151
+      </num>
+      <text>Flying&lt;br&gt;Whenever Scourge of Valkas or another Dragon enters the battlefield under your control, it deals X damage to target creature or player, where X is the number of Dragons you control.&lt;br&gt;{R}: Scourge of Valkas gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370651
+      </id>
+      <name>Scroll Thief
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Merfolk Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Scroll Thief deals combat damage to a player, draw a card.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>69
+      </num>
+      <text>Whenever Scroll Thief deals combat damage to a player, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370617
+      </id>
+      <name>Seacoast Drake
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Scott Chou
+      </artist>
+      <num>70
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>370713
+      </id>
+      <name>Seismic Stomp
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Creatures without flying can't block this turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>152
+      </num>
+      <text>Creatures without flying can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370724
+      </id>
+      <name>Sengir Vampire
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>113
+      </num>
+      <text>Flying&lt;br&gt;Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+      </text>
+    </mc>
+    <mc>
+      <id>370780
+      </id>
+      <name>Sensory Deprivation
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -3/-0.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>71
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -3/-0.
+      </text>
+    </mc>
+    <mc>
+      <id>370813
+      </id>
+      <name>Sentinel Sliver
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sliver creatures you control have vigilance. &lt;i&gt;(Attacking doesn't cause them to tap.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Maciej Kuciara
+      </artist>
+      <num>30
+      </num>
+      <text>Sliver creatures you control have vigilance. &lt;i&gt;(Attacking doesn't cause them to tap.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370620
+      </id>
+      <name>Seraph of the Sword
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Prevent all combat damage that would be dealt to Seraph of the Sword.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>31
+      </num>
+      <text>Flying&lt;br&gt;Prevent all combat damage that would be dealt to Seraph of the Sword.
+      </text>
+    </mc>
+    <mc>
+      <id>370602
+      </id>
+      <name>Serra Angel
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Vigilance &lt;i&gt;(Attacking doesn't cause this creature to tap.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>32
+      </num>
+      <text>Flying&lt;br&gt;Vigilance &lt;i&gt;(Attacking doesn't cause this creature to tap.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370746
+      </id>
+      <name>Shadowborn Apostle
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>A deck can have any number of cards named Shadowborn Apostle.&lt;br&gt;{B}, Sacrifice six creatures named Shadowborn Apostle: Search your library for a Demon creature card and put it onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>114
+      </num>
+      <text>A deck can have any number of cards named Shadowborn Apostle.&lt;br&gt;{B}, Sacrifice six creatures named Shadowborn Apostle: Search your library for a Demon creature card and put it onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>370655
+      </id>
+      <name>Shadowborn Demon
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Demon
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Shadowborn Demon enters the battlefield, destroy target non-Demon creature.&lt;br&gt;At the beginning of your upkeep, if there are fewer than six creature cards in your graveyard, sacrifice a creature.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>115
+      </num>
+      <text>Flying&lt;br&gt;When Shadowborn Demon enters the battlefield, destroy target non-Demon creature.&lt;br&gt;At the beginning of your upkeep, if there are fewer than six creature cards in your graveyard, sacrifice a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>370631
+      </id>
+      <name>Shimmering Grotto
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Cliff Childs
+      </artist>
+      <num>229
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>370825
+      </id>
+      <name>Shivan Dragon
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{R}: Shivan Dragon gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Donato Giancola
+      </artist>
+      <num>154
+      </num>
+      <text>Flying&lt;br&gt;{R}: Shivan Dragon gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370707
+      </id>
+      <name>Shiv's Embrace
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has flying.&lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>153
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has flying.&lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370654
+      </id>
+      <name>Shock
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Shock deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jon Foster
+      </artist>
+      <num>155
+      </num>
+      <text>Shock deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>370779
+      </id>
+      <name>Show of Valor
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +2/+4 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Anthony Palumbo
+      </artist>
+      <num>33
+      </num>
+      <text>Target creature gets +2/+4 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370722
+      </id>
+      <name>Shrivel
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>All creatures get -1/-1 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jung Park
+      </artist>
+      <num>116
+      </num>
+      <text>All creatures get -1/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370704
+      </id>
+      <name>Siege Mastodon
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Elephant
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Matt Cavotta
+      </artist>
+      <num>34
+      </num>
+    </mc>
+    <mc>
+      <id>370578
+      </id>
+      <name>Silence
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Your opponents can't cast spells this turn. &lt;i&gt;(Spells cast before this resolves are unaffected.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>35
+      </num>
+      <text>Your opponents can't cast spells this turn. &lt;i&gt;(Spells cast before this resolves are unaffected.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370643
+      </id>
+      <name>Sliver Construct
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Sliver Construct
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>218
+      </num>
+    </mc>
+    <mc>
+      <id>370784
+      </id>
+      <name>Smelt
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>156
+      </num>
+      <text>Destroy target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>370730
+      </id>
+      <name>Solemn Offering
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target artifact or enchantment. You gain 4 life.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Sam Wood
+      </artist>
+      <num>36
+      </num>
+      <text>Destroy target artifact or enchantment. You gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>370587
+      </id>
+      <name>Soulmender
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: You gain 1 life.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>37
+      </num>
+      <text>{T}: You gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>370645
+      </id>
+      <name>Spell Blast
+      </name>
+      <cost>{X}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell with converted mana cost X. &lt;i&gt;(For example, if that spell's mana cost is {3}{U}{U}, X is 5.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>72
+      </num>
+      <text>Counter target spell with converted mana cost X. &lt;i&gt;(For example, if that spell's mana cost is {3}{U}{U}, X is 5.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370605
+      </id>
+      <name>Sporemound
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever a land enters the battlefield under your control, put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>196
+      </num>
+      <text>Whenever a land enters the battlefield under your control, put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370586
+      </id>
+      <name>Staff of the Death Magus
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Whenever you cast a black spell or a Swamp enters the battlefield under your control, you gain 1 life.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>219
+      </num>
+      <text>Whenever you cast a black spell or a Swamp enters the battlefield under your control, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>370625
+      </id>
+      <name>Staff of the Flame Magus
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Whenever you cast a red spell or a Mountain enters the battlefield under your control, you gain 1 life.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>220
+      </num>
+      <text>Whenever you cast a red spell or a Mountain enters the battlefield under your control, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>370676
+      </id>
+      <name>Staff of the Mind Magus
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Whenever you cast a blue spell or an Island enters the battlefield under your control, you gain 1 life.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>221
+      </num>
+      <text>Whenever you cast a blue spell or an Island enters the battlefield under your control, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>370635
+      </id>
+      <name>Staff of the Sun Magus
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Whenever you cast a white spell or a Plains enters the battlefield under your control, you gain 1 life.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>222
+      </num>
+      <text>Whenever you cast a white spell or a Plains enters the battlefield under your control, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>370592
+      </id>
+      <name>Staff of the Wild Magus
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Whenever you cast a green spell or a Forest enters the battlefield under your control, you gain 1 life.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>223
+      </num>
+      <text>Whenever you cast a green spell or a Forest enters the battlefield under your control, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>370597
+      </id>
+      <name>Steelform Sliver
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sliver creatures you control get +0/+1.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>38
+      </num>
+      <text>Sliver creatures you control get +0/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>370777
+      </id>
+      <name>Stonehorn Chanter
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Creature - Rhino Cleric
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{5}{W}: Stonehorn Chanter gains vigilance and lifelink until end of turn. &lt;i&gt;(Attacking doesn't cause it to tap. Damage dealt by it also causes you to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>39
+      </num>
+      <text>{5}{W}: Stonehorn Chanter gains vigilance and lifelink until end of turn. &lt;i&gt;(Attacking doesn't cause it to tap. Damage dealt by it also causes you to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370589
+      </id>
+      <name>Striking Sliver
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sliver creatures you control have first strike. &lt;i&gt;(They deal combat damage before creatures without first strike.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Maciej Kuciara
+      </artist>
+      <num>157
+      </num>
+      <text>Sliver creatures you control have first strike. &lt;i&gt;(They deal combat damage before creatures without first strike.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370670
+      </id>
+      <name>Strionic Resonator
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}: Copy target triggered ability you control. You may choose new targets for the copy. &lt;i&gt;(A triggered ability uses the words "when," "whenever," or "at.")&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>224
+      </num>
+      <text>{2}, {T}: Copy target triggered ability you control. You may choose new targets for the copy. &lt;i&gt;(A triggered ability uses the words "when," "whenever," or "at.")&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370720
+      </id>
+      <name>Suntail Hawk
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Heather Hudson
+      </artist>
+      <num>40
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>370785
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jonas De Ro
+      </artist>
+      <num>239
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>370752
+      </id>
+      <name>Syphon Sliver
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sliver creatures you control have lifelink. &lt;i&gt;(Damage dealt by a Sliver creature you control also causes you to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>117
+      </num>
+      <text>Sliver creatures you control have lifelink. &lt;i&gt;(Damage dealt by a Sliver creature you control also causes you to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370606
+      </id>
+      <name>Tenacious Dead
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Skeleton Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Tenacious Dead dies, you may pay {1}{B}. If you do, return it to the battlefield tapped under its owner's control.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>John Stanko
+      </artist>
+      <num>118
+      </num>
+      <text>When Tenacious Dead dies, you may pay {1}{B}. If you do, return it to the battlefield tapped under its owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>370820
+      </id>
+      <name>Thorncaster Sliver
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Sliver
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sliver creatures you control have "Whenever this creature attacks, it deals 1 damage to target creature or player."
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Trevor Claxton
+      </artist>
+      <num>158
+      </num>
+      <text>Sliver creatures you control have "Whenever this creature attacks, it deals 1 damage to target creature or player."
+      </text>
+    </mc>
+    <mc>
+      <id>370607
+      </id>
+      <name>Thunder Strike
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +2/+0 and gains first strike until end of turn. &lt;i&gt;(It deals combat damage before creatures without first strike.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>159
+      </num>
+      <text>Target creature gets +2/+0 and gains first strike until end of turn. &lt;i&gt;(It deals combat damage before creatures without first strike.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370736
+      </id>
+      <name>Tidebinder Mage
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Creature - Merfolk Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Tidebinder Mage enters the battlefield, tap target red or green creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Tidebinder Mage.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>John Severin Brassell
+      </artist>
+      <num>73
+      </num>
+      <text>When Tidebinder Mage enters the battlefield, tap target red or green creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Tidebinder Mage.
+      </text>
+    </mc>
+    <mc>
+      <id>370641
+      </id>
+      <name>Time Ebb
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put target creature on top of its owner's library.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Alan Rabinowitz
+      </artist>
+      <num>74
+      </num>
+      <text>Put target creature on top of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>370706
+      </id>
+      <name>Tome Scour
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player puts the top five cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>75
+      </num>
+      <text>Target player puts the top five cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>370646
+      </id>
+      <name>Trading Post
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}, Discard a card: You gain 4 life.&lt;br&gt;{1}, {T}, Pay 1 life: Put a 0/1 white Goat creature token onto the battlefield.&lt;br&gt;{1}, {T}, Sacrifice a creature: Return target artifact card from your graveyard to your hand.&lt;br&gt;{1}, {T}, Sacrifice an artifact: Draw a card.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>225
+      </num>
+      <text>{1}, {T}, Discard a card: You gain 4 life.&lt;br&gt;{1}, {T}, Pay 1 life: Put a 0/1 white Goat creature token onto the battlefield.&lt;br&gt;{1}, {T}, Sacrifice a creature: Return target artifact card from your graveyard to your hand.&lt;br&gt;{1}, {T}, Sacrifice an artifact: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370692
+      </id>
+      <name>Trained Condor
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Trained Condor attacks, another target creature you control gains flying until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>76
+      </num>
+      <text>Flying&lt;br&gt;Whenever Trained Condor attacks, another target creature you control gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370663
+      </id>
+      <name>Traumatize
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player puts the top half of his or her library, rounded down, into his or her graveyard.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>77
+      </num>
+      <text>Target player puts the top half of his or her library, rounded down, into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>370664
+      </id>
+      <name>Trollhide
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has "{1}{G}: Regenerate this creature." &lt;i&gt;(The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>197
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has "{1}{G}: Regenerate this creature." &lt;i&gt;(The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370702
+      </id>
+      <name>Undead Minotaur
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Zombie Minotaur
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>119
+      </num>
+    </mc>
+    <mc>
+      <id>370709
+      </id>
+      <name>Vampire Warlord
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Vampire Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacrifice another creature: Regenerate Vampire Warlord. &lt;i&gt;(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Wesley Burt
+      </artist>
+      <num>120
+      </num>
+      <text>Sacrifice another creature: Regenerate Vampire Warlord. &lt;i&gt;(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370749
+      </id>
+      <name>Vastwood Hydra
+      </name>
+      <cost>{X}{G}{G}
+      </cost>
+      <type>Creature - Hydra
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Vastwood Hydra enters the battlefield with X +1/+1 counters on it.&lt;br&gt;When Vastwood Hydra dies, you may distribute a number of +1/+1 counters equal to the number of +1/+1 counters on Vastwood Hydra among any number of creatures you control.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>198
+      </num>
+      <text>Vastwood Hydra enters the battlefield with X +1/+1 counters on it.&lt;br&gt;When Vastwood Hydra dies, you may distribute a number of +1/+1 counters equal to the number of +1/+1 counters on Vastwood Hydra among any number of creatures you control.
+      </text>
+    </mc>
+    <mc>
+      <id>370657
+      </id>
+      <name>Verdant Haven
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;When Verdant Haven enters the battlefield, you gain 2 life.&lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>199
+      </num>
+      <text>Enchant land&lt;br&gt;When Verdant Haven enters the battlefield, you gain 2 life.&lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </text>
+    </mc>
+    <mc>
+      <id>370640
+      </id>
+      <name>Vial of Poison
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, Sacrifice Vial of Poison: Target creature gains deathtouch until end of turn. &lt;i&gt;(Any amount of damage it deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>226
+      </num>
+      <text>{1}, Sacrifice Vial of Poison: Target creature gains deathtouch until end of turn. &lt;i&gt;(Any amount of damage it deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370799
+      </id>
+      <name>Vile Rebirth
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Erica Yang
+      </artist>
+      <num>121
+      </num>
+      <text>Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370614
+      </id>
+      <name>Volcanic Geyser
+      </name>
+      <cost>{X}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Volcanic Geyser deals X damage to target creature or player.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>160
+      </num>
+      <text>Volcanic Geyser deals X damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>370814
+      </id>
+      <name>Voracious Wurm
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Voracious Wurm enters the battlefield with X +1/+1 counters on it, where X is the amount of life you've gained this turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>200
+      </num>
+      <text>Voracious Wurm enters the battlefield with X +1/+1 counters on it, where X is the amount of life you've gained this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370690
+      </id>
+      <name>Wall of Frost
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Whenever Wall of Frost blocks a creature, that creature doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>78
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Whenever Wall of Frost blocks a creature, that creature doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>370697
+      </id>
+      <name>Wall of Swords
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack)&lt;/i&gt;&lt;br&gt;Flying
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>41
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack)&lt;/i&gt;&lt;br&gt;Flying
+      </text>
+    </mc>
+    <mc>
+      <id>370815
+      </id>
+      <name>Warden of Evos Isle
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Bird Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Creature spells with flying you cast cost {1} less to cast.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>79
+      </num>
+      <text>Flying&lt;br&gt;Creature spells with flying you cast cost {1} less to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>370809
+      </id>
+      <name>Water Servant
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{U}: Water Servant gets +1/-1 until end of turn.&lt;br&gt;{U}: Water Servant gets -1/+1 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>80
+      </num>
+      <text>{U}: Water Servant gets +1/-1 until end of turn.&lt;br&gt;{U}: Water Servant gets -1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370791
+      </id>
+      <name>Wild Guess
+      </name>
+      <cost>{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Wild Guess, discard a card.&lt;br&gt;Draw two cards.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>161
+      </num>
+      <text>As an additional cost to cast Wild Guess, discard a card.&lt;br&gt;Draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>370790
+      </id>
+      <name>Wild Ricochet
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>162
+      </num>
+      <text>You may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy.
+      </text>
+    </mc>
+    <mc>
+      <id>370810
+      </id>
+      <name>Windreader Sphinx
+      </name>
+      <cost>{5}{U}{U}
+      </cost>
+      <type>Creature - Sphinx
+      </type>
+      <power>3
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a creature with flying attacks, you may draw a card.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Min Yum
+      </artist>
+      <num>81
+      </num>
+      <text>Flying&lt;br&gt;Whenever a creature with flying attacks, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370628
+      </id>
+      <name>Windstorm
+      </name>
+      <cost>{X}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Windstorm deals X damage to each creature with flying.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Rob Alexander
+      </artist>
+      <num>201
+      </num>
+      <text>Windstorm deals X damage to each creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>370806
+      </id>
+      <name>Witchstalker
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Wolf
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Whenever an opponent casts a blue or black spell during your turn, put a +1/+1 counter on Witchstalker.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>202
+      </num>
+      <text>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Whenever an opponent casts a blue or black spell during your turn, put a +1/+1 counter on Witchstalker.
+      </text>
+    </mc>
+    <mc>
+      <id>370665
+      </id>
+      <name>Woodborn Behemoth
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>As long as you control eight or more lands, Woodborn Behemoth gets +4/+4 and has trample. &lt;i&gt;(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>203
+      </num>
+      <text>As long as you control eight or more lands, Woodborn Behemoth gets +4/+4 and has trample. &lt;i&gt;(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370759
+      </id>
+      <name>Wring Flesh
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -3/-1 until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Izzy
+      </artist>
+      <num>122
+      </num>
+      <text>Target creature gets -3/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370619
+      </id>
+      <name>Xathrid Necromancer
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Xathrid Necromancer or another Human creature you control dies, put a 2/2 black Zombie creature token onto the battlefield tapped.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Maciej Kuciara
+      </artist>
+      <num>123
+      </num>
+      <text>Whenever Xathrid Necromancer or another Human creature you control dies, put a 2/2 black Zombie creature token onto the battlefield tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>370600
+      </id>
+      <name>Young Pyromancer
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever you cast an instant or sorcery spell, put a 1/1 red Elemental creature token onto the battlefield.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Cynthia Sheppard
+      </artist>
+      <num>163
+      </num>
+      <text>Whenever you cast an instant or sorcery spell, put a 1/1 red Elemental creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370672
+      </id>
+      <name>Zephyr Charge
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{U}: Target creature gains flying until end of turn.
+      </oracleText>
+      <edition>Magic 2014 Core Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>82
+      </num>
+      <text>{1}{U}: Target creature gains flying until end of turn.
+      </text>
+    </mc>
+  </list>
+</cards>

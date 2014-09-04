@@ -1,0 +1,1633 @@
+
+<cards>
+  <name>Duel_Decks__Jace_vs__Chandra</name>
+  <key>Duel_Decks__Jace_vs__Chandra</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>189211
+      </id>
+      <name>Æthersnipe
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Æthersnipe enters the battlefield, return target nonland permanent to its owner's hand.&lt;br&gt;Evoke {1}{U}{U} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>17
+      </num>
+      <text>When Æthersnipe enters the battlefield, return target nonland permanent to its owner's hand.&lt;br&gt;Evoke {1}{U}{U} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189223
+      </id>
+      <name>Air Elemental
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.229
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>13
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>189244
+      </id>
+      <name>Ancestral Vision
+      </name>
+      <type>Sorcery
+      </type>
+      <oracleText>Suspend 4—{U} &lt;i&gt;(Rather than cast this card from your hand, pay {U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)&lt;/i&gt;&lt;br&gt;Target player draws three cards.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.643
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>21
+      </num>
+      <text>Suspend 4—{U} &lt;i&gt;(Rather than cast this card from your hand, pay {U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)&lt;/i&gt;&lt;br&gt;Target player draws three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>189224
+      </id>
+      <name>Bottle Gnomes
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Gnome
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Sacrifice Bottle Gnomes: You gain 3 life.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.087
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>7
+      </num>
+      <text>Sacrifice Bottle Gnomes: You gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>189245
+      </id>
+      <name>Brine Elemental
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Morph {5}{U}{U} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Brine Elemental is turned face up, each opponent skips his or her next untap step.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.98
+      </rating>
+      <artist>Stephen Tappin
+      </artist>
+      <num>18
+      </num>
+      <text>Morph {5}{U}{U} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Brine Elemental is turned face up, each opponent skips his or her next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>185815
+      </id>
+      <name>Chandra Nalaar
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Planeswalker - Chandra
+      </type>
+      <toughness>6
+      </toughness>
+      <oracleText>+1: Chandra Nalaar deals 1 damage to target player.&lt;br&gt;-X: Chandra Nalaar deals X damage to target creature.&lt;br&gt;-8: Chandra Nalaar deals 10 damage to target player and each creature he or she controls.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.341
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>34
+      </num>
+      <text>+1: Chandra Nalaar deals 1 damage to target player.&lt;br&gt;-X: Chandra Nalaar deals X damage to target creature.&lt;br&gt;-8: Chandra Nalaar deals 10 damage to target player and each creature he or she controls.
+      </text>
+    </mc>
+    <mc>
+      <id>189235
+      </id>
+      <name>Chartooth Cougar
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Cat Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{R}: Chartooth Cougar gets +1/+0 until end of turn.&lt;br&gt;Mountaincycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.773
+      </rating>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>47
+      </num>
+      <text>{R}: Chartooth Cougar gets +1/+0 until end of turn.&lt;br&gt;Mountaincycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189237
+      </id>
+      <name>Condescend
+      </name>
+      <cost>{X}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell unless its controller pays {X}.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.375
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>28
+      </num>
+      <text>Counter target spell unless its controller pays {X}.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189225
+      </id>
+      <name>Cone of Flame
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.75
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>54
+      </num>
+      <text>Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>185820
+      </id>
+      <name>Counterspell
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.809
+      </rating>
+      <artist>Jason Chan
+      </artist>
+      <num>24
+      </num>
+      <text>Counter target spell.
+      </text>
+    </mc>
+    <mc>
+      <id>189255
+      </id>
+      <name>Daze
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You may return an Island you control to its owner's hand rather than pay Daze's mana cost.&lt;br&gt;&lt;br&gt;Counter target spell unless its controller pays {1}.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.675
+      </rating>
+      <artist>Matthew D. Wilson
+      </artist>
+      <num>23
+      </num>
+      <text>You may return an Island you control to its owner's hand rather than pay Daze's mana cost.&lt;br&gt;&lt;br&gt;Counter target spell unless its controller pays {1}.
+      </text>
+    </mc>
+    <mc>
+      <id>189229
+      </id>
+      <name>Demonfire
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Demonfire deals X damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.&lt;br&gt;Hellbent- If you have no cards in hand, Demonfire can't be countered by spells or abilities and the damage can't be prevented.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.606
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>57
+      </num>
+      <text>Demonfire deals X damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.&lt;br&gt;Hellbent- If you have no cards in hand, Demonfire can't be countered by spells or abilities and the damage can't be prevented.
+      </text>
+    </mc>
+    <mc>
+      <id>190199
+      </id>
+      <name>Elemental Shaman
+      </name>
+      <type>Creature- Elemental Shaman
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.923
+      </rating>
+      <artist>Jim Pavelec
+      </artist>
+      <num>1
+      </num>
+    </mc>
+    <mc>
+      <id>189246
+      </id>
+      <name>Errant Ephemeron
+      </name>
+      <cost>{6}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Suspend 4—{1}{U} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.789
+      </rating>
+      <artist>Luca Zontini
+      </artist>
+      <num>20
+      </num>
+      <text>Flying&lt;br&gt;Suspend 4—{1}{U} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>185819
+      </id>
+      <name>Fact or Fiction
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.694
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>26
+      </num>
+      <text>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>189247
+      </id>
+      <name>Fathom Seer
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Morph—Return two Islands you control to their owner's hand. &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Fathom Seer is turned face up, draw two cards.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.685
+      </rating>
+      <artist>Ralph Horsley
+      </artist>
+      <num>3
+      </num>
+      <text>Morph—Return two Islands you control to their owner's hand. &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Fathom Seer is turned face up, draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>189231
+      </id>
+      <name>Fireball
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.&lt;br&gt;Fireball costs {1} more to cast for each target beyond the first.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.162
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>56
+      </num>
+      <text>Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.&lt;br&gt;Fireball costs {1} more to cast for each target beyond the first.
+      </text>
+    </mc>
+    <mc>
+      <id>189239
+      </id>
+      <name>Fireblast
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You may sacrifice two Mountains rather than pay Fireblast's mana cost.&lt;br&gt;Fireblast deals 4 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.679
+      </rating>
+      <artist>Michael Danza
+      </artist>
+      <num>55
+      </num>
+      <text>You may sacrifice two Mountains rather than pay Fireblast's mana cost.&lt;br&gt;Fireblast deals 4 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>189236
+      </id>
+      <name>Firebolt
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Firebolt deals 2 damage to target creature or player.&lt;br&gt;Flashback {4}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.743
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>49
+      </num>
+      <text>Firebolt deals 2 damage to target creature or player.&lt;br&gt;Flashback {4}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189219
+      </id>
+      <name>Fireslinger
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Fireslinger deals 1 damage to target creature or player and 1 damage to you.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.419
+      </rating>
+      <artist>Jeff Reitz
+      </artist>
+      <num>36
+      </num>
+      <text>{T}: Fireslinger deals 1 damage to target creature or player and 1 damage to you.
+      </text>
+    </mc>
+    <mc>
+      <id>189220
+      </id>
+      <name>Flame Javelin
+      </name>
+      <cost>{2/R}{2/R}{2/R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>&lt;i&gt;({2/R} can be paid with any two mana or with {R}. This card's converted mana cost is 6.)&lt;/i&gt;&lt;br&gt;Flame Javelin deals 4 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.387
+      </rating>
+      <artist>Trevor Hairsine
+      </artist>
+      <num>53
+      </num>
+      <text>&lt;i&gt;({2/R} can be paid with any two mana or with {R}. This card's converted mana cost is 6.)&lt;/i&gt;&lt;br&gt;Flame Javelin deals 4 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>189212
+      </id>
+      <name>Flamekin Brawler
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Elemental Warrior
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}: Flamekin Brawler gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.846
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>35
+      </num>
+      <text>{R}: Flamekin Brawler gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>189234
+      </id>
+      <name>Flametongue Kavu
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.422
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>42
+      </num>
+      <text>When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>189226
+      </id>
+      <name>Flamewave Invoker
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin Mutant
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{7}{R}: Flamewave Invoker deals 5 damage to target player.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.966
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>40
+      </num>
+      <text>{7}{R}: Flamewave Invoker deals 5 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>189248
+      </id>
+      <name>Fledgling Mawcor
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{T}: Fledgling Mawcor deals 1 damage to target creature or player.&lt;br&gt;Morph {U}{U} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.472
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>10
+      </num>
+      <text>Flying&lt;br&gt;{T}: Fledgling Mawcor deals 1 damage to target creature or player.&lt;br&gt;Morph {U}{U} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189227
+      </id>
+      <name>Furnace Whelp
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{R}: Furnace Whelp gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.792
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>43
+      </num>
+      <text>Flying&lt;br&gt;{R}: Furnace Whelp gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>189213
+      </id>
+      <name>Guile
+      </name>
+      <cost>{3}{U}{U}{U}
+      </cost>
+      <type>Creature - Elemental Incarnation
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Guile can't be blocked except by three or more creatures.&lt;br&gt;If a spell or ability you control would counter a spell, instead exile that spell and you may play that card without paying its mana cost.&lt;br&gt;When Guile is put into a graveyard from anywhere, shuffle it into its owner's library.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.544
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>14
+      </num>
+      <text>Guile can't be blocked except by three or more creatures.&lt;br&gt;If a spell or ability you control would counter a spell, instead exile that spell and you may play that card without paying its mana cost.&lt;br&gt;When Guile is put into a graveyard from anywhere, shuffle it into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>189258
+      </id>
+      <name>Gush
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You may return two Islands you control to their owner's hand rather than pay Gush's mana cost.&lt;br&gt;&lt;br&gt;Draw two cards.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.661
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>27
+      </num>
+      <text>You may return two Islands you control to their owner's hand rather than pay Gush's mana cost.&lt;br&gt;&lt;br&gt;Draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>189214
+      </id>
+      <name>Hostility
+      </name>
+      <cost>{3}{R}{R}{R}
+      </cost>
+      <type>Creature - Elemental Incarnation
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Haste&lt;br&gt;If a spell you control would deal damage to an opponent, prevent that damage. Put a 3/1 red Elemental Shaman creature token with haste onto the battlefield for each 1 damage prevented this way.&lt;br&gt;When Hostility is put into a graveyard from anywhere, shuffle it into its owner's library.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.426
+      </rating>
+      <artist>Omar Rayyan
+      </artist>
+      <num>48
+      </num>
+      <text>Haste&lt;br&gt;If a spell you control would deal damage to an opponent, prevent that damage. Put a 3/1 red Elemental Shaman creature token with haste onto the battlefield for each 1 damage prevented this way.&lt;br&gt;When Hostility is put into a graveyard from anywhere, shuffle it into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>185818
+      </id>
+      <name>Incinerate
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.545
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>51
+      </num>
+      <text>Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>189215
+      </id>
+      <name>Ingot Chewer
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Ingot Chewer enters the battlefield, destroy target artifact.&lt;br&gt;Evoke {R} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.191
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>45
+      </num>
+      <text>When Ingot Chewer enters the battlefield, destroy target artifact.&lt;br&gt;Evoke {R} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189216
+      </id>
+      <name>Inner-Flame Acolyte
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Elemental Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Inner-Flame Acolyte enters the battlefield, target creature gets +2/+0 and gains haste until end of turn.&lt;br&gt;Evoke {R} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.293
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>41
+      </num>
+      <text>When Inner-Flame Acolyte enters the battlefield, target creature gets +2/+0 and gains haste until end of turn.&lt;br&gt;Evoke {R} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>190588
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.208
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>30
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>190583
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.417
+      </rating>
+      <artist>Scott Bailey
+      </artist>
+      <num>31
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>190590
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.63
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>32
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>190589
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>33
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>185816
+      </id>
+      <name>Jace Beleren
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Planeswalker - Jace
+      </type>
+      <toughness>3
+      </toughness>
+      <oracleText>+2: Each player draws a card.&lt;br&gt;-1: Target player draws a card.&lt;br&gt;-10: Target player puts the top twenty cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.038
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>1
+      </num>
+      <text>+2: Each player draws a card.&lt;br&gt;-1: Target player draws a card.&lt;br&gt;-10: Target player puts the top twenty cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>189242
+      </id>
+      <name>Keldon Megaliths
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Keldon Megaliths enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;Hellbent- {1}{R}, {T}: Keldon Megaliths deals 1 damage to target creature or player. Activate this ability only if you have no cards in hand.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.881
+      </rating>
+      <artist>Philip Straub
+      </artist>
+      <num>58
+      </num>
+      <text>Keldon Megaliths enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;Hellbent- {1}{R}, {T}: Keldon Megaliths deals 1 damage to target creature or player. Activate this ability only if you have no cards in hand.
+      </text>
+    </mc>
+    <mc>
+      <id>189238
+      </id>
+      <name>Magma Jet
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Magma Jet deals 2 damage to target creature or player.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.426
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>52
+      </num>
+      <text>Magma Jet deals 2 damage to target creature or player.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189240
+      </id>
+      <name>Man-o'-War
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Jellyfish
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Man-o'-War enters the battlefield, return target creature to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.475
+      </rating>
+      <artist>Jon J Muth
+      </artist>
+      <num>8
+      </num>
+      <text>When Man-o'-War enters the battlefield, return target creature to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>189243
+      </id>
+      <name>Martyr of Frost
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{2}, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays {X}.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.455
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>2
+      </num>
+      <text>{2}, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays {X}.
+      </text>
+    </mc>
+    <mc>
+      <id>189228
+      </id>
+      <name>Mind Stone
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}, Sacrifice Mind Stone: Draw a card.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.811
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>22
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}, Sacrifice Mind Stone: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>190584
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.567
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>59
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>190586
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.571
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>60
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>190587
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.412
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>61
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>190585
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.65
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>62
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>189217
+      </id>
+      <name>Mulldrifter
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Mulldrifter enters the battlefield, draw two cards.&lt;br&gt;Evoke {2}{U} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.671
+      </rating>
+      <artist>Eric Fortune
+      </artist>
+      <num>12
+      </num>
+      <text>Flying&lt;br&gt;When Mulldrifter enters the battlefield, draw two cards.&lt;br&gt;Evoke {2}{U} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189253
+      </id>
+      <name>Ophidian
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Ophidian attacks and isn't blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.635
+      </rating>
+      <artist>Cliff Nielsen
+      </artist>
+      <num>9
+      </num>
+      <text>Whenever Ophidian attacks and isn't blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>189232
+      </id>
+      <name>Oxidda Golem
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Affinity for Mountains &lt;i&gt;(This spell costs {1} less to cast for each Mountain you control.)&lt;/i&gt;&lt;br&gt;Haste
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.015
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>46
+      </num>
+      <text>Affinity for Mountains &lt;i&gt;(This spell costs {1} less to cast for each Mountain you control.)&lt;/i&gt;&lt;br&gt;Haste
+      </text>
+    </mc>
+    <mc>
+      <id>189221
+      </id>
+      <name>Pyre Charger
+      </name>
+      <cost>{R}{R}
+      </cost>
+      <type>Creature - Elemental Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste&lt;br&gt;{R}: Pyre Charger gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.315
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>38
+      </num>
+      <text>Haste&lt;br&gt;{R}: Pyre Charger gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>189254
+      </id>
+      <name>Quicksilver Dragon
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{U}: If target spell has only one target and that target is Quicksilver Dragon, change that spell's target to another creature.&lt;br&gt;Morph {4}{U} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.471
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>19
+      </num>
+      <text>Flying&lt;br&gt;{U}: If target spell has only one target and that target is Quicksilver Dragon, change that spell's target to another creature.&lt;br&gt;Morph {4}{U} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189230
+      </id>
+      <name>Rakdos Pit Dragon
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{R}{R}: Rakdos Pit Dragon gains flying until end of turn.&lt;br&gt;{R}: Rakdos Pit Dragon gets +1/+0 until end of turn.&lt;br&gt;Hellbent- Rakdos Pit Dragon has double strike as long as you have no cards in hand.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.583
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>44
+      </num>
+      <text>{R}{R}: Rakdos Pit Dragon gains flying until end of turn.&lt;br&gt;{R}: Rakdos Pit Dragon gets +1/+0 until end of turn.&lt;br&gt;Hellbent- Rakdos Pit Dragon has double strike as long as you have no cards in hand.
+      </text>
+    </mc>
+    <mc>
+      <id>189257
+      </id>
+      <name>Repulse
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target creature to its owner's hand.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.074
+      </rating>
+      <artist>Aaron Boyd
+      </artist>
+      <num>25
+      </num>
+      <text>Return target creature to its owner's hand.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>189249
+      </id>
+      <name>Riftwing Cloudskate
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Riftwing Cloudskate enters the battlefield, return target permanent to its owner's hand.&lt;br&gt;Suspend 3—{1}{U} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>15
+      </num>
+      <text>Flying&lt;br&gt;When Riftwing Cloudskate enters the battlefield, return target permanent to its owner's hand.&lt;br&gt;Suspend 3—{1}{U} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>185817
+      </id>
+      <name>Seal of Fire
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Sacrifice Seal of Fire: Seal of Fire deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.234
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>50
+      </num>
+      <text>Sacrifice Seal of Fire: Seal of Fire deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>189222
+      </id>
+      <name>Slith Firewalker
+      </name>
+      <cost>{R}{R}
+      </cost>
+      <type>Creature - Slith
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Whenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>39
+      </num>
+      <text>Haste&lt;br&gt;Whenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>189218
+      </id>
+      <name>Soulbright Flamekin
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Elemental Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{2}: Target creature gains trample until end of turn. If this is the third time this ability has resolved this turn, you may add {R}{R}{R}{R}{R}{R}{R}{R} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.396
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>37
+      </num>
+      <text>{2}: Target creature gains trample until end of turn. If this is the third time this ability has resolved this turn, you may add {R}{R}{R}{R}{R}{R}{R}{R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>189233
+      </id>
+      <name>Spire Golem
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Affinity for Islands &lt;i&gt;(This spell costs {1} less to cast for each Island you control.)&lt;/i&gt;&lt;br&gt;Flying
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.337
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>16
+      </num>
+      <text>Affinity for Islands &lt;i&gt;(This spell costs {1} less to cast for each Island you control.)&lt;/i&gt;&lt;br&gt;Flying
+      </text>
+    </mc>
+    <mc>
+      <id>189256
+      </id>
+      <name>Terrain Generator
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}: You may put a basic land card from your hand onto the battlefield tapped.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.219
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>29
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}: You may put a basic land card from your hand onto the battlefield tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>189250
+      </id>
+      <name>Voidmage Apprentice
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Morph {2}{U}{U} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Voidmage Apprentice is turned face up, counter target spell.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.529
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>4
+      </num>
+      <text>Morph {2}{U}{U} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Voidmage Apprentice is turned face up, counter target spell.
+      </text>
+    </mc>
+    <mc>
+      <id>189251
+      </id>
+      <name>Wall of Deceit
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;{3}: Turn Wall of Deceit face down.&lt;br&gt;Morph {U} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.879
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>5
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;{3}: Turn Wall of Deceit face down.&lt;br&gt;Morph {U} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189241
+      </id>
+      <name>Waterspout Djinn
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature - Djinn
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Waterspout Djinn unless you return an untapped Island you control to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.912
+      </rating>
+      <artist>Thomas Gianni
+      </artist>
+      <num>11
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Waterspout Djinn unless you return an untapped Island you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>189252
+      </id>
+      <name>Willbender
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Morph {1}{U} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Willbender is turned face up, change the target of target spell or ability with a single target.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Chandra
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>6
+      </num>
+      <text>Morph {1}{U} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Willbender is turned face up, change the target of target spell or ability with a single target.
+      </text>
+    </mc>
+  </list>
+</cards>

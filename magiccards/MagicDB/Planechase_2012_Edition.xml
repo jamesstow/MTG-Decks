@@ -1,0 +1,4109 @@
+
+<cards>
+  <name>Planechase_2012_Edition</name>
+  <key>Planechase_2012_Edition</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>226512
+      </id>
+      <name>Akoum
+      </name>
+      <type>Plane - Zendikar
+      </type>
+      <oracleText>Players may cast enchantment cards as though they had flash.&lt;br&gt;Whenever you roll chaos, destroy target creature that isn't enchanted.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>1
+      </num>
+      <text>Players may cast enchantment cards as though they had flash.&lt;br&gt;Whenever you roll chaos, destroy target creature that isn't enchanted.
+      </text>
+    </mc>
+    <mc>
+      <id>226517
+      </id>
+      <name>Aretopolis
+      </name>
+      <type>Plane - Kephalai
+      </type>
+      <oracleText>When you planeswalk to Aretopolis or at the beginning of your upkeep, put a scroll counter on Aretopolis, then you gain life equal to the number of scroll counters on it.&lt;br&gt;When Aretopolis has ten or more scroll counters on it, planeswalk.&lt;br&gt;Whenever you roll chaos, put a scroll counter on Aretopolis, then draw cards equal to the number of scroll counters on it.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>2
+      </num>
+      <text>When you planeswalk to Aretopolis or at the beginning of your upkeep, put a scroll counter on Aretopolis, then you gain life equal to the number of scroll counters on it.&lt;br&gt;When Aretopolis has ten or more scroll counters on it, planeswalk.&lt;br&gt;Whenever you roll chaos, put a scroll counter on Aretopolis, then draw cards equal to the number of scroll counters on it.
+      </text>
+    </mc>
+    <mc>
+      <id>226526
+      </id>
+      <name>Astral Arena
+      </name>
+      <type>Plane - Kolbahan
+      </type>
+      <oracleText>No more than one creature can attack each combat.&lt;br&gt;No more than one creature can block each combat.&lt;br&gt;Whenever you roll chaos, Astral Arena deals 2 damage to each creature.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>3
+      </num>
+      <text>No more than one creature can attack each combat.&lt;br&gt;No more than one creature can block each combat.&lt;br&gt;Whenever you roll chaos, Astral Arena deals 2 damage to each creature.
+      </text>
+    </mc>
+    <mc>
+      <id>226539
+      </id>
+      <name>Bloodhill Bastion
+      </name>
+      <type>Plane - Equilor
+      </type>
+      <oracleText>Whenever a creature enters the battlefield, it gains double strike and haste until end of turn.&lt;br&gt;Whenever you roll chaos, exile target nontoken creature you control, then return it to the battlefield under your control.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>4
+      </num>
+      <text>Whenever a creature enters the battlefield, it gains double strike and haste until end of turn.&lt;br&gt;Whenever you roll chaos, exile target nontoken creature you control, then return it to the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>226509
+      </id>
+      <name>Chaotic Æther
+      </name>
+      <type>Phenomenon
+      </type>
+      <oracleText>When you encounter Chaotic Æther, each blank roll of the planar die is a chaos roll until a player planeswalks away from a plane. &lt;i&gt;(Then planeswalk away from this phenomenon.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>5
+      </num>
+      <text>When you encounter Chaotic Æther, each blank roll of the planar die is a chaos roll until a player planeswalks away from a plane. &lt;i&gt;(Then planeswalk away from this phenomenon.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>226527
+      </id>
+      <name>Edge of Malacol
+      </name>
+      <type>Plane - Belenon
+      </type>
+      <oracleText>If a creature you control would untap during your untap step, put two +1/+1 counters on it instead.&lt;br&gt;Whenever you roll chaos, untap each creature you control.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>6
+      </num>
+      <text>If a creature you control would untap during your untap step, put two +1/+1 counters on it instead.&lt;br&gt;Whenever you roll chaos, untap each creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>226536
+      </id>
+      <name>Furnace Layer
+      </name>
+      <type>Plane - New Phyrexia
+      </type>
+      <oracleText>When you planeswalk to Furnace Layer or at the beginning of your upkeep, select target player at random. That player discards a card. If that player discards a land card this way, he or she loses 3 life.&lt;br&gt;Whenever you roll chaos, you may destroy target nonland permanent.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>7
+      </num>
+      <text>When you planeswalk to Furnace Layer or at the beginning of your upkeep, select target player at random. That player discards a card. If that player discards a land card this way, he or she loses 3 life.&lt;br&gt;Whenever you roll chaos, you may destroy target nonland permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>226542
+      </id>
+      <name>Gavony
+      </name>
+      <type>Plane - Innistrad
+      </type>
+      <oracleText>All creatures have vigilance.&lt;br&gt;Whenever you roll chaos, creatures you control are indestructible this turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>8
+      </num>
+      <text>All creatures have vigilance.&lt;br&gt;Whenever you roll chaos, creatures you control are indestructible this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>226535
+      </id>
+      <name>Glen Elendra
+      </name>
+      <type>Plane - Lorwyn
+      </type>
+      <oracleText>At end of combat, you may exchange control of target creature you control that dealt combat damage to a player this combat and target creature that player controls.&lt;br&gt;Whenever you roll chaos, gain control of target creature you own.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>9
+      </num>
+      <text>At end of combat, you may exchange control of target creature you control that dealt combat damage to a player this combat and target creature that player controls.&lt;br&gt;Whenever you roll chaos, gain control of target creature you own.
+      </text>
+    </mc>
+    <mc>
+      <id>226554
+      </id>
+      <name>Grand Ossuary
+      </name>
+      <type>Plane - Ravnica
+      </type>
+      <oracleText>Whenever a creature dies, its controller distributes a number of +1/+1 counters equal to its power among any number of target creatures he or she controls.&lt;br&gt;Whenever you roll chaos, each player exiles all creatures he or she controls and puts X 1/1 green Saproling creature tokens onto the battlefield, where X is the total power of the creatures he or she exiled this way. Then planeswalk.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>10
+      </num>
+      <text>Whenever a creature dies, its controller distributes a number of +1/+1 counters equal to its power among any number of target creatures he or she controls.&lt;br&gt;Whenever you roll chaos, each player exiles all creatures he or she controls and puts X 1/1 green Saproling creature tokens onto the battlefield, where X is the total power of the creatures he or she exiled this way. Then planeswalk.
+      </text>
+    </mc>
+    <mc>
+      <id>226541
+      </id>
+      <name>Grove of the Dreampods
+      </name>
+      <type>Plane - Fabacin
+      </type>
+      <oracleText>When you planeswalk to Grove of the Dreampods or at the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.&lt;br&gt;Whenever you roll chaos, return target creature card from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>11
+      </num>
+      <text>When you planeswalk to Grove of the Dreampods or at the beginning of your upkeep, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and the rest on the bottom of your library in a random order.&lt;br&gt;Whenever you roll chaos, return target creature card from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>226544
+      </id>
+      <name>Hedron Fields of Agadeem
+      </name>
+      <type>Plane - Zendikar
+      </type>
+      <oracleText>Creatures with power 7 or greater can't attack or block.&lt;br&gt;Whenever you roll chaos, put a 7/7 colorless Eldrazi creature token with annihilator 1 onto the battlefield. &lt;i&gt;(Whenever it attacks, defending player sacrifices a permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>12
+      </num>
+      <text>Creatures with power 7 or greater can't attack or block.&lt;br&gt;Whenever you roll chaos, put a 7/7 colorless Eldrazi creature token with annihilator 1 onto the battlefield. &lt;i&gt;(Whenever it attacks, defending player sacrifices a permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>226549
+      </id>
+      <name>Interplanar Tunnel
+      </name>
+      <type>Phenomenon
+      </type>
+      <oracleText>When you encounter Interplanar Tunnel, reveal cards from the top of your planar deck until you reveal five plane cards. Put a plane card from among them on top of your planar deck, then put the rest of the revealed cards on the bottom in a random order. &lt;i&gt;(Then planeswalk away from this phenomenon.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>13
+      </num>
+      <text>When you encounter Interplanar Tunnel, reveal cards from the top of your planar deck until you reveal five plane cards. Put a plane card from among them on top of your planar deck, then put the rest of the revealed cards on the bottom in a random order. &lt;i&gt;(Then planeswalk away from this phenomenon.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>226551
+      </id>
+      <name>Jund
+      </name>
+      <type>Plane - Alara
+      </type>
+      <oracleText>Whenever a player casts a black, red, or green creature spell, it gains devour 5. &lt;i&gt;(As the creature enters the battlefield, its controller may sacrifice any number of creatures. The creature enters the battlefield with five times that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Whenever you roll chaos, put two 1/1 red Goblin creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>14
+      </num>
+      <text>Whenever a player casts a black, red, or green creature spell, it gains devour 5. &lt;i&gt;(As the creature enters the battlefield, its controller may sacrifice any number of creatures. The creature enters the battlefield with five times that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Whenever you roll chaos, put two 1/1 red Goblin creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>226537
+      </id>
+      <name>Kessig
+      </name>
+      <type>Plane - Innistrad
+      </type>
+      <oracleText>Prevent all combat damage that would be dealt by non-Werewolf creatures.&lt;br&gt;Whenever you roll chaos, each creature you control gets +2/+2, gains trample, and becomes a Werewolf in addition to its other types until end of turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>15
+      </num>
+      <text>Prevent all combat damage that would be dealt by non-Werewolf creatures.&lt;br&gt;Whenever you roll chaos, each creature you control gets +2/+2, gains trample, and becomes a Werewolf in addition to its other types until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>226534
+      </id>
+      <name>Kharasha Foothills
+      </name>
+      <type>Plane - Mongseng
+      </type>
+      <oracleText>Whenever a creature you control attacks a player, for each other opponent, you may put a token that's a copy of that creature onto the battlefield tapped and attacking that opponent. Exile those tokens at the beginning of the next end step.&lt;br&gt;Whenever you roll chaos, you may sacrifice any number of creatures. If you do, Kharasha Foothills deals that much damage to target creature.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>16
+      </num>
+      <text>Whenever a creature you control attacks a player, for each other opponent, you may put a token that's a copy of that creature onto the battlefield tapped and attacking that opponent. Exile those tokens at the beginning of the next end step.&lt;br&gt;Whenever you roll chaos, you may sacrifice any number of creatures. If you do, Kharasha Foothills deals that much damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>226523
+      </id>
+      <name>Kilnspire District
+      </name>
+      <type>Plane - Ravnica
+      </type>
+      <oracleText>When you planeswalk to Kilnspire District or at the beginning of your precombat main phase, put a charge counter on Kilnspire District, then add {R} to your mana pool for each charge counter on it.&lt;br&gt;Whenever you roll chaos, you may pay {X}. If you do, Kilnspire District deals X damage to target creature or player.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>17
+      </num>
+      <text>When you planeswalk to Kilnspire District or at the beginning of your precombat main phase, put a charge counter on Kilnspire District, then add {R} to your mana pool for each charge counter on it.&lt;br&gt;Whenever you roll chaos, you may pay {X}. If you do, Kilnspire District deals X damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>226532
+      </id>
+      <name>Lair of the Ashen Idol
+      </name>
+      <type>Plane - Azgol
+      </type>
+      <oracleText>At the beginning of your upkeep, sacrifice a creature. If you can't, planeswalk.&lt;br&gt;Whenever you roll chaos, any number of target players each put a 2/2 black Zombie creature token onto the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>18
+      </num>
+      <text>At the beginning of your upkeep, sacrifice a creature. If you can't, planeswalk.&lt;br&gt;Whenever you roll chaos, any number of target players each put a 2/2 black Zombie creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>226514
+      </id>
+      <name>Morphic Tide
+      </name>
+      <type>Phenomenon
+      </type>
+      <oracleText>When you encounter Morphic Tide, each player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, land, and planeswalker cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library in any order. &lt;i&gt;(Then planeswalk away from this phenomenon.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>19
+      </num>
+      <text>When you encounter Morphic Tide, each player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, land, and planeswalker cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library in any order. &lt;i&gt;(Then planeswalk away from this phenomenon.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>226515
+      </id>
+      <name>Mount Keralia
+      </name>
+      <type>Plane - Regatha
+      </type>
+      <oracleText>At the beginning of your end step, put a pressure counter on Mount Keralia.&lt;br&gt;When you planeswalk away from Mount Keralia, it deals damage equal to the number of pressure counters on it to each creature and each planeswalker.&lt;br&gt;Whenever you roll chaos, prevent all damage that planes named Mount Keralia would deal this game to permanents you control.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>20
+      </num>
+      <text>At the beginning of your end step, put a pressure counter on Mount Keralia.&lt;br&gt;When you planeswalk away from Mount Keralia, it deals damage equal to the number of pressure counters on it to each creature and each planeswalker.&lt;br&gt;Whenever you roll chaos, prevent all damage that planes named Mount Keralia would deal this game to permanents you control.
+      </text>
+    </mc>
+    <mc>
+      <id>226520
+      </id>
+      <name>Mutual Epiphany
+      </name>
+      <type>Phenomenon
+      </type>
+      <oracleText>When you encounter Mutual Epiphany, each player draws four cards. &lt;i&gt;(Then planeswalk away from this phenomenon.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>21
+      </num>
+      <text>When you encounter Mutual Epiphany, each player draws four cards. &lt;i&gt;(Then planeswalk away from this phenomenon.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>226543
+      </id>
+      <name>Nephalia
+      </name>
+      <type>Plane - Innistrad
+      </type>
+      <oracleText>At the beginning of your end step, put the top seven cards of your library into your graveyard. Then return a card at random from your graveyard to your hand.&lt;br&gt;Whenever you roll chaos, return target card from your graveyard to your hand.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>22
+      </num>
+      <text>At the beginning of your end step, put the top seven cards of your library into your graveyard. Then return a card at random from your graveyard to your hand.&lt;br&gt;Whenever you roll chaos, return target card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>226540
+      </id>
+      <name>Norn's Dominion
+      </name>
+      <type>Plane - New Phyrexia
+      </type>
+      <oracleText>When you planeswalk away from Norn's Dominion, destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.&lt;br&gt;Whenever you roll chaos, you may put a fate counter on target permanent.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>23
+      </num>
+      <text>When you planeswalk away from Norn's Dominion, destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.&lt;br&gt;Whenever you roll chaos, you may put a fate counter on target permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>226513
+      </id>
+      <name>Onakke Catacomb
+      </name>
+      <type>Plane - Shandalar
+      </type>
+      <oracleText>All creatures are black and have deathtouch.&lt;br&gt;Whenever you roll chaos, creatures you control get +1/+0 and gain first strike until end of turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>24
+      </num>
+      <text>All creatures are black and have deathtouch.&lt;br&gt;Whenever you roll chaos, creatures you control get +1/+0 and gain first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>226524
+      </id>
+      <name>Orochi Colony
+      </name>
+      <type>Plane - Kamigawa
+      </type>
+      <oracleText>Whenever a creature you control deals combat damage to a player, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.&lt;br&gt;Whenever you roll chaos, target creature is unblockable this turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>25
+      </num>
+      <text>Whenever a creature you control deals combat damage to a player, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.&lt;br&gt;Whenever you roll chaos, target creature is unblockable this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>226507
+      </id>
+      <name>Orzhova
+      </name>
+      <type>Plane - Ravnica
+      </type>
+      <oracleText>When you planeswalk away from Orzhova, each player returns all creature cards from his or her graveyard to the battlefield.&lt;br&gt;Whenever you roll chaos, for each opponent, exile up to one target creature card from that player's graveyard.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>26
+      </num>
+      <text>When you planeswalk away from Orzhova, each player returns all creature cards from his or her graveyard to the battlefield.&lt;br&gt;Whenever you roll chaos, for each opponent, exile up to one target creature card from that player's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>226545
+      </id>
+      <name>Planewide Disaster
+      </name>
+      <type>Phenomenon
+      </type>
+      <oracleText>When you encounter Planewide Disaster, destroy all creatures. &lt;i&gt;(Then planeswalk away from this phenomenon.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>27
+      </num>
+      <text>When you encounter Planewide Disaster, destroy all creatures. &lt;i&gt;(Then planeswalk away from this phenomenon.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>226552
+      </id>
+      <name>Prahv
+      </name>
+      <type>Plane - Ravnica
+      </type>
+      <oracleText>If you cast a spell this turn, you can't attack with creatures.&lt;br&gt;If you attacked with creatures this turn, you can't cast spells.&lt;br&gt;Whenever you roll chaos, you gain life equal to the number of cards in your hand.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>28
+      </num>
+      <text>If you cast a spell this turn, you can't attack with creatures.&lt;br&gt;If you attacked with creatures this turn, you can't cast spells.&lt;br&gt;Whenever you roll chaos, you gain life equal to the number of cards in your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>226518
+      </id>
+      <name>Quicksilver Sea
+      </name>
+      <type>Plane - Mirrodin
+      </type>
+      <oracleText>When you planeswalk to Quicksilver Sea or at the beginning of your upkeep, scry 4. &lt;i&gt;(To scry 4, look at the top four cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;&lt;br&gt;Whenever you roll chaos, reveal the top card of your library. You may play it without paying its mana cost.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>29
+      </num>
+      <text>When you planeswalk to Quicksilver Sea or at the beginning of your upkeep, scry 4. &lt;i&gt;(To scry 4, look at the top four cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;&lt;br&gt;Whenever you roll chaos, reveal the top card of your library. You may play it without paying its mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>226508
+      </id>
+      <name>Reality Shaping
+      </name>
+      <type>Phenomenon
+      </type>
+      <oracleText>When you encounter Reality Shaping, starting with you, each player may put a permanent card from his or her hand onto the battlefield. &lt;i&gt;(Then planeswalk away from this phenomenon.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>30
+      </num>
+      <text>When you encounter Reality Shaping, starting with you, each player may put a permanent card from his or her hand onto the battlefield. &lt;i&gt;(Then planeswalk away from this phenomenon.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>226538
+      </id>
+      <name>Selesnya Loft Gardens
+      </name>
+      <type>Plane - Ravnica
+      </type>
+      <oracleText>If an effect would put one or more tokens onto the battlefield, it puts twice that many of those tokens onto the battlefield instead.&lt;br&gt;If an effect would place one or more counters on a permanent, it places twice that many of those counters on that permanent instead.&lt;br&gt;Whenever you roll chaos, until end of turn, whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>31
+      </num>
+      <text>If an effect would put one or more tokens onto the battlefield, it puts twice that many of those tokens onto the battlefield instead.&lt;br&gt;If an effect would place one or more counters on a permanent, it places twice that many of those counters on that permanent instead.&lt;br&gt;Whenever you roll chaos, until end of turn, whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.
+      </text>
+    </mc>
+    <mc>
+      <id>226546
+      </id>
+      <name>Spatial Merging
+      </name>
+      <type>Phenomenon
+      </type>
+      <oracleText>When you encounter Spatial Merging, reveal cards from the top of your planar deck until you reveal two plane cards. Simultaneously planeswalk to both of them. Put all other cards revealed this way on the bottom of your planar deck in any order.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>32
+      </num>
+      <text>When you encounter Spatial Merging, reveal cards from the top of your planar deck until you reveal two plane cards. Simultaneously planeswalk to both of them. Put all other cards revealed this way on the bottom of your planar deck in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>226521
+      </id>
+      <name>Stairs to Infinity
+      </name>
+      <type>Plane - Xerex
+      </type>
+      <oracleText>Players have no maximum hand size.&lt;br&gt;Whenever you roll the planar die, draw a card.&lt;br&gt;Whenever you roll chaos, reveal the top card of your planar deck. You may put it on the bottom of your planar deck.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>33
+      </num>
+      <text>Players have no maximum hand size.&lt;br&gt;Whenever you roll the planar die, draw a card.&lt;br&gt;Whenever you roll chaos, reveal the top card of your planar deck. You may put it on the bottom of your planar deck.
+      </text>
+    </mc>
+    <mc>
+      <id>226555
+      </id>
+      <name>Stensia
+      </name>
+      <type>Plane - Innistrad
+      </type>
+      <oracleText>Whenever a creature deals damage to one or more players for the first time in a turn, put a +1/+1 counter on it.&lt;br&gt;Whenever you roll chaos, each creature you control gains "{T}: This creature deals 1 damage to target player" until end of turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>34
+      </num>
+      <text>Whenever a creature deals damage to one or more players for the first time in a turn, put a +1/+1 counter on it.&lt;br&gt;Whenever you roll chaos, each creature you control gains "{T}: This creature deals 1 damage to target player" until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>226533
+      </id>
+      <name>Takenuma
+      </name>
+      <type>Plane - Kamigawa
+      </type>
+      <oracleText>Whenever a creature leaves the battlefield, its controller draws a card.&lt;br&gt;Whenever you roll chaos, return target creature you control to its owner's hand.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>35
+      </num>
+      <text>Whenever a creature leaves the battlefield, its controller draws a card.&lt;br&gt;Whenever you roll chaos, return target creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>226525
+      </id>
+      <name>Talon Gates
+      </name>
+      <type>Plane - Dominaria
+      </type>
+      <oracleText>Any time you could cast a sorcery, you may exile a nonland card from your hand with X time counters on it, where X is its converted mana cost. If the exiled card doesn't have suspend, it gains suspend. &lt;i&gt;(At the beginning of its owner's upkeep, he or she removes a time counter. When the last is removed, the player casts it without paying its mana cost. If it's a creature, it has haste.)&lt;/i&gt;&lt;br&gt;Whenever you roll chaos, remove two time counters from each suspended card you own.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>36
+      </num>
+      <text>Any time you could cast a sorcery, you may exile a nonland card from your hand with X time counters on it, where X is its converted mana cost. If the exiled card doesn't have suspend, it gains suspend. &lt;i&gt;(At the beginning of its owner's upkeep, he or she removes a time counter. When the last is removed, the player casts it without paying its mana cost. If it's a creature, it has haste.)&lt;/i&gt;&lt;br&gt;Whenever you roll chaos, remove two time counters from each suspended card you own.
+      </text>
+    </mc>
+    <mc>
+      <id>226528
+      </id>
+      <name>The Zephyr Maze
+      </name>
+      <type>Plane - Kyneth
+      </type>
+      <oracleText>Creatures with flying get +2/+0.&lt;br&gt;Creatures without flying get -2/-0.&lt;br&gt;Whenever you roll chaos, target creature gains flying until end of turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>37
+      </num>
+      <text>Creatures with flying get +2/+0.&lt;br&gt;Creatures without flying get -2/-0.&lt;br&gt;Whenever you roll chaos, target creature gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>226556
+      </id>
+      <name>Time Distortion
+      </name>
+      <type>Phenomenon
+      </type>
+      <oracleText>When you encounter Time Distortion, reverse the game's turn order. &lt;i&gt;(For example, if play had proceeded clockwise around the table, it now goes counterclockwise. Then planeswalk away from this phenomenon.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>38
+      </num>
+      <text>When you encounter Time Distortion, reverse the game's turn order. &lt;i&gt;(For example, if play had proceeded clockwise around the table, it now goes counterclockwise. Then planeswalk away from this phenomenon.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>226529
+      </id>
+      <name>Trail of the Mage-Rings
+      </name>
+      <type>Plane - Vryn
+      </type>
+      <oracleText>Instant and sorcery spells have rebound. &lt;i&gt;(The spell's controller exiles the spell as it resolves if he or she cast it from his or her hand. At the beginning of that player's next upkeep, he or she may cast that card from exile without paying its mana cost.)&lt;/i&gt;&lt;br&gt;Whenever you roll chaos, you may search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>39
+      </num>
+      <text>Instant and sorcery spells have rebound. &lt;i&gt;(The spell's controller exiles the spell as it resolves if he or she cast it from his or her hand. At the beginning of that player's next upkeep, he or she may cast that card from exile without paying its mana cost.)&lt;/i&gt;&lt;br&gt;Whenever you roll chaos, you may search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>226553
+      </id>
+      <name>Truga Jungle
+      </name>
+      <type>Plane - Ergamon
+      </type>
+      <oracleText>All lands have "{T}: Add one mana of any color to your mana pool."&lt;br&gt;Whenever you roll chaos, reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>40
+      </num>
+      <text>All lands have "{T}: Add one mana of any color to your mana pool."&lt;br&gt;Whenever you roll chaos, reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>226510
+      </id>
+      <name>Windriddle Palaces
+      </name>
+      <type>Plane - Belenon
+      </type>
+      <oracleText>Players play with the top card of their libraries revealed.&lt;br&gt;You may play the top card of any player's library.&lt;br&gt;Whenever you roll chaos, each player puts the top card of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>41
+      </num>
+      <text>Players play with the top card of their libraries revealed.&lt;br&gt;You may play the top card of any player's library.&lt;br&gt;Whenever you roll chaos, each player puts the top card of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>275254
+      </id>
+      <name>Arc Trail
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Arc Trail deals 2 damage to target creature or player and 1 damage to another target creature or player.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>42
+      </num>
+      <text>Arc Trail deals 2 damage to target creature or player and 1 damage to another target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>271137
+      </id>
+      <name>Armillary Sphere
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>43
+      </num>
+      <text>{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>271234
+      </id>
+      <name>Armored Griffin
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Griffin
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying, vigilance
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>44
+      </num>
+      <text>Flying, vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>271218
+      </id>
+      <name>Assassinate
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target tapped creature.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>45
+      </num>
+      <text>Destroy target tapped creature.
+      </text>
+    </mc>
+    <mc>
+      <id>271192
+      </id>
+      <name>Augury Owl
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Augury Owl enters the battlefield, scry 3. &lt;i&gt;(To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>46
+      </num>
+      <text>Flying&lt;br&gt;When Augury Owl enters the battlefield, scry 3. &lt;i&gt;(To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271147
+      </id>
+      <name>Aura Gnarlid
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Creatures with power less than Aura Gnarlid's power can't block it.&lt;br&gt;Aura Gnarlid gets +1/+1 for each Aura on the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>47
+      </num>
+      <text>Creatures with power less than Aura Gnarlid's power can't block it.&lt;br&gt;Aura Gnarlid gets +1/+1 for each Aura on the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>271171
+      </id>
+      <name>Auramancer
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>48
+      </num>
+      <text>When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>271207
+      </id>
+      <name>Auratouched Mage
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Auratouched Mage enters the battlefield, search your library for an Aura card that could enchant it. If Auratouched Mage is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>49
+      </num>
+      <text>When Auratouched Mage enters the battlefield, search your library for an Aura card that could enchant it. If Auratouched Mage is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>271156
+      </id>
+      <name>Awakening Zone
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>50
+      </num>
+      <text>At the beginning of your upkeep, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+      </text>
+    </mc>
+    <mc>
+      <id>265156
+      </id>
+      <name>Baleful Strix
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Artifact Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying, deathtouch&lt;br&gt;When Baleful Strix enters the battlefield, draw a card.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>51
+      </num>
+      <text>Flying, deathtouch&lt;br&gt;When Baleful Strix enters the battlefield, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>275255
+      </id>
+      <name>Beast Within
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target permanent. Its controller puts a 3/3 green Beast creature token onto the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>52
+      </num>
+      <text>Destroy target permanent. Its controller puts a 3/3 green Beast creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>265145
+      </id>
+      <name>Beetleback Chief
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Beetleback Chief enters the battlefield, put two 1/1 red Goblin creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>53
+      </num>
+      <text>When Beetleback Chief enters the battlefield, put two 1/1 red Goblin creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>271166
+      </id>
+      <name>Bituminous Blast
+      </name>
+      <cost>{3}{B}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;Bituminous Blast deals 4 damage to target creature.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>54
+      </num>
+      <text>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;Bituminous Blast deals 4 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>271167
+      </id>
+      <name>Bloodbraid Elf
+      </name>
+      <cost>{2}{R}{G}
+      </cost>
+      <type>Creature - Elf Berserker
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>55
+      </num>
+      <text>Haste&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271148
+      </id>
+      <name>Boar Umbra
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>56
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271208
+      </id>
+      <name>Bramble Elemental
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever an Aura becomes attached to Bramble Elemental or enters the battlefield attached to Bramble Elemental, put two 1/1 green Saproling creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>57
+      </num>
+      <text>Whenever an Aura becomes attached to Bramble Elemental or enters the battlefield attached to Bramble Elemental, put two 1/1 green Saproling creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>265141
+      </id>
+      <name>Brindle Shoat
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Boar
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Brindle Shoat dies, put a 3/3 green Boar creature token onto the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>58
+      </num>
+      <text>When Brindle Shoat dies, put a 3/3 green Boar creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>275256
+      </id>
+      <name>Brutalizer Exarch
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Creature - Cleric
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Brutalizer Exarch enters the battlefield, choose one- Search your library for a creature card, reveal it, then shuffle your library and put that card on top of it; or put target noncreature permanent on the bottom of its owner's library.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>59
+      </num>
+      <text>When Brutalizer Exarch enters the battlefield, choose one- Search your library for a creature card, reveal it, then shuffle your library and put that card on top of it; or put target noncreature permanent on the bottom of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>271157
+      </id>
+      <name>Cadaver Imp
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Imp
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>60
+      </num>
+      <text>Flying&lt;br&gt;When Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>271205
+      </id>
+      <name>Cage of Hands
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.&lt;br&gt;{1}{W}: Return Cage of Hands to its owner's hand.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>61
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.&lt;br&gt;{1}{W}: Return Cage of Hands to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>271172
+      </id>
+      <name>Cancel
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>15
+      </num>
+      <text>Counter target spell.
+      </text>
+    </mc>
+    <mc>
+      <id>271236
+      </id>
+      <name>Celestial Ancient
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever you cast an enchantment spell, put a +1/+1 counter on each creature you control.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>63
+      </num>
+      <text>Flying&lt;br&gt;Whenever you cast an enchantment spell, put a +1/+1 counter on each creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>271220
+      </id>
+      <name>Concentrate
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw three cards.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>64
+      </num>
+      <text>Draw three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>271193
+      </id>
+      <name>Cultivate
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>65
+      </num>
+      <text>Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>271217
+      </id>
+      <name>Dark Hatchling
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Dark Hatchling enters the battlefield, destroy target nonblack creature. It can't be regenerated.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>66
+      </num>
+      <text>Flying&lt;br&gt;When Dark Hatchling enters the battlefield, destroy target nonblack creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>271168
+      </id>
+      <name>Deny Reality
+      </name>
+      <cost>{3}{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;Return target permanent to its owner's hand.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>67
+      </num>
+      <text>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;Return target permanent to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>271209
+      </id>
+      <name>Dimir Aqueduct
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Dimir Aqueduct enters the battlefield tapped.&lt;br&gt;When Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {U}{B} to your mana pool.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>68
+      </num>
+      <text>Dimir Aqueduct enters the battlefield tapped.&lt;br&gt;When Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {U}{B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>271214
+      </id>
+      <name>Dimir Infiltrator
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Dimir Infiltrator is unblockable.&lt;br&gt;Transmute {1}{U}{B} &lt;i&gt;({1}{U}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>69
+      </num>
+      <text>Dimir Infiltrator is unblockable.&lt;br&gt;Transmute {1}{U}{B} &lt;i&gt;({1}{U}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271210
+      </id>
+      <name>Dowsing Shaman
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Centaur Shaman
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{2}{G}, {T}: Return target enchantment card from your graveyard to your hand.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>70
+      </num>
+      <text>{2}{G}, {T}: Return target enchantment card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>270726
+      </id>
+      <name>Dragonlair Spider
+      </name>
+      <cost>{2}{R}{R}{G}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Reach&lt;br&gt;Whenever an opponent casts a spell, put a 1/1 green Insect creature token onto the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>71
+      </num>
+      <text>Reach&lt;br&gt;Whenever an opponent casts a spell, put a 1/1 green Insect creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>270742
+      </id>
+      <name>Dreampod Druid
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Human Druid
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of each upkeep, if Dreampod Druid is enchanted, put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>72
+      </num>
+      <text>At the beginning of each upkeep, if Dreampod Druid is enchanted, put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>270725
+      </id>
+      <name>Elderwood Scion
+      </name>
+      <cost>{3}{G}{W}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Trample, lifelink&lt;br&gt;Spells you cast that target Elderwood Scion cost {2} less to cast.&lt;br&gt;Spells your opponents cast that target Elderwood Scion cost {2} more to cast.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>73
+      </num>
+      <text>Trample, lifelink&lt;br&gt;Spells you cast that target Elderwood Scion cost {2} less to cast.&lt;br&gt;Spells your opponents cast that target Elderwood Scion cost {2} more to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>271169
+      </id>
+      <name>Enigma Sphinx
+      </name>
+      <cost>{4}{W}{U}{B}
+      </cost>
+      <type>Artifact Creature - Sphinx
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Enigma Sphinx is put into your graveyard from the battlefield, put it into your library third from the top.&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>74
+      </num>
+      <text>Flying&lt;br&gt;When Enigma Sphinx is put into your graveyard from the battlefield, put it into your library third from the top.&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271170
+      </id>
+      <name>Enlisted Wurm
+      </name>
+      <cost>{4}{G}{W}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>75
+      </num>
+      <text>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271191
+      </id>
+      <name>Erratic Explosion
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Erratic Explosion deals damage equal to that card's converted mana cost to that creature or player. Put the revealed cards on the bottom of your library in any order.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>76
+      </num>
+      <text>Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Erratic Explosion deals damage equal to that card's converted mana cost to that creature or player. Put the revealed cards on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>265144
+      </id>
+      <name>Etherium-Horn Sorcerer
+      </name>
+      <cost>{4}{U}{R}
+      </cost>
+      <type>Artifact Creature - Minotaur Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>{1}{U}{R}: Return Etherium-Horn Sorcerer to its owner's hand.&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>77
+      </num>
+      <text>{1}{U}{R}: Return Etherium-Horn Sorcerer to its owner's hand.&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>275257
+      </id>
+      <name>Exotic Orchard
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>78
+      </num>
+      <text>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+      </text>
+    </mc>
+    <mc>
+      <id>275263
+      </id>
+      <name>Farsight Mask
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Whenever a source an opponent controls deals damage to you, if Farsight Mask is untapped, you may draw a card.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>79
+      </num>
+      <text>Whenever a source an opponent controls deals damage to you, if Farsight Mask is untapped, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>270736
+      </id>
+      <name>Felidar Umbra
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has lifelink.&lt;br&gt;{1}{W}: Attach Felidar Umbra to target creature you control.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>80
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has lifelink.&lt;br&gt;{1}{W}: Attach Felidar Umbra to target creature you control.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>275259
+      </id>
+      <name>Fiery Conclusion
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Fiery Conclusion, sacrifice a creature.&lt;br&gt;Fiery Conclusion deals 5 damage to target creature.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>81
+      </num>
+      <text>As an additional cost to cast Fiery Conclusion, sacrifice a creature.&lt;br&gt;Fiery Conclusion deals 5 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>271138
+      </id>
+      <name>Fiery Fall
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Fiery Fall deals 5 damage to target creature.&lt;br&gt;Basic landcycling {1}{R} &lt;i&gt;({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>82
+      </num>
+      <text>Fiery Fall deals 5 damage to target creature.&lt;br&gt;Basic landcycling {1}{R} &lt;i&gt;({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>276068
+      </id>
+      <name>Fires of Yavimaya
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures you control have haste.&lt;br&gt;Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>83
+      </num>
+      <text>Creatures you control have haste.&lt;br&gt;Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>271145
+      </id>
+      <name>Flayer Husk
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +1/+1.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>84
+      </num>
+      <text>Living weapon &lt;i&gt;(When this Equipment enters the battlefield, put a 0/0 black Germ creature token onto the battlefield, then attach this to it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +1/+1.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>271225
+      </id>
+      <name>Fling
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Fling, sacrifice a creature.&lt;br&gt;Fling deals damage equal to the sacrificed creature's power to target creature or player.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>85
+      </num>
+      <text>As an additional cost to cast Fling, sacrifice a creature.&lt;br&gt;Fling deals damage equal to the sacrificed creature's power to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>276456
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Vincent Proce
+      </artist>
+      <num>155
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>265151
+      </id>
+      <name>Fractured Powerstone
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Roll the planar die. Activate this ability only any time you could cast a sorcery.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>87
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Roll the planar die. Activate this ability only any time you could cast a sorcery.
+      </text>
+    </mc>
+    <mc>
+      <id>271139
+      </id>
+      <name>Fusion Elemental
+      </name>
+      <cost>{W}{U}{B}{R}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>8
+      </power>
+      <toughness>8
+      </toughness>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>88
+      </num>
+    </mc>
+    <mc>
+      <id>275264
+      </id>
+      <name>Ghostly Prison
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>89
+      </num>
+      <text>Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.
+      </text>
+    </mc>
+    <mc>
+      <id>271215
+      </id>
+      <name>Glen Elendra Liege
+      </name>
+      <cost>{1}{U/B}{U/B}{U/B}
+      </cost>
+      <type>Creature - Faerie Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Other blue creatures you control get +1/+1.&lt;br&gt;Other black creatures you control get +1/+1.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>90
+      </num>
+      <text>Flying&lt;br&gt;Other blue creatures you control get +1/+1.&lt;br&gt;Other black creatures you control get +1/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>271140
+      </id>
+      <name>Gluttonous Slime
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Ooze
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash&lt;br&gt;Devour 1 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>91
+      </num>
+      <text>Flash&lt;br&gt;Devour 1 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271131
+      </id>
+      <name>Graypelt Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Graypelt Refuge enters the battlefield tapped.&lt;br&gt;When Graypelt Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>92
+      </num>
+      <text>Graypelt Refuge enters the battlefield tapped.&lt;br&gt;When Graypelt Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>271228
+      </id>
+      <name>Gruul Turf
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Gruul Turf enters the battlefield tapped.&lt;br&gt;When Gruul Turf enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {R}{G} to your mana pool.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>93
+      </num>
+      <text>Gruul Turf enters the battlefield tapped.&lt;br&gt;When Gruul Turf enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {R}{G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>279846
+      </id>
+      <name>Guard Gomazoa
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Jellyfish
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Defender, flying&lt;br&gt;Prevent all combat damage that would be dealt to Guard Gomazoa.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>94
+      </num>
+      <text>Defender, flying&lt;br&gt;Prevent all combat damage that would be dealt to Guard Gomazoa.
+      </text>
+    </mc>
+    <mc>
+      <id>271158
+      </id>
+      <name>Hellion Eruption
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Sacrifice all creatures you control, then put that many 4/4 red Hellion creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>95
+      </num>
+      <text>Sacrifice all creatures you control, then put that many 4/4 red Hellion creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>271141
+      </id>
+      <name>Hellkite Hatchling
+      </name>
+      <cost>{2}{R}{G}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Devour 1 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Hellkite Hatchling has flying and trample if it devoured a creature.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>96
+      </num>
+      <text>Devour 1 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Hellkite Hatchling has flying and trample if it devoured a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>271181
+      </id>
+      <name>Higure, the Still Wind
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Legendary Creature - Human Ninja
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Ninjutsu {2}{U}{U} &lt;i&gt;({2}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Higure, the Still Wind deals combat damage to a player, you may search your library for a Ninja card, reveal it, and put it into your hand. If you do, shuffle your library.&lt;br&gt;{2}: Target Ninja creature is unblockable this turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>97
+      </num>
+      <text>Ninjutsu {2}{U}{U} &lt;i&gt;({2}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Higure, the Still Wind deals combat damage to a player, you may search your library for a Ninja card, reveal it, and put it into your hand. If you do, shuffle your library.&lt;br&gt;{2}: Target Ninja creature is unblockable this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>271160
+      </id>
+      <name>Hissing Iguanar
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever another creature dies, you may have Hissing Iguanar deal 1 damage to target player.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>98
+      </num>
+      <text>Whenever another creature dies, you may have Hissing Iguanar deal 1 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>271150
+      </id>
+      <name>Hyena Umbra
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has first strike.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>99
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has first strike.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>265143
+      </id>
+      <name>Illusory Angel
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Angel Illusion
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Cast Illusory Angel only if you've cast another spell this turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>100
+      </num>
+      <text>Flying&lt;br&gt;Cast Illusory Angel only if you've cast another spell this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>270724
+      </id>
+      <name>Indrik Umbra
+      </name>
+      <cost>{4}{G}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +4/+4 and has first strike, and all creatures able to block it do so.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>101
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +4/+4 and has first strike, and all creatures able to block it do so.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271182
+      </id>
+      <name>Ink-Eyes, Servant of Oni
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Legendary Creature - Rat Ninja
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Ninjutsu {3}{B}{B} &lt;i&gt;({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.&lt;br&gt;{1}{B}: Regenerate Ink-Eyes.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>102
+      </num>
+      <text>Ninjutsu {3}{B}{B} &lt;i&gt;({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.&lt;br&gt;{1}{B}: Regenerate Ink-Eyes.
+      </text>
+    </mc>
+    <mc>
+      <id>271216
+      </id>
+      <name>Inkfathom Witch
+      </name>
+      <cost>{1}{U/B}
+      </cost>
+      <type>Creature - Merfolk Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;{2}{U}{B}: Each unblocked creature becomes 4/1 until end of turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>103
+      </num>
+      <text>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;{2}{U}{B}: Each unblocked creature becomes 4/1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>276471
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>140
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>271132
+      </id>
+      <name>Jwar Isle Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Jwar Isle Refuge enters the battlefield tapped.&lt;br&gt;When Jwar Isle Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>105
+      </num>
+      <text>Jwar Isle Refuge enters the battlefield tapped.&lt;br&gt;When Jwar Isle Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>271189
+      </id>
+      <name>Kathari Remnant
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Creature - Bird Skeleton
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{B}: Regenerate Kathari Remnant.&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>106
+      </num>
+      <text>Flying&lt;br&gt;{B}: Regenerate Kathari Remnant.&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271133
+      </id>
+      <name>Kazandu Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Kazandu Refuge enters the battlefield tapped.&lt;br&gt;When Kazandu Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>107
+      </num>
+      <text>Kazandu Refuge enters the battlefield tapped.&lt;br&gt;When Kazandu Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>271227
+      </id>
+      <name>Khalni Garden
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Khalni Garden enters the battlefield tapped.&lt;br&gt;When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.&lt;br&gt;{T}: Add {G} to your mana pool.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>108
+      </num>
+      <text>Khalni Garden enters the battlefield tapped.&lt;br&gt;When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.&lt;br&gt;{T}: Add {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>271151
+      </id>
+      <name>Kor Spiritdancer
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Kor Wizard
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Kor Spiritdancer gets +2/+2 for each Aura attached to it.&lt;br&gt;Whenever you cast an Aura spell, you may draw a card.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>109
+      </num>
+      <text>Kor Spiritdancer gets +2/+2 for each Aura attached to it.&lt;br&gt;Whenever you cast an Aura spell, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>270738
+      </id>
+      <name>Krond the Dawn-Clad
+      </name>
+      <cost>{G}{G}{G}{W}{W}{W}
+      </cost>
+      <type>Legendary Creature - Archon
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying, vigilance&lt;br&gt;Whenever Krond the Dawn-Clad attacks, if it's enchanted, exile target permanent.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <num>110
+      </num>
+      <text>Flying, vigilance&lt;br&gt;Whenever Krond the Dawn-Clad attacks, if it's enchanted, exile target permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>271177
+      </id>
+      <name>Krosan Verge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Krosan Verge enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card and put them onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>111
+      </num>
+      <text>Krosan Verge enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card and put them onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>271164
+      </id>
+      <name>Last Stand
+      </name>
+      <cost>{W}{U}{B}{R}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent loses 2 life for each Swamp you control. Last Stand deals damage equal to the number of Mountains you control to target creature. Put a 1/1 green Saproling creature token onto the battlefield for each Forest you control. You gain 2 life for each Plains you control. Draw a card for each Island you control, then discard that many cards.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>112
+      </num>
+      <text>Target opponent loses 2 life for each Swamp you control. Last Stand deals damage equal to the number of Mountains you control to target creature. Put a 1/1 green Saproling creature token onto the battlefield for each Forest you control. You gain 2 life for each Plains you control. Draw a card for each Island you control, then discard that many cards.
+      </text>
+    </mc>
+    <mc>
+      <id>271194
+      </id>
+      <name>Liliana's Specter
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Specter
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Liliana's Specter enters the battlefield, each opponent discards a card.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>113
+      </num>
+      <text>Flying&lt;br&gt;When Liliana's Specter enters the battlefield, each opponent discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>271235
+      </id>
+      <name>Lumberknot
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Treefolk
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Whenever a creature dies, put a +1/+1 counter on Lumberknot.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>114
+      </num>
+      <text>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Whenever a creature dies, put a +1/+1 counter on Lumberknot.
+      </text>
+    </mc>
+    <mc>
+      <id>265154
+      </id>
+      <name>Maelstrom Wanderer
+      </name>
+      <cost>{5}{U}{R}{G}
+      </cost>
+      <type>Legendary Creature - Elemental
+      </type>
+      <power>7
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Creatures you control have haste.&lt;br&gt;Cascade, cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order. Then do it again.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <num>115
+      </num>
+      <text>Creatures you control have haste.&lt;br&gt;Cascade, cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order. Then do it again.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271152
+      </id>
+      <name>Mammoth Umbra
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3 and has vigilance.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>116
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3 and has vigilance.&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271135
+      </id>
+      <name>Mark of Mutiny
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>117
+      </num>
+      <text>Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>270743
+      </id>
+      <name>Mass Mutiny
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>For each opponent, gain control of up to one target creature that player controls until end of turn. Untap those creatures. They gain haste until end of turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>118
+      </num>
+      <text>For each opponent, gain control of up to one target creature that player controls until end of turn. Untap those creatures. They gain haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>271183
+      </id>
+      <name>Mistblade Shinobi
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Ninja
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Ninjutsu {U} &lt;i&gt;({U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Mistblade Shinobi deals combat damage to a player, you may return target creature that player controls to its owner's hand.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>119
+      </num>
+      <text>Ninjutsu {U} &lt;i&gt;({U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Mistblade Shinobi deals combat damage to a player, you may return target creature that player controls to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>271195
+      </id>
+      <name>Mitotic Slime
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Ooze
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Mitotic Slime dies, put two 2/2 green Ooze creature tokens onto the battlefield. They have "When this creature dies, put two 1/1 green Ooze creature tokens onto the battlefield."
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>120
+      </num>
+      <text>When Mitotic Slime dies, put two 2/2 green Ooze creature tokens onto the battlefield. They have "When this creature dies, put two 1/1 green Ooze creature tokens onto the battlefield."
+      </text>
+    </mc>
+    <mc>
+      <id>276465
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>149
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>271222
+      </id>
+      <name>Mudbutton Torchrunner
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>122
+      </num>
+      <text>When Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>271161
+      </id>
+      <name>Mycoloth
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Devour 2 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, put a 1/1 green Saproling creature token onto the battlefield for each +1/+1 counter on Mycoloth.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>123
+      </num>
+      <text>Devour 2 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, put a 1/1 green Saproling creature token onto the battlefield for each +1/+1 counter on Mycoloth.
+      </text>
+    </mc>
+    <mc>
+      <id>275261
+      </id>
+      <name>Nest Invader
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Eldrazi Drone
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Nest Invader enters the battlefield, put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>124
+      </num>
+      <text>When Nest Invader enters the battlefield, put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."
+      </text>
+    </mc>
+    <mc>
+      <id>271184
+      </id>
+      <name>Ninja of the Deep Hours
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Human Ninja
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Ninjutsu {1}{U} &lt;i&gt;({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Ninja of the Deep Hours deals combat damage to a player, you may draw a card.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>125
+      </num>
+      <text>Ninjutsu {1}{U} &lt;i&gt;({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Ninja of the Deep Hours deals combat damage to a player, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>271144
+      </id>
+      <name>Noggle Ransacker
+      </name>
+      <cost>{2}{U/R}
+      </cost>
+      <type>Creature - Noggle Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Noggle Ransacker enters the battlefield, each player draws two cards, then discards a card at random.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>126
+      </num>
+      <text>When Noggle Ransacker enters the battlefield, each player draws two cards, then discards a card at random.
+      </text>
+    </mc>
+    <mc>
+      <id>271178
+      </id>
+      <name>Nullmage Advocate
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Insect Druid
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Return two target cards from an opponent's graveyard to his or her hand. Destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>127
+      </num>
+      <text>{T}: Return two target cards from an opponent's graveyard to his or her hand. Destroy target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>271185
+      </id>
+      <name>Okiba-Gang Shinobi
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Rat Ninja
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Ninjutsu {3}{B} &lt;i&gt;({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Okiba-Gang Shinobi deals combat damage to a player, that player discards two cards.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>128
+      </num>
+      <text>Ninjutsu {3}{B} &lt;i&gt;({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Okiba-Gang Shinobi deals combat damage to a player, that player discards two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>271153
+      </id>
+      <name>Ondu Giant
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Giant Druid
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>129
+      </num>
+      <text>When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>271201
+      </id>
+      <name>Overrun
+      </name>
+      <cost>{2}{G}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Creatures you control get +3/+3 and gain trample until end of turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>130
+      </num>
+      <text>Creatures you control get +3/+3 and gain trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>271223
+      </id>
+      <name>Penumbra Spider
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Reach&lt;br&gt;When Penumbra Spider dies, put a 2/4 black Spider creature token with reach onto the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>131
+      </num>
+      <text>Reach&lt;br&gt;When Penumbra Spider dies, put a 2/4 black Spider creature token with reach onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>271190
+      </id>
+      <name>Peregrine Drake
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Peregrine Drake enters the battlefield, untap up to five lands.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>132
+      </num>
+      <text>Flying&lt;br&gt;When Peregrine Drake enters the battlefield, untap up to five lands.
+      </text>
+    </mc>
+    <mc>
+      <id>276459
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jung Park
+      </artist>
+      <num>135
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>271211
+      </id>
+      <name>Pollenbright Wings
+      </name>
+      <cost>{4}{G}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has flying.&lt;br&gt;Whenever enchanted creature deals combat damage to a player, put that many 1/1 green Saproling creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>134
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has flying.&lt;br&gt;Whenever enchanted creature deals combat damage to a player, put that many 1/1 green Saproling creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>271136
+      </id>
+      <name>Predatory Urge
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has "{T}: This creature deals damage equal to its power to target creature. That creature deals damage equal to its power to this creature."
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>135
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has "{T}: This creature deals damage equal to its power to target creature. That creature deals damage equal to its power to this creature."
+      </text>
+    </mc>
+    <mc>
+      <id>265150
+      </id>
+      <name>Preyseizer Dragon
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Devour 2 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Whenever Preyseizer Dragon attacks, it deals damage to target creature or player equal to the number of +1/+1 counters on Preyseizer Dragon.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>136
+      </num>
+      <text>Flying&lt;br&gt;Devour 2 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Whenever Preyseizer Dragon attacks, it deals damage to target creature or player equal to the number of +1/+1 counters on Preyseizer Dragon.
+      </text>
+    </mc>
+    <mc>
+      <id>271175
+      </id>
+      <name>Primal Plasma
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Elemental Shapeshifter
+      </type>
+      <oracleText>As Primal Plasma enters the battlefield, it becomes your choice of a 3/3 creature, a 2/2 creature with flying, or a 1/6 creature with defender.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>137
+      </num>
+      <text>As Primal Plasma enters the battlefield, it becomes your choice of a 3/3 creature, a 2/2 creature with flying, or a 1/6 creature with defender.
+      </text>
+    </mc>
+    <mc>
+      <id>271238
+      </id>
+      <name>Quiet Disrepair
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant artifact or enchantment&lt;br&gt;At the beginning of your upkeep, choose one- Destroy enchanted permanent; or you gain 2 life.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>138
+      </num>
+      <text>Enchant artifact or enchantment&lt;br&gt;At the beginning of your upkeep, choose one- Destroy enchanted permanent; or you gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>271219
+      </id>
+      <name>Quietus Spike
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has deathtouch.&lt;br&gt;Whenever equipped creature deals combat damage to a player, that player loses half his or her life, rounded up.&lt;br&gt;Equip {3}
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>139
+      </num>
+      <text>Equipped creature has deathtouch.&lt;br&gt;Whenever equipped creature deals combat damage to a player, that player loses half his or her life, rounded up.&lt;br&gt;Equip {3}
+      </text>
+    </mc>
+    <mc>
+      <id>275266
+      </id>
+      <name>Rancor
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+0 and has trample.&lt;br&gt;When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>140
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+0 and has trample.&lt;br&gt;When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>271200
+      </id>
+      <name>Rivals' Duel
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose two target creatures that share no creature types. Those creatures fight each other. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>141
+      </num>
+      <text>Choose two target creatures that share no creature types. Those creatures fight each other. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271142
+      </id>
+      <name>Rupture Spire
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Rupture Spire enters the battlefield tapped.&lt;br&gt;When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>142
+      </num>
+      <text>Rupture Spire enters the battlefield tapped.&lt;br&gt;When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>270731
+      </id>
+      <name>Sai of the Shinobi
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +1/+1.&lt;br&gt;Whenever a creature enters the battlefield under your control, you may attach Sai of the Shinobi to it.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>143
+      </num>
+      <text>Equipped creature gets +1/+1.&lt;br&gt;Whenever a creature enters the battlefield under your control, you may attach Sai of the Shinobi to it.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>265159
+      </id>
+      <name>Sakashima's Student
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature - Human Ninja
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Ninjutsu {1}{U} &lt;i&gt;({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;You may have Sakashima's Student enter the battlefield as a copy of any creature on the battlefield, except it's still a Ninja in addition to its other creature types.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>144
+      </num>
+      <text>Ninjutsu {1}{U} &lt;i&gt;({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;You may have Sakashima's Student enter the battlefield as a copy of any creature on the battlefield, except it's still a Ninja in addition to its other creature types.
+      </text>
+    </mc>
+    <mc>
+      <id>271154
+      </id>
+      <name>See Beyond
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw two cards, then shuffle a card from your hand into your library.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>145
+      </num>
+      <text>Draw two cards, then shuffle a card from your hand into your library.
+      </text>
+    </mc>
+    <mc>
+      <id>271212
+      </id>
+      <name>Selesnya Sanctuary
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Selesnya Sanctuary enters the battlefield tapped.&lt;br&gt;When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {G}{W} to your mana pool.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>146
+      </num>
+      <text>Selesnya Sanctuary enters the battlefield tapped.&lt;br&gt;When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {G}{W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>270733
+      </id>
+      <name>Shardless Agent
+      </name>
+      <cost>{1}{G}{U}
+      </cost>
+      <type>Artifact Creature - Human Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>147
+      </num>
+      <text>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271203
+      </id>
+      <name>Shimmering Grotto
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>148
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>275258
+      </id>
+      <name>Sigil of the Empty Throne
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>149
+      </num>
+      <text>Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>270727
+      </id>
+      <name>Silent-Blade Oni
+      </name>
+      <cost>{3}{U}{U}{B}{B}
+      </cost>
+      <type>Creature - Demon Ninja
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Ninjutsu {4}{U}{B} &lt;i&gt;({4}{U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Silent-Blade Oni deals combat damage to a player, look at that player's hand. You may cast a nonland card in it without paying that card's mana cost.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>150
+      </num>
+      <text>Ninjutsu {4}{U}{B} &lt;i&gt;({4}{U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Silent-Blade Oni deals combat damage to a player, look at that player's hand. You may cast a nonland card in it without paying that card's mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>271230
+      </id>
+      <name>Silhana Ledgewalker
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Silhana Ledgewalker can't be blocked except by creatures with flying.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>151
+      </num>
+      <text>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Silhana Ledgewalker can't be blocked except by creatures with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>271231
+      </id>
+      <name>Skarrg, the Rage Pits
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{R}{G}, {T}: Target creature gets +1/+1 and gains trample until end of turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>152
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{R}{G}, {T}: Target creature gets +1/+1 and gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>271186
+      </id>
+      <name>Skullsnatcher
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Rat Ninja
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Ninjutsu {B} &lt;i&gt;({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player's graveyard.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>153
+      </num>
+      <text>Ninjutsu {B} &lt;i&gt;({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>271155
+      </id>
+      <name>Snake Umbra
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has "Whenever this creature deals damage to an opponent, you may draw a card."&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>154
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has "Whenever this creature deals damage to an opponent, you may draw a card."&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>275265
+      </id>
+      <name>Spirit Mantle
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has protection from creatures.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>155
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has protection from creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>271202
+      </id>
+      <name>Sunken Hope
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of each player's upkeep, that player returns a creature he or she controls to its owner's hand.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>156
+      </num>
+      <text>At the beginning of each player's upkeep, that player returns a creature he or she controls to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>276455
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jim Nelson
+      </artist>
+      <num>145
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>271239
+      </id>
+      <name>Tainted Isle
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {U} or {B} to your mana pool. Activate this ability only if you control a Swamp.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>158
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {U} or {B} to your mana pool. Activate this ability only if you control a Swamp.
+      </text>
+    </mc>
+    <mc>
+      <id>271196
+      </id>
+      <name>Terramorphic Expanse
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>159
+      </num>
+      <text>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>271162
+      </id>
+      <name>Thorn-Thrash Viashino
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Viashino Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Devour 2 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;{G}: Thorn-Thrash Viashino gains trample until end of turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>160
+      </num>
+      <text>Devour 2 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;{G}: Thorn-Thrash Viashino gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>271173
+      </id>
+      <name>Thran Golem
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>161
+      </num>
+      <text>As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample.
+      </text>
+    </mc>
+    <mc>
+      <id>275260
+      </id>
+      <name>Three Dreams
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for up to three Aura cards with different names, reveal them, and put them into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>162
+      </num>
+      <text>Search your library for up to three Aura cards with different names, reveal them, and put them into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>271187
+      </id>
+      <name>Throat Slitter
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Rat Ninja
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Ninjutsu {2}{B} &lt;i&gt;({2}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Throat Slitter deals combat damage to a player, destroy target nonblack creature that player controls.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>163
+      </num>
+      <text>Ninjutsu {2}{B} &lt;i&gt;({2}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Throat Slitter deals combat damage to a player, destroy target nonblack creature that player controls.
+      </text>
+    </mc>
+    <mc>
+      <id>265155
+      </id>
+      <name>Thromok the Insatiable
+      </name>
+      <cost>{3}{R}{G}
+      </cost>
+      <type>Legendary Creature - Hellion
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Devour X, where X is the number of creatures devoured this way &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with X +1/+1 counters on it for each of those creatures.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <num>164
+      </num>
+      <text>Devour X, where X is the number of creatures devoured this way &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with X +1/+1 counters on it for each of those creatures.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271163
+      </id>
+      <name>Thunder-Thrash Elder
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Viashino Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Devour 3 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with three times that many +1/+1 counters on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>165
+      </num>
+      <text>Devour 3 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with three times that many +1/+1 counters on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>271174
+      </id>
+      <name>Tormented Soul
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Tormented Soul can't block and is unblockable.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>166
+      </num>
+      <text>Tormented Soul can't block and is unblockable.
+      </text>
+    </mc>
+    <mc>
+      <id>271143
+      </id>
+      <name>Tukatongue Thallid
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Tukatongue Thallid dies, put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>167
+      </num>
+      <text>When Tukatongue Thallid dies, put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>270729
+      </id>
+      <name>Vela the Night-Clad
+      </name>
+      <cost>{4}{U}{B}
+      </cost>
+      <type>Legendary Creature - Human Wizard
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Intimidate&lt;br&gt;Other creatures you control have intimidate.&lt;br&gt;Whenever Vela the Night-Clad or another creature you control leaves the battlefield, each opponent loses 1 life.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <num>168
+      </num>
+      <text>Intimidate&lt;br&gt;Other creatures you control have intimidate.&lt;br&gt;Whenever Vela the Night-Clad or another creature you control leaves the battlefield, each opponent loses 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>271146
+      </id>
+      <name>Viridian Emissary
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Viridian Emissary dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Common
+      </rarity>
+      <num>169
+      </num>
+      <text>When Viridian Emissary dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>271213
+      </id>
+      <name>Vitu-Ghazi, the City-Tree
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{2}{G}{W}, {T}: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>170
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{2}{G}{W}, {T}: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>271204
+      </id>
+      <name>Vivid Creek
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Vivid Creek enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>171
+      </num>
+      <text>Vivid Creek enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>271188
+      </id>
+      <name>Walker of Secret Ways
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Ninja
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Ninjutsu {1}{U} &lt;i&gt;({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Walker of Secret Ways deals combat damage to a player, look at that player's hand.&lt;br&gt;{1}{U}: Return target Ninja you control to its owner's hand. Activate this ability only during your turn.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>172
+      </num>
+      <text>Ninjutsu {1}{U} &lt;i&gt;({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Walker of Secret Ways deals combat damage to a player, look at that player's hand.&lt;br&gt;{1}{U}: Return target Ninja you control to its owner's hand. Activate this ability only during your turn.
+      </text>
+    </mc>
+    <mc>
+      <id>275262
+      </id>
+      <name>Wall of Blossoms
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Plant Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender&lt;br&gt;When Wall of Blossoms enters the battlefield, draw a card.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>173
+      </num>
+      <text>Defender&lt;br&gt;When Wall of Blossoms enters the battlefield, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>271197
+      </id>
+      <name>Wall of Frost
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Defender&lt;br&gt;Whenever Wall of Frost blocks a creature, that creature doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>174
+      </num>
+      <text>Defender&lt;br&gt;Whenever Wall of Frost blocks a creature, that creature doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>271226
+      </id>
+      <name>Warstorm Surge
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature enters the battlefield under your control, it deals damage equal to its power to target creature or player.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>175
+      </num>
+      <text>Whenever a creature enters the battlefield under your control, it deals damage equal to its power to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>271165
+      </id>
+      <name>Whirlpool Warrior
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Merfolk Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Whirlpool Warrior enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.&lt;br&gt;{R}, Sacrifice Whirlpool Warrior: Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <num>176
+      </num>
+      <text>When Whirlpool Warrior enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.&lt;br&gt;{R}, Sacrifice Whirlpool Warrior: Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.
+      </text>
+    </mc>
+    <mc>
+      <id>271198
+      </id>
+      <name>Whispersilk Cloak
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature is unblockable and has shroud.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <num>177
+      </num>
+      <text>Equipped creature is unblockable and has shroud.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>276467
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>151
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>276468
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>152
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>276460
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>153
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>276464
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>154
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>276454
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Stephen Tappin
+      </artist>
+      <num>156
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>276466
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>137
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>276452
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>138
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>276453
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>139
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>276462
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>141
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>276447
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>147
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>276449
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>148
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>276470
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>150
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>276473
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>132
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>276469
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>133
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>276458
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>134
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>276461
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Vincent Proce
+      </artist>
+      <num>136
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>276472
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>142
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>276463
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jim Nelson
+      </artist>
+      <num>143
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>276448
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jim Nelson
+      </artist>
+      <num>144
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>276457
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Planechase 2012 Edition
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jim Nelson
+      </artist>
+      <num>146
+      </num>
+      <text>B
+      </text>
+    </mc>
+  </list>
+</cards>

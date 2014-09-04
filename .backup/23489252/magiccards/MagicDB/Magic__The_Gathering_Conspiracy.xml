@@ -1,0 +1,5013 @@
+
+<cards>
+  <name>Magic__The_Gathering_Conspiracy</name>
+  <key>Magic__The_Gathering_Conspiracy</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>382205
+      </id>
+      <name>Academy Elite
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.&lt;br&gt;{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>20
+      </num>
+      <text>Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.&lt;br&gt;{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382206
+      </id>
+      <name>Advantageous Proclamation
+      </name>
+      <type>Conspiracy
+      </type>
+      <oracleText>&lt;i&gt;(Start the game with this conspiracy face up in the command zone.)&lt;/i&gt;&lt;br&gt;Your minimum deck size is reduced by five.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Izzy
+      </artist>
+      <num>1
+      </num>
+      <text>&lt;i&gt;(Start the game with this conspiracy face up in the command zone.)&lt;/i&gt;&lt;br&gt;Your minimum deck size is reduced by five.
+      </text>
+    </mc>
+    <mc>
+      <id>382207
+      </id>
+      <name>Æther Searcher
+      </name>
+      <cost>{7}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>6
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Reveal Æther Searcher as you draft it. Reveal the next card you draft and note its name. &lt;br&gt;When Æther Searcher enters the battlefield, you may search your hand and/or library for a card with a name noted as you drafted cards named Æther Searcher. You may cast it without paying its mana cost. If you searched your library this way, shuffle it.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>James Paick
+      </artist>
+      <num>53
+      </num>
+      <text>Reveal Æther Searcher as you draft it. Reveal the next card you draft and note its name. &lt;br&gt;When Æther Searcher enters the battlefield, you may search your hand and/or library for a card with a name noted as you drafted cards named Æther Searcher. You may cast it without paying its mana cost. If you searched your library this way, shuffle it.
+      </text>
+    </mc>
+    <mc>
+      <id>382208
+      </id>
+      <name>Æther Tradewinds
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target permanent you control and target permanent you don't control to their owners' hands.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kieran Yanner
+      </artist>
+      <num>89
+      </num>
+      <text>Return target permanent you control and target permanent you don't control to their owners' hands.
+      </text>
+    </mc>
+    <mc>
+      <id>382209
+      </id>
+      <name>Agent of Acquisitions
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Draft Agent of Acquisitions face up.&lt;br&gt;Instead of drafting a card from a booster pack, you may draft each card in that booster pack, one at a time. If you do, turn Agent of Acquisitions face down and you can't draft cards for the rest of this draft round. &lt;i&gt;(You may look at booster packs passed to you.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Eytan Zana
+      </artist>
+      <num>54
+      </num>
+      <text>Draft Agent of Acquisitions face up.&lt;br&gt;Instead of drafting a card from a booster pack, you may draft each card in that booster pack, one at a time. If you do, turn Agent of Acquisitions face down and you can't draft cards for the rest of this draft round. &lt;i&gt;(You may look at booster packs passed to you.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382210
+      </id>
+      <name>Air Servant
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{2}{U}: Tap target creature with flying.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Lars Grant-West
+      </artist>
+      <num>90
+      </num>
+      <text>Flying&lt;br&gt;{2}{U}: Tap target creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>382211
+      </id>
+      <name>Ajani's Sunstriker
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Cat Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>66
+      </num>
+      <text>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382212
+      </id>
+      <name>Altar of Dementia
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Sacrifice a creature: Target player puts a number of cards equal to the sacrificed creature's power from the top of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Brom
+      </artist>
+      <num>196
+      </num>
+      <text>Sacrifice a creature: Target player puts a number of cards equal to the sacrificed creature's power from the top of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>382213
+      </id>
+      <name>Altar's Reap
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Altar's Reap, sacrifice a creature.&lt;br&gt;Draw two cards.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Donato Giancola
+      </artist>
+      <num>112
+      </num>
+      <text>As an additional cost to cast Altar's Reap, sacrifice a creature.&lt;br&gt;Draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>382214
+      </id>
+      <name>Apex Hawks
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Multikicker {1}{W} &lt;i&gt;(You may pay an additional {1}{W} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;Apex Hawks enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>67
+      </num>
+      <text>Multikicker {1}{W} &lt;i&gt;(You may pay an additional {1}{W} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;Apex Hawks enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+      </text>
+    </mc>
+    <mc>
+      <id>382215
+      </id>
+      <name>Assassinate
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target tapped creature.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>113
+      </num>
+      <text>Destroy target tapped creature.
+      </text>
+    </mc>
+    <mc>
+      <id>382216
+      </id>
+      <name>Backup Plan
+      </name>
+      <type>Conspiracy
+      </type>
+      <oracleText>&lt;i&gt;(Start the game with this conspiracy face up in the command zone.)&lt;/i&gt;&lt;br&gt;Draw an additional hand of seven cards as the game begins. Before taking mulligans, shuffle all but one of your hands into your library.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>2
+      </num>
+      <text>&lt;i&gt;(Start the game with this conspiracy face up in the command zone.)&lt;/i&gt;&lt;br&gt;Draw an additional hand of seven cards as the game begins. Before taking mulligans, shuffle all but one of your hands into your library.
+      </text>
+    </mc>
+    <mc>
+      <id>382217
+      </id>
+      <name>Barbed Shocker
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Trample, haste&lt;br&gt;Whenever Barbed Shocker deals damage to a player, that player discards all the cards in his or her hand, then draws that many cards.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>136
+      </num>
+      <text>Trample, haste&lt;br&gt;Whenever Barbed Shocker deals damage to a player, that player discards all the cards in his or her hand, then draws that many cards.
+      </text>
+    </mc>
+    <mc>
+      <id>382218
+      </id>
+      <name>Basandra, Battle Seraph
+      </name>
+      <cost>{3}{R}{W}
+      </cost>
+      <type>Legendary Creature - Angel
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Players can't cast spells during combat.&lt;br&gt;{R}: Target creature attacks this turn if able.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Terese Nielsen
+      </artist>
+      <num>184
+      </num>
+      <text>Flying&lt;br&gt;Players can't cast spells during combat.&lt;br&gt;{R}: Target creature attacks this turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>382219
+      </id>
+      <name>Bite of the Black Rose
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Will of the council- Starting with you, each player votes for sickness or psychosis. If sickness gets more votes, creatures your opponents control get -2/-2 until end of turn. If psychosis gets more votes or the vote is tied, each opponent discards two cards.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>26
+      </num>
+      <text>Will of the council- Starting with you, each player votes for sickness or psychosis. If sickness gets more votes, creatures your opponents control get -2/-2 until end of turn. If psychosis gets more votes or the vote is tied, each opponent discards two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>382220
+      </id>
+      <name>Boldwyr Intimidator
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Creature - Giant Warrior
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Cowards can't block Warriors.&lt;br&gt;{R}: Target creature becomes a Coward until end of turn.&lt;br&gt;{2}{R}: Target creature becomes a Warrior until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Esad Ribic
+      </artist>
+      <num>137
+      </num>
+      <text>Cowards can't block Warriors.&lt;br&gt;{R}: Target creature becomes a Coward until end of turn.&lt;br&gt;{2}{R}: Target creature becomes a Warrior until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382221
+      </id>
+      <name>Brago, King Eternal
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Legendary Creature - Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Brago, King Eternal deals combat damage to a player, exile any number of target nonland permanents you control, then return those cards to the battlefield under their owner's control.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karla Ortiz
+      </artist>
+      <num>41
+      </num>
+      <text>Flying&lt;br&gt;When Brago, King Eternal deals combat damage to a player, exile any number of target nonland permanents you control, then return those cards to the battlefield under their owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>382222
+      </id>
+      <name>Brago's Favor
+      </name>
+      <type>Conspiracy
+      </type>
+      <oracleText>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;Spells with the chosen name you cast cost {1} less to cast.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karla Ortiz
+      </artist>
+      <num>3
+      </num>
+      <text>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;Spells with the chosen name you cast cost {1} less to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>382223
+      </id>
+      <name>Brago's Representative
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Advisor
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>While voting, you get an additional vote. &lt;i&gt;(The votes can be for different choices or for the same choice.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Anthony Palumbo
+      </artist>
+      <num>14
+      </num>
+      <text>While voting, you get an additional vote. &lt;i&gt;(The votes can be for different choices or for the same choice.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382224
+      </id>
+      <name>Brainstorm
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Draw three cards, then put two cards from your hand on top of your library in any order.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>91
+      </num>
+      <text>Draw three cards, then put two cards from your hand on top of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>382225
+      </id>
+      <name>Breakthrough
+      </name>
+      <cost>{X}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw four cards, then choose X cards in your hand and discard the rest.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>92
+      </num>
+      <text>Draw four cards, then choose X cards in your hand and discard the rest.
+      </text>
+    </mc>
+    <mc>
+      <id>382226
+      </id>
+      <name>Brimstone Volley
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Brimstone Volley deals 3 damage to target creature or player.&lt;br&gt;Morbid- Brimstone Volley deals 5 damage to that creature or player instead if a creature died this turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Eytan Zana
+      </artist>
+      <num>138
+      </num>
+      <text>Brimstone Volley deals 3 damage to target creature or player.&lt;br&gt;Morbid- Brimstone Volley deals 5 damage to that creature or player instead if a creature died this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382227
+      </id>
+      <name>Canal Dredger
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>1
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Draft Canal Dredger face up.&lt;br&gt;Each player passes the last card from each booster pack to a player who drafted a card named Canal Dredger.&lt;br&gt;{T}: Put target card from your graveyard on the bottom of your library.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>55
+      </num>
+      <text>Draft Canal Dredger face up.&lt;br&gt;Each player passes the last card from each booster pack to a player who drafted a card named Canal Dredger.&lt;br&gt;{T}: Put target card from your graveyard on the bottom of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>382228
+      </id>
+      <name>Charging Rhino
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Rhino
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Charging Rhino can't be blocked by more than one creature.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daren Bader
+      </artist>
+      <num>159
+      </num>
+      <text>Charging Rhino can't be blocked by more than one creature.
+      </text>
+    </mc>
+    <mc>
+      <id>382229
+      </id>
+      <name>Chartooth Cougar
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Cat Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{R}: Chartooth Cougar gets +1/+0 until end of turn.&lt;br&gt;Mountaincycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>139
+      </num>
+      <text>{R}: Chartooth Cougar gets +1/+0 until end of turn.&lt;br&gt;Mountaincycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382230
+      </id>
+      <name>Cinder Wall
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Defender&lt;br&gt;When Cinder Wall blocks, destroy it at end of combat.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>140
+      </num>
+      <text>Defender&lt;br&gt;When Cinder Wall blocks, destroy it at end of combat.
+      </text>
+    </mc>
+    <mc>
+      <id>382231
+      </id>
+      <name>Coercive Portal
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Will of the council- At the beginning of your upkeep, starting with you, each player votes for carnage or homage. If carnage gets more votes, sacrifice Coercive Portal and destroy all nonland permanents. If homage gets more votes or the vote is tied, draw a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>56
+      </num>
+      <text>Will of the council- At the beginning of your upkeep, starting with you, each player votes for carnage or homage. If carnage gets more votes, sacrifice Coercive Portal and destroy all nonland permanents. If homage gets more votes or the vote is tied, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382232
+      </id>
+      <name>Cogwork Grinder
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Draft Cogwork Grinder face up.&lt;br&gt;As you draft a card, you may remove it from the draft face down. &lt;i&gt;(Those cards aren't in your card pool.)&lt;/i&gt;&lt;br&gt;Cogwork Grinder enters the battlefield with X +1/+1 counters on it, where X is the number of cards you removed from the draft with cards named Cogwork Grinder.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jasper Sandner
+      </artist>
+      <num>57
+      </num>
+      <text>Draft Cogwork Grinder face up.&lt;br&gt;As you draft a card, you may remove it from the draft face down. &lt;i&gt;(Those cards aren't in your card pool.)&lt;/i&gt;&lt;br&gt;Cogwork Grinder enters the battlefield with X +1/+1 counters on it, where X is the number of cards you removed from the draft with cards named Cogwork Grinder.
+      </text>
+    </mc>
+    <mc>
+      <id>382233
+      </id>
+      <name>Cogwork Librarian
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Draft Cogwork Librarian face up.&lt;br&gt;As you draft a card, you may draft an additional card from that booster pack. If you do, put Cogwork Librarian into that booster pack.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>58
+      </num>
+      <text>Draft Cogwork Librarian face up.&lt;br&gt;As you draft a card, you may draft an additional card from that booster pack. If you do, put Cogwork Librarian into that booster pack.
+      </text>
+    </mc>
+    <mc>
+      <id>382234
+      </id>
+      <name>Cogwork Spy
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Bird Construct
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Reveal Cogwork Spy as you draft it. You may look at the next card drafted from this booster pack.&lt;br&gt;Flying
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Tomasz Jedruszek
+      </artist>
+      <num>59
+      </num>
+      <text>Reveal Cogwork Spy as you draft it. You may look at the next card drafted from this booster pack.&lt;br&gt;Flying
+      </text>
+    </mc>
+    <mc>
+      <id>382235
+      </id>
+      <name>Cogwork Tracker
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Hound Construct
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Reveal Cogwork Tracker as you draft it and note the player who passed it to you.&lt;br&gt;Cogwork Tracker attacks each turn if able.&lt;br&gt;Cogwork Tracker attacks a player you noted for cards named Cogwork Tracker each turn if able.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>60
+      </num>
+      <text>Reveal Cogwork Tracker as you draft it and note the player who passed it to you.&lt;br&gt;Cogwork Tracker attacks each turn if able.&lt;br&gt;Cogwork Tracker attacks a player you noted for cards named Cogwork Tracker each turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>382236
+      </id>
+      <name>Compulsive Research
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player draws three cards. Then that player discards two cards unless he or she discards a land card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Michael Sutfin
+      </artist>
+      <num>93
+      </num>
+      <text>Target player draws three cards. Then that player discards two cards unless he or she discards a land card.
+      </text>
+    </mc>
+    <mc>
+      <id>382237
+      </id>
+      <name>Copperhorn Scout
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Copperhorn Scout attacks, untap each other creature you control.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Shelly Wan
+      </artist>
+      <num>160
+      </num>
+      <text>Whenever Copperhorn Scout attacks, untap each other creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>382238
+      </id>
+      <name>Council Guardian
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Creature - Giant Soldier
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Will of the council- When Council Guardian enters the battlefield, starting with you, each player votes for blue, black, red, or green. Council Guardian gains protection from each color with the most votes or tied for most votes.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>15
+      </num>
+      <text>Will of the council- When Council Guardian enters the battlefield, starting with you, each player votes for blue, black, red, or green. Council Guardian gains protection from each color with the most votes or tied for most votes.
+      </text>
+    </mc>
+    <mc>
+      <id>382239
+      </id>
+      <name>Council's Judgment
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Will of the council- Starting with you, each player votes for a nonland permanent you don't control. Exile each permanent with the most votes or tied for most votes.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>16
+      </num>
+      <text>Will of the council- Starting with you, each player votes for a nonland permanent you don't control. Exile each permanent with the most votes or tied for most votes.
+      </text>
+    </mc>
+    <mc>
+      <id>382240
+      </id>
+      <name>Courier Hawk
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying, vigilance
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Poole
+      </artist>
+      <num>68
+      </num>
+      <text>Flying, vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>382241
+      </id>
+      <name>Crookclaw Transmuter
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Bird Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Crookclaw Transmuter enters the battlefield, switch target creature's power and toughness until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ron Spencer
+      </artist>
+      <num>94
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Crookclaw Transmuter enters the battlefield, switch target creature's power and toughness until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382242
+      </id>
+      <name>Custodi Soulbinders
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Custodi Soulbinders enters the battlefield with X +1/+1 counters on it, where X is the number of other creatures on the battlefield.&lt;br&gt;{2}{W}, Remove a +1/+1 counter from Custodi Soulbinders: Put a 1/1 white Spirit creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karla Ortiz
+      </artist>
+      <num>17
+      </num>
+      <text>Custodi Soulbinders enters the battlefield with X +1/+1 counters on it, where X is the number of other creatures on the battlefield.&lt;br&gt;{2}{W}, Remove a +1/+1 counter from Custodi Soulbinders: Put a 1/1 white Spirit creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>382243
+      </id>
+      <name>Custodi Squire
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Spirit Cleric
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Will of the council- When Custodi Squire enters the battlefield, starting with you, each player votes for an artifact, creature, or enchantment card in your graveyard. Return each card with the most votes or tied for most votes to your hand.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>18
+      </num>
+      <text>Flying&lt;br&gt;Will of the council- When Custodi Squire enters the battlefield, starting with you, each player votes for an artifact, creature, or enchantment card in your graveyard. Return each card with the most votes or tied for most votes to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>382244
+      </id>
+      <name>Dack Fayden
+      </name>
+      <cost>{1}{U}{R}
+      </cost>
+      <type>Planeswalker - Dack
+      </type>
+      <toughness>3
+      </toughness>
+      <oracleText>+1: Target player draws two cards, then discards two cards.&lt;br&gt;-2: Gain control of target artifact.&lt;br&gt;-6: You get an emblem with "Whenever you cast a spell that targets one or more permanents, gain control of those permanents."
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>42
+      </num>
+      <text>+1: Target player draws two cards, then discards two cards.&lt;br&gt;-2: Gain control of target artifact.&lt;br&gt;-6: You get an emblem with "Whenever you cast a spell that targets one or more permanents, gain control of those permanents."
+      </text>
+    </mc>
+    <mc>
+      <id>382245
+      </id>
+      <name>Dack's Duplicate
+      </name>
+      <cost>{2}{U}{R}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>You may have Dack's Duplicate enter the battlefield as a copy of any creature on the battlefield except it gains haste and dethrone. &lt;i&gt;(Whenever it attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>43
+      </num>
+      <text>You may have Dack's Duplicate enter the battlefield as a copy of any creature on the battlefield except it gains haste and dethrone. &lt;i&gt;(Whenever it attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382246
+      </id>
+      <name>Deal Broker
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Draft Deal Broker face up.&lt;br&gt;Immediately after the draft, you may reveal a card in your card pool. Each other player may offer you one card in his or her card pool in exchange. You may accept any one offer.&lt;br&gt;{T}: Draw a card, then discard a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Cliff Childs
+      </artist>
+      <num>61
+      </num>
+      <text>Draft Deal Broker face up.&lt;br&gt;Immediately after the draft, you may reveal a card in your card pool. Each other player may offer you one card in his or her card pool in exchange. You may accept any one offer.&lt;br&gt;{T}: Draw a card, then discard a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382247
+      </id>
+      <name>Deathforge Shaman
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Ogre Shaman
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Multikicker {R} &lt;i&gt;(You may pay an additional {R} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Deathforge Shaman enters the battlefield, it deals damage to target player equal to twice the number of times it was kicked.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>141
+      </num>
+      <text>Multikicker {R} &lt;i&gt;(You may pay an additional {R} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Deathforge Shaman enters the battlefield, it deals damage to target player equal to twice the number of times it was kicked.
+      </text>
+    </mc>
+    <mc>
+      <id>382248
+      </id>
+      <name>Deathreap Ritual
+      </name>
+      <cost>{2}{B}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Morbid- At the beginning of each end step, if a creature died this turn, you may draw a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Steve Argyle
+      </artist>
+      <num>44
+      </num>
+      <text>Morbid- At the beginning of each end step, if a creature died this turn, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382249
+      </id>
+      <name>Deathrender
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +2/+2.&lt;br&gt;Whenever equipped creature dies, you may put a creature card from your hand onto the battlefield and attach Deathrender to it.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>197
+      </num>
+      <text>Equipped creature gets +2/+2.&lt;br&gt;Whenever equipped creature dies, you may put a creature card from your hand onto the battlefield and attach Deathrender to it.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>382250
+      </id>
+      <name>Decimate
+      </name>
+      <cost>{2}{R}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target artifact, target creature, target enchantment, and target land.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>185
+      </num>
+      <text>Destroy target artifact, target creature, target enchantment, and target land.
+      </text>
+    </mc>
+    <mc>
+      <id>382251
+      </id>
+      <name>Dimir Doppelganger
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jim Murray
+      </artist>
+      <num>186
+      </num>
+      <text>{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability.
+      </text>
+    </mc>
+    <mc>
+      <id>382252
+      </id>
+      <name>Doomed Traveler
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Lars Grant-West
+      </artist>
+      <num>69
+      </num>
+      <text>When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>382253
+      </id>
+      <name>Double Stroke
+      </name>
+      <type>Conspiracy
+      </type>
+      <oracleText>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;Whenever you cast an instant or sorcery spell with the chosen name, you may copy it. You may choose new targets for the copy.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>4
+      </num>
+      <text>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;Whenever you cast an instant or sorcery spell with the chosen name, you may copy it. You may choose new targets for the copy.
+      </text>
+    </mc>
+    <mc>
+      <id>382254
+      </id>
+      <name>Drakestown Forgotten
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Drakestown Forgotten enters the battlefield with X +1/+1 counters on it, where X is the number of creature cards in all graveyards.&lt;br&gt;{2}{B}, Remove a +1/+1 counter from Drakestown Forgotten: Target creature gets -1/-1 until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>27
+      </num>
+      <text>Drakestown Forgotten enters the battlefield with X +1/+1 counters on it, where X is the number of creature cards in all graveyards.&lt;br&gt;{2}{B}, Remove a +1/+1 counter from Drakestown Forgotten: Target creature gets -1/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382255
+      </id>
+      <name>Dream Fracture
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell. Its controller draws a card.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Howard Lyon
+      </artist>
+      <num>95
+      </num>
+      <text>Counter target spell. Its controller draws a card.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382256
+      </id>
+      <name>Echoing Courage
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>161
+      </num>
+      <text>Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382257
+      </id>
+      <name>Edric, Spymaster of Trest
+      </name>
+      <cost>{1}{G}{U}
+      </cost>
+      <type>Legendary Creature - Elf Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>187
+      </num>
+      <text>Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382258
+      </id>
+      <name>Elephant Guide
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3.&lt;br&gt;When enchanted creature dies, put a 3/3 green Elephant creature token onto the battlefield.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Tomasz Jedruszek
+      </artist>
+      <num>162
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3.&lt;br&gt;When enchanted creature dies, put a 3/3 green Elephant creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>382259
+      </id>
+      <name>Elvish Aberration
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Creature - Elf Mutant
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>{T}: Add {G}{G}{G} to your mana pool.&lt;br&gt;Forestcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Matt Cavotta
+      </artist>
+      <num>163
+      </num>
+      <text>{T}: Add {G}{G}{G} to your mana pool.&lt;br&gt;Forestcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382260
+      </id>
+      <name>Enclave Elite
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Merfolk Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Multikicker {1}{U} &lt;i&gt;(You may pay an additional {1}{U} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Islandwalk&lt;br&gt;Enclave Elite enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>96
+      </num>
+      <text>Multikicker {1}{U} &lt;i&gt;(You may pay an additional {1}{U} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Islandwalk&lt;br&gt;Enclave Elite enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+      </text>
+    </mc>
+    <mc>
+      <id>382261
+      </id>
+      <name>Enraged Revolutionary
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Drew Baker
+      </artist>
+      <num>31
+      </num>
+      <text>Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382262
+      </id>
+      <name>Exploration
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>You may play an additional land on each of your turns.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Florian de Gesincourt
+      </artist>
+      <num>164
+      </num>
+      <text>You may play an additional land on each of your turns.
+      </text>
+    </mc>
+    <mc>
+      <id>382263
+      </id>
+      <name>Explorer's Scope
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Vincent Proce
+      </artist>
+      <num>198
+      </num>
+      <text>Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382264
+      </id>
+      <name>Extract from Darkness
+      </name>
+      <cost>{3}{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player puts the top two cards of his or her library into his or her graveyard. Then put a creature card from a graveyard onto the battlefield under your control.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dallas Williams
+      </artist>
+      <num>45
+      </num>
+      <text>Each player puts the top two cards of his or her library into his or her graveyard. Then put a creature card from a graveyard onto the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>382265
+      </id>
+      <name>Fact or Fiction
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Matt Cavotta
+      </artist>
+      <num>97
+      </num>
+      <text>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>382266
+      </id>
+      <name>Favorable Winds
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures you control with flying get +1/+1.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>98
+      </num>
+      <text>Creatures you control with flying get +1/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>382267
+      </id>
+      <name>Fires of Yavimaya
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures you control have haste.&lt;br&gt;Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Izzy
+      </artist>
+      <num>188
+      </num>
+      <text>Creatures you control have haste.&lt;br&gt;Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382268
+      </id>
+      <name>Fireshrieker
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has double strike. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>199
+      </num>
+      <text>Equipped creature has double strike. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382269
+      </id>
+      <name>Flamewright
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Creature - Human Artificer
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}, {T}: Put a 1/1 colorless Construct artifact creature token with defender onto the battlefield.&lt;br&gt;{T}, Sacrifice a creature with defender: Flamewright deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>46
+      </num>
+      <text>{1}, {T}: Put a 1/1 colorless Construct artifact creature token with defender onto the battlefield.&lt;br&gt;{T}, Sacrifice a creature with defender: Flamewright deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>382270
+      </id>
+      <name>Flaring Flame-Kin
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Elemental Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>As long as Flaring Flame-Kin is enchanted, it gets +2/+2, has trample, and has "{R}: Flaring Flame-Kin gets +1/+0 until end of turn."
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Brian Hagan
+      </artist>
+      <num>142
+      </num>
+      <text>As long as Flaring Flame-Kin is enchanted, it gets +2/+2, has trample, and has "{R}: Flaring Flame-Kin gets +1/+0 until end of turn."
+      </text>
+    </mc>
+    <mc>
+      <id>382271
+      </id>
+      <name>Flowstone Blade
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;{R}: Enchanted creature gets +1/-1 until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Allen Williams
+      </artist>
+      <num>143
+      </num>
+      <text>Enchant creature&lt;br&gt;{R}: Enchanted creature gets +1/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382272
+      </id>
+      <name>Galvanic Juggernaut
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Juggernaut
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Galvanic Juggernaut attacks each turn if able.&lt;br&gt;Galvanic Juggernaut doesn't untap during your untap step.&lt;br&gt;Whenever another creature dies, untap Galvanic Juggernaut.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>200
+      </num>
+      <text>Galvanic Juggernaut attacks each turn if able.&lt;br&gt;Galvanic Juggernaut doesn't untap during your untap step.&lt;br&gt;Whenever another creature dies, untap Galvanic Juggernaut.
+      </text>
+    </mc>
+    <mc>
+      <id>382273
+      </id>
+      <name>Gamekeeper
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Gamekeeper dies, you may exile it. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and put all other cards revealed this way into your graveyard.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Scott Hampton
+      </artist>
+      <num>165
+      </num>
+      <text>When Gamekeeper dies, you may exile it. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and put all other cards revealed this way into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>382274
+      </id>
+      <name>Glimmerpoint Stag
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Elk
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;When Glimmerpoint Stag enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>70
+      </num>
+      <text>Vigilance&lt;br&gt;When Glimmerpoint Stag enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>382275
+      </id>
+      <name>Gnarlid Pack
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Multikicker {1}{G} &lt;i&gt;(You may pay an additional {1}{G} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Gnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>166
+      </num>
+      <text>Multikicker {1}{G} &lt;i&gt;(You may pay an additional {1}{G} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Gnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+      </text>
+    </mc>
+    <mc>
+      <id>382276
+      </id>
+      <name>Grenzo, Dungeon Warden
+      </name>
+      <cost>{X}{B}{R}
+      </cost>
+      <type>Legendary Creature - Goblin Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Grenzo, Dungeon Warden enters the battlefield with X +1/+1 counters on it.&lt;br&gt;{2}: Put the bottom card of your library into your graveyard. If it's a creature card with power less than or equal to Grenzo's power, put it onto the battlefield.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>47
+      </num>
+      <text>Grenzo, Dungeon Warden enters the battlefield with X +1/+1 counters on it.&lt;br&gt;{2}: Put the bottom card of your library into your graveyard. If it's a creature card with power less than or equal to Grenzo's power, put it onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>382277
+      </id>
+      <name>Grenzo's Cutthroat
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>32
+      </num>
+      <text>First strike&lt;br&gt;Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382278
+      </id>
+      <name>Grenzo's Rebuttal
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put a 4/4 red Ogre creature token onto the battlefield. Starting with you, each player chooses an artifact, a creature, and a land from among the permanents controlled by the player to his or her left. Destroy each permanent chosen this way.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>33
+      </num>
+      <text>Put a 4/4 red Ogre creature token onto the battlefield. Starting with you, each player chooses an artifact, a creature, and a land from among the permanents controlled by the player to his or her left. Destroy each permanent chosen this way.
+      </text>
+    </mc>
+    <mc>
+      <id>382279
+      </id>
+      <name>Grixis Illusionist
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Target land you control becomes the basic land type of your choice until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Tedin
+      </artist>
+      <num>99
+      </num>
+      <text>{T}: Target land you control becomes the basic land type of your choice until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382280
+      </id>
+      <name>Grudge Keeper
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever players finish voting, each opponent who voted for a choice you didn't vote for loses 2 life.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>28
+      </num>
+      <text>Whenever players finish voting, each opponent who voted for a choice you didn't vote for loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>382281
+      </id>
+      <name>Guardian Zendikon
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;Enchanted land is a 2/6 white Wall creature with defender. It's still a land.&lt;br&gt;When enchanted land dies, return that card to its owner's hand.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>71
+      </num>
+      <text>Enchant land&lt;br&gt;Enchanted land is a 2/6 white Wall creature with defender. It's still a land.&lt;br&gt;When enchanted land dies, return that card to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>382282
+      </id>
+      <name>Heartless Hidetsugu
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Legendary Creature - Ogre Shaman
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Heartless Hidetsugu deals damage to each player equal to half that player's life total, rounded down.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Carl Critchlow
+      </artist>
+      <num>144
+      </num>
+      <text>{T}: Heartless Hidetsugu deals damage to each player equal to half that player's life total, rounded down.
+      </text>
+    </mc>
+    <mc>
+      <id>382283
+      </id>
+      <name>Heckling Fiends
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Devil
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{2}{R}: Target creature attacks this turn if able.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>145
+      </num>
+      <text>{2}{R}: Target creature attacks this turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>382284
+      </id>
+      <name>Howling Wolf
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Wolf
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, and put them into your hand. If you do, shuffle your library.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>167
+      </num>
+      <text>When Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, and put them into your hand. If you do, shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>382285
+      </id>
+      <name>Hunger of the Howlpack
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put a +1/+1 counter on target creature.&lt;br&gt;Morbid- Put three +1/+1 counters on that creature instead if a creature died this turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>168
+      </num>
+      <text>Put a +1/+1 counter on target creature.&lt;br&gt;Morbid- Put three +1/+1 counters on that creature instead if a creature died this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382286
+      </id>
+      <name>Hydra Omnivore
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Creature - Hydra
+      </type>
+      <power>8
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>Whenever Hydra Omnivore deals combat damage to an opponent, it deals that much damage to each other opponent.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>169
+      </num>
+      <text>Whenever Hydra Omnivore deals combat damage to an opponent, it deals that much damage to each other opponent.
+      </text>
+    </mc>
+    <mc>
+      <id>382287
+      </id>
+      <name>Ignition Team
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Ignition Team enters the battlefield with X +1/+1 counters on it, where X is the number of tapped lands on the battlefield.&lt;br&gt;{2}{R}, Remove a +1/+1 counter from Ignition Team: Target land becomes a 4/4 red Elemental creature until end of turn. It's still a land.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>34
+      </num>
+      <text>Ignition Team enters the battlefield with X +1/+1 counters on it, where X is the number of tapped lands on the battlefield.&lt;br&gt;{2}{R}, Remove a +1/+1 counter from Ignition Team: Target land becomes a 4/4 red Elemental creature until end of turn. It's still a land.
+      </text>
+    </mc>
+    <mc>
+      <id>382288
+      </id>
+      <name>Ill-Gotten Gains
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Exile Ill-Gotten Gains. Each player discards his or her hand, then returns up to three cards from his or her graveyard to his or her hand.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>114
+      </num>
+      <text>Exile Ill-Gotten Gains. Each player discards his or her hand, then returns up to three cards from his or her graveyard to his or her hand.
+      </text>
+    </mc>
+    <mc>
+      <id>382289
+      </id>
+      <name>Immediate Action
+      </name>
+      <type>Conspiracy
+      </type>
+      <oracleText>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;Creatures you control with the chosen name have haste.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>5
+      </num>
+      <text>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;Creatures you control with the chosen name have haste.
+      </text>
+    </mc>
+    <mc>
+      <id>382290
+      </id>
+      <name>Infectious Horror
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Zombie Horror
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Infectious Horror attacks, each opponent loses 2 life.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Pete Venters
+      </artist>
+      <num>115
+      </num>
+      <text>Whenever Infectious Horror attacks, each opponent loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>382291
+      </id>
+      <name>Intangible Virtue
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creature tokens you control get +1/+1 and have vigilance.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>72
+      </num>
+      <text>Creature tokens you control get +1/+1 and have vigilance.
+      </text>
+    </mc>
+    <mc>
+      <id>382292
+      </id>
+      <name>Iterative Analysis
+      </name>
+      <type>Conspiracy
+      </type>
+      <oracleText>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;Whenever you cast an instant or sorcery spell with the chosen name, you may draw a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>6
+      </num>
+      <text>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;Whenever you cast an instant or sorcery spell with the chosen name, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382293
+      </id>
+      <name>Jetting Glasskite
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Jetting Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Shishizaru
+      </artist>
+      <num>100
+      </num>
+      <text>Flying&lt;br&gt;Whenever Jetting Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.
+      </text>
+    </mc>
+    <mc>
+      <id>382294
+      </id>
+      <name>Kor Chant
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Yohann Schepacz
+      </artist>
+      <num>73
+      </num>
+      <text>All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.
+      </text>
+    </mc>
+    <mc>
+      <id>382295
+      </id>
+      <name>Lead the Stampede
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Efrem Palacios
+      </artist>
+      <num>170
+      </num>
+      <text>Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>382296
+      </id>
+      <name>Liliana's Specter
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Specter
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Liliana's Specter enters the battlefield, each opponent discards a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Vance Kovacs
+      </artist>
+      <num>116
+      </num>
+      <text>Flying&lt;br&gt;When Liliana's Specter enters the battlefield, each opponent discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382297
+      </id>
+      <name>Lizard Warrior
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Lizard Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Roger Raupp
+      </artist>
+      <num>146
+      </num>
+    </mc>
+    <mc>
+      <id>382298
+      </id>
+      <name>Lore Seeker
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Reveal Lore Seeker as you draft it. After you draft Lore Seeker, you may add a booster pack to the draft. &lt;i&gt;(Your next pick is from that booster pack. Pass it to the next player and it's drafted this draft round.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jason Felix
+      </artist>
+      <num>62
+      </num>
+      <text>Reveal Lore Seeker as you draft it. After you draft Lore Seeker, you may add a booster pack to the draft. &lt;i&gt;(Your next pick is from that booster pack. Pass it to the next player and it's drafted this draft round.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382299
+      </id>
+      <name>Lurking Automaton
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Reveal Lurking Automaton as you draft it and note how many cards you've drafted this draft round, including Lurking Automaton.&lt;br&gt;Lurking Automaton enters the battlefield with X +1/+1 counters on it, where X is the highest number you noted for cards named Lurking Automaton.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>63
+      </num>
+      <text>Reveal Lurking Automaton as you draft it and note how many cards you've drafted this draft round, including Lurking Automaton.&lt;br&gt;Lurking Automaton enters the battlefield with X +1/+1 counters on it, where X is the highest number you noted for cards named Lurking Automaton.
+      </text>
+    </mc>
+    <mc>
+      <id>382300
+      </id>
+      <name>Magister of Worth
+      </name>
+      <cost>{4}{W}{B}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Will of the council- When Magister of Worth enters the battlefield, starting with you, each player votes for grace or condemnation. If grace gets more votes, each player returns each creature card from his or her graveyard to the battlefield. If condemnation gets more votes or the vote is tied, destroy all creatures other than Magister of Worth.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>John Stanko
+      </artist>
+      <num>48
+      </num>
+      <text>Flying&lt;br&gt;Will of the council- When Magister of Worth enters the battlefield, starting with you, each player votes for grace or condemnation. If grace gets more votes, each player returns each creature card from his or her graveyard to the battlefield. If condemnation gets more votes or the vote is tied, destroy all creatures other than Magister of Worth.
+      </text>
+    </mc>
+    <mc>
+      <id>382301
+      </id>
+      <name>Magus of the Mirror
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Sacrifice Magus of the Mirror: Exchange life totals with target opponent. Activate this ability only during your upkeep.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>117
+      </num>
+      <text>{T}, Sacrifice Magus of the Mirror: Exchange life totals with target opponent. Activate this ability only during your upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>382302
+      </id>
+      <name>Mana Geyser
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Add {R} to your mana pool for each tapped land your opponents control.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>147
+      </num>
+      <text>Add {R} to your mana pool for each tapped land your opponents control.
+      </text>
+    </mc>
+    <mc>
+      <id>382303
+      </id>
+      <name>Marchesa, the Black Rose
+      </name>
+      <cost>{1}{U}{B}{R}
+      </cost>
+      <type>Legendary Creature - Human Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;Other creatures you control have dethrone.&lt;br&gt;Whenever a creature you control with a +1/+1 counter on it dies, return that card to the battlefield under your control at the beginning of the next end step.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>49
+      </num>
+      <text>Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;Other creatures you control have dethrone.&lt;br&gt;Whenever a creature you control with a +1/+1 counter on it dies, return that card to the battlefield under your control at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>382304
+      </id>
+      <name>Marchesa's Emissary
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>21
+      </num>
+      <text>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382305
+      </id>
+      <name>Marchesa's Infiltrator
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;Whenever Marchesa's Infiltrator deals combat damage to a player, draw a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>22
+      </num>
+      <text>Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;Whenever Marchesa's Infiltrator deals combat damage to a player, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382306
+      </id>
+      <name>Marchesa's Smuggler
+      </name>
+      <cost>{U}{R}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;{1}{U}{R}: Target creature you control gains haste until end of turn and can't be blocked this turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>50
+      </num>
+      <text>Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;{1}{U}{R}: Target creature you control gains haste until end of turn and can't be blocked this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382307
+      </id>
+      <name>Minamo Scrollkeeper
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Defender&lt;br&gt;Your maximum hand size is increased by one.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Parente
+      </artist>
+      <num>101
+      </num>
+      <text>Defender&lt;br&gt;Your maximum hand size is increased by one.
+      </text>
+    </mc>
+    <mc>
+      <id>382308
+      </id>
+      <name>Mirari's Wake
+      </name>
+      <cost>{3}{G}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures you control get +1/+1.&lt;br&gt;Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>189
+      </num>
+      <text>Creatures you control get +1/+1.&lt;br&gt;Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.
+      </text>
+    </mc>
+    <mc>
+      <id>382309
+      </id>
+      <name>Mirrodin's Core
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Put a charge counter on Mirrodin's Core.&lt;br&gt;{T}, Remove a charge counter from Mirrodin's Core: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>208
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Put a charge counter on Mirrodin's Core.&lt;br&gt;{T}, Remove a charge counter from Mirrodin's Core: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>382310
+      </id>
+      <name>Misdirection
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You may exile a blue card from your hand rather than pay Misdirection's mana cost.&lt;br&gt;Change the target of target spell with a single target.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>102
+      </num>
+      <text>You may exile a blue card from your hand rather than pay Misdirection's mana cost.&lt;br&gt;Change the target of target spell with a single target.
+      </text>
+    </mc>
+    <mc>
+      <id>382311
+      </id>
+      <name>Moment of Heroism
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +2/+2 and gains lifelink until end of turn. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>74
+      </num>
+      <text>Target creature gets +2/+2 and gains lifelink until end of turn. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382312
+      </id>
+      <name>Morkrut Banshee
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Morbid- When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>118
+      </num>
+      <text>Morbid- When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382313
+      </id>
+      <name>Mortify
+      </name>
+      <cost>{1}{W}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature or enchantment.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>190
+      </num>
+      <text>Destroy target creature or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>382314
+      </id>
+      <name>Muzzio, Visionary Architect
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Legendary Creature - Human Artificer
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{3}{U}, {T}: Look at the top X cards of your library, where X is the highest converted mana cost among artifacts you control. You may reveal an artifact card from among them and put it onto the battlefield. Put the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>23
+      </num>
+      <text>{3}{U}, {T}: Look at the top X cards of your library, where X is the highest converted mana cost among artifacts you control. You may reveal an artifact card from among them and put it onto the battlefield. Put the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>382315
+      </id>
+      <name>Muzzio's Preparations
+      </name>
+      <type>Conspiracy
+      </type>
+      <oracleText>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;Each creature you control with the chosen name enters the battlefield with an additional +1/+1 counter on it.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>7
+      </num>
+      <text>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;Each creature you control with the chosen name enters the battlefield with an additional +1/+1 counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>382316
+      </id>
+      <name>Nature's Claim
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or enchantment. Its controller gains 4 life.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raoul Vitale
+      </artist>
+      <num>171
+      </num>
+      <text>Destroy target artifact or enchantment. Its controller gains 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>382317
+      </id>
+      <name>Necromantic Thirst
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature deals combat damage to a player, you may return target creature card from your graveyard to your hand.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Brandon Kitkouski
+      </artist>
+      <num>119
+      </num>
+      <text>Enchant creature&lt;br&gt;Whenever enchanted creature deals combat damage to a player, you may return target creature card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>382318
+      </id>
+      <name>Noble Templar
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Creature - Human Cleric Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;Plainscycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>75
+      </num>
+      <text>Vigilance&lt;br&gt;Plainscycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382319
+      </id>
+      <name>Orcish Cannonade
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Orcish Cannonade deals 2 damage to target creature or player and 3 damage to you.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Pete Venters
+      </artist>
+      <num>148
+      </num>
+      <text>Orcish Cannonade deals 2 damage to target creature or player and 3 damage to you.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382320
+      </id>
+      <name>Paliano, the High City
+      </name>
+      <type>Legendary Land
+      </type>
+      <oracleText>Reveal Paliano, the High City as you draft it. The player to your right chooses a color, you choose another color, then the player to your left chooses a third color.&lt;br&gt;{T}: Add one mana to your mana pool of any color chosen as you drafted cards named Paliano, the High City.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>65
+      </num>
+      <text>Reveal Paliano, the High City as you draft it. The player to your right chooses a color, you choose another color, then the player to your left chooses a third color.&lt;br&gt;{T}: Add one mana to your mana pool of any color chosen as you drafted cards named Paliano, the High City.
+      </text>
+    </mc>
+    <mc>
+      <id>382321
+      </id>
+      <name>Peace Strider
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Peace Strider enters the battlefield, you gain 3 life.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>201
+      </num>
+      <text>When Peace Strider enters the battlefield, you gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>382322
+      </id>
+      <name>Pelakka Wurm
+      </name>
+      <cost>{4}{G}{G}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Trample&lt;br&gt;When Pelakka Wurm enters the battlefield, you gain 7 life.&lt;br&gt;When Pelakka Wurm dies, draw a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>172
+      </num>
+      <text>Trample&lt;br&gt;When Pelakka Wurm enters the battlefield, you gain 7 life.&lt;br&gt;When Pelakka Wurm dies, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382323
+      </id>
+      <name>Pernicious Deed
+      </name>
+      <cost>{1}{B}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>191
+      </num>
+      <text>{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.
+      </text>
+    </mc>
+    <mc>
+      <id>382324
+      </id>
+      <name>Phage the Untouchable
+      </name>
+      <cost>{3}{B}{B}{B}{B}
+      </cost>
+      <type>Legendary Creature - Avatar Minion
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Phage the Untouchable enters the battlefield, if you didn't cast it from your hand, you lose the game.&lt;br&gt;Whenever Phage deals combat damage to a creature, destroy that creature. It can't be regenerated.&lt;br&gt;Whenever Phage deals combat damage to a player, that player loses the game.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Ron Spears
+      </artist>
+      <num>120
+      </num>
+      <text>When Phage the Untouchable enters the battlefield, if you didn't cast it from your hand, you lose the game.&lt;br&gt;Whenever Phage deals combat damage to a creature, destroy that creature. It can't be regenerated.&lt;br&gt;Whenever Phage deals combat damage to a player, that player loses the game.
+      </text>
+    </mc>
+    <mc>
+      <id>382325
+      </id>
+      <name>Pillarfield Ox
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Ox
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Andrew Robinson
+      </artist>
+      <num>76
+      </num>
+    </mc>
+    <mc>
+      <id>382326
+      </id>
+      <name>Pitchburn Devils
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Devil
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Pitchburn Devils dies, it deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>149
+      </num>
+      <text>When Pitchburn Devils dies, it deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>382327
+      </id>
+      <name>Plagued Rusalka
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>121
+      </num>
+      <text>{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382328
+      </id>
+      <name>Plated Seastrider
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Izzy
+      </artist>
+      <num>103
+      </num>
+    </mc>
+    <mc>
+      <id>382329
+      </id>
+      <name>Plea for Power
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Will of the council- Starting with you, each player votes for time or knowledge. If time gets more votes, take an extra turn after this one. If knowledge gets more votes or the vote is tied, draw three cards.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>John Severin Brassell
+      </artist>
+      <num>24
+      </num>
+      <text>Will of the council- Starting with you, each player votes for time or knowledge. If time gets more votes, take an extra turn after this one. If knowledge gets more votes or the vote is tied, draw three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>382330
+      </id>
+      <name>Plummet
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature with flying.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Pete Venters
+      </artist>
+      <num>173
+      </num>
+      <text>Destroy target creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>382331
+      </id>
+      <name>Power of Fire
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has "{T}: This creature deals 1 damage to target creature or player."
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Trevor Hairsine
+      </artist>
+      <num>150
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has "{T}: This creature deals 1 damage to target creature or player."
+      </text>
+    </mc>
+    <mc>
+      <id>382332
+      </id>
+      <name>Power Play
+      </name>
+      <type>Conspiracy
+      </type>
+      <oracleText>&lt;i&gt;(Start the game with this conspiracy face up in the command zone.)&lt;/i&gt;&lt;br&gt;You are the starting player. If multiple players would be the starting player, one of those players is chosen at random.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>8
+      </num>
+      <text>&lt;i&gt;(Start the game with this conspiracy face up in the command zone.)&lt;/i&gt;&lt;br&gt;You are the starting player. If multiple players would be the starting player, one of those players is chosen at random.
+      </text>
+    </mc>
+    <mc>
+      <id>382333
+      </id>
+      <name>Predator's Howl
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put a 2/2 green Wolf creature token onto the battlefield.&lt;br&gt;Morbid- Put three 2/2 green Wolf creature tokens onto the battlefield instead if a creature died this turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ralph Horsley
+      </artist>
+      <num>37
+      </num>
+      <text>Put a 2/2 green Wolf creature token onto the battlefield.&lt;br&gt;Morbid- Put three 2/2 green Wolf creature tokens onto the battlefield instead if a creature died this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382334
+      </id>
+      <name>Pride Guardian
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Cat Monk
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Defender&lt;br&gt;Whenever Pride Guardian blocks, you gain 3 life.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>77
+      </num>
+      <text>Defender&lt;br&gt;Whenever Pride Guardian blocks, you gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>382335
+      </id>
+      <name>Pristine Angel
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;As long as Pristine Angel is untapped, it has protection from artifacts and from all colors.&lt;br&gt;Whenever you cast a spell, you may untap Pristine Angel.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>78
+      </num>
+      <text>Flying&lt;br&gt;As long as Pristine Angel is untapped, it has protection from artifacts and from all colors.&lt;br&gt;Whenever you cast a spell, you may untap Pristine Angel.
+      </text>
+    </mc>
+    <mc>
+      <id>382336
+      </id>
+      <name>Provoke
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Untap target creature you don't control. That creature blocks this turn if able.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>174
+      </num>
+      <text>Untap target creature you don't control. That creature blocks this turn if able.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382337
+      </id>
+      <name>Quag Vampires
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Vampire Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Multikicker {1}{B} &lt;i&gt;(You may pay an additional {1}{B} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Swampwalk&lt;br&gt;Quag Vampires enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jason Felix
+      </artist>
+      <num>122
+      </num>
+      <text>Multikicker {1}{B} &lt;i&gt;(You may pay an additional {1}{B} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Swampwalk&lt;br&gt;Quag Vampires enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+      </text>
+    </mc>
+    <mc>
+      <id>382338
+      </id>
+      <name>Quicksand
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>209
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382339
+      </id>
+      <name>Realm Seekers
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Creature - Elf Scout
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Realm Seekers enters the battlefield with X +1/+1 counters on it, where X is the total number of cards in all players' hands.&lt;br&gt;{2}{G}, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mike Sass
+      </artist>
+      <num>38
+      </num>
+      <text>Realm Seekers enters the battlefield with X +1/+1 counters on it, where X is the total number of cards in all players' hands.&lt;br&gt;{2}{G}, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>382340
+      </id>
+      <name>Reckless Scholar
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Target player draws a card, then discards a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>104
+      </num>
+      <text>{T}: Target player draws a card, then discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382341
+      </id>
+      <name>Reckless Spite
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy two target nonblack creatures. You lose 5 life.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>123
+      </num>
+      <text>Destroy two target nonblack creatures. You lose 5 life.
+      </text>
+    </mc>
+    <mc>
+      <id>382342
+      </id>
+      <name>Reflecting Pool
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add to your mana pool one mana of any type that a land you control could produce.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Fred Fields
+      </artist>
+      <num>210
+      </num>
+      <text>{T}: Add to your mana pool one mana of any type that a land you control could produce.
+      </text>
+    </mc>
+    <mc>
+      <id>382343
+      </id>
+      <name>Reign of the Pit
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player sacrifices a creature. Put an X/X black Demon creature token with flying onto the battlefield, where X is the total power of the creatures sacrificed this way.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Evan Shipard
+      </artist>
+      <num>29
+      </num>
+      <text>Each player sacrifices a creature. Put an X/X black Demon creature token with flying onto the battlefield, where X is the total power of the creatures sacrificed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>382344
+      </id>
+      <name>Reito Lantern
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}: Put target card from a graveyard on the bottom of its owner's library.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>202
+      </num>
+      <text>{3}: Put target card from a graveyard on the bottom of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>382345
+      </id>
+      <name>Relic Crush
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or enchantment and up to one other target artifact or enchantment.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>175
+      </num>
+      <text>Destroy target artifact or enchantment and up to one other target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>382346
+      </id>
+      <name>Respite
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Rebecca Guay
+      </artist>
+      <num>176
+      </num>
+      <text>Prevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>382347
+      </id>
+      <name>Reya Dawnbringer
+      </name>
+      <cost>{6}{W}{W}{W}
+      </cost>
+      <type>Legendary Creature - Angel
+      </type>
+      <power>4
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Matthew D. Wilson
+      </artist>
+      <num>79
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>382348
+      </id>
+      <name>Rousing of Souls
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Parley- Each player reveals the top card of his or her library. For each nonland card revealed this way, you put a 1/1 white Spirit creature token with flying onto the battlefield. Then each player draws a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jeff Simpson
+      </artist>
+      <num>19
+      </num>
+      <text>Parley- Each player reveals the top card of his or her library. For each nonland card revealed this way, you put a 1/1 white Spirit creature token with flying onto the battlefield. Then each player draws a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382349
+      </id>
+      <name>Rout
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You may cast Rout any time you could cast an instant if you pay {2} more to cast it.&lt;br&gt;Destroy all creatures. They can't be regenerated.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>80
+      </num>
+      <text>You may cast Rout any time you could cast an instant if you pay {2} more to cast it.&lt;br&gt;Destroy all creatures. They can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>382350
+      </id>
+      <name>Runed Servitor
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Runed Servitor dies, each player draws a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>203
+      </num>
+      <text>When Runed Servitor dies, each player draws a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382351
+      </id>
+      <name>Sakura-Tribe Elder
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Snake Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Carl Critchlow
+      </artist>
+      <num>177
+      </num>
+      <text>Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>382352
+      </id>
+      <name>Scaled Wurm
+      </name>
+      <cost>{7}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>7
+      </power>
+      <toughness>6
+      </toughness>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Wayne England
+      </artist>
+      <num>178
+      </num>
+    </mc>
+    <mc>
+      <id>382353
+      </id>
+      <name>Scourge of the Throne
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;Whenever Scourge of the Throne attacks for the first time each turn, if it's attacking the player with the most life or tied for most life, untap all attacking creatures. After this phase, there is an additional combat phase.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Michael Komarck
+      </artist>
+      <num>35
+      </num>
+      <text>Flying&lt;br&gt;Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;Whenever Scourge of the Throne attacks for the first time each turn, if it's attacking the player with the most life or tied for most life, untap all attacking creatures. After this phase, there is an additional combat phase.
+      </text>
+    </mc>
+    <mc>
+      <id>382354
+      </id>
+      <name>Screaming Seahawk
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, and put it into your hand. If you do, shuffle your library.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Heather Hudson
+      </artist>
+      <num>105
+      </num>
+      <text>Flying&lt;br&gt;When Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, and put it into your hand. If you do, shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>382355
+      </id>
+      <name>Secret Summoning
+      </name>
+      <type>Conspiracy
+      </type>
+      <oracleText>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;Whenever a creature with the chosen name enters the battlefield under your control, you may search your library for any number of cards with that name, reveal them, put them into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>9
+      </num>
+      <text>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;Whenever a creature with the chosen name enters the battlefield under your control, you may search your library for any number of cards with that name, reveal them, put them into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>382356
+      </id>
+      <name>Secrets of Paradise
+      </name>
+      <type>Conspiracy
+      </type>
+      <oracleText>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;Creatures you control with the chosen name have "{T}: Add one mana of any color to your mana pool."
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>10
+      </num>
+      <text>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;Creatures you control with the chosen name have "{T}: Add one mana of any color to your mana pool."
+      </text>
+    </mc>
+    <mc>
+      <id>382357
+      </id>
+      <name>Selvala, Explorer Returned
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Legendary Creature - Elf Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Parley- {T}: Each player reveals the top card of his or her library. For each nonland card revealed this way, add {G} to your mana pool and you gain 1 life. Then each player draws a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>51
+      </num>
+      <text>Parley- {T}: Each player reveals the top card of his or her library. For each nonland card revealed this way, add {G} to your mana pool and you gain 1 life. Then each player draws a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382358
+      </id>
+      <name>Selvala's Charge
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Parley- Each player reveals the top card of his or her library. For each nonland card revealed this way, you put a 3/3 green Elephant creature token onto the battlefield. Then each player draws a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>39
+      </num>
+      <text>Parley- Each player reveals the top card of his or her library. For each nonland card revealed this way, you put a 3/3 green Elephant creature token onto the battlefield. Then each player draws a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382359
+      </id>
+      <name>Selvala's Enforcer
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elf Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Parley- When Selvala's Enforcer enters the battlefield, each player reveals the top card of his or her library. For each nonland card revealed this way, put a +1/+1 counter on Selvala's Enforcer. Then each player draws a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>40
+      </num>
+      <text>Parley- When Selvala's Enforcer enters the battlefield, each player reveals the top card of his or her library. For each nonland card revealed this way, put a +1/+1 counter on Selvala's Enforcer. Then each player draws a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382360
+      </id>
+      <name>Sentinel Dispatch
+      </name>
+      <type>Conspiracy
+      </type>
+      <oracleText>&lt;i&gt;(Start the game with this conspiracy face up in the command zone.)&lt;/i&gt;&lt;br&gt;At the beginning of the first upkeep, put a 1/1 colorless Construct artifact creature token with defender onto the battlefield.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>11
+      </num>
+      <text>&lt;i&gt;(Start the game with this conspiracy face up in the command zone.)&lt;/i&gt;&lt;br&gt;At the beginning of the first upkeep, put a 1/1 colorless Construct artifact creature token with defender onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>382361
+      </id>
+      <name>Shoreline Ranger
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Bird Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Islandcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for an Island card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Michael Sutfin
+      </artist>
+      <num>106
+      </num>
+      <text>Flying&lt;br&gt;Islandcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for an Island card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382362
+      </id>
+      <name>Silent Arbiter
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>1
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>No more than one creature can attack each combat.&lt;br&gt;No more than one creature can block each combat.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>204
+      </num>
+      <text>No more than one creature can attack each combat.&lt;br&gt;No more than one creature can block each combat.
+      </text>
+    </mc>
+    <mc>
+      <id>382363
+      </id>
+      <name>Silverchase Fox
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Fox
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{W}, Sacrifice Silverchase Fox: Exile target enchantment.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Howard Lyon
+      </artist>
+      <num>81
+      </num>
+      <text>{1}{W}, Sacrifice Silverchase Fox: Exile target enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>382364
+      </id>
+      <name>Skeletal Scrying
+      </name>
+      <cost>{X}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Skeletal Scrying, exile X cards from your graveyard.&lt;br&gt;You draw X cards and you lose X life.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Bob Petillo
+      </artist>
+      <num>124
+      </num>
+      <text>As an additional cost to cast Skeletal Scrying, exile X cards from your graveyard.&lt;br&gt;You draw X cards and you lose X life.
+      </text>
+    </mc>
+    <mc>
+      <id>382365
+      </id>
+      <name>Skitter of Lizards
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Multikicker {1}{R} &lt;i&gt;(You may pay an additional {1}{R} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Haste&lt;br&gt;Skitter of Lizards enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Warren Mahy
+      </artist>
+      <num>151
+      </num>
+      <text>Multikicker {1}{R} &lt;i&gt;(You may pay an additional {1}{R} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Haste&lt;br&gt;Skitter of Lizards enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+      </text>
+    </mc>
+    <mc>
+      <id>382366
+      </id>
+      <name>Sky Spirit
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying, first strike
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Rebecca Guay
+      </artist>
+      <num>192
+      </num>
+      <text>Flying, first strike
+      </text>
+    </mc>
+    <mc>
+      <id>382367
+      </id>
+      <name>Smallpox
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>125
+      </num>
+      <text>Each player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land.
+      </text>
+    </mc>
+    <mc>
+      <id>382368
+      </id>
+      <name>Soulcatcher
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Bird Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a creature with flying dies, put a +1/+1 counter on Soulcatcher.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Julie Dillon
+      </artist>
+      <num>82
+      </num>
+      <text>Flying&lt;br&gt;Whenever a creature with flying dies, put a +1/+1 counter on Soulcatcher.
+      </text>
+    </mc>
+    <mc>
+      <id>382369
+      </id>
+      <name>Spectral Searchlight
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Choose a player. That player adds one mana of any color he or she chooses to his or her mana pool.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>205
+      </num>
+      <text>{T}: Choose a player. That player adds one mana of any color he or she chooses to his or her mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>382370
+      </id>
+      <name>Spiritmonger
+      </name>
+      <cost>{3}{B}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger.&lt;br&gt;{B}: Regenerate Spiritmonger.&lt;br&gt;{G}: Spiritmonger becomes the color of your choice until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>193
+      </num>
+      <text>Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger.&lt;br&gt;{B}: Regenerate Spiritmonger.&lt;br&gt;{G}: Spiritmonger becomes the color of your choice until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382371
+      </id>
+      <name>Split Decision
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Will of the council- Choose target instant or sorcery spell. Starting with you, each player votes for denial or duplication. If denial gets more votes, counter the spell. If duplication gets more votes or the vote is tied, copy the spell. You may choose new targets for the copy.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Robbie Trevino
+      </artist>
+      <num>25
+      </num>
+      <text>Will of the council- Choose target instant or sorcery spell. Starting with you, each player votes for denial or duplication. If denial gets more votes, counter the spell. If duplication gets more votes or the vote is tied, copy the spell. You may choose new targets for the copy.
+      </text>
+    </mc>
+    <mc>
+      <id>382372
+      </id>
+      <name>Spontaneous Combustion
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Spontaneous Combustion, sacrifice a creature.&lt;br&gt;Spontaneous Combustion deals 3 damage to each creature.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jason Rainville
+      </artist>
+      <num>194
+      </num>
+      <text>As an additional cost to cast Spontaneous Combustion, sacrifice a creature.&lt;br&gt;Spontaneous Combustion deals 3 damage to each creature.
+      </text>
+    </mc>
+    <mc>
+      <id>382373
+      </id>
+      <name>Sporecap Spider
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>1
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Lars Grant-West
+      </artist>
+      <num>179
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382374
+      </id>
+      <name>Squirrel Nest
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;Enchanted land has "{T}: Put a 1/1 green Squirrel creature token onto the battlefield."
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>180
+      </num>
+      <text>Enchant land&lt;br&gt;Enchanted land has "{T}: Put a 1/1 green Squirrel creature token onto the battlefield."
+      </text>
+    </mc>
+    <mc>
+      <id>382375
+      </id>
+      <name>Stasis Cell
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.&lt;br&gt;{3}{U}: Attach Stasis Cell to target creature.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark A. Nelson
+      </artist>
+      <num>107
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.&lt;br&gt;{3}{U}: Attach Stasis Cell to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>382376
+      </id>
+      <name>Stave Off
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gains protection from the color of your choice until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>83
+      </num>
+      <text>Target creature gains protection from the color of your choice until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382377
+      </id>
+      <name>Stifle
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target activated or triggered ability. &lt;i&gt;(Mana abilities can't be targeted.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Eric Fortune
+      </artist>
+      <num>108
+      </num>
+      <text>Counter target activated or triggered ability. &lt;i&gt;(Mana abilities can't be targeted.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382378
+      </id>
+      <name>Stronghold Discipline
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player loses 1 life for each creature he or she controls.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>126
+      </num>
+      <text>Each player loses 1 life for each creature he or she controls.
+      </text>
+    </mc>
+    <mc>
+      <id>382379
+      </id>
+      <name>Sulfuric Vortex
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of each player's upkeep, Sulfuric Vortex deals 2 damage to that player.&lt;br&gt;If a player would gain life, that player gains no life instead.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>152
+      </num>
+      <text>At the beginning of each player's upkeep, Sulfuric Vortex deals 2 damage to that player.&lt;br&gt;If a player would gain life, that player gains no life instead.
+      </text>
+    </mc>
+    <mc>
+      <id>382380
+      </id>
+      <name>Swords to Plowshares
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature. Its controller gains life equal to its power.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Terese Nielsen
+      </artist>
+      <num>84
+      </num>
+      <text>Exile target creature. Its controller gains life equal to its power.
+      </text>
+    </mc>
+    <mc>
+      <id>382381
+      </id>
+      <name>Syphon Soul
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ron Spears
+      </artist>
+      <num>127
+      </num>
+      <text>Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.
+      </text>
+    </mc>
+    <mc>
+      <id>382382
+      </id>
+      <name>Terastodon
+      </name>
+      <cost>{6}{G}{G}
+      </cost>
+      <type>Creature - Elephant
+      </type>
+      <power>9
+      </power>
+      <toughness>9
+      </toughness>
+      <oracleText>When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Lars Grant-West
+      </artist>
+      <num>181
+      </num>
+      <text>When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>382383
+      </id>
+      <name>Torch Fiend
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Devil
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{R}, Sacrifice Torch Fiend: Destroy target artifact.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>153
+      </num>
+      <text>{R}, Sacrifice Torch Fiend: Destroy target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>382384
+      </id>
+      <name>Tragic Slip
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -1/-1 until end of turn.&lt;br&gt;Morbid- That creature gets -13/-13 until end of turn instead if a creature died this turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>128
+      </num>
+      <text>Target creature gets -1/-1 until end of turn.&lt;br&gt;Morbid- That creature gets -13/-13 until end of turn instead if a creature died this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382385
+      </id>
+      <name>Traveler's Cloak
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;As Traveler's Cloak enters the battlefield, choose a land type.&lt;br&gt;When Traveler's Cloak enters the battlefield, draw a card.&lt;br&gt;Enchanted creature has landwalk of the chosen type.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Rebecca Guay
+      </artist>
+      <num>109
+      </num>
+      <text>Enchant creature&lt;br&gt;As Traveler's Cloak enters the battlefield, choose a land type.&lt;br&gt;When Traveler's Cloak enters the battlefield, draw a card.&lt;br&gt;Enchanted creature has landwalk of the chosen type.
+      </text>
+    </mc>
+    <mc>
+      <id>382386
+      </id>
+      <name>Treasonous Ogre
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Ogre Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;Pay 3 life: Add {R} to your mana pool.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Randy Gallegos
+      </artist>
+      <num>36
+      </num>
+      <text>Dethrone &lt;i&gt;(Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;Pay 3 life: Add {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>382387
+      </id>
+      <name>Trumpet Blast
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Attacking creatures get +2/+0 until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Carl Critchlow
+      </artist>
+      <num>154
+      </num>
+      <text>Attacking creatures get +2/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382388
+      </id>
+      <name>Turn the Tide
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Creatures your opponents control get -2/-0 until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jason Felix
+      </artist>
+      <num>110
+      </num>
+      <text>Creatures your opponents control get -2/-0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382389
+      </id>
+      <name>Twisted Abomination
+      </name>
+      <cost>{5}{B}
+      </cost>
+      <type>Creature - Zombie Mutant
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{B}: Regenerate Twisted Abomination.&lt;br&gt;Swampcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daren Bader
+      </artist>
+      <num>129
+      </num>
+      <text>{B}: Regenerate Twisted Abomination.&lt;br&gt;Swampcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382390
+      </id>
+      <name>Typhoid Rats
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Rat
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>130
+      </num>
+      <text>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382391
+      </id>
+      <name>Tyrant's Choice
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Will of the council- Starting with you, each player votes for death or torture. If death gets more votes, each opponent sacrifices a creature. If torture gets more votes or the vote is tied, each opponent loses 4 life.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>30
+      </num>
+      <text>Will of the council- Starting with you, each player votes for death or torture. If death gets more votes, each opponent sacrifices a creature. If torture gets more votes or the vote is tied, each opponent loses 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>382392
+      </id>
+      <name>Uncontrollable Anger
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and attacks each turn if able.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>155
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and attacks each turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>382393
+      </id>
+      <name>Unexpected Potential
+      </name>
+      <type>Conspiracy
+      </type>
+      <oracleText>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;You may spend mana as though it were mana of any color to cast spells with the chosen name.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Izzy
+      </artist>
+      <num>12
+      </num>
+      <text>Hidden agenda &lt;i&gt;(Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)&lt;/i&gt;&lt;br&gt;You may spend mana as though it were mana of any color to cast spells with the chosen name.
+      </text>
+    </mc>
+    <mc>
+      <id>382394
+      </id>
+      <name>Unhallowed Pact
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When enchanted creature dies, return that card to the battlefield under your control.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>131
+      </num>
+      <text>Enchant creature&lt;br&gt;When enchanted creature dies, return that card to the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>382395
+      </id>
+      <name>Unquestioned Authority
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Unquestioned Authority enters the battlefield, draw a card.&lt;br&gt;Enchanted creature has protection from creatures.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>85
+      </num>
+      <text>Enchant creature&lt;br&gt;When Unquestioned Authority enters the battlefield, draw a card.&lt;br&gt;Enchanted creature has protection from creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>382396
+      </id>
+      <name>Valor Made Real
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature can block any number of creatures this turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jeff Miracola
+      </artist>
+      <num>86
+      </num>
+      <text>Target creature can block any number of creatures this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382397
+      </id>
+      <name>Vampire Hexmage
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Vampire Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Sacrifice Vampire Hexmage: Remove all counters from target permanent.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>132
+      </num>
+      <text>First strike&lt;br&gt;Sacrifice Vampire Hexmage: Remove all counters from target permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>382398
+      </id>
+      <name>Vedalken Orrery
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may cast nonland cards as though they had flash.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>206
+      </num>
+      <text>You may cast nonland cards as though they had flash.
+      </text>
+    </mc>
+    <mc>
+      <id>382399
+      </id>
+      <name>Vent Sentinel
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender&lt;br&gt;{1}{R}, {T}: Vent Sentinel deals damage to target player equal to the number of creatures with defender you control.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>156
+      </num>
+      <text>Defender&lt;br&gt;{1}{R}, {T}: Vent Sentinel deals damage to target player equal to the number of creatures with defender you control.
+      </text>
+    </mc>
+    <mc>
+      <id>382400
+      </id>
+      <name>Victimize
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Craig J Spearing
+      </artist>
+      <num>133
+      </num>
+      <text>Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>382401
+      </id>
+      <name>Volcanic Fallout
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Volcanic Fallout can't be countered.&lt;br&gt;Volcanic Fallout deals 2 damage to each creature and each player.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>157
+      </num>
+      <text>Volcanic Fallout can't be countered.&lt;br&gt;Volcanic Fallout deals 2 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>382402
+      </id>
+      <name>Vow of Duty
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>87
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control.
+      </text>
+    </mc>
+    <mc>
+      <id>382403
+      </id>
+      <name>Wakedancer
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Morbid- When Wakedancer enters the battlefield, if a creature died this turn, put a 2/2 black Zombie creature token onto the battlefield.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Austin Hsu
+      </artist>
+      <num>134
+      </num>
+      <text>Morbid- When Wakedancer enters the battlefield, if a creature died this turn, put a 2/2 black Zombie creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>382404
+      </id>
+      <name>Wakestone Gargoyle
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Gargoyle
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender, flying&lt;br&gt;{1}{W}: Creatures you control with defender can attack this turn as though they didn't have defender.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jim Murray
+      </artist>
+      <num>88
+      </num>
+      <text>Defender, flying&lt;br&gt;{1}{W}: Creatures you control with defender can attack this turn as though they didn't have defender.
+      </text>
+    </mc>
+    <mc>
+      <id>382405
+      </id>
+      <name>Warmonger's Chariot
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +2/+2.&lt;br&gt;As long as equipped creature has defender, it can attack as though it didn't have defender.&lt;br&gt;Equip {3} &lt;i&gt;({3}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Warren Mahy
+      </artist>
+      <num>207
+      </num>
+      <text>Equipped creature gets +2/+2.&lt;br&gt;As long as equipped creature has defender, it can attack as though it didn't have defender.&lt;br&gt;Equip {3} &lt;i&gt;({3}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382406
+      </id>
+      <name>Whispergear Sneak
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Draft Whispergear Sneak face up.&lt;br&gt;During the draft, you may turn Whispergear Sneak face down. If you do, look at any unopened booster pack in the draft or any booster pack not being looked at by another player.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>64
+      </num>
+      <text>Draft Whispergear Sneak face up.&lt;br&gt;During the draft, you may turn Whispergear Sneak face down. If you do, look at any unopened booster pack in the draft or any booster pack not being looked at by another player.
+      </text>
+    </mc>
+    <mc>
+      <id>382407
+      </id>
+      <name>Wind Dancer
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Faerie
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{T}: Target creature gains flying until end of turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Cynthia Sheppard
+      </artist>
+      <num>111
+      </num>
+      <text>Flying&lt;br&gt;{T}: Target creature gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382408
+      </id>
+      <name>Wolfbriar Elemental
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Multikicker {G} &lt;i&gt;(You may pay an additional {G} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Wolfbriar Elemental enters the battlefield, put a 2/2 green Wolf creature token onto the battlefield for each time it was kicked.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Chippy
+      </artist>
+      <num>182
+      </num>
+      <text>Multikicker {G} &lt;i&gt;(You may pay an additional {G} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Wolfbriar Elemental enters the battlefield, put a 2/2 green Wolf creature token onto the battlefield for each time it was kicked.
+      </text>
+    </mc>
+    <mc>
+      <id>382409
+      </id>
+      <name>Wood Sage
+      </name>
+      <cost>{G}{U}
+      </cost>
+      <type>Creature - Human Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Name a creature card. Reveal the top four cards of your library and put all of them with that name into your hand. Put the rest into your graveyard.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Parente
+      </artist>
+      <num>195
+      </num>
+      <text>{T}: Name a creature card. Reveal the top four cards of your library and put all of them with that name into your hand. Put the rest into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>382410
+      </id>
+      <name>Woodvine Elemental
+      </name>
+      <cost>{4}{G}{W}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Parley- Whenever Woodvine Elemental attacks, each player reveals the top card of his or her library. For each nonland card revealed this way, attacking creatures you control get +1/+1 until end of turn. Then each player draws a card.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>52
+      </num>
+      <text>Trample&lt;br&gt;Parley- Whenever Woodvine Elemental attacks, each player reveals the top card of his or her library. For each nonland card revealed this way, attacking creatures you control get +1/+1 until end of turn. Then each player draws a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382411
+      </id>
+      <name>Worldknit
+      </name>
+      <type>Conspiracy
+      </type>
+      <oracleText>&lt;i&gt;(Start the game with this conspiracy face up in the command zone.)&lt;/i&gt;&lt;br&gt;As long as every card in your card pool started the game in your library or in the command zone, lands you control have "{T}: Add one mana of any color to your mana pool."
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>13
+      </num>
+      <text>&lt;i&gt;(Start the game with this conspiracy face up in the command zone.)&lt;/i&gt;&lt;br&gt;As long as every card in your card pool started the game in your library or in the command zone, lands you control have "{T}: Add one mana of any color to your mana pool."
+      </text>
+    </mc>
+    <mc>
+      <id>382412
+      </id>
+      <name>Wrap in Flames
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>158
+      </num>
+      <text>Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382413
+      </id>
+      <name>Wrap in Vigor
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Regenerate each creature you control.
+      </oracleText>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>John Donahue
+      </artist>
+      <num>183
+      </num>
+      <text>Regenerate each creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>382414
+      </id>
+      <name>Zombie Goliath
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Zombie Giant
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Magic: The Gathering—Conspiracy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>E. M. Gist
+      </artist>
+      <num>135
+      </num>
+    </mc>
+  </list>
+</cards>

@@ -1,0 +1,469 @@
+
+<cards>
+  <name>From_the_Vault__Twenty</name>
+  <key>From_the_Vault__Twenty</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>373328
+      </id>
+      <name>Akroma's Vengeance
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all artifacts, creatures, and enchantments.&lt;br&gt;Cycling {3} &lt;i&gt;({3}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>11
+      </num>
+      <text>Destroy all artifacts, creatures, and enchantments.&lt;br&gt;Cycling {3} &lt;i&gt;({3}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373317
+      </id>
+      <name>Chainer's Edict
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player sacrifices a creature.&lt;br&gt;Flashback {5}{B}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>10
+      </num>
+      <text>Target player sacrifices a creature.&lt;br&gt;Flashback {5}{B}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373321
+      </id>
+      <name>Chameleon Colossus
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Protection from black&lt;br&gt;{2}{G}{G}: Chameleon Colossus gets +X/+X until end of turn, where X is its power.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Darrell Riche
+      </artist>
+      <num>16
+      </num>
+      <text>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Protection from black&lt;br&gt;{2}{G}{G}: Chameleon Colossus gets +X/+X until end of turn, where X is its power.
+      </text>
+    </mc>
+    <mc>
+      <id>373332
+      </id>
+      <name>Char
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Char deals 4 damage to target creature or player and 2 damage to you.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Adam Rex
+      </artist>
+      <num>14
+      </num>
+      <text>Char deals 4 damage to target creature or player and 2 damage to you.
+      </text>
+    </mc>
+    <mc>
+      <id>373318
+      </id>
+      <name>Cruel Ultimatum
+      </name>
+      <cost>{U}{U}{B}{B}{B}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Todd Lockwood
+      </artist>
+      <num>17
+      </num>
+      <text>Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.
+      </text>
+    </mc>
+    <mc>
+      <id>373329
+      </id>
+      <name>Dark Ritual
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Add {B}{B}{B} to your mana pool.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Clint Langley
+      </artist>
+      <num>1
+      </num>
+      <text>Add {B}{B}{B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373325
+      </id>
+      <name>Fact or Fiction
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Terese Nielsen
+      </artist>
+      <num>9
+      </num>
+      <text>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>373320
+      </id>
+      <name>Fyndhorn Elves
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Add {G} to your mana pool.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>4
+      </num>
+      <text>{T}: Add {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373335
+      </id>
+      <name>Gilded Lotus
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add three mana of any one color to your mana pool.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>12
+      </num>
+      <text>{T}: Add three mana of any one color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373333
+      </id>
+      <name>Green Sun's Zenith
+      </name>
+      <cost>{X}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a green creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. Shuffle Green Sun's Zenith into its owner's library.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>David Rapoza
+      </artist>
+      <num>19
+      </num>
+      <text>Search your library for a green creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. Shuffle Green Sun's Zenith into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>373324
+      </id>
+      <name>Hymn to Tourach
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards two cards at random.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>3
+      </num>
+      <text>Target player discards two cards at random.
+      </text>
+    </mc>
+    <mc>
+      <id>373330
+      </id>
+      <name>Impulse
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Izzy
+      </artist>
+      <num>5
+      </num>
+      <text>Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>373327
+      </id>
+      <name>Ink-Eyes, Servant of Oni
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Legendary Creature - Rat Ninja
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Ninjutsu {3}{B}{B} &lt;i&gt;({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.&lt;br&gt;{1}{B}: Regenerate Ink-Eyes.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>13
+      </num>
+      <text>Ninjutsu {3}{B}{B} &lt;i&gt;({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)&lt;/i&gt;&lt;br&gt;Whenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.&lt;br&gt;{1}{B}: Regenerate Ink-Eyes.
+      </text>
+    </mc>
+    <mc>
+      <id>373316
+      </id>
+      <name>Jace, the Mind Sculptor
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Planeswalker - Jace
+      </type>
+      <toughness>3
+      </toughness>
+      <oracleText>+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.&lt;br&gt;0: Draw three cards, then put two cards from your hand on top of your library in any order.&lt;br&gt;-1: Return target creature to its owner's hand.&lt;br&gt;-12: Exile all cards from target player's library, then that player shuffles his or her hand into his or her library.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Jason Chan
+      </artist>
+      <num>18
+      </num>
+      <text>+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.&lt;br&gt;0: Draw three cards, then put two cards from your hand on top of your library in any order.&lt;br&gt;-1: Return target creature to its owner's hand.&lt;br&gt;-12: Exile all cards from target player's library, then that player shuffles his or her hand into his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>373323
+      </id>
+      <name>Kessig Wolf Run
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Eytan Zana
+      </artist>
+      <num>20
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373334
+      </id>
+      <name>Swords to Plowshares
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature. Its controller gains life equal to its power.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Terese Nielsen
+      </artist>
+      <num>2
+      </num>
+      <text>Exile target creature. Its controller gains life equal to its power.
+      </text>
+    </mc>
+    <mc>
+      <id>373322
+      </id>
+      <name>Tangle Wire
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Fading 4 &lt;i&gt;(This artifact enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)&lt;/i&gt;&lt;br&gt;At the beginning of each player's upkeep, that player taps an untapped artifact, creature, or land he or she controls for each fade counter on Tangle Wire.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Marco Nelor
+      </artist>
+      <num>8
+      </num>
+      <text>Fading 4 &lt;i&gt;(This artifact enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)&lt;/i&gt;&lt;br&gt;At the beginning of each player's upkeep, that player taps an untapped artifact, creature, or land he or she controls for each fade counter on Tangle Wire.
+      </text>
+    </mc>
+    <mc>
+      <id>373331
+      </id>
+      <name>Thran Dynamo
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {3} to your mana pool.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Ron Spears
+      </artist>
+      <num>7
+      </num>
+      <text>{T}: Add {3} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373326
+      </id>
+      <name>Venser, Shaper Savant
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Legendary Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Venser, Shaper Savant enters the battlefield, return target spell or permanent to its owner's hand.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>15
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Venser, Shaper Savant enters the battlefield, return target spell or permanent to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>373319
+      </id>
+      <name>Wall of Blossoms
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Plant Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender&lt;br&gt;When Wall of Blossoms enters the battlefield, draw a card.
+      </oracleText>
+      <edition>From the Vault: Twenty
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Heather Hudson
+      </artist>
+      <num>6
+      </num>
+      <text>Defender&lt;br&gt;When Wall of Blossoms enters the battlefield, draw a card.
+      </text>
+    </mc>
+  </list>
+</cards>

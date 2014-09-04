@@ -1,0 +1,3813 @@
+
+<cards>
+  <name>Conflux</name>
+  <key>Conflux</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>179513
+      </id>
+      <name>Absorb Vis
+      </name>
+      <cost>{6}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player loses 4 life and you gain 4 life.&lt;br&gt;Basic landcycling {1}{B} &lt;i&gt;({1}{B}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.877
+      </rating>
+      <artist>Brandon Kitkouski
+      </artist>
+      <num>40
+      </num>
+      <text>Target player loses 4 life and you gain 4 life.&lt;br&gt;Basic landcycling {1}{B} &lt;i&gt;({1}{B}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>153946
+      </id>
+      <name>Aerie Mystics
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Bird Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{1}{G}{U}: Creatures you control gain shroud until end of turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.079
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>1
+      </num>
+      <text>Flying&lt;br&gt;{1}{G}{U}: Creatures you control gain shroud until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>189271
+      </id>
+      <name>Ancient Ziggurat
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.586
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>141
+      </num>
+      <text>{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell.
+      </text>
+    </mc>
+    <mc>
+      <id>183068
+      </id>
+      <name>Apocalypse Hydra
+      </name>
+      <cost>{X}{R}{G}
+      </cost>
+      <type>Creature - Hydra
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Apocalypse Hydra enters the battlefield with X +1/+1 counters on it. If X is 5 or more, it enters the battlefield with an additional X +1/+1 counters on it.&lt;br&gt;{1}{R}, Remove a +1/+1 counter from Apocalypse Hydra: Apocalypse Hydra deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.297
+      </rating>
+      <artist>Jason Chan
+      </artist>
+      <num>98
+      </num>
+      <text>Apocalypse Hydra enters the battlefield with X +1/+1 counters on it. If X is 5 or more, it enters the battlefield with an additional X +1/+1 counters on it.&lt;br&gt;{1}{R}, Remove a +1/+1 counter from Apocalypse Hydra: Apocalypse Hydra deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>137936
+      </id>
+      <name>Armillary Sphere
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.617
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>134
+      </num>
+      <text>{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>150826
+      </id>
+      <name>Asha's Favor
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has flying, first strike, and vigilance.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.226
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>2
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has flying, first strike, and vigilance.
+      </text>
+    </mc>
+    <mc>
+      <id>184992
+      </id>
+      <name>Aven Squire
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Bird Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.316
+      </rating>
+      <artist>David Palumbo
+      </artist>
+      <num>3
+      </num>
+      <text>Flying&lt;br&gt;Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>180278
+      </id>
+      <name>Aven Trailblazer
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Bird Soldier
+      </type>
+      <oracleText>Flying&lt;br&gt;Domain- Aven Trailblazer's toughness is equal to the number of basic land types among lands you control.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.267
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>4
+      </num>
+      <text>Flying&lt;br&gt;Domain- Aven Trailblazer's toughness is equal to the number of basic land types among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>186613
+      </id>
+      <name>Banefire
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Banefire deals X damage to target creature or player.&lt;br&gt;If X is 5 or more, Banefire can't be countered by spells or abilities and the damage can't be prevented.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.737
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>58
+      </num>
+      <text>Banefire deals X damage to target creature or player.&lt;br&gt;If X is 5 or more, Banefire can't be countered by spells or abilities and the damage can't be prevented.
+      </text>
+    </mc>
+    <mc>
+      <id>177931
+      </id>
+      <name>Beacon Behemoth
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{1}: Target creature with power 5 or greater gains vigilance until end of turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.861
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>78
+      </num>
+      <text>{1}: Target creature with power 5 or greater gains vigilance until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>180267
+      </id>
+      <name>Blood Tyrant
+      </name>
+      <cost>{4}{U}{B}{R}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying, trample&lt;br&gt;At the beginning of your upkeep, each player loses 1 life. Put a +1/+1 counter on Blood Tyrant for each 1 life lost this way.&lt;br&gt;Whenever a player loses the game, put five +1/+1 counters on Blood Tyrant.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.247
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>99
+      </num>
+      <text>Flying, trample&lt;br&gt;At the beginning of your upkeep, each player loses 1 life. Put a +1/+1 counter on Blood Tyrant for each 1 life lost this way.&lt;br&gt;Whenever a player loses the game, put five +1/+1 counters on Blood Tyrant.
+      </text>
+    </mc>
+    <mc>
+      <id>159610
+      </id>
+      <name>Bloodhall Ooze
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Ooze
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, if you control a black permanent, you may put a +1/+1 counter on Bloodhall Ooze.&lt;br&gt;At the beginning of your upkeep, if you control a green permanent, you may put a +1/+1 counter on Bloodhall Ooze.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.231
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>59
+      </num>
+      <text>At the beginning of your upkeep, if you control a black permanent, you may put a +1/+1 counter on Bloodhall Ooze.&lt;br&gt;At the beginning of your upkeep, if you control a green permanent, you may put a +1/+1 counter on Bloodhall Ooze.
+      </text>
+    </mc>
+    <mc>
+      <id>189270
+      </id>
+      <name>Bone Saw
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +1/+0.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.075
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>135
+      </num>
+      <text>Equipped creature gets +1/+0.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>180147
+      </id>
+      <name>Brackwater Elemental
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Brackwater Elemental attacks or blocks, sacrifice it at the beginning of the next end step.&lt;br&gt;Unearth {2}{U} &lt;i&gt;({2}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.175
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>21
+      </num>
+      <text>When Brackwater Elemental attacks or blocks, sacrifice it at the beginning of the next end step.&lt;br&gt;Unearth {2}{U} &lt;i&gt;({2}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>184994
+      </id>
+      <name>Canyon Minotaur
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Minotaur Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.679
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>60
+      </num>
+    </mc>
+    <mc>
+      <id>183055
+      </id>
+      <name>Celestial Purge
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target black or red permanent.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.726
+      </rating>
+      <artist>David Palumbo
+      </artist>
+      <num>5
+      </num>
+      <text>Exile target black or red permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>179438
+      </id>
+      <name>Charnelhoard Wurm
+      </name>
+      <cost>{4}{B}{R}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Whenever Charnelhoard Wurm deals damage to an opponent, you may return target card from your graveyard to your hand.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.943
+      </rating>
+      <artist>Lars Grant-West
+      </artist>
+      <num>100
+      </num>
+      <text>Trample&lt;br&gt;Whenever Charnelhoard Wurm deals damage to an opponent, you may return target card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>180516
+      </id>
+      <name>Child of Alara
+      </name>
+      <cost>{W}{U}{B}{R}{G}
+      </cost>
+      <type>Legendary Creature - Avatar
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Trample&lt;br&gt;When Child of Alara dies, destroy all nonland permanents. They can't be regenerated.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>3.853
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>101
+      </num>
+      <text>Trample&lt;br&gt;When Child of Alara dies, destroy all nonland permanents. They can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>159612
+      </id>
+      <name>Cliffrunner Behemoth
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Rhino Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Cliffrunner Behemoth has haste as long as you control a red permanent.&lt;br&gt;Cliffrunner Behemoth has lifelink as long as you control a white permanent.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.199
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>79
+      </num>
+      <text>Cliffrunner Behemoth has haste as long as you control a red permanent.&lt;br&gt;Cliffrunner Behemoth has lifelink as long as you control a white permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>179437
+      </id>
+      <name>Conflux
+      </name>
+      <cost>{3}{W}{U}{B}{R}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards and put them into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>3.132
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>102
+      </num>
+      <text>Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards and put them into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>180272
+      </id>
+      <name>Constricting Tendrils
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -3/-0 until end of turn.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.03
+      </rating>
+      <artist>David Palumbo
+      </artist>
+      <num>22
+      </num>
+      <text>Target creature gets -3/-0 until end of turn.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>183053
+      </id>
+      <name>Controlled Instincts
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant red or green creature&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.314
+      </rating>
+      <artist>Ralph Horsley
+      </artist>
+      <num>23
+      </num>
+      <text>Enchant red or green creature&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>183054
+      </id>
+      <name>Corrupted Roots
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant Forest or Plains&lt;br&gt;Whenever enchanted land becomes tapped, its controller loses 2 life.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.692
+      </rating>
+      <artist>Mark Hyzer
+      </artist>
+      <num>41
+      </num>
+      <text>Enchant Forest or Plains&lt;br&gt;Whenever enchanted land becomes tapped, its controller loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>186327
+      </id>
+      <name>Countersquall
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target noncreature spell. Its controller loses 2 life.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.272
+      </rating>
+      <artist>Anthony Francisco
+      </artist>
+      <num>103
+      </num>
+      <text>Counter target noncreature spell. Its controller loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>182607
+      </id>
+      <name>Court Homunculus
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Artifact Creature - Homunculus
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Court Homunculus gets +1/+1 as long as you control another artifact.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.78
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>6
+      </num>
+      <text>Court Homunculus gets +1/+1 as long as you control another artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>180322
+      </id>
+      <name>Cumber Stone
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Creatures your opponents control get -1/-0.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.528
+      </rating>
+      <artist>Warren Mahy
+      </artist>
+      <num>24
+      </num>
+      <text>Creatures your opponents control get -1/-0.
+      </text>
+    </mc>
+    <mc>
+      <id>189081
+      </id>
+      <name>Cylian Sunsinger
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}{G}{W}: Cylian Sunsinger and each other creature with the same name as it get +3/+3 until end of turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.041
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>80
+      </num>
+      <text>{R}{G}{W}: Cylian Sunsinger and each other creature with the same name as it get +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>185143
+      </id>
+      <name>Dark Temper
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Dark Temper deals 2 damage to target creature. If you control a black permanent, destroy the creature instead.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.595
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>61
+      </num>
+      <text>Dark Temper deals 2 damage to target creature. If you control a black permanent, destroy the creature instead.
+      </text>
+    </mc>
+    <mc>
+      <id>180334
+      </id>
+      <name>Darklit Gargoyle
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Artifact Creature - Gargoyle
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{B}: Darklit Gargoyle gets +2/-1 until end of turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.402
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>7
+      </num>
+      <text>Flying&lt;br&gt;{B}: Darklit Gargoyle gets +2/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>179239
+      </id>
+      <name>Drag Down
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Domain- Target creature gets -1/-1 until end of turn for each basic land type among lands you control.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.647
+      </rating>
+      <artist>Trevor Claxton
+      </artist>
+      <num>42
+      </num>
+      <text>Domain- Target creature gets -1/-1 until end of turn for each basic land type among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>186392
+      </id>
+      <name>Dragonsoul Knight
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike&lt;br&gt;{W}{U}{B}{R}{G}: Until end of turn, Dragonsoul Knight becomes a Dragon, gets +5/+3, and gains flying and trample.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.378
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>62
+      </num>
+      <text>First strike&lt;br&gt;{W}{U}{B}{R}{G}: Until end of turn, Dragonsoul Knight becomes a Dragon, gets +5/+3, and gains flying and trample.
+      </text>
+    </mc>
+    <mc>
+      <id>159629
+      </id>
+      <name>Dreadwing
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{U}{R}: Dreadwing gets +3/+0 and gains flying until end of turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.015
+      </rating>
+      <artist>Mark Hyzer
+      </artist>
+      <num>43
+      </num>
+      <text>{1}{U}{R}: Dreadwing gets +3/+0 and gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>183024
+      </id>
+      <name>Elder Mastery
+      </name>
+      <cost>{3}{U}{B}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3 and has flying.&lt;br&gt;Whenever enchanted creature deals damage to a player, that player discards two cards.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>104
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3 and has flying.&lt;br&gt;Whenever enchanted creature deals damage to a player, that player discards two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>184990
+      </id>
+      <name>Ember Weaver
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This can block creatures with flying.)&lt;/i&gt;&lt;br&gt;As long as you control a red permanent, Ember Weaver gets +1/+0 and has first strike.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.915
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>81
+      </num>
+      <text>Reach &lt;i&gt;(This can block creatures with flying.)&lt;/i&gt;&lt;br&gt;As long as you control a red permanent, Ember Weaver gets +1/+0 and has first strike.
+      </text>
+    </mc>
+    <mc>
+      <id>184983
+      </id>
+      <name>Esper Cormorants
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Artifact Creature - Bird
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.49
+      </rating>
+      <artist>Warren Mahy
+      </artist>
+      <num>105
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>180158
+      </id>
+      <name>Esperzoa
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Artifact Creature - Jellyfish
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, return an artifact you control to its owner's hand.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.336
+      </rating>
+      <artist>Warren Mahy
+      </artist>
+      <num>25
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, return an artifact you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>175035
+      </id>
+      <name>Ethersworn Adjudicator
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Artifact Creature - Vedalken Knight
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{1}{W}{B}, {T}: Destroy target creature or enchantment.&lt;br&gt;{2}{U}: Untap Ethersworn Adjudicator.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.321
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>26
+      </num>
+      <text>Flying&lt;br&gt;{1}{W}{B}, {T}: Destroy target creature or enchantment.&lt;br&gt;{2}{U}: Untap Ethersworn Adjudicator.
+      </text>
+    </mc>
+    <mc>
+      <id>189273
+      </id>
+      <name>Exotic Orchard
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.273
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>142
+      </num>
+      <text>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+      </text>
+    </mc>
+    <mc>
+      <id>189378
+      </id>
+      <name>Exploding Borders
+      </name>
+      <cost>{2}{R}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Domain- Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Exploding Borders deals X damage to target player, where X is the number of basic land types among lands you control.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.897
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>106
+      </num>
+      <text>Domain- Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Exploding Borders deals X damage to target player, where X is the number of basic land types among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>189082
+      </id>
+      <name>Extractor Demon
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Demon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard.&lt;br&gt;Unearth {2}{B} &lt;i&gt;({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.07
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>44
+      </num>
+      <text>Flying&lt;br&gt;Whenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard.&lt;br&gt;Unearth {2}{B} &lt;i&gt;({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>182608
+      </id>
+      <name>Faerie Mechanist
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Artifact Creature - Faerie Artificer
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.409
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>27
+      </num>
+      <text>Flying&lt;br&gt;When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>179519
+      </id>
+      <name>Fiery Fall
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Fiery Fall deals 5 damage to target creature.&lt;br&gt;Basic landcycling {1}{R} &lt;i&gt;({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.7
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>63
+      </num>
+      <text>Fiery Fall deals 5 damage to target creature.&lt;br&gt;Basic landcycling {1}{R} &lt;i&gt;({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179439
+      </id>
+      <name>Filigree Fracture
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or enchantment. If that permanent was blue or black, draw a card.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.025
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>82
+      </num>
+      <text>Destroy target artifact or enchantment. If that permanent was blue or black, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>179884
+      </id>
+      <name>Fleshformer
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{W}{U}{B}{R}{G}: Fleshformer gets +2/+2 and gains fear until end of turn. Target creature gets -2/-2 until end of turn. Activate this ability only during your turn. &lt;i&gt;(A creature with fear can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.517
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>45
+      </num>
+      <text>{W}{U}{B}{R}{G}: Fleshformer gets +2/+2 and gains fear until end of turn. Target creature gets -2/-2 until end of turn. Activate this ability only during your turn. &lt;i&gt;(A creature with fear can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189147
+      </id>
+      <name>Font of Mythos
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>At the beginning of each player's draw step, that player draws two additional cards.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.067
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>136
+      </num>
+      <text>At the beginning of each player's draw step, that player draws two additional cards.
+      </text>
+    </mc>
+    <mc>
+      <id>184993
+      </id>
+      <name>Frontline Sage
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;{U}, {T}: Draw a card, then discard a card.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.953
+      </rating>
+      <artist>Volkan Baga
+      </artist>
+      <num>28
+      </num>
+      <text>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;{U}, {T}: Draw a card, then discard a card.
+      </text>
+    </mc>
+    <mc>
+      <id>179443
+      </id>
+      <name>Fusion Elemental
+      </name>
+      <cost>{W}{U}{B}{R}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>8
+      </power>
+      <toughness>8
+      </toughness>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.027
+      </rating>
+      <artist>Michael Komarck
+      </artist>
+      <num>107
+      </num>
+    </mc>
+    <mc>
+      <id>186614
+      </id>
+      <name>Giltspire Avenger
+      </name>
+      <cost>{G}{W}{U}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;{T}: Destroy target creature that dealt damage to you this turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.145
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>108
+      </num>
+      <text>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;{T}: Destroy target creature that dealt damage to you this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>179505
+      </id>
+      <name>Gleam of Resistance
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Creatures you control get +1/+2 until end of turn. Untap those creatures.&lt;br&gt;Basic landcycling {1}{W} &lt;i&gt;({1}{W}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.455
+      </rating>
+      <artist>Matt Stewart
+      </artist>
+      <num>8
+      </num>
+      <text>Creatures you control get +1/+2 until end of turn. Untap those creatures.&lt;br&gt;Basic landcycling {1}{W} &lt;i&gt;({1}{W}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179512
+      </id>
+      <name>Gluttonous Slime
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Ooze
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash&lt;br&gt;Devour 1 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.417
+      </rating>
+      <artist>Trevor Claxton
+      </artist>
+      <num>83
+      </num>
+      <text>Flash&lt;br&gt;Devour 1 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>185142
+      </id>
+      <name>Goblin Outlander
+      </name>
+      <cost>{B}{R}
+      </cost>
+      <type>Creature - Goblin Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Protection from white
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.46
+      </rating>
+      <artist>Trevor Claxton
+      </artist>
+      <num>109
+      </num>
+      <text>Protection from white
+      </text>
+    </mc>
+    <mc>
+      <id>179487
+      </id>
+      <name>Goblin Razerunners
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{1}{R}, Sacrifice a land: Put a +1/+1 counter on Goblin Razerunners.&lt;br&gt;At the beginning of your end step, you may have Goblin Razerunners deal damage equal to the number of +1/+1 counters on it to target player.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.116
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>64
+      </num>
+      <text>{1}{R}, Sacrifice a land: Put a +1/+1 counter on Goblin Razerunners.&lt;br&gt;At the beginning of your end step, you may have Goblin Razerunners deal damage equal to the number of +1/+1 counters on it to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>177927
+      </id>
+      <name>Grixis Illusionist
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Target land you control becomes the basic land type of your choice until end of turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.906
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>29
+      </num>
+      <text>{T}: Target land you control becomes the basic land type of your choice until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>179804
+      </id>
+      <name>Grixis Slavedriver
+      </name>
+      <cost>{5}{B}
+      </cost>
+      <type>Creature - Zombie Giant
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Grixis Slavedriver leaves the battlefield, put a 2/2 black Zombie creature token onto the battlefield.&lt;br&gt;Unearth {3}{B} &lt;i&gt;({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.822
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>46
+      </num>
+      <text>When Grixis Slavedriver leaves the battlefield, put a 2/2 black Zombie creature token onto the battlefield.&lt;br&gt;Unearth {3}{B} &lt;i&gt;({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>185811
+      </id>
+      <name>Gwafa Hazid, Profiteer
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Legendary Creature - Human Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{W}{U}, {T}: Put a bribery counter on target creature you don't control. Its controller draws a card.&lt;br&gt;Creatures with bribery counters on them can't attack or block.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.622
+      </rating>
+      <artist>Todd Lockwood
+      </artist>
+      <num>110
+      </num>
+      <text>{W}{U}, {T}: Put a bribery counter on target creature you don't control. Its controller draws a card.&lt;br&gt;Creatures with bribery counters on them can't attack or block.
+      </text>
+    </mc>
+    <mc>
+      <id>189146
+      </id>
+      <name>Hellkite Hatchling
+      </name>
+      <cost>{2}{R}{G}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Devour 1 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Hellkite Hatchling has flying and trample if it devoured a creature.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.964
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>111
+      </num>
+      <text>Devour 1 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Hellkite Hatchling has flying and trample if it devoured a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>174799
+      </id>
+      <name>Hellspark Elemental
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Trample, haste&lt;br&gt;At the beginning of the end step, sacrifice Hellspark Elemental.&lt;br&gt;Unearth {1}{R} &lt;i&gt;({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.284
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>65
+      </num>
+      <text>Trample, haste&lt;br&gt;At the beginning of the end step, sacrifice Hellspark Elemental.&lt;br&gt;Unearth {1}{R} &lt;i&gt;({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>183056
+      </id>
+      <name>Ignite Disorder
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Ignite Disorder deals 3 damage divided as you choose among one, two, or three target white and/or blue creatures.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.206
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>66
+      </num>
+      <text>Ignite Disorder deals 3 damage divided as you choose among one, two, or three target white and/or blue creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>157732
+      </id>
+      <name>Infectious Horror
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Zombie Horror
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Infectious Horror attacks, each opponent loses 2 life.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.712
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>47
+      </num>
+      <text>Whenever Infectious Horror attacks, each opponent loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>154081
+      </id>
+      <name>Inkwell Leviathan
+      </name>
+      <cost>{7}{U}{U}
+      </cost>
+      <type>Artifact Creature - Leviathan
+      </type>
+      <power>7
+      </power>
+      <toughness>11
+      </toughness>
+      <oracleText>Islandwalk, trample, shroud
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.47
+      </rating>
+      <artist>Anthony Francisco
+      </artist>
+      <num>30
+      </num>
+      <text>Islandwalk, trample, shroud
+      </text>
+    </mc>
+    <mc>
+      <id>174791
+      </id>
+      <name>Jhessian Balmgiver
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.&lt;br&gt;{T}: Target creature is unblockable this turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.729
+      </rating>
+      <artist>David Palumbo
+      </artist>
+      <num>112
+      </num>
+      <text>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.&lt;br&gt;{T}: Target creature is unblockable this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>189272
+      </id>
+      <name>Kaleidostone
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>When Kaleidostone enters the battlefield, draw a card.&lt;br&gt;{5}, {T}, Sacrifice Kaleidostone: Add {W}{U}{B}{R}{G} to your mana pool.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.543
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>137
+      </num>
+      <text>When Kaleidostone enters the battlefield, draw a card.&lt;br&gt;{5}, {T}, Sacrifice Kaleidostone: Add {W}{U}{B}{R}{G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>189080
+      </id>
+      <name>Kederekt Parasite
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever an opponent draws a card, if you control a red permanent, you may have Kederekt Parasite deal 1 damage to that player.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.253
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>48
+      </num>
+      <text>Whenever an opponent draws a card, if you control a red permanent, you may have Kederekt Parasite deal 1 damage to that player.
+      </text>
+    </mc>
+    <mc>
+      <id>189145
+      </id>
+      <name>Knight of the Reliquary
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Knight of the Reliquary gets +1/+1 for each land card in your graveyard.&lt;br&gt;{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.654
+      </rating>
+      <artist>Michael Komarck
+      </artist>
+      <num>113
+      </num>
+      <text>Knight of the Reliquary gets +1/+1 for each land card in your graveyard.&lt;br&gt;{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>180265
+      </id>
+      <name>Knotvine Mystic
+      </name>
+      <cost>{R}{G}{W}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}, {T}: Add {R}{G}{W} to your mana pool.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.803
+      </rating>
+      <artist>Ariel Olivetti
+      </artist>
+      <num>114
+      </num>
+      <text>{1}, {T}: Add {R}{G}{W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>177940
+      </id>
+      <name>Kranioceros
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{W}: Kranioceros gets +0/+3 until end of turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.212
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>67
+      </num>
+      <text>{1}{W}: Kranioceros gets +0/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>175026
+      </id>
+      <name>Lapse of Certainty
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.581
+      </rating>
+      <artist>Anthony Francisco
+      </artist>
+      <num>9
+      </num>
+      <text>Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>185136
+      </id>
+      <name>Maelstrom Archangel
+      </name>
+      <cost>{W}{U}{B}{R}{G}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Maelstrom Archangel deals combat damage to a player, you may cast a nonland card from your hand without paying its mana cost.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.582
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>115
+      </num>
+      <text>Flying&lt;br&gt;Whenever Maelstrom Archangel deals combat damage to a player, you may cast a nonland card from your hand without paying its mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>179892
+      </id>
+      <name>Magister Sphinx
+      </name>
+      <cost>{4}{W}{U}{B}
+      </cost>
+      <type>Artifact Creature - Sphinx
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Magister Sphinx enters the battlefield, target player's life total becomes 10.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.056
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>116
+      </num>
+      <text>Flying&lt;br&gt;When Magister Sphinx enters the battlefield, target player's life total becomes 10.
+      </text>
+    </mc>
+    <mc>
+      <id>185812
+      </id>
+      <name>Malfegor
+      </name>
+      <cost>{2}{B}{B}{R}{R}
+      </cost>
+      <type>Legendary Creature - Demon Dragon
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Malfegor enters the battlefield, discard your hand. Each opponent sacrifices a creature for each card discarded this way.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.254
+      </rating>
+      <artist>Jason Chan
+      </artist>
+      <num>117
+      </num>
+      <text>Flying&lt;br&gt;When Malfegor enters the battlefield, discard your hand. Each opponent sacrifices a creature for each card discarded this way.
+      </text>
+    </mc>
+    <mc>
+      <id>189269
+      </id>
+      <name>Mana Cylix
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.109
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>138
+      </num>
+      <text>{1}, {T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>180159
+      </id>
+      <name>Manaforce Mace
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Domain- Equipped creature gets +1/+1 for each basic land type among lands you control.&lt;br&gt;Equip {3}
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.338
+      </rating>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>139
+      </num>
+      <text>Domain- Equipped creature gets +1/+1 for each basic land type among lands you control.&lt;br&gt;Equip {3}
+      </text>
+    </mc>
+    <mc>
+      <id>182609
+      </id>
+      <name>Maniacal Rage
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and can't block.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.682
+      </rating>
+      <artist>Brandon Kitkouski
+      </artist>
+      <num>68
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>186615
+      </id>
+      <name>Mark of Asylum
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Prevent all noncombat damage that would be dealt to creatures you control.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.971
+      </rating>
+      <artist>Sal Villagran
+      </artist>
+      <num>10
+      </num>
+      <text>Prevent all noncombat damage that would be dealt to creatures you control.
+      </text>
+    </mc>
+    <mc>
+      <id>178560
+      </id>
+      <name>Martial Coup
+      </name>
+      <cost>{X}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put X 1/1 white Soldier creature tokens onto the battlefield. If X is 5 or more, destroy all other creatures.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.594
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>11
+      </num>
+      <text>Put X 1/1 white Soldier creature tokens onto the battlefield. If X is 5 or more, destroy all other creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>179252
+      </id>
+      <name>Master Transmuter
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Artifact Creature - Human Artificer
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{U}, {T}, Return an artifact you control to its owner's hand: You may put an artifact card from your hand onto the battlefield.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.747
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>31
+      </num>
+      <text>{U}, {T}, Return an artifact you control to its owner's hand: You may put an artifact card from your hand onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>179248
+      </id>
+      <name>Matca Rioters
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <oracleText>Domain- Matca Rioters's power and toughness are each equal to the number of basic land types among lands you control.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.866
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>84
+      </num>
+      <text>Domain- Matca Rioters's power and toughness are each equal to the number of basic land types among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>179886
+      </id>
+      <name>Meglonoth
+      </name>
+      <cost>{3}{R}{G}{W}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Vigilance, trample&lt;br&gt;Whenever Meglonoth blocks a creature, Meglonoth deals damage to that creature's controller equal to Meglonoth's power.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.654
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>118
+      </num>
+      <text>Vigilance, trample&lt;br&gt;Whenever Meglonoth blocks a creature, Meglonoth deals damage to that creature's controller equal to Meglonoth's power.
+      </text>
+    </mc>
+    <mc>
+      <id>150810
+      </id>
+      <name>Might of Alara
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Domain- Target creature gets +1/+1 until end of turn for each basic land type among lands you control.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.85
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>85
+      </num>
+      <text>Domain- Target creature gets +1/+1 until end of turn for each basic land type among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>158598
+      </id>
+      <name>Mirror-Sigil Sergeant
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Creature - Rhino Soldier
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Trample&lt;br&gt;At the beginning of your upkeep, if you control a blue permanent, you may put a token that's a copy of Mirror-Sigil Sergeant onto the battlefield.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.463
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>12
+      </num>
+      <text>Trample&lt;br&gt;At the beginning of your upkeep, if you control a blue permanent, you may put a token that's a copy of Mirror-Sigil Sergeant onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>184988
+      </id>
+      <name>Molten Frame
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact creature.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.98
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>69
+      </num>
+      <text>Destroy target artifact creature.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>138571
+      </id>
+      <name>Nacatl Hunt-Pride
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Creature - Cat Warrior
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;{R}, {T}: Target creature can't block this turn.&lt;br&gt;{G}, {T}: Target creature blocks this turn if able.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.908
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>13
+      </num>
+      <text>Vigilance&lt;br&gt;{R}, {T}: Target creature can't block this turn.&lt;br&gt;{G}, {T}: Target creature blocks this turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>185140
+      </id>
+      <name>Nacatl Outlander
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Creature - Cat Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Protection from blue
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.15
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>119
+      </num>
+      <text>Protection from blue
+      </text>
+    </mc>
+    <mc>
+      <id>183022
+      </id>
+      <name>Nacatl Savage
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Cat Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from artifacts
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.587
+      </rating>
+      <artist>Parente
+      </artist>
+      <num>86
+      </num>
+      <text>Protection from artifacts
+      </text>
+    </mc>
+    <mc>
+      <id>179441
+      </id>
+      <name>Nicol Bolas, Planeswalker
+      </name>
+      <cost>{4}{U}{B}{B}{R}
+      </cost>
+      <type>Planeswalker - Bolas
+      </type>
+      <toughness>5
+      </toughness>
+      <oracleText>+3: Destroy target noncreature permanent.&lt;br&gt;-2: Gain control of target creature.&lt;br&gt;-9: Nicol Bolas, Planeswalker deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.483
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>120
+      </num>
+      <text>+3: Destroy target noncreature permanent.&lt;br&gt;-2: Gain control of target creature.&lt;br&gt;-9: Nicol Bolas, Planeswalker deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents.
+      </text>
+    </mc>
+    <mc>
+      <id>179434
+      </id>
+      <name>Noble Hierarch
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Human Druid
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;{T}: Add {G}, {W}, or {U} to your mana pool.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.763
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>87
+      </num>
+      <text>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;{T}: Add {G}, {W}, or {U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>186616
+      </id>
+      <name>Nyxathid
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>As Nyxathid enters the battlefield, choose an opponent.&lt;br&gt;Nyxathid gets -1/-1 for each card in the chosen player's hand.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.532
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>49
+      </num>
+      <text>As Nyxathid enters the battlefield, choose an opponent.&lt;br&gt;Nyxathid gets -1/-1 for each card in the chosen player's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>183018
+      </id>
+      <name>Obelisk of Alara
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}{W}, {T}: You gain 5 life.&lt;br&gt;{1}{U}, {T}: Draw a card, then discard a card.&lt;br&gt;{1}{B}, {T}: Target creature gets -2/-2 until end of turn.&lt;br&gt;{1}{R}, {T}: Obelisk of Alara deals 3 damage to target player.&lt;br&gt;{1}{G}, {T}: Target creature gets +4/+4 until end of turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.069
+      </rating>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>140
+      </num>
+      <text>{1}{W}, {T}: You gain 5 life.&lt;br&gt;{1}{U}, {T}: Draw a card, then discard a card.&lt;br&gt;{1}{B}, {T}: Target creature gets -2/-2 until end of turn.&lt;br&gt;{1}{R}, {T}: Obelisk of Alara deals 3 damage to target player.&lt;br&gt;{1}{G}, {T}: Target creature gets +4/+4 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>189873
+      </id>
+      <name>Paleoloth
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Whenever another creature with power 5 or greater enters the battlefield under your control, you may return target creature card from your graveyard to your hand.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.524
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>88
+      </num>
+      <text>Whenever another creature with power 5 or greater enters the battlefield under your control, you may return target creature card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>179878
+      </id>
+      <name>Paragon of the Amesha
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike&lt;br&gt;{W}{U}{B}{R}{G}: Until end of turn, Paragon of the Amesha becomes an Angel, gets +3/+3, and gains flying and lifelink.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.424
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>14
+      </num>
+      <text>First strike&lt;br&gt;{W}{U}{B}{R}{G}: Until end of turn, Paragon of the Amesha becomes an Angel, gets +3/+3, and gains flying and lifelink.
+      </text>
+    </mc>
+    <mc>
+      <id>175021
+      </id>
+      <name>Parasitic Strix
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Artifact Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Parasitic Strix enters the battlefield, if you control a black permanent, target player loses 2 life and you gain 2 life.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.795
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>32
+      </num>
+      <text>Flying&lt;br&gt;When Parasitic Strix enters the battlefield, if you control a black permanent, target player loses 2 life and you gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>179235
+      </id>
+      <name>Path to Exile
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.498
+      </rating>
+      <artist>Todd Lockwood
+      </artist>
+      <num>15
+      </num>
+      <text>Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>179518
+      </id>
+      <name>Pestilent Kathari
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Bird Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;{2}{R}: Pestilent Kathari gains first strike until end of turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.152
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>50
+      </num>
+      <text>Flying&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;{2}{R}: Pestilent Kathari gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>179496
+      </id>
+      <name>Progenitus
+      </name>
+      <cost>{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}
+      </cost>
+      <type>Legendary Creature - Hydra Avatar
+      </type>
+      <power>10
+      </power>
+      <toughness>10
+      </toughness>
+      <oracleText>Protection from everything&lt;br&gt;If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.401
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>121
+      </num>
+      <text>Protection from everything&lt;br&gt;If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.
+      </text>
+    </mc>
+    <mc>
+      <id>179440
+      </id>
+      <name>Quenchable Fire
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Quenchable Fire deals 3 damage to target player. It deals an additional 3 damage to that player at the beginning of your next upkeep step unless he or she pays {U} before that step.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.324
+      </rating>
+      <artist>Jean-Sébastien Rossbach
+      </artist>
+      <num>70
+      </num>
+      <text>Quenchable Fire deals 3 damage to target player. It deals an additional 3 damage to that player at the beginning of your next upkeep step unless he or she pays {U} before that step.
+      </text>
+    </mc>
+    <mc>
+      <id>185810
+      </id>
+      <name>Rakka Mar
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Legendary Creature - Human Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste&lt;br&gt;{R}, {T}: Put a 3/1 red Elemental creature token with haste onto the battlefield.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.1
+      </rating>
+      <artist>Jason Chan
+      </artist>
+      <num>71
+      </num>
+      <text>Haste&lt;br&gt;{R}, {T}: Put a 3/1 red Elemental creature token with haste onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>150807
+      </id>
+      <name>Reliquary Tower
+      </name>
+      <type>Land
+      </type>
+      <oracleText>You have no maximum hand size.&lt;br&gt;{T}: Add {1} to your mana pool.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.144
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>143
+      </num>
+      <text>You have no maximum hand size.&lt;br&gt;{T}: Add {1} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>177924
+      </id>
+      <name>Rhox Bodyguard
+      </name>
+      <cost>{3}{G}{W}
+      </cost>
+      <type>Creature - Rhino Monk Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;When Rhox Bodyguard enters the battlefield, you gain 3 life.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>Sal Villagran
+      </artist>
+      <num>122
+      </num>
+      <text>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;When Rhox Bodyguard enters the battlefield, you gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>159634
+      </id>
+      <name>Rhox Meditant
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Rhino Monk
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Rhox Meditant enters the battlefield, if you control a green permanent, draw a card.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.242
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>16
+      </num>
+      <text>When Rhox Meditant enters the battlefield, if you control a green permanent, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>150833
+      </id>
+      <name>Rotting Rats
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie Rat
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Rotting Rats enters the battlefield, each player discards a card.&lt;br&gt;Unearth {1}{B} &lt;i&gt;({1}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.473
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>51
+      </num>
+      <text>When Rotting Rats enters the battlefield, each player discards a card.&lt;br&gt;Unearth {1}{B} &lt;i&gt;({1}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>142301
+      </id>
+      <name>Rupture Spire
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Rupture Spire enters the battlefield tapped.&lt;br&gt;When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.964
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>144
+      </num>
+      <text>Rupture Spire enters the battlefield tapped.&lt;br&gt;When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>179488
+      </id>
+      <name>Sacellum Archers
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf Archer
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{R}{W}, {T}: Sacellum Archers deals 2 damage to target attacking or blocking creature.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.632
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>89
+      </num>
+      <text>{R}{W}, {T}: Sacellum Archers deals 2 damage to target attacking or blocking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>179254
+      </id>
+      <name>Salvage Slasher
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Artifact Creature - Human Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Salvage Slasher gets +1/+0 for each artifact card in your graveyard.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.029
+      </rating>
+      <artist>Anthony Francisco
+      </artist>
+      <num>52
+      </num>
+      <text>Salvage Slasher gets +1/+0 for each artifact card in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>183025
+      </id>
+      <name>Scarland Thrinax
+      </name>
+      <cost>{B}{R}{G}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacrifice a creature: Put a +1/+1 counter on Scarland Thrinax.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.652
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>123
+      </num>
+      <text>Sacrifice a creature: Put a +1/+1 counter on Scarland Thrinax.
+      </text>
+    </mc>
+    <mc>
+      <id>185828
+      </id>
+      <name>Scattershot Archer
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Archer
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Scattershot Archer deals 1 damage to each creature with flying.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.225
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>90
+      </num>
+      <text>{T}: Scattershot Archer deals 1 damage to each creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>174792
+      </id>
+      <name>Scepter of Dominance
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{W}, {T}: Tap target permanent.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.773
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>17
+      </num>
+      <text>{W}, {T}: Tap target permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>189084
+      </id>
+      <name>Scepter of Fugue
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}{B}, {T}: Target player discards a card. Activate this ability only during your turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.955
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>53
+      </num>
+      <text>{1}{B}, {T}: Target player discards a card. Activate this ability only during your turn.
+      </text>
+    </mc>
+    <mc>
+      <id>184989
+      </id>
+      <name>Scepter of Insight
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}{U}, {T}: Draw a card.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.435
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>33
+      </num>
+      <text>{3}{U}, {T}: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>186328
+      </id>
+      <name>Scornful Æther-Lich
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Artifact Creature - Zombie Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{W}{B}: Scornful Æther-Lich gains fear and vigilance until end of turn. &lt;i&gt;(Attacking doesn't cause it to tap, and it can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.081
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>34
+      </num>
+      <text>{W}{B}: Scornful Æther-Lich gains fear and vigilance until end of turn. &lt;i&gt;(Attacking doesn't cause it to tap, and it can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>182306
+      </id>
+      <name>Sedraxis Alchemist
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Zombie Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Sedraxis Alchemist enters the battlefield, if you control a blue permanent, return target nonland permanent to its owner's hand.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.571
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>54
+      </num>
+      <text>When Sedraxis Alchemist enters the battlefield, if you control a blue permanent, return target nonland permanent to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>184991
+      </id>
+      <name>Shambling Remains
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Creature - Zombie Horror
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Shambling Remains can't block.&lt;br&gt;Unearth {B}{R} &lt;i&gt;({B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.282
+      </rating>
+      <artist>Nils Hamm
+      </artist>
+      <num>124
+      </num>
+      <text>Shambling Remains can't block.&lt;br&gt;Unearth {B}{R} &lt;i&gt;({B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>175034
+      </id>
+      <name>Shard Convergence
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a Plains card, an Island card, a Swamp card, and a Mountain card. Reveal those cards and put them into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.893
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>91
+      </num>
+      <text>Search your library for a Plains card, an Island card, a Swamp card, and a Mountain card. Reveal those cards and put them into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>180271
+      </id>
+      <name>Sigil of the Empty Throne
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.314
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>18
+      </num>
+      <text>Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>174953
+      </id>
+      <name>Skyward Eye Prophets
+      </name>
+      <cost>{3}{G}{W}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;{T}: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.324
+      </rating>
+      <artist>Matt Stewart
+      </artist>
+      <num>125
+      </num>
+      <text>Vigilance&lt;br&gt;{T}: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>183019
+      </id>
+      <name>Sludge Strider
+      </name>
+      <cost>{1}{W}{U}{B}
+      </cost>
+      <type>Artifact Creature - Insect
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever another artifact enters the battlefield under your control or another artifact you control leaves the battlefield, you may pay {1}. If you do, target player loses 1 life and you gain 1 life.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>126
+      </num>
+      <text>Whenever another artifact enters the battlefield under your control or another artifact you control leaves the battlefield, you may pay {1}. If you do, target player loses 1 life and you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>185137
+      </id>
+      <name>Soul's Majesty
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw cards equal to the power of target creature you control.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.068
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>92
+      </num>
+      <text>Draw cards equal to the power of target creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>189079
+      </id>
+      <name>Sphinx Summoner
+      </name>
+      <cost>{3}{U}{B}
+      </cost>
+      <type>Artifact Creature - Sphinx
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, and put it into your hand. If you do, shuffle your library.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.223
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>127
+      </num>
+      <text>Flying&lt;br&gt;When Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, and put it into your hand. If you do, shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>185829
+      </id>
+      <name>Spore Burst
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Domain- Put a 1/1 green Saproling creature token onto the battlefield for each basic land type among lands you control.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.773
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>93
+      </num>
+      <text>Domain- Put a 1/1 green Saproling creature token onto the battlefield for each basic land type among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>180345
+      </id>
+      <name>Suicidal Charge
+      </name>
+      <cost>{3}{B}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Sacrifice Suicidal Charge: Creatures your opponents control get -1/-1 until end of turn. Those creatures attack this turn if able.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.542
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>128
+      </num>
+      <text>Sacrifice Suicidal Charge: Creatures your opponents control get -1/-1 until end of turn. Those creatures attack this turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>179523
+      </id>
+      <name>Sylvan Bounty
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player gains 8 life.&lt;br&gt;Basic landcycling {1}{G} &lt;i&gt;({1}{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.514
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>94
+      </num>
+      <text>Target player gains 8 life.&lt;br&gt;Basic landcycling {1}{G} &lt;i&gt;({1}{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189085
+      </id>
+      <name>Telemin Performance
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals cards from the top of his or her library until he or she reveals a creature card. That player puts all noncreature cards revealed this way into his or her graveyard, then you put the creature card onto the battlefield under your control.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.135
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>35
+      </num>
+      <text>Target opponent reveals cards from the top of his or her library until he or she reveals a creature card. That player puts all noncreature cards revealed this way into his or her graveyard, then you put the creature card onto the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>180341
+      </id>
+      <name>Thornling
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Elemental Shapeshifter
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{G}: Thornling gains haste until end of turn.&lt;br&gt;{G}: Thornling gains trample until end of turn.&lt;br&gt;{G}: Thornling is indestructible this turn.&lt;br&gt;{1}: Thornling gets +1/-1 until end of turn.&lt;br&gt;{1}: Thornling gets -1/+1 until end of turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>3.756
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>95
+      </num>
+      <text>{G}: Thornling gains haste until end of turn.&lt;br&gt;{G}: Thornling gains trample until end of turn.&lt;br&gt;{G}: Thornling is indestructible this turn.&lt;br&gt;{1}: Thornling gets +1/-1 until end of turn.&lt;br&gt;{1}: Thornling gets -1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>170956
+      </id>
+      <name>Toxic Iguanar
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Toxic Iguanar has deathtouch as long as you control a green permanent. &lt;i&gt;(Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.242
+      </rating>
+      <artist>Brandon Kitkouski
+      </artist>
+      <num>72
+      </num>
+      <text>Toxic Iguanar has deathtouch as long as you control a green permanent. &lt;i&gt;(Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179508
+      </id>
+      <name>Traumatic Visions
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell.&lt;br&gt;Basic landcycling {1}{U} &lt;i&gt;({1}{U}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.179
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>36
+      </num>
+      <text>Counter target spell.&lt;br&gt;Basic landcycling {1}{U} &lt;i&gt;({1}{U}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>184995
+      </id>
+      <name>Tukatongue Thallid
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Tukatongue Thallid dies, put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.175
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>96
+      </num>
+      <text>When Tukatongue Thallid dies, put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>189078
+      </id>
+      <name>Unstable Frontier
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Target land you control becomes the basic land type of your choice until end of turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.926
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>145
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Target land you control becomes the basic land type of your choice until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>177932
+      </id>
+      <name>Unsummon
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target creature to its owner's hand.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.179
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>37
+      </num>
+      <text>Return target creature to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>180344
+      </id>
+      <name>Vagrant Plowbeasts
+      </name>
+      <cost>{5}{G}{W}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>{1}: Regenerate target creature with power 5 or greater.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.303
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>129
+      </num>
+      <text>{1}: Regenerate target creature with power 5 or greater.
+      </text>
+    </mc>
+    <mc>
+      <id>185144
+      </id>
+      <name>Valeron Outlander
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Creature - Human Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Protection from black
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.242
+      </rating>
+      <artist>Matt Stewart
+      </artist>
+      <num>130
+      </num>
+      <text>Protection from black
+      </text>
+    </mc>
+    <mc>
+      <id>184984
+      </id>
+      <name>Valiant Guard
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.548
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>19
+      </num>
+    </mc>
+    <mc>
+      <id>183063
+      </id>
+      <name>Vectis Agents
+      </name>
+      <cost>{3}{U}{B}
+      </cost>
+      <type>Artifact Creature - Human Rogue
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{U}{B}: Vectis Agents gets -2/-0 until end of turn and is unblockable this turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.143
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>131
+      </num>
+      <text>{U}{B}: Vectis Agents gets -2/-0 until end of turn and is unblockable this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>185141
+      </id>
+      <name>Vedalken Outlander
+      </name>
+      <cost>{W}{U}
+      </cost>
+      <type>Artifact Creature - Vedalken Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Protection from red
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.532
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>132
+      </num>
+      <text>Protection from red
+      </text>
+    </mc>
+    <mc>
+      <id>179245
+      </id>
+      <name>Viashino Slaughtermaster
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Viashino Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Double strike&lt;br&gt;{B}{G}: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate this ability only once each turn.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.806
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>73
+      </num>
+      <text>Double strike&lt;br&gt;{B}{G}: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate this ability only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>183058
+      </id>
+      <name>View from Above
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gains flying until end of turn. If you control a white permanent, return View from Above to its owner's hand.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.979
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>38
+      </num>
+      <text>Target creature gains flying until end of turn. If you control a white permanent, return View from Above to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>150847
+      </id>
+      <name>Voices from the Void
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Domain- Target player discards a card for each basic land type among lands you control.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.8
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>55
+      </num>
+      <text>Domain- Target player discards a card for each basic land type among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>180274
+      </id>
+      <name>Volcanic Fallout
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Volcanic Fallout can't be countered.&lt;br&gt;Volcanic Fallout deals 2 damage to each creature and each player.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.577
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>74
+      </num>
+      <text>Volcanic Fallout can't be countered.&lt;br&gt;Volcanic Fallout deals 2 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>186329
+      </id>
+      <name>Voracious Dragon
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Devour 1 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;When Voracious Dragon enters the battlefield, it deals damage to target creature or player equal to twice the number of Goblins it devoured.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.235
+      </rating>
+      <artist>Dominick Domingo
+      </artist>
+      <num>75
+      </num>
+      <text>Flying&lt;br&gt;Devour 1 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;When Voracious Dragon enters the battlefield, it deals damage to target creature or player equal to twice the number of Goblins it devoured.
+      </text>
+    </mc>
+    <mc>
+      <id>189874
+      </id>
+      <name>Wall of Reverence
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Spirit Wall
+      </type>
+      <power>1
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Defender, flying&lt;br&gt;At the beginning of your end step, you may gain life equal to the power of target creature you control.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.308
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>20
+      </num>
+      <text>Defender, flying&lt;br&gt;At the beginning of your end step, you may gain life equal to the power of target creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>180279
+      </id>
+      <name>Wandering Goblins
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Domain- {3}: Wandering Goblins gets +1/+0 until end of turn for each basic land type among lands you control.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.329
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>76
+      </num>
+      <text>Domain- {3}: Wandering Goblins gets +1/+0 until end of turn for each basic land type among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>179489
+      </id>
+      <name>Wild Leotau
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>At the beginning of your upkeep, sacrifice Wild Leotau unless you pay {G}.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.513
+      </rating>
+      <artist>Michael Komarck
+      </artist>
+      <num>97
+      </num>
+      <text>At the beginning of your upkeep, sacrifice Wild Leotau unless you pay {G}.
+      </text>
+    </mc>
+    <mc>
+      <id>175401
+      </id>
+      <name>Worldheart Phoenix
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Phoenix
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;You may cast Worldheart Phoenix from your graveyard by paying {W}{U}{B}{R}{G} rather than paying its mana cost. If you do, it enters the battlefield with two +1/+1 counters on it.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.975
+      </rating>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>77
+      </num>
+      <text>Flying&lt;br&gt;You may cast Worldheart Phoenix from your graveyard by paying {W}{U}{B}{R}{G} rather than paying its mana cost. If you do, it enters the battlefield with two +1/+1 counters on it.
+      </text>
+    </mc>
+    <mc>
+      <id>142298
+      </id>
+      <name>Worldly Counsel
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Domain- Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.848
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>39
+      </num>
+      <text>Domain- Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>174907
+      </id>
+      <name>Wretched Banquet
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target creature if it has the least power or is tied for least power among creatures on the battlefield.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.34
+      </rating>
+      <artist>Nils Hamm
+      </artist>
+      <num>56
+      </num>
+      <text>Destroy target creature if it has the least power or is tied for least power among creatures on the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>179891
+      </id>
+      <name>Yoke of the Damned
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When a creature dies, destroy enchanted creature.
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.821
+      </rating>
+      <artist>Paul Bonner
+      </artist>
+      <num>57
+      </num>
+      <text>Enchant creature&lt;br&gt;When a creature dies, destroy enchanted creature.
+      </text>
+    </mc>
+    <mc>
+      <id>185138
+      </id>
+      <name>Zombie Outlander
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Creature - Zombie Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Protection from green
+      </oracleText>
+      <edition>Conflux
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.483
+      </rating>
+      <artist>Nils Hamm
+      </artist>
+      <num>133
+      </num>
+      <text>Protection from green
+      </text>
+    </mc>
+  </list>
+</cards>

@@ -1,0 +1,4845 @@
+
+<cards>
+  <name>Archenemy</name>
+  <key>Archenemy</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>212578
+      </id>
+      <name>A Display of My Dark Power
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, until your next turn, whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.077
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>8
+      </num>
+      <text>When you set this scheme in motion, until your next turn, whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
+      </text>
+    </mc>
+    <mc>
+      <id>220525
+      </id>
+      <name>Æther Spellbomb
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{U}, Sacrifice Æther Spellbomb: Return target creature to its owner's hand.&lt;br&gt;{1}, Sacrifice Æther Spellbomb: Draw a card.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.925
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>102
+      </num>
+      <text>{U}, Sacrifice Æther Spellbomb: Return target creature to its owner's hand.&lt;br&gt;{1}, Sacrifice Æther Spellbomb: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>220454
+      </id>
+      <name>Agony Warp
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -3/-0 until end of turn.&lt;br&gt;Target creature gets -0/-3 until end of turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.13
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>76
+      </num>
+      <text>Target creature gets -3/-0 until end of turn.&lt;br&gt;Target creature gets -0/-3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>212648
+      </id>
+      <name>All in Good Time
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, take an extra turn after this one. Schemes can't be set in motion that turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.988
+      </rating>
+      <artist>Nic Klein
+      </artist>
+      <num>1
+      </num>
+      <text>When you set this scheme in motion, take an extra turn after this one. Schemes can't be set in motion that turn.
+      </text>
+    </mc>
+    <mc>
+      <id>212617
+      </id>
+      <name>All Shall Smolder in My Wake
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, destroy up to one target artifact, up to one target enchantment, and up to one target nonbasic land.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.7
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>2
+      </num>
+      <text>When you set this scheme in motion, destroy up to one target artifact, up to one target enchantment, and up to one target nonbasic land.
+      </text>
+    </mc>
+    <mc>
+      <id>212591
+      </id>
+      <name>Approach My Molten Realm
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, until your next turn, if a source would deal damage, it deals double that damage instead.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.789
+      </rating>
+      <artist>Jim Pavelec
+      </artist>
+      <num>3
+      </num>
+      <text>When you set this scheme in motion, until your next turn, if a source would deal damage, it deals double that damage instead.
+      </text>
+    </mc>
+    <mc>
+      <id>220517
+      </id>
+      <name>Architects of Will
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Artifact Creature - Human Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Architects of Will enters the battlefield, look at the top three cards of target player's library, then put them back in any order.&lt;br&gt;Cycling {U/B} &lt;i&gt;({U/B}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.222
+      </rating>
+      <artist>Matt Stewart
+      </artist>
+      <num>77
+      </num>
+      <text>When Architects of Will enters the battlefield, look at the top three cards of target player's library, then put them back in any order.&lt;br&gt;Cycling {U/B} &lt;i&gt;({U/B}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220498
+      </id>
+      <name>Armadillo Cloak
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has trample.&lt;br&gt;Whenever enchanted creature deals damage, you gain that much life.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.713
+      </rating>
+      <artist>Parente
+      </artist>
+      <num>78
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has trample.&lt;br&gt;Whenever enchanted creature deals damage, you gain that much life.
+      </text>
+    </mc>
+    <mc>
+      <id>220553
+      </id>
+      <name>Artisan of Kozilek
+      </name>
+      <cost>{9}
+      </cost>
+      <type>Creature - Eldrazi
+      </type>
+      <power>10
+      </power>
+      <toughness>9
+      </toughness>
+      <oracleText>When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.&lt;br&gt;Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.638
+      </rating>
+      <artist>Jason Felix
+      </artist>
+      <num>123
+      </num>
+      <text>When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.&lt;br&gt;Annihilator 2 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices two permanents.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220539
+      </id>
+      <name>Avatar of Discord
+      </name>
+      <cost>{B/R}{B/R}{B/R}
+      </cost>
+      <type>Creature - Avatar
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>&lt;i&gt;({B/R} can be paid with either {B} or {R}.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Avatar of Discord enters the battlefield, sacrifice it unless you discard two cards.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>79
+      </num>
+      <text>&lt;i&gt;({B/R} can be paid with either {B} or {R}.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Avatar of Discord enters the battlefield, sacrifice it unless you discard two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>220562
+      </id>
+      <name>Avatar of Woe
+      </name>
+      <cost>{6}{B}{B}
+      </cost>
+      <type>Creature - Avatar
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.&lt;br&gt;Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;{T}: Destroy target creature. It can't be regenerated.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.86
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>9
+      </num>
+      <text>If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.&lt;br&gt;Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;{T}: Destroy target creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>220540
+      </id>
+      <name>Azorius Signet
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}: Add {W}{U} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.7
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>103
+      </num>
+      <text>{1}, {T}: Add {W}{U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220487
+      </id>
+      <name>Barren Moor
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Barren Moor enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;Cycling {B} &lt;i&gt;({B}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.719
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>124
+      </num>
+      <text>Barren Moor enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;Cycling {B} &lt;i&gt;({B}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220488
+      </id>
+      <name>Battering Craghorn
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Goat Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Morph {1}{R}{R} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.929
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>30
+      </num>
+      <text>First strike&lt;br&gt;Morph {1}{R}{R} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220573
+      </id>
+      <name>Batwing Brume
+      </name>
+      <cost>{1}{W/B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all combat damage that would be dealt this turn if {W} was spent to cast Batwing Brume. Each player loses 1 life for each attacking creature he or she controls if {B} was spent to cast Batwing Brume. &lt;i&gt;(Do both if {W}{B} was spent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.333
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>80
+      </num>
+      <text>Prevent all combat damage that would be dealt this turn if {W} was spent to cast Batwing Brume. Each player loses 1 life for each attacking creature he or she controls if {B} was spent to cast Batwing Brume. &lt;i&gt;(Do both if {W}{B} was spent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220482
+      </id>
+      <name>Beacon of Unrest
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put target artifact or creature card from a graveyard onto the battlefield under your control. Shuffle Beacon of Unrest into its owner's library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.653
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>10
+      </num>
+      <text>Put target artifact or creature card from a graveyard onto the battlefield under your control. Shuffle Beacon of Unrest into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>212585
+      </id>
+      <name>Behold the Power of Destruction
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, destroy all nonland permanents target opponent controls.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.892
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>4
+      </num>
+      <text>When you set this scheme in motion, destroy all nonland permanents target opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>220518
+      </id>
+      <name>Bituminous Blast
+      </name>
+      <cost>{3}{B}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;Bituminous Blast deals 4 damage to target creature.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.578
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>81
+      </num>
+      <text>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;Bituminous Blast deals 4 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>220556
+      </id>
+      <name>Bog Witch
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Spellshaper
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{B}, {T}, Discard a card: Add {B}{B}{B} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.818
+      </rating>
+      <artist>Gao Yan
+      </artist>
+      <num>11
+      </num>
+      <text>{B}, {T}, Discard a card: Add {B}{B}{B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220455
+      </id>
+      <name>Branching Bolt
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one or both- Branching Bolt deals 3 damage to target creature with flying; and/or Branching Bolt deals 3 damage to target creature without flying.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.341
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>82
+      </num>
+      <text>Choose one or both- Branching Bolt deals 3 damage to target creature with flying; and/or Branching Bolt deals 3 damage to target creature without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>220499
+      </id>
+      <name>Breath of Darigaaz
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kicker {2} &lt;i&gt;(You may pay an additional {2} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Breath of Darigaaz deals 1 damage to each creature without flying and each player. If Breath of Darigaaz was kicked, it deals 4 damage to each creature without flying and each player instead.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.156
+      </rating>
+      <artist>Greg &amp; Tim Hildebrandt
+      </artist>
+      <num>31
+      </num>
+      <text>Kicker {2} &lt;i&gt;(You may pay an additional {2} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Breath of Darigaaz deals 1 damage to each creature without flying and each player. If Breath of Darigaaz was kicked, it deals 4 damage to each creature without flying and each player instead.
+      </text>
+    </mc>
+    <mc>
+      <id>220476
+      </id>
+      <name>Cemetery Reaper
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Other Zombie creatures you control get +1/+1.&lt;br&gt;{2}{B}, {T}: Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.396
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>12
+      </num>
+      <text>Other Zombie creatures you control get +1/+1.&lt;br&gt;{2}{B}, {T}: Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>220451
+      </id>
+      <name>Chameleon Colossus
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Protection from black&lt;br&gt;{2}{G}{G}: Chameleon Colossus gets +X/+X until end of turn, where X is its power.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.625
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>52
+      </num>
+      <text>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Protection from black&lt;br&gt;{2}{G}{G}: Chameleon Colossus gets +X/+X until end of turn, where X is its power.
+      </text>
+    </mc>
+    <mc>
+      <id>220513
+      </id>
+      <name>Chandra's Outrage
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.346
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>32
+      </num>
+      <text>Chandra's Outrage deals 4 damage to target creature and 2 damage to that creature's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>212581
+      </id>
+      <name>Choose Your Champion
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, target opponent chooses a player. Until your next turn, only you and the chosen player can cast spells and attack with creatures.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.444
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>5
+      </num>
+      <text>When you set this scheme in motion, target opponent chooses a player. Until your next turn, only you and the chosen player can cast spells and attack with creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>220519
+      </id>
+      <name>Colossal Might
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +4/+2 and gains trample until end of turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.312
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>83
+      </num>
+      <text>Target creature gets +4/+2 and gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>220567
+      </id>
+      <name>Corpse Connoisseur
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Zombie Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Corpse Connoisseur enters the battlefield, you may search your library for a creature card and put that card into your graveyard. If you do, shuffle your library.&lt;br&gt;Unearth {3}{B} &lt;i&gt;({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.559
+      </rating>
+      <artist>Mark Hyzer
+      </artist>
+      <num>13
+      </num>
+      <text>When Corpse Connoisseur enters the battlefield, you may search your library for a creature card and put that card into your graveyard. If you do, shuffle your library.&lt;br&gt;Unearth {3}{B} &lt;i&gt;({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>212610
+      </id>
+      <name>Dance, Pathetic Marionette
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, each opponent reveals cards from the top of his or her library until he or she reveals a creature card. Choose one of the revealed creature cards and put it onto the battlefield under your control. Put all other cards revealed this way into their owners' graveyards.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.889
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>6
+      </num>
+      <text>When you set this scheme in motion, each opponent reveals cards from the top of his or her library until he or she reveals a creature card. Choose one of the revealed creature cards and put it onto the battlefield under your control. Put all other cards revealed this way into their owners' graveyards.
+      </text>
+    </mc>
+    <mc>
+      <id>220548
+      </id>
+      <name>Dimir Signet
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}: Add {U}{B} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.071
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>104
+      </num>
+      <text>{1}, {T}: Add {U}{B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220473
+      </id>
+      <name>Dragon Breath
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has haste.&lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn.&lt;br&gt;When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Breath from your graveyard to the battlefield attached to that creature.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.413
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>33
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has haste.&lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn.&lt;br&gt;When a creature with converted mana cost 6 or greater enters the battlefield, you may return Dragon Breath from your graveyard to the battlefield attached to that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>220456
+      </id>
+      <name>Dragon Fodder
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put two 1/1 red Goblin creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.92
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>34
+      </num>
+      <text>Put two 1/1 red Goblin creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>220477
+      </id>
+      <name>Dragon Whelp
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.767
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>35
+      </num>
+      <text>Flying&lt;br&gt;{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>220474
+      </id>
+      <name>Dragonspeaker Shaman
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Human Barbarian Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Dragon spells you cast cost {2} less to cast.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.3
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>36
+      </num>
+      <text>Dragon spells you cast cost {2} less to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>220554
+      </id>
+      <name>Dreamstone Hedron
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {3} to your mana pool.&lt;br&gt;{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.929
+      </rating>
+      <artist>Eric Deschamps
+      </artist>
+      <num>105
+      </num>
+      <text>{T}: Add {3} to your mana pool.&lt;br&gt;{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>220457
+      </id>
+      <name>Dregscape Zombie
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Unearth {B} &lt;i&gt;({B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.906
+      </rating>
+      <artist>Lars Grant-West
+      </artist>
+      <num>14
+      </num>
+      <text>Unearth {B} &lt;i&gt;({B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220526
+      </id>
+      <name>Duplicant
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Shapeshifter
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Imprint- When Duplicant enters the battlefield, you may exile target nontoken creature.&lt;br&gt;As long as the exiled card is a creature card, Duplicant has that card's power, toughness, and creature types. It's still a Shapeshifter.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.26
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>106
+      </num>
+      <text>Imprint- When Duplicant enters the battlefield, you may exile target nontoken creature.&lt;br&gt;As long as the exiled card is a creature card, Duplicant has that card's power, toughness, and creature types. It's still a Shapeshifter.
+      </text>
+    </mc>
+    <mc>
+      <id>212596
+      </id>
+      <name>Embrace My Diabolical Vision
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, each player shuffles his or her hand and graveyard into his or her library. You draw seven cards, then each other player draws four cards.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.188
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>9
+      </num>
+      <text>When you set this scheme in motion, each player shuffles his or her hand and graveyard into his or her library. You draw seven cards, then each other player draws four cards.
+      </text>
+    </mc>
+    <mc>
+      <id>220520
+      </id>
+      <name>Ethersworn Shieldmage
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Artifact Creature - Vedalken Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash&lt;br&gt;When Ethersworn Shieldmage enters the battlefield, prevent all damage that would be dealt to artifact creatures this turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.111
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>84
+      </num>
+      <text>Flash&lt;br&gt;When Ethersworn Shieldmage enters the battlefield, prevent all damage that would be dealt to artifact creatures this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>220534
+      </id>
+      <name>Everflowing Chalice
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Multikicker {2} &lt;i&gt;(You may pay an additional {2} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.&lt;br&gt;{T}: Add {1} to your mana pool for each charge counter on Everflowing Chalice.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.387
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>107
+      </num>
+      <text>Multikicker {2} &lt;i&gt;(You may pay an additional {2} any number of times as you cast this spell.)&lt;/i&gt;&lt;br&gt;Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.&lt;br&gt;{T}: Add {1} to your mana pool for each charge counter on Everflowing Chalice.
+      </text>
+    </mc>
+    <mc>
+      <id>212593
+      </id>
+      <name>Every Hope Shall Vanish
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, each opponent reveals his or her hand. Choose a nonland card from each of those hands. Those players discard those cards.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.545
+      </rating>
+      <artist>John Stanko
+      </artist>
+      <num>10
+      </num>
+      <text>When you set this scheme in motion, each opponent reveals his or her hand. Choose a nonland card from each of those hands. Those players discard those cards.
+      </text>
+    </mc>
+    <mc>
+      <id>212655
+      </id>
+      <name>Every Last Vestige Shall Rot
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, you may pay {X}. If you do, put each nonland permanent target player controls with converted mana cost X or less on the bottom of its owner's library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.031
+      </rating>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>11
+      </num>
+      <text>When you set this scheme in motion, you may pay {X}. If you do, put each nonland permanent target player controls with converted mana cost X or less on the bottom of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>212599
+      </id>
+      <name>Evil Comes to Fruition
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, put seven 0/1 green Plant creature tokens onto the battlefield. If you control ten or more lands, put seven 3/3 green Elemental creature tokens onto the battlefield instead.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.656
+      </rating>
+      <artist>Austin Hsu
+      </artist>
+      <num>12
+      </num>
+      <text>When you set this scheme in motion, put seven 0/1 green Plant creature tokens onto the battlefield. If you control ten or more lands, put seven 3/3 green Elemental creature tokens onto the battlefield instead.
+      </text>
+    </mc>
+    <mc>
+      <id>220507
+      </id>
+      <name>Extractor Demon
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Demon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard.&lt;br&gt;Unearth {2}{B} &lt;i&gt;({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.033
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>15
+      </num>
+      <text>Flying&lt;br&gt;Whenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard.&lt;br&gt;Unearth {2}{B} &lt;i&gt;({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>212652
+      </id>
+      <name>Feed the Machine
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, target opponent chooses self or others. If that player chooses self, he or she sacrifices two creatures. If the player chooses others, each of your other opponents sacrifices a creature.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.071
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>14
+      </num>
+      <text>When you set this scheme in motion, target opponent chooses self or others. If that player chooses self, he or she sacrifices two creatures. If the player chooses others, each of your other opponents sacrifices a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>220684
+      </id>
+      <name>Feral Hydra
+      </name>
+      <cost>{X}{G}
+      </cost>
+      <type>Creature - Hydra Beast
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Feral Hydra enters the battlefield with X +1/+1 counters on it.&lt;br&gt;{3}: Put a +1/+1 counter on Feral Hydra. Any player may activate this ability.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.143
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>53
+      </num>
+      <text>Feral Hydra enters the battlefield with X +1/+1 counters on it.&lt;br&gt;{3}: Put a +1/+1 counter on Feral Hydra. Any player may activate this ability.
+      </text>
+    </mc>
+    <mc>
+      <id>220452
+      </id>
+      <name>Fertilid
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Fertilid enters the battlefield with two +1/+1 counters on it.&lt;br&gt;{1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches his or her library for a basic land card and puts it onto the battlefield tapped. Then that player shuffles his or her library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.719
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>54
+      </num>
+      <text>Fertilid enters the battlefield with two +1/+1 counters on it.&lt;br&gt;{1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches his or her library for a basic land card and puts it onto the battlefield tapped. Then that player shuffles his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>220489
+      </id>
+      <name>Festering Goblin
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Zombie Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Festering Goblin dies, target creature gets -1/-1 until end of turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.297
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>16
+      </num>
+      <text>When Festering Goblin dies, target creature gets -1/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>220521
+      </id>
+      <name>Fieldmist Borderpost
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may pay {1} and return a basic land you control to its owner's hand rather than pay Fieldmist Borderpost's mana cost.&lt;br&gt;Fieldmist Borderpost enters the battlefield tapped.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.038
+      </rating>
+      <artist>Michael Bruinsma
+      </artist>
+      <num>85
+      </num>
+      <text>You may pay {1} and return a basic land you control to its owner's hand rather than pay Fieldmist Borderpost's mana cost.&lt;br&gt;Fieldmist Borderpost enters the battlefield tapped.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220475
+      </id>
+      <name>Fierce Empath
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.444
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>55
+      </num>
+      <text>When Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>220478
+      </id>
+      <name>Fireball
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.&lt;br&gt;Fireball costs {1} more to cast for each target beyond the first.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>37
+      </num>
+      <text>Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.&lt;br&gt;Fireball costs {1} more to cast for each target beyond the first.
+      </text>
+    </mc>
+    <mc>
+      <id>220500
+      </id>
+      <name>Fires of Yavimaya
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures you control have haste.&lt;br&gt;Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Val Mayerik
+      </artist>
+      <num>86
+      </num>
+      <text>Creatures you control have haste.&lt;br&gt;Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>220458
+      </id>
+      <name>Flameblast Dragon
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Flameblast Dragon attacks, you may pay {X}{R}. If you do, Flameblast Dragon deals X damage to target creature or player.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.629
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>38
+      </num>
+      <text>Flying&lt;br&gt;Whenever Flameblast Dragon attacks, you may pay {X}{R}. If you do, Flameblast Dragon deals X damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>220479
+      </id>
+      <name>Fog
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all combat damage that would be dealt this turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.375
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>56
+      </num>
+      <text>Prevent all combat damage that would be dealt this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>221297
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.643
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>148
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>221296
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.694
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>149
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>221295
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.607
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>150
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>220583
+      </id>
+      <name>Forgotten Ancient
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.&lt;br&gt;At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.717
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>57
+      </num>
+      <text>Whenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.&lt;br&gt;At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>220483
+      </id>
+      <name>Furnace Whelp
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{R}: Furnace Whelp gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.119
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>39
+      </num>
+      <text>Flying&lt;br&gt;{R}: Furnace Whelp gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>220495
+      </id>
+      <name>Gathan Raiders
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Hellbent- Gathan Raiders gets +2/+2 as long as you have no cards in hand.&lt;br&gt;Morph—Discard a card. &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.842
+      </rating>
+      <artist>Parente
+      </artist>
+      <num>40
+      </num>
+      <text>Hellbent- Gathan Raiders gets +2/+2 as long as you have no cards in hand.&lt;br&gt;Morph—Discard a card. &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220585
+      </id>
+      <name>Gleeful Sabotage
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target artifact or enchantment.&lt;br&gt;Conspire &lt;i&gt;(As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.154
+      </rating>
+      <artist>Todd Lockwood
+      </artist>
+      <num>58
+      </num>
+      <text>Destroy target artifact or enchantment.&lt;br&gt;Conspire &lt;i&gt;(As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220467
+      </id>
+      <name>Graypelt Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Graypelt Refuge enters the battlefield tapped.&lt;br&gt;When Graypelt Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Philip Straub
+      </artist>
+      <num>125
+      </num>
+      <text>Graypelt Refuge enters the battlefield tapped.&lt;br&gt;When Graypelt Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220504
+      </id>
+      <name>Gruul Signet
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}: Add {R}{G} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.962
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>108
+      </num>
+      <text>{1}, {T}: Add {R}{G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220584
+      </id>
+      <name>Harmonize
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw three cards.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.652
+      </rating>
+      <artist>Paul Lee
+      </artist>
+      <num>59
+      </num>
+      <text>Draw three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>220468
+      </id>
+      <name>Hellkite Charger
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying, haste&lt;br&gt;Whenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>41
+      </num>
+      <text>Flying, haste&lt;br&gt;Whenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.
+      </text>
+    </mc>
+    <mc>
+      <id>220501
+      </id>
+      <name>Heroes' Reunion
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player gains 7 life.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.114
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>87
+      </num>
+      <text>Target player gains 7 life.
+      </text>
+    </mc>
+    <mc>
+      <id>220563
+      </id>
+      <name>Hunting Moa
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Bird Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Echo {2}{G} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;When Hunting Moa enters the battlefield or dies, put a +1/+1 counter on target creature.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.917
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>60
+      </num>
+      <text>Echo {2}{G} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;When Hunting Moa enters the battlefield or dies, put a +1/+1 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>212614
+      </id>
+      <name>I Bask in Your Silent Awe
+      </name>
+      <type>Ongoing Scheme
+      </type>
+      <oracleText>&lt;i&gt;(An ongoing scheme remains face up until it's abandoned.)&lt;/i&gt;&lt;br&gt;Each opponent can't cast more than one spell each turn.&lt;br&gt;At the beginning of your upkeep, if no opponent cast a spell since your last turn ended, abandon this scheme.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.921
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>15
+      </num>
+      <text>&lt;i&gt;(An ongoing scheme remains face up until it's abandoned.)&lt;/i&gt;&lt;br&gt;Each opponent can't cast more than one spell each turn.&lt;br&gt;At the beginning of your upkeep, if no opponent cast a spell since your last turn ended, abandon this scheme.
+      </text>
+    </mc>
+    <mc>
+      <id>212619
+      </id>
+      <name>I Call on the Ancient Magics
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, each other player searches his or her library for a card, reveals it, and puts it into his or her hand. Then you search your library for two cards and put them into your hand. Each player shuffles his or her library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.467
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>16
+      </num>
+      <text>When you set this scheme in motion, each other player searches his or her library for a card, reveals it, and puts it into his or her hand. Then you search your library for two cards and put them into your hand. Each player shuffles his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>212580
+      </id>
+      <name>I Delight in Your Convulsions
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, each opponent loses 3 life. You gain life equal to the life lost this way.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.176
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>17
+      </num>
+      <text>When you set this scheme in motion, each opponent loses 3 life. You gain life equal to the life lost this way.
+      </text>
+    </mc>
+    <mc>
+      <id>212597
+      </id>
+      <name>I Know All, I See All
+      </name>
+      <type>Ongoing Scheme
+      </type>
+      <oracleText>&lt;i&gt;(An ongoing scheme remains face up until it's abandoned.)&lt;/i&gt;&lt;br&gt;Untap all permanents you control during each opponent's untap step.&lt;br&gt;At the beginning of each end step, if three or more cards were put into your graveyard this turn from anywhere, abandon this scheme.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.867
+      </rating>
+      <artist>Chuck Lukacs
+      </artist>
+      <num>18
+      </num>
+      <text>&lt;i&gt;(An ongoing scheme remains face up until it's abandoned.)&lt;/i&gt;&lt;br&gt;Untap all permanents you control during each opponent's untap step.&lt;br&gt;At the beginning of each end step, if three or more cards were put into your graveyard this turn from anywhere, abandon this scheme.
+      </text>
+    </mc>
+    <mc>
+      <id>212587
+      </id>
+      <name>Ignite the Cloneforge!
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, put a token onto the battlefield that's a copy of target permanent an opponent controls.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.536
+      </rating>
+      <artist>Ralph Horsley
+      </artist>
+      <num>19
+      </num>
+      <text>When you set this scheme in motion, put a token onto the battlefield that's a copy of target permanent an opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>220464
+      </id>
+      <name>Imperial Hellkite
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Morph {6}{R}{R} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Imperial Hellkite is turned face up, you may search your library for a Dragon card, reveal it, and put it into your hand. If you do, shuffle your library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.1
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>42
+      </num>
+      <text>Flying&lt;br&gt;Morph {6}{R}{R} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Imperial Hellkite is turned face up, you may search your library for a Dragon card, reveal it, and put it into your hand. If you do, shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>220546
+      </id>
+      <name>Incremental Blight
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put a -1/-1 counter on target creature, two -1/-1 counters on another target creature, and three -1/-1 counters on a third target creature.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.75
+      </rating>
+      <artist>Chuck Lukacs
+      </artist>
+      <num>17
+      </num>
+      <text>Put a -1/-1 counter on target creature, two -1/-1 counters on another target creature, and three -1/-1 counters on a third target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>220508
+      </id>
+      <name>Infectious Horror
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Zombie Horror
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Infectious Horror attacks, each opponent loses 2 life.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>18
+      </num>
+      <text>Whenever Infectious Horror attacks, each opponent loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>220469
+      </id>
+      <name>Inferno Trap
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay Inferno Trap's mana cost.&lt;br&gt;Inferno Trap deals 4 damage to target creature.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.875
+      </rating>
+      <artist>Philip Straub
+      </artist>
+      <num>43
+      </num>
+      <text>If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay Inferno Trap's mana cost.&lt;br&gt;Inferno Trap deals 4 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>220459
+      </id>
+      <name>Infest
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>All creatures get -2/-2 until end of turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.386
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>19
+      </num>
+      <text>All creatures get -2/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>212582
+      </id>
+      <name>Into the Earthen Maw
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, exile up to one target creature with flying, up to one target creature without flying, and all cards from up to one target opponent's graveyard.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.577
+      </rating>
+      <artist>Paul Bonner
+      </artist>
+      <num>20
+      </num>
+      <text>When you set this scheme in motion, exile up to one target creature with flying, up to one target creature without flying, and all cards from up to one target opponent's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>212603
+      </id>
+      <name>Introductions Are in Order
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, choose one- Search your library for a creature card, reveal it, put it into your hand, then shuffle your library; or you may put a creature card from your hand onto the battlefield.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Nils Hamm
+      </artist>
+      <num>21
+      </num>
+      <text>When you set this scheme in motion, choose one- Search your library for a creature card, reveal it, put it into your hand, then shuffle your library; or you may put a creature card from your hand onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>221300
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>139
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>221302
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.4
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>140
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>221301
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.214
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>141
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>220484
+      </id>
+      <name>Juggernaut
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Juggernaut
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Juggernaut attacks each turn if able.&lt;br&gt;Juggernaut can't be blocked by Walls.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.875
+      </rating>
+      <artist>Arnie Swekel
+      </artist>
+      <num>109
+      </num>
+      <text>Juggernaut attacks each turn if able.&lt;br&gt;Juggernaut can't be blocked by Walls.
+      </text>
+    </mc>
+    <mc>
+      <id>220557
+      </id>
+      <name>Kaervek the Merciless
+      </name>
+      <cost>{5}{B}{R}
+      </cost>
+      <type>Legendary Creature - Human Shaman
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever an opponent casts a spell, Kaervek the Merciless deals damage to target creature or player equal to that spell's converted mana cost.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.528
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>88
+      </num>
+      <text>Whenever an opponent casts a spell, Kaervek the Merciless deals damage to target creature or player equal to that spell's converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>220490
+      </id>
+      <name>Kamahl, Fist of Krosa
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Legendary Creature - Human Druid
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{G}: Target land becomes a 1/1 creature until end of turn. It's still a land.&lt;br&gt;{2}{G}{G}{G}: Creatures you control get +3/+3 and gain trample until end of turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.397
+      </rating>
+      <artist>Matthew D. Wilson
+      </artist>
+      <num>61
+      </num>
+      <text>{G}: Target land becomes a 1/1 creature until end of turn. It's still a land.&lt;br&gt;{2}{G}{G}{G}: Creatures you control get +3/+3 and gain trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>220470
+      </id>
+      <name>Kazandu Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Kazandu Refuge enters the battlefield tapped.&lt;br&gt;When Kazandu Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.176
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>126
+      </num>
+      <text>Kazandu Refuge enters the battlefield tapped.&lt;br&gt;When Kazandu Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220535
+      </id>
+      <name>Khalni Garden
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Khalni Garden enters the battlefield tapped.&lt;br&gt;When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.&lt;br&gt;{T}: Add {G} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.324
+      </rating>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>127
+      </num>
+      <text>Khalni Garden enters the battlefield tapped.&lt;br&gt;When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.&lt;br&gt;{T}: Add {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220465
+      </id>
+      <name>Kilnmouth Dragon
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Amplify 3 &lt;i&gt;(As this creature enters the battlefield, put three +1/+1 counters on it for each Dragon card you reveal in your hand.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;{T}: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or player.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.539
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>44
+      </num>
+      <text>Amplify 3 &lt;i&gt;(As this creature enters the battlefield, put three +1/+1 counters on it for each Dragon card you reveal in your hand.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;{T}: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>212600
+      </id>
+      <name>Know Naught but Fire
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, it deals damage to each opponent equal to the number of cards in that player's hand.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.077
+      </rating>
+      <artist>Val Mayerik
+      </artist>
+      <num>23
+      </num>
+      <text>When you set this scheme in motion, it deals damage to each opponent equal to the number of cards in that player's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>220491
+      </id>
+      <name>Krosan Tusker
+      </name>
+      <cost>{5}{G}{G}
+      </cost>
+      <type>Creature - Boar Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Cycling {2}{G} &lt;i&gt;({2}{G}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.171
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>62
+      </num>
+      <text>Cycling {2}{G} &lt;i&gt;({2}{G}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>220544
+      </id>
+      <name>Krosan Verge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Krosan Verge enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card and put them onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.412
+      </rating>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>128
+      </num>
+      <text>Krosan Verge enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card and put them onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>220568
+      </id>
+      <name>Leaf Gilder
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Add {G} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.583
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>63
+      </num>
+      <text>{T}: Add {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220527
+      </id>
+      <name>Leonin Abunas
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Cat Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Artifacts you control have hexproof. &lt;i&gt;(They can't be the targets of spells or abilities your opponents control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.321
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>1
+      </num>
+      <text>Artifacts you control have hexproof. &lt;i&gt;(They can't be the targets of spells or abilities your opponents control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220528
+      </id>
+      <name>Lightning Greaves
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has haste and shroud. &lt;i&gt;(It can't be the target of spells or abilities.)&lt;/i&gt;&lt;br&gt;Equip {0}
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.816
+      </rating>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>110
+      </num>
+      <text>Equipped creature has haste and shroud. &lt;i&gt;(It can't be the target of spells or abilities.)&lt;/i&gt;&lt;br&gt;Equip {0}
+      </text>
+    </mc>
+    <mc>
+      <id>220496
+      </id>
+      <name>Llanowar Reborn
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Llanowar Reborn enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Graft 1 &lt;i&gt;(This land enters the battlefield with a +1/+1 counter on it. Whenever a creature enters the battlefield, you may move a +1/+1 counter from this land onto it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.395
+      </rating>
+      <artist>Philip Straub
+      </artist>
+      <num>129
+      </num>
+      <text>Llanowar Reborn enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Graft 1 &lt;i&gt;(This land enters the battlefield with a +1/+1 counter on it. Whenever a creature enters the battlefield, you may move a +1/+1 counter from this land onto it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220536
+      </id>
+      <name>Lodestone Golem
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Nonartifact spells cost {1} more to cast.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.757
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>111
+      </num>
+      <text>Nonartifact spells cost {1} more to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>212579
+      </id>
+      <name>Look Skyward and Despair
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, put a 5/5 red Dragon creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.333
+      </rating>
+      <artist>Todd Lockwood
+      </artist>
+      <num>24
+      </num>
+      <text>When you set this scheme in motion, put a 5/5 red Dragon creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>220509
+      </id>
+      <name>Magister Sphinx
+      </name>
+      <cost>{4}{W}{U}{B}
+      </cost>
+      <type>Artifact Creature - Sphinx
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Magister Sphinx enters the battlefield, target player's life total becomes 10.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.367
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>89
+      </num>
+      <text>Flying&lt;br&gt;When Magister Sphinx enters the battlefield, target player's life total becomes 10.
+      </text>
+    </mc>
+    <mc>
+      <id>220569
+      </id>
+      <name>Makeshift Mannequin
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target creature card from your graveyard to the battlefield with a mannequin counter on it. For as long as that creature has a mannequin counter on it, it has "When this creature becomes the target of a spell or ability, sacrifice it."
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.269
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>20
+      </num>
+      <text>Return target creature card from your graveyard to the battlefield with a mannequin counter on it. For as long as that creature has a mannequin counter on it, it has "When this creature becomes the target of a spell or ability, sacrifice it."
+      </text>
+    </mc>
+    <mc>
+      <id>220529
+      </id>
+      <name>March of the Machines
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Each noncreature artifact is an artifact creature with power and toughness each equal to its converted mana cost. &lt;i&gt;(Equipment that's a creature can't equip a creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.515
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>6
+      </num>
+      <text>Each noncreature artifact is an artifact creature with power and toughness each equal to its converted mana cost. &lt;i&gt;(Equipment that's a creature can't equip a creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220510
+      </id>
+      <name>Master Transmuter
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Artifact Creature - Human Artificer
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{U}, {T}, Return an artifact you control to its owner's hand: You may put an artifact card from your hand onto the battlefield.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.772
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>7
+      </num>
+      <text>{U}, {T}, Return an artifact you control to its owner's hand: You may put an artifact card from your hand onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>212606
+      </id>
+      <name>May Civilization Collapse
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, target opponent chooses self or others. If that player chooses self, he or she sacrifices two lands. If the player chooses others, each of your other opponents sacrifices a land.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.125
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>25
+      </num>
+      <text>When you set this scheme in motion, target opponent chooses self or others. If that player chooses self, he or she sacrifices two lands. If the player chooses others, each of your other opponents sacrifices a land.
+      </text>
+    </mc>
+    <mc>
+      <id>220532
+      </id>
+      <name>Memnarch
+      </name>
+      <cost>{7}
+      </cost>
+      <type>Legendary Artifact Creature - Wizard
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>{1}{U}{U}: Target permanent becomes an artifact in addition to its other types. &lt;i&gt;&lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;&lt;/i&gt;&lt;br&gt;{3}{U}: Gain control of target artifact. &lt;i&gt;&lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.738
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>112
+      </num>
+      <text>{1}{U}{U}: Target permanent becomes an artifact in addition to its other types. &lt;i&gt;&lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;&lt;/i&gt;&lt;br&gt;{3}{U}: Gain control of target artifact. &lt;i&gt;&lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220460
+      </id>
+      <name>Metallurgeon
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Artifact Creature - Human Artificer
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{W}, {T}: Regenerate target artifact.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.737
+      </rating>
+      <artist>Warren Mahy
+      </artist>
+      <num>2
+      </num>
+      <text>{W}, {T}: Regenerate target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>220522
+      </id>
+      <name>Mistvein Borderpost
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may pay {1} and return a basic land you control to its owner's hand rather than pay Mistvein Borderpost's mana cost.&lt;br&gt;Mistvein Borderpost enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.154
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>90
+      </num>
+      <text>You may pay {1} and return a basic land you control to its owner's hand rather than pay Mistvein Borderpost's mana cost.&lt;br&gt;Mistvein Borderpost enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220485
+      </id>
+      <name>Molimo, Maro-Sorcerer
+      </name>
+      <cost>{4}{G}{G}{G}
+      </cost>
+      <type>Legendary Creature - Elemental
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>Trample &lt;i&gt;(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;&lt;br&gt;Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.075
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>64
+      </num>
+      <text>Trample &lt;i&gt;(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;&lt;br&gt;Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>212608
+      </id>
+      <name>Mortal Flesh Is Weak
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, each opponent's life total becomes the lowest life total among your opponents.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.794
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>26
+      </num>
+      <text>When you set this scheme in motion, each opponent's life total becomes the lowest life total among your opponents.
+      </text>
+    </mc>
+    <mc>
+      <id>220570
+      </id>
+      <name>Mosswort Bridge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Hideaway &lt;i&gt;(This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{G}, {T}: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.559
+      </rating>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>130
+      </num>
+      <text>Hideaway &lt;i&gt;(This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{G}, {T}: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater.
+      </text>
+    </mc>
+    <mc>
+      <id>221303
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.533
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>145
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>221305
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.75
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>146
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>221304
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.857
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>147
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>212611
+      </id>
+      <name>My Crushing Masterstroke
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, gain control of all nonland permanents your opponents control until end of turn. Untap those permanents. They gain haste until end of turn. Each of them attacks its owner this turn if able.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.955
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>27
+      </num>
+      <text>When you set this scheme in motion, gain control of all nonland permanents your opponents control until end of turn. Untap those permanents. They gain haste until end of turn. Each of them attacks its owner this turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>212661
+      </id>
+      <name>My Genius Knows No Bounds
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, you may pay {X}. If you do, you gain X life and draw X cards.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.625
+      </rating>
+      <artist>John Stanko
+      </artist>
+      <num>28
+      </num>
+      <text>When you set this scheme in motion, you may pay {X}. If you do, you gain X life and draw X cards.
+      </text>
+    </mc>
+    <mc>
+      <id>212620
+      </id>
+      <name>My Undead Horde Awakens
+      </name>
+      <type>Ongoing Scheme
+      </type>
+      <oracleText>&lt;i&gt;(An ongoing scheme remains face up until it's abandoned.)&lt;/i&gt;&lt;br&gt;At the beginning of your end step, you may put target creature card from an opponent's graveyard onto the battlefield under your control.&lt;br&gt;When a creature put onto the battlefield with this scheme dies, abandon this scheme.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.731
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>29
+      </num>
+      <text>&lt;i&gt;(An ongoing scheme remains face up until it's abandoned.)&lt;/i&gt;&lt;br&gt;At the beginning of your end step, you may put target creature card from an opponent's graveyard onto the battlefield under your control.&lt;br&gt;When a creature put onto the battlefield with this scheme dies, abandon this scheme.
+      </text>
+    </mc>
+    <mc>
+      <id>212607
+      </id>
+      <name>My Wish Is Your Command
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, each opponent reveals his or her hand. You may choose a noncreature, nonland card revealed this way and cast it without paying its mana cost.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>30
+      </num>
+      <text>When you set this scheme in motion, each opponent reveals his or her hand. You may choose a noncreature, nonland card revealed this way and cast it without paying its mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>220545
+      </id>
+      <name>Nantuko Monastery
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;Threshold- {G}{W}: Nantuko Monastery becomes a 4/4 green and white Insect Monk creature with first strike until end of turn. It's still a land. Activate this ability only if seven or more cards are in your graveyard.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>131
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;Threshold- {G}{W}: Nantuko Monastery becomes a 4/4 green and white Insect Monk creature with first strike until end of turn. It's still a land. Activate this ability only if seven or more cards are in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>212601
+      </id>
+      <name>Nature Demands an Offering
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, target opponent chooses a creature you don't control and puts it on top of its owner's library, then repeats this process for an artifact, an enchantment, and a land. Then the owner of each permanent chosen this way shuffles his or her library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.55
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>31
+      </num>
+      <text>When you set this scheme in motion, target opponent chooses a creature you don't control and puts it on top of its owner's library, then repeats this process for an artifact, an enchantment, and a land. Then the owner of each permanent chosen this way shuffles his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>212577
+      </id>
+      <name>Nature Shields Its Own
+      </name>
+      <type>Ongoing Scheme
+      </type>
+      <oracleText>&lt;i&gt;(An ongoing scheme remains face up until it's abandoned.)&lt;/i&gt;&lt;br&gt;Whenever a creature attacks and isn't blocked, if you're the defending player, put a 0/1 green Plant creature token onto the battlefield blocking that creature.&lt;br&gt;When four or more creatures attack you, abandon this scheme at end of combat.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>John Stanko
+      </artist>
+      <num>32
+      </num>
+      <text>&lt;i&gt;(An ongoing scheme remains face up until it's abandoned.)&lt;/i&gt;&lt;br&gt;Whenever a creature attacks and isn't blocked, if you're the defending player, put a 0/1 green Plant creature token onto the battlefield blocking that creature.&lt;br&gt;When four or more creatures attack you, abandon this scheme at end of combat.
+      </text>
+    </mc>
+    <mc>
+      <id>212624
+      </id>
+      <name>Nothing Can Stop Me Now
+      </name>
+      <type>Ongoing Scheme
+      </type>
+      <oracleText>&lt;i&gt;(An ongoing scheme remains face up until it's abandoned.)&lt;/i&gt;&lt;br&gt;If a source an opponent controls would deal damage to you, prevent 1 of that damage.&lt;br&gt;At the beginning of each end step, if you've been dealt 5 or more damage this turn, abandon this scheme.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.375
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>33
+      </num>
+      <text>&lt;i&gt;(An ongoing scheme remains face up until it's abandoned.)&lt;/i&gt;&lt;br&gt;If a source an opponent controls would deal damage to you, prevent 1 of that damage.&lt;br&gt;At the beginning of each end step, if you've been dealt 5 or more damage this turn, abandon this scheme.
+      </text>
+    </mc>
+    <mc>
+      <id>220461
+      </id>
+      <name>Obelisk of Esper
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {W}, {U}, or {B} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.364
+      </rating>
+      <artist>Francis Tsai
+      </artist>
+      <num>113
+      </num>
+      <text>{T}: Add {W}, {U}, or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220586
+      </id>
+      <name>Oblivion Ring
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Oblivion Ring enters the battlefield, exile another target nonland permanent.&lt;br&gt;When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.469
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>3
+      </num>
+      <text>When Oblivion Ring enters the battlefield, exile another target nonland permanent.&lt;br&gt;When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>212622
+      </id>
+      <name>Only Blood Ends Your Nightmares
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, each opponent sacrifices a creature. Then each opponent who didn't sacrifice a creature discards two cards.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.306
+      </rating>
+      <artist>Paul Bonner
+      </artist>
+      <num>34
+      </num>
+      <text>When you set this scheme in motion, each opponent sacrifices a creature. Then each opponent who didn't sacrifice a creature discards two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>220523
+      </id>
+      <name>Pale Recluse
+      </name>
+      <cost>{4}{G}{W}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Forestcycling {2}, plainscycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.15
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>91
+      </num>
+      <text>Reach &lt;i&gt;(This can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Forestcycling {2}, plainscycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220511
+      </id>
+      <name>Path to Exile
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.245
+      </rating>
+      <artist>Todd Lockwood
+      </artist>
+      <num>4
+      </num>
+      <text>Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>221309
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.333
+      </rating>
+      <artist>Fred Fields
+      </artist>
+      <num>137
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>221310
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.4
+      </rating>
+      <artist>Fred Fields
+      </artist>
+      <num>138
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>220514
+      </id>
+      <name>Plummet
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature with flying.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.353
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>65
+      </num>
+      <text>Destroy target creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>220571
+      </id>
+      <name>Primal Command
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose two- Target player gains 7 life; or put target noncreature permanent on top of its owner's library; or target player shuffles his or her graveyard into his or her library; or search your library for a creature card, reveal it, put it into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.577
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>66
+      </num>
+      <text>Choose two- Target player gains 7 life; or put target noncreature permanent on top of its owner's library; or target player shuffles his or her graveyard into his or her library; or search your library for a creature card, reveal it, put it into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>220541
+      </id>
+      <name>Rakdos Carnarium
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Rakdos Carnarium enters the battlefield tapped.&lt;br&gt;When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {B}{R} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.906
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>132
+      </num>
+      <text>Rakdos Carnarium enters the battlefield tapped.&lt;br&gt;When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {B}{R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220542
+      </id>
+      <name>Rakdos Guildmage
+      </name>
+      <cost>{B/R}{B/R}
+      </cost>
+      <type>Creature - Zombie Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>&lt;i&gt;({B/R} can be paid with either {B} or {R}.)&lt;/i&gt;&lt;br&gt;{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn.&lt;br&gt;{3}{R}: Put a 2/1 red Goblin creature token with haste onto the battlefield. Exile it at the beginning of the next end step.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.775
+      </rating>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>92
+      </num>
+      <text>&lt;i&gt;({B/R} can be paid with either {B} or {R}.)&lt;/i&gt;&lt;br&gt;{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn.&lt;br&gt;{3}{R}: Put a 2/1 red Goblin creature token with haste onto the battlefield. Exile it at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>220543
+      </id>
+      <name>Rakdos Signet
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}: Add {B}{R} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.559
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>114
+      </num>
+      <text>{1}, {T}: Add {B}{R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220577
+      </id>
+      <name>Rancor
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+0 and has trample.&lt;br&gt;When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.895
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>67
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+0 and has trample.&lt;br&gt;When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>212653
+      </id>
+      <name>Realms Befitting My Majesty
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>36
+      </num>
+      <text>When you set this scheme in motion, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>220576
+      </id>
+      <name>Reanimate
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.763
+      </rating>
+      <artist>Robert Bliss
+      </artist>
+      <num>21
+      </num>
+      <text>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>220515
+      </id>
+      <name>Reassembling Skeleton
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Skeleton Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield tapped.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.63
+      </rating>
+      <artist>Austin Hsu
+      </artist>
+      <num>22
+      </num>
+      <text>{1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>212602
+      </id>
+      <name>Roots of All Evil
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, put five 1/1 green Saproling creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.2
+      </rating>
+      <artist>Paul Bonner
+      </artist>
+      <num>37
+      </num>
+      <text>When you set this scheme in motion, put five 1/1 green Saproling creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>212583
+      </id>
+      <name>Rotted Ones, Lay Siege
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, for each opponent, put a 2/2 black Zombie creature token onto the battlefield that attacks that player each combat if able.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.667
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>38
+      </num>
+      <text>When you set this scheme in motion, for each opponent, put a 2/2 black Zombie creature token onto the battlefield that attacks that player each combat if able.
+      </text>
+    </mc>
+    <mc>
+      <id>220471
+      </id>
+      <name>Ryusei, the Falling Star
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Legendary Creature - Dragon Spirit
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.712
+      </rating>
+      <artist>Nottsuo
+      </artist>
+      <num>45
+      </num>
+      <text>Flying&lt;br&gt;When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>220582
+      </id>
+      <name>Sakura-Tribe Elder
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Snake Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.667
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>68
+      </num>
+      <text>Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>220462
+      </id>
+      <name>Sanctum Gargoyle
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Artifact Creature - Gargoyle
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Sanctum Gargoyle enters the battlefield, you may return target artifact card from your graveyard to your hand.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Shelly Wan
+      </artist>
+      <num>5
+      </num>
+      <text>Flying&lt;br&gt;When Sanctum Gargoyle enters the battlefield, you may return target artifact card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>220505
+      </id>
+      <name>Savage Twister
+      </name>
+      <cost>{X}{R}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Savage Twister deals X damage to each creature.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.923
+      </rating>
+      <artist>Luca Zontini
+      </artist>
+      <num>93
+      </num>
+      <text>Savage Twister deals X damage to each creature.
+      </text>
+    </mc>
+    <mc>
+      <id>220588
+      </id>
+      <name>Scion of Darkness
+      </name>
+      <cost>{5}{B}{B}{B}
+      </cost>
+      <type>Creature - Avatar
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Whenever Scion of Darkness deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.&lt;br&gt;Cycling {3} &lt;i&gt;({3}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.389
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>23
+      </num>
+      <text>Trample&lt;br&gt;Whenever Scion of Darkness deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.&lt;br&gt;Cycling {3} &lt;i&gt;({3}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220492
+      </id>
+      <name>Secluded Steppe
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Secluded Steppe enters the battlefield tapped.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;Cycling {W} &lt;i&gt;({W}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.75
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>133
+      </num>
+      <text>Secluded Steppe enters the battlefield tapped.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;Cycling {W} &lt;i&gt;({W}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220561
+      </id>
+      <name>Seething Song
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Add {R}{R}{R}{R}{R} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.71
+      </rating>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>46
+      </num>
+      <text>Add {R}{R}{R}{R}{R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220549
+      </id>
+      <name>Selesnya Guildmage
+      </name>
+      <cost>{G/W}{G/W}
+      </cost>
+      <type>Creature - Elf Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{3}{G}: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;{3}{W}: Creatures you control get +1/+1 until end of turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>94
+      </num>
+      <text>{3}{G}: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;{3}{W}: Creatures you control get +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>220587
+      </id>
+      <name>Shinen of Life's Roar
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>All creatures able to block Shinen of Life's Roar do so.&lt;br&gt;Channel- {2}{G}{G}, Discard Shinen of Life's Roar: All creatures able to block target creature this turn do so.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.921
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>69
+      </num>
+      <text>All creatures able to block Shinen of Life's Roar do so.&lt;br&gt;Channel- {2}{G}{G}, Discard Shinen of Life's Roar: All creatures able to block target creature this turn do so.
+      </text>
+    </mc>
+    <mc>
+      <id>220572
+      </id>
+      <name>Shriekmaw
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.&lt;br&gt;Evoke {1}{B} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.29
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>24
+      </num>
+      <text>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.&lt;br&gt;Evoke {1}{B} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220480
+      </id>
+      <name>Sign in Blood
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player draws two cards and loses 2 life.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.571
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>25
+      </num>
+      <text>Target player draws two cards and loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>220493
+      </id>
+      <name>Skirk Commando
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Skirk Commando deals combat damage to a player, you may have it deal 2 damage to target creature that player controls.&lt;br&gt;Morph {2}{R} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.423
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>47
+      </num>
+      <text>Whenever Skirk Commando deals combat damage to a player, you may have it deal 2 damage to target creature that player controls.&lt;br&gt;Morph {2}{R} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220466
+      </id>
+      <name>Skirk Marauder
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Morph {2}{R} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Skirk Marauder is turned face up, it deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>48
+      </num>
+      <text>Morph {2}{R} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Skirk Marauder is turned face up, it deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>220537
+      </id>
+      <name>Skullcage
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>At the beginning of each opponent's upkeep, Skullcage deals 2 damage to that player unless he or she has exactly three or exactly four cards in hand.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.833
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>115
+      </num>
+      <text>At the beginning of each opponent's upkeep, Skullcage deals 2 damage to that player unless he or she has exactly three or exactly four cards in hand.
+      </text>
+    </mc>
+    <mc>
+      <id>222702
+      </id>
+      <name>Sorcerer's Strongbox
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}: Flip a coin. If you win the flip, sacrifice Sorcerer's Strongbox and draw three cards.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.885
+      </rating>
+      <artist>Chuck Lukacs
+      </artist>
+      <num>116
+      </num>
+      <text>{2}, {T}: Flip a coin. If you win the flip, sacrifice Sorcerer's Strongbox and draw three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>220555
+      </id>
+      <name>Spider Umbra
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has reach. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.111
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>70
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has reach. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Totem armor &lt;i&gt;(If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220497
+      </id>
+      <name>Spin into Myth
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put target creature on top of its owner's library, then fateseal 2. &lt;i&gt;(To fateseal 2, look at the top two cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.206
+      </rating>
+      <artist>David Day
+      </artist>
+      <num>8
+      </num>
+      <text>Put target creature on top of its owner's library, then fateseal 2. &lt;i&gt;(To fateseal 2, look at the top two cards of an opponent's library, then put any number of them on the bottom of that player's library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220530
+      </id>
+      <name>Sun Droplet
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Whenever you're dealt damage, put that many charge counters on Sun Droplet.&lt;br&gt;At the beginning of each upkeep, you may remove a charge counter from Sun Droplet. If you do, you gain 1 life.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.312
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>117
+      </num>
+      <text>Whenever you're dealt damage, put that many charge counters on Sun Droplet.&lt;br&gt;At the beginning of each upkeep, you may remove a charge counter from Sun Droplet. If you do, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>220533
+      </id>
+      <name>Sundering Titan
+      </name>
+      <cost>{8}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>7
+      </power>
+      <toughness>10
+      </toughness>
+      <oracleText>When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.262
+      </rating>
+      <artist>Jim Murray
+      </artist>
+      <num>118
+      </num>
+      <text>When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands.
+      </text>
+    </mc>
+    <mc>
+      <id>212598
+      </id>
+      <name>Surrender Your Thoughts
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, target opponent chooses self or others. If that player chooses self, he or she discards four cards. If the player chooses others, each of your other opponents discards two cards.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.8
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>39
+      </num>
+      <text>When you set this scheme in motion, target opponent chooses self or others. If that player chooses self, he or she discards four cards. If the player chooses others, each of your other opponents discards two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>221311
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.542
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>142
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>221312
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.636
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>143
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>221313
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.429
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>144
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>220538
+      </id>
+      <name>Synod Centurion
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When you control no other artifacts, sacrifice Synod Centurion.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.923
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>119
+      </num>
+      <text>When you control no other artifacts, sacrifice Synod Centurion.
+      </text>
+    </mc>
+    <mc>
+      <id>220531
+      </id>
+      <name>Synod Sanctum
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}: Exile target permanent you control.&lt;br&gt;{2}, Sacrifice Synod Sanctum: Return all cards exiled with Synod Sanctum to the battlefield under your control.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.214
+      </rating>
+      <artist>Dana Knutson
+      </artist>
+      <num>120
+      </num>
+      <text>{2}, {T}: Exile target permanent you control.&lt;br&gt;{2}, Sacrifice Synod Sanctum: Return all cards exiled with Synod Sanctum to the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>220453
+      </id>
+      <name>Taurean Mauler
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Whenever an opponent casts a spell, you may put a +1/+1 counter on Taurean Mauler.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.318
+      </rating>
+      <artist>Dominick Domingo
+      </artist>
+      <num>49
+      </num>
+      <text>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Whenever an opponent casts a spell, you may put a +1/+1 counter on Taurean Mauler.
+      </text>
+    </mc>
+    <mc>
+      <id>220524
+      </id>
+      <name>Terminate
+      </name>
+      <cost>{B}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature. It can't be regenerated.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.56
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>95
+      </num>
+      <text>Destroy target creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>220481
+      </id>
+      <name>Terramorphic Expanse
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.029
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>134
+      </num>
+      <text>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>212613
+      </id>
+      <name>The Dead Shall Serve
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, for each opponent, put up to one target creature card from that player's graveyard onto the battlefield under your control. Each of those creatures attacks its owner each combat if able.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.885
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>7
+      </num>
+      <text>When you set this scheme in motion, for each opponent, put up to one target creature card from that player's graveyard onto the battlefield under your control. Each of those creatures attacks its owner each combat if able.
+      </text>
+    </mc>
+    <mc>
+      <id>212576
+      </id>
+      <name>The Fate of the Flammable
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, target opponent chooses self or others. If that player chooses self, this scheme deals 6 damage to him or her. If the player chooses others, this scheme deals 3 damage to each of your other opponents.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.316
+      </rating>
+      <artist>Paul Bonner
+      </artist>
+      <num>13
+      </num>
+      <text>When you set this scheme in motion, target opponent chooses self or others. If that player chooses self, this scheme deals 6 damage to him or her. If the player chooses others, this scheme deals 3 damage to each of your other opponents.
+      </text>
+    </mc>
+    <mc>
+      <id>212594
+      </id>
+      <name>The Iron Guardian Stirs
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, put a 4/6 colorless Golem artifact creature token onto the battlefield.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.594
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>22
+      </num>
+      <text>When you set this scheme in motion, put a 4/6 colorless Golem artifact creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>212604
+      </id>
+      <name>The Pieces Are Coming Together
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, draw two cards. Artifact spells you cast this turn cost {2} less to cast.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.412
+      </rating>
+      <artist>Ralph Horsley
+      </artist>
+      <num>35
+      </num>
+      <text>When you set this scheme in motion, draw two cards. Artifact spells you cast this turn cost {2} less to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>212615
+      </id>
+      <name>The Very Soil Shall Shake
+      </name>
+      <type>Ongoing Scheme
+      </type>
+      <oracleText>&lt;i&gt;(An ongoing scheme remains face up until it's abandoned.)&lt;/i&gt;&lt;br&gt;Creatures you control get +2/+2 and have trample.&lt;br&gt;When a creature you control dies, abandon this scheme.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.318
+      </rating>
+      <artist>Val Mayerik
+      </artist>
+      <num>41
+      </num>
+      <text>&lt;i&gt;(An ongoing scheme remains face up until it's abandoned.)&lt;/i&gt;&lt;br&gt;Creatures you control get +2/+2 and have trample.&lt;br&gt;When a creature you control dies, abandon this scheme.
+      </text>
+    </mc>
+    <mc>
+      <id>220558
+      </id>
+      <name>Thelonite Hermit
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elf Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Saproling creatures get +1/+1.&lt;br&gt;Morph {3}{G}{G} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Thelonite Hermit is turned face up, put four 1/1 green Saproling creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.455
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>71
+      </num>
+      <text>Saproling creatures get +1/+1.&lt;br&gt;Morph {3}{G}{G} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Thelonite Hermit is turned face up, put four 1/1 green Saproling creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>220506
+      </id>
+      <name>Thran Dynamo
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {3} to your mana pool.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.367
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>121
+      </num>
+      <text>{T}: Add {3} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>220581
+      </id>
+      <name>Thunderstaff
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>As long as Thunderstaff is untapped, if a creature would deal combat damage to you, prevent 1 of that damage.&lt;br&gt;{2}, {T}: Attacking creatures get +1/+0 until end of turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.974
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>122
+      </num>
+      <text>As long as Thunderstaff is untapped, if a creature would deal combat damage to you, prevent 1 of that damage.&lt;br&gt;{2}, {T}: Attacking creatures get +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>212590
+      </id>
+      <name>Tooth, Claw, and Tail
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, destroy up to three target nonland permanents.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.88
+      </rating>
+      <artist>Paul Bonner
+      </artist>
+      <num>40
+      </num>
+      <text>When you set this scheme in motion, destroy up to three target nonland permanents.
+      </text>
+    </mc>
+    <mc>
+      <id>220547
+      </id>
+      <name>Torrent of Souls
+      </name>
+      <cost>{4}{B/R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return up to one target creature card from your graveyard to the battlefield if {B} was spent to cast Torrent of Souls. Creatures target player controls get +2/+0 and gain haste until end of turn if {R} was spent to cast Torrent of Souls. &lt;i&gt;(Do both if {B}{R} was spent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.3
+      </rating>
+      <artist>Ian Edward Ameling
+      </artist>
+      <num>96
+      </num>
+      <text>Return up to one target creature card from your graveyard to the battlefield if {B} was spent to cast Torrent of Souls. Creatures target player controls get +2/+0 and gain haste until end of turn if {R} was spent to cast Torrent of Souls. &lt;i&gt;(Do both if {B}{R} was spent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220494
+      </id>
+      <name>Tranquil Thicket
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Tranquil Thicket enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Cycling {G} &lt;i&gt;({G}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.543
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>135
+      </num>
+      <text>Tranquil Thicket enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Cycling {G} &lt;i&gt;({G}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220564
+      </id>
+      <name>Twisted Abomination
+      </name>
+      <cost>{5}{B}
+      </cost>
+      <type>Creature - Zombie Mutant
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{B}: Regenerate Twisted Abomination.&lt;br&gt;Swampcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.273
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>26
+      </num>
+      <text>{B}: Regenerate Twisted Abomination.&lt;br&gt;Swampcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>220472
+      </id>
+      <name>Two-Headed Dragon
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.&lt;br&gt;Two-Headed Dragon can't be blocked except by two or more creatures.&lt;br&gt;Two-Headed Dragon can block an additional creature.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.438
+      </rating>
+      <artist>Sam Wood
+      </artist>
+      <num>50
+      </num>
+      <text>Flying&lt;br&gt;{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.&lt;br&gt;Two-Headed Dragon can't be blocked except by two or more creatures.&lt;br&gt;Two-Headed Dragon can block an additional creature.
+      </text>
+    </mc>
+    <mc>
+      <id>220552
+      </id>
+      <name>Unbender Tine
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Untap another target permanent.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.031
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>97
+      </num>
+      <text>{T}: Untap another target permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>220574
+      </id>
+      <name>Unmake
+      </name>
+      <cost>{W/B}{W/B}{W/B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.831
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>98
+      </num>
+      <text>Exile target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>220559
+      </id>
+      <name>Urborg Syphon-Mage
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Spellshaper
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.591
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>27
+      </num>
+      <text>{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.
+      </text>
+    </mc>
+    <mc>
+      <id>220578
+      </id>
+      <name>Vampiric Dragon
+      </name>
+      <cost>{6}{B}{R}
+      </cost>
+      <type>Creature - Vampire Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a creature dealt damage by Vampiric Dragon this turn dies, put a +1/+1 counter on Vampiric Dragon.&lt;br&gt;{1}{R}: Vampiric Dragon deals 1 damage to target creature.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.074
+      </rating>
+      <artist>Gary Ruddell
+      </artist>
+      <num>99
+      </num>
+      <text>Flying&lt;br&gt;Whenever a creature dealt damage by Vampiric Dragon this turn dies, put a +1/+1 counter on Vampiric Dragon.&lt;br&gt;{1}{R}: Vampiric Dragon deals 1 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>220565
+      </id>
+      <name>Verdeloth the Ancient
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Legendary Creature - Treefolk
+      </type>
+      <power>4
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Kicker {X} &lt;i&gt;(You may pay an additional {X} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Saproling creatures and other Treefolk creatures get +1/+1.&lt;br&gt;When Verdeloth the Ancient enters the battlefield, if it was kicked, put X 1/1 green Saproling creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.976
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>72
+      </num>
+      <text>Kicker {X} &lt;i&gt;(You may pay an additional {X} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Saproling creatures and other Treefolk creatures get +1/+1.&lt;br&gt;When Verdeloth the Ancient enters the battlefield, if it was kicked, put X 1/1 green Saproling creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>220550
+      </id>
+      <name>Vitu-Ghazi, the City-Tree
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{2}{G}{W}, {T}: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.69
+      </rating>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>136
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{2}{G}{W}, {T}: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>220512
+      </id>
+      <name>Volcanic Fallout
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Volcanic Fallout can't be countered.&lt;br&gt;Volcanic Fallout deals 2 damage to each creature and each player.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.659
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>51
+      </num>
+      <text>Volcanic Fallout can't be countered.&lt;br&gt;Volcanic Fallout deals 2 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>220566
+      </id>
+      <name>Wall of Roots
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Plant Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Defender&lt;br&gt;Put a -0/-1 counter on Wall of Roots: Add {G} to your mana pool. Activate this ability only once each turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.42
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>73
+      </num>
+      <text>Defender&lt;br&gt;Put a -0/-1 counter on Wall of Roots: Add {G} to your mana pool. Activate this ability only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>-220502
+      </id>
+      <name>Wax // Wane (Wane)
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target enchantment.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.781
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>101
+      </num>
+      <text>Destroy target enchantment.
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Wane</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Wax</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>220551
+      </id>
+      <name>Watchwolf
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Creature - Wolf
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.727
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>100
+      </num>
+    </mc>
+    <mc>
+      <id>212605
+      </id>
+      <name>Which of You Burns Brightest?
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, you may pay {X}. If you do, this scheme deals X damage to target opponent and each creature he or she controls.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.958
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>42
+      </num>
+      <text>When you set this scheme in motion, you may pay {X}. If you do, this scheme deals X damage to target opponent and each creature he or she controls.
+      </text>
+    </mc>
+    <mc>
+      <id>220575
+      </id>
+      <name>Wickerbough Elder
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Treefolk Shaman
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Wickerbough Elder enters the battlefield with a -1/-1 counter on it.&lt;br&gt;{G}, Remove a -1/-1 counter from Wickerbough Elder: Destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.111
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>74
+      </num>
+      <text>Wickerbough Elder enters the battlefield with a -1/-1 counter on it.&lt;br&gt;{G}, Remove a -1/-1 counter from Wickerbough Elder: Destroy target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>220560
+      </id>
+      <name>Yavimaya Dryad
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Dryad
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Forestwalk&lt;br&gt;When Yavimaya Dryad enters the battlefield, you may search your library for a Forest card and put it onto the battlefield tapped under target player's control. If you do, shuffle your library.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.767
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>75
+      </num>
+      <text>Forestwalk&lt;br&gt;When Yavimaya Dryad enters the battlefield, you may search your library for a Forest card and put it onto the battlefield tapped under target player's control. If you do, shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>212618
+      </id>
+      <name>Your Fate Is Thrice Sealed
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, reveal the top three cards of your library. Put all land cards revealed this way onto the battlefield and the rest into your hand.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.8
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>43
+      </num>
+      <text>When you set this scheme in motion, reveal the top three cards of your library. Put all land cards revealed this way onto the battlefield and the rest into your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>212588
+      </id>
+      <name>Your Puny Minds Cannot Fathom
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, draw four cards. You have no maximum hand size until your next turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.714
+      </rating>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>44
+      </num>
+      <text>When you set this scheme in motion, draw four cards. You have no maximum hand size until your next turn.
+      </text>
+    </mc>
+    <mc>
+      <id>212609
+      </id>
+      <name>Your Will Is Not Your Own
+      </name>
+      <type>Scheme
+      </type>
+      <oracleText>When you set this scheme in motion, gain control of target creature an opponent controls until end of turn. Untap that creature. It gets +3/+3 and gains trample and haste until end of turn.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.139
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>45
+      </num>
+      <text>When you set this scheme in motion, gain control of target creature an opponent controls until end of turn. Untap that creature. It gets +3/+3 and gains trample and haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>220579
+      </id>
+      <name>Zombie Infestation
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.909
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>28
+      </num>
+      <text>Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>220580
+      </id>
+      <name>Zombify
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target creature card from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.484
+      </rating>
+      <artist>Mark Romanoski
+      </artist>
+      <num>29
+      </num>
+      <text>Return target creature card from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>220502
+      </id>
+      <name>Wax // Wane (Wax)
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +2/+2 until end of turn.&lt;br&gt;
+      </oracleText>
+      <edition>Archenemy
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.781
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>101
+      </num>
+      <text>Target creature gets +2/+2 until end of turn.&lt;br&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Wax</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Wane</string>
+        </entry>
+      </properties>
+    </mc>
+  </list>
+</cards>

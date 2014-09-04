@@ -1,0 +1,1669 @@
+
+<cards>
+  <name>Duel_Decks__Garruk_vs__Liliana</name>
+  <key>Duel_Decks__Garruk_vs__Liliana</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>201781
+      </id>
+      <name>Albino Troll
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Troll
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Echo {1}{G} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;{1}{G}: Regenerate Albino Troll.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.694
+      </rating>
+      <artist>Parente
+      </artist>
+      <num>3
+      </num>
+      <text>Echo {1}{G} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;{1}{G}: Regenerate Albino Troll.
+      </text>
+    </mc>
+    <mc>
+      <id>201820
+      </id>
+      <name>Bad Moon
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Black creatures get +1/+1.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Gary Leach
+      </artist>
+      <num>48
+      </num>
+      <text>Black creatures get +1/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>201836
+      </id>
+      <name>Basking Rootwalla
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.&lt;br&gt;Madness {0} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.696
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>2
+      </num>
+      <text>{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.&lt;br&gt;Madness {0} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>201844
+      </id>
+      <name>Beast
+      </name>
+      <type>Creature- Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.409
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>2
+      </num>
+    </mc>
+    <mc>
+      <id>201842
+      </id>
+      <name>Beast
+      </name>
+      <type>Creature- Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.7
+      </rating>
+      <artist>John Donahue
+      </artist>
+      <num>1
+      </num>
+    </mc>
+    <mc>
+      <id>201824
+      </id>
+      <name>Beast Attack
+      </name>
+      <cost>{2}{G}{G}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put a 4/4 green Beast creature token onto the battlefield.&lt;br&gt;Flashback {2}{G}{G}{G} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.146
+      </rating>
+      <artist>Ciruelo
+      </artist>
+      <num>23
+      </num>
+      <text>Put a 4/4 green Beast creature token onto the battlefield.&lt;br&gt;Flashback {2}{G}{G}{G} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>201831
+      </id>
+      <name>Blastoderm
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Shroud &lt;i&gt;(This permanent can't be the target of spells or abilities.)&lt;/i&gt;&lt;br&gt;Fading 3 &lt;i&gt;(This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.379
+      </rating>
+      <artist>Nils Hamm
+      </artist>
+      <num>7
+      </num>
+      <text>Shroud &lt;i&gt;(This permanent can't be the target of spells or abilities.)&lt;/i&gt;&lt;br&gt;Fading 3 &lt;i&gt;(This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>201821
+      </id>
+      <name>Corrupt
+      </name>
+      <cost>{5}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.062
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>57
+      </num>
+      <text>Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.
+      </text>
+    </mc>
+    <mc>
+      <id>202143
+      </id>
+      <name>Deathgreeter
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever another creature dies, you may gain 1 life.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.912
+      </rating>
+      <artist>Dominick Domingo
+      </artist>
+      <num>33
+      </num>
+      <text>Whenever another creature dies, you may gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>202275
+      </id>
+      <name>Drudge Skeletons
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Skeleton
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{B}: Regenerate Drudge Skeletons. &lt;i&gt;(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.881
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>36
+      </num>
+      <text>{B}: Regenerate Drudge Skeletons. &lt;i&gt;(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>201843
+      </id>
+      <name>Elephant
+      </name>
+      <type>Creature- Elephant
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.382
+      </rating>
+      <artist>Arnie Swekel
+      </artist>
+      <num>3
+      </num>
+    </mc>
+    <mc>
+      <id>201832
+      </id>
+      <name>Elephant Guide
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3.&lt;br&gt;When enchanted creature dies, put a 3/3 green Elephant creature token onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.628
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>18
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3.&lt;br&gt;When enchanted creature dies, put a 3/3 green Elephant creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>201816
+      </id>
+      <name>Enslave
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;You control enchanted creature.&lt;br&gt;At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.949
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>58
+      </num>
+      <text>Enchant creature&lt;br&gt;You control enchanted creature.&lt;br&gt;At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.
+      </text>
+    </mc>
+    <mc>
+      <id>201822
+      </id>
+      <name>Faerie Macabre
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Faerie Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Discard Faerie Macabre: Exile up to two target cards from graveyards.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.682
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>42
+      </num>
+      <text>Flying&lt;br&gt;Discard Faerie Macabre: Exile up to two target cards from graveyards.
+      </text>
+    </mc>
+    <mc>
+      <id>202144
+      </id>
+      <name>Fleshbag Marauder
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Zombie Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.305
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>38
+      </num>
+      <text>When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>204966
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.857
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>28
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>204965
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.393
+      </rating>
+      <artist>Glen Angus
+      </artist>
+      <num>29
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>204967
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.529
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>30
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>204964
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.533
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>31
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>201347
+      </id>
+      <name>Garruk Wildspeaker
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Planeswalker - Garruk
+      </type>
+      <toughness>3
+      </toughness>
+      <oracleText>+1: Untap two target lands.&lt;br&gt;-1: Put a 3/3 green Beast creature token onto the battlefield.&lt;br&gt;-4: Creatures you control get +3/+3 and gain trample until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.374
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>1
+      </num>
+      <text>+1: Untap two target lands.&lt;br&gt;-1: Put a 3/3 green Beast creature token onto the battlefield.&lt;br&gt;-4: Creatures you control get +3/+3 and gain trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>201792
+      </id>
+      <name>Genju of the Cedars
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant Forest&lt;br&gt;{2}: Enchanted Forest becomes a 4/4 green Spirit creature until end of turn. It's still a land.&lt;br&gt;When enchanted Forest is put into a graveyard, you may return Genju of the Cedars from your graveyard to your hand.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.44
+      </rating>
+      <artist>Arnie Swekel
+      </artist>
+      <num>13
+      </num>
+      <text>Enchant Forest&lt;br&gt;{2}: Enchanted Forest becomes a 4/4 green Spirit creature until end of turn. It's still a land.&lt;br&gt;When enchanted Forest is put into a graveyard, you may return Genju of the Cedars from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>201793
+      </id>
+      <name>Genju of the Fens
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant Swamp&lt;br&gt;{2}: Until end of turn, enchanted Swamp becomes a 2/2 black Spirit creature with "{B}: This creature gets +1/+1 until end of turn." It's still a land.&lt;br&gt;When enchanted Swamp is put into a graveyard, you may return Genju of the Fens from your graveyard to your hand.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.722
+      </rating>
+      <artist>Tsutomu Kawade
+      </artist>
+      <num>47
+      </num>
+      <text>Enchant Swamp&lt;br&gt;{2}: Until end of turn, enchanted Swamp becomes a 2/2 black Spirit creature with "{B}: This creature gets +1/+1 until end of turn." It's still a land.&lt;br&gt;When enchanted Swamp is put into a graveyard, you may return Genju of the Fens from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>202274
+      </id>
+      <name>Ghost-Lit Stalker
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{4}{B}, {T}: Target player discards two cards. Activate this ability only any time you could cast a sorcery.&lt;br&gt;Channel- {5}{B}{B}, Discard Ghost-Lit Stalker: Target player discards four cards. Activate this ability only any time you could cast a sorcery.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.026
+      </rating>
+      <artist>Hideaki Takamura
+      </artist>
+      <num>34
+      </num>
+      <text>{4}{B}, {T}: Target player discards two cards. Activate this ability only any time you could cast a sorcery.&lt;br&gt;Channel- {5}{B}{B}, Discard Ghost-Lit Stalker: Target player discards four cards. Activate this ability only any time you could cast a sorcery.
+      </text>
+    </mc>
+    <mc>
+      <id>201839
+      </id>
+      <name>Giant Growth
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.479
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>14
+      </num>
+      <text>Target creature gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>201817
+      </id>
+      <name>Harmonize
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw three cards.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.255
+      </rating>
+      <artist>Paul Lee
+      </artist>
+      <num>21
+      </num>
+      <text>Draw three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>202147
+      </id>
+      <name>Hideous End
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonblack creature. Its controller loses 2 life.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.015
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>52
+      </num>
+      <text>Destroy target nonblack creature. Its controller loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>202148
+      </id>
+      <name>Howling Banshee
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Howling Banshee enters the battlefield, each player loses 3 life.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.232
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>43
+      </num>
+      <text>Flying&lt;br&gt;When Howling Banshee enters the battlefield, each player loses 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>202145
+      </id>
+      <name>Ichor Slick
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets -3/-3 until end of turn.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;Madness {3}{B} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.217
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>51
+      </num>
+      <text>Target creature gets -3/-3 until end of turn.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;Madness {3}{B} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>201834
+      </id>
+      <name>Indrik Stomphowler
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.769
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>10
+      </num>
+      <text>When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>202261
+      </id>
+      <name>Invigorate
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>If you control a Forest, rather than pay Invigorate's mana cost, you may have an opponent gain 3 life.&lt;br&gt;Target creature gets +4/+4 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.417
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>19
+      </num>
+      <text>If you control a Forest, rather than pay Invigorate's mana cost, you may have an opponent gain 3 life.&lt;br&gt;Target creature gets +4/+4 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>201796
+      </id>
+      <name>Keening Banshee
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Keening Banshee enters the battlefield, target creature gets -2/-2 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.476
+      </rating>
+      <artist>Robert Bliss
+      </artist>
+      <num>44
+      </num>
+      <text>Flying&lt;br&gt;When Keening Banshee enters the battlefield, target creature gets -2/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>201829
+      </id>
+      <name>Krosan Tusker
+      </name>
+      <cost>{5}{G}{G}
+      </cost>
+      <type>Creature - Boar Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Cycling {2}{G} &lt;i&gt;({2}{G}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.426
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>11
+      </num>
+      <text>Cycling {2}{G} &lt;i&gt;({2}{G}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>201837
+      </id>
+      <name>Lignify
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Tribal Enchantment - Treefolk Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature is a 0/4 Treefolk with no abilities.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.44
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>16
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature is a 0/4 Treefolk with no abilities.
+      </text>
+    </mc>
+    <mc>
+      <id>201348
+      </id>
+      <name>Liliana Vess
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Planeswalker - Liliana
+      </type>
+      <toughness>5
+      </toughness>
+      <oracleText>+1: Target player discards a card.&lt;br&gt;-2: Search your library for a card, then shuffle your library and put that card on top of it.&lt;br&gt;-8: Put all creature cards from all graveyards onto the battlefield under your control.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>32
+      </num>
+      <text>+1: Target player discards a card.&lt;br&gt;-2: Search your library for a card, then shuffle your library and put that card on top of it.&lt;br&gt;-8: Put all creature cards from all graveyards onto the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>201819
+      </id>
+      <name>Mutilate
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>All creatures get -1/-1 until end of turn for each Swamp you control.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.625
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>55
+      </num>
+      <text>All creatures get -1/-1 until end of turn for each Swamp you control.
+      </text>
+    </mc>
+    <mc>
+      <id>201840
+      </id>
+      <name>Nature's Lore
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.436
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>17
+      </num>
+      <text>Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>201779
+      </id>
+      <name>Overrun
+      </name>
+      <cost>{2}{G}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Creatures you control get +3/+3 and gain trample until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.683
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>24
+      </num>
+      <text>Creatures you control get +3/+3 and gain trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>201790
+      </id>
+      <name>Phyrexian Rager
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.235
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>39
+      </num>
+      <text>When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>201835
+      </id>
+      <name>Plated Slagwurm
+      </name>
+      <cost>{4}{G}{G}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>8
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.588
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>12
+      </num>
+      <text>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>201782
+      </id>
+      <name>Polluted Mire
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Polluted Mire enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.844
+      </rating>
+      <artist>Stephen Daniele
+      </artist>
+      <num>59
+      </num>
+      <text>Polluted Mire enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>201838
+      </id>
+      <name>Rancor
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+0 and has trample.&lt;br&gt;When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.875
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>15
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+0 and has trample.&lt;br&gt;When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>201882
+      </id>
+      <name>Ravenous Baloth
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Sacrifice a Beast: You gain 4 life.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.477
+      </rating>
+      <artist>Arnie Swekel
+      </artist>
+      <num>8
+      </num>
+      <text>Sacrifice a Beast: You gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>201791
+      </id>
+      <name>Ravenous Rats
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Rat
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Ravenous Rats enters the battlefield, target opponent discards a card.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.421
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>37
+      </num>
+      <text>When Ravenous Rats enters the battlefield, target opponent discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>201800
+      </id>
+      <name>Rise from the Grave
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.286
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>56
+      </num>
+      <text>Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
+      </text>
+    </mc>
+    <mc>
+      <id>202281
+      </id>
+      <name>Rude Awakening
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose one- Untap all lands you control; or until end of turn, lands you control become 2/2 creatures that are still lands.&lt;br&gt;Entwine {2}{G} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.953
+      </rating>
+      <artist>Ittoku
+      </artist>
+      <num>22
+      </num>
+      <text>Choose one- Untap all lands you control; or until end of turn, lands you control become 2/2 creatures that are still lands.&lt;br&gt;Entwine {2}{G} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>202280
+      </id>
+      <name>Serrated Arrows
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Serrated Arrows enters the battlefield with three arrowhead counters on it.&lt;br&gt;At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.&lt;br&gt;{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.071
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>20
+      </num>
+      <text>Serrated Arrows enters the battlefield with three arrowhead counters on it.&lt;br&gt;At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.&lt;br&gt;{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>201801
+      </id>
+      <name>Sign in Blood
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player draws two cards and loses 2 life.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.609
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>49
+      </num>
+      <text>Target player draws two cards and loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>201809
+      </id>
+      <name>Skeletal Vampire
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Vampire Skeleton
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Skeletal Vampire enters the battlefield, put two 1/1 black Bat creature tokens with flying onto the battlefield.&lt;br&gt;{3}{B}{B}, Sacrifice a Bat: Put two 1/1 black Bat creature tokens with flying onto the battlefield.&lt;br&gt;Sacrifice a Bat: Regenerate Skeletal Vampire.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.043
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>46
+      </num>
+      <text>Flying&lt;br&gt;When Skeletal Vampire enters the battlefield, put two 1/1 black Bat creature tokens with flying onto the battlefield.&lt;br&gt;{3}{B}{B}, Sacrifice a Bat: Put two 1/1 black Bat creature tokens with flying onto the battlefield.&lt;br&gt;Sacrifice a Bat: Regenerate Skeletal Vampire.
+      </text>
+    </mc>
+    <mc>
+      <id>201784
+      </id>
+      <name>Slippery Karst
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Slippery Karst enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.762
+      </rating>
+      <artist>Stephen Daniele
+      </artist>
+      <num>26
+      </num>
+      <text>Slippery Karst enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>201794
+      </id>
+      <name>Snuff Out
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>If you control a Swamp, you may pay 4 life rather than pay Snuff Out's mana cost.&lt;br&gt;&lt;br&gt;Destroy target nonblack creature. It can't be regenerated.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.357
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>53
+      </num>
+      <text>If you control a Swamp, you may pay 4 life rather than pay Snuff Out's mana cost.&lt;br&gt;&lt;br&gt;Destroy target nonblack creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>201881
+      </id>
+      <name>Stampeding Wildebeests
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Antelope Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Trample &lt;i&gt;(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, return a green creature you control to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.211
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>9
+      </num>
+      <text>Trample &lt;i&gt;(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, return a green creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>204970
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.812
+      </rating>
+      <artist>Stephan Martiniere
+      </artist>
+      <num>60
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>204969
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>61
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>204968
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.526
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>62
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>204971
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.632
+      </rating>
+      <artist>Richard Wright
+      </artist>
+      <num>63
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>201812
+      </id>
+      <name>Tendrils of Corruption
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.37
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>54
+      </num>
+      <text>Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.
+      </text>
+    </mc>
+    <mc>
+      <id>202279
+      </id>
+      <name>Treetop Village
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Treetop Village enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. &lt;i&gt;(If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.297
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>27
+      </num>
+      <text>Treetop Village enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. &lt;i&gt;(If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>201813
+      </id>
+      <name>Twisted Abomination
+      </name>
+      <cost>{5}{B}
+      </cost>
+      <type>Creature - Zombie Mutant
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{B}: Regenerate Twisted Abomination.&lt;br&gt;Swampcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.194
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>45
+      </num>
+      <text>{B}: Regenerate Twisted Abomination.&lt;br&gt;Swampcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>202146
+      </id>
+      <name>Urborg Syphon-Mage
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Spellshaper
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.889
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>40
+      </num>
+      <text>{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.
+      </text>
+    </mc>
+    <mc>
+      <id>202276
+      </id>
+      <name>Vampire Bats
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Bat
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;&lt;br&gt;{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.276
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>35
+      </num>
+      <text>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;&lt;br&gt;{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>202262
+      </id>
+      <name>Vicious Hunger
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Vicious Hunger deals 2 damage to target creature and you gain 2 life.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.633
+      </rating>
+      <artist>Massimilano Frezzato
+      </artist>
+      <num>50
+      </num>
+      <text>Vicious Hunger deals 2 damage to target creature and you gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>201845
+      </id>
+      <name>Vine Trellis
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Plant Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;{T}: Add {G} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.281
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>4
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;{T}: Add {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>202277
+      </id>
+      <name>Wall of Bone
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Skeleton Wall
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;{B}: Regenerate Wall of Bone. &lt;i&gt;(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.736
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>41
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;{B}: Regenerate Wall of Bone. &lt;i&gt;(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>201826
+      </id>
+      <name>Wild Mongrel
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Hound
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.677
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>5
+      </num>
+      <text>Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>201780
+      </id>
+      <name>Windstorm
+      </name>
+      <cost>{X}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Windstorm deals X damage to each creature with flying.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.429
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>25
+      </num>
+      <text>Windstorm deals X damage to each creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>201830
+      </id>
+      <name>Wirewood Savage
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever a Beast enters the battlefield, you may draw a card.
+      </oracleText>
+      <edition>Duel Decks: Garruk vs. Liliana
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.042
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>6
+      </num>
+      <text>Whenever a Beast enters the battlefield, you may draw a card.
+      </text>
+    </mc>
+  </list>
+</cards>

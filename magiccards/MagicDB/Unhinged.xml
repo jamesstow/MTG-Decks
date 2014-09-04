@@ -1,0 +1,3641 @@
+
+<cards>
+  <name>Unhinged</name>
+  <key>Unhinged</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>73934
+      </id>
+      <name>Six-y Beast
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature- Beast
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>As Six-y Beast comes into play, you secretly put six or fewer +1/+1 counters on it, then an opponent guesses the number of counters. If that player guesses right, sacrifice Six-y Beast.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.75
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>89
+      </num>
+      <text>As Six-y Beast comes into play, you secretly put six or fewer +1/+1 counters on it, then an opponent guesses the number of counters. If that player guesses right, sacrifice Six-y Beast.
+      </text>
+    </mc>
+    <mc>
+      <id>73935
+      </id>
+      <name>"Ach! Hans, Run!"
+      </name>
+      <cost>{2}{R}{R}{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, you may say "Ach Hans, run It's the . . ." and name a creature card. If you do, search your library for the named card, put it into play, then shuffle your library. That creature has haste. Remove it from the game at end of turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.37
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>116
+      </num>
+      <text>At the beginning of your upkeep, you may say "Ach Hans, run It's the . . ." and name a creature card. If you do, search your library for the named card, put it into play, then shuffle your library. That creature has haste. Remove it from the game at end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>73936
+      </id>
+      <name>Eye to Eye
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You and target creature's controller have a staring contest. If you win, destroy that creature.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.688
+      </rating>
+      <artist>Michael Sutfin
+      </artist>
+      <num>54
+      </num>
+      <text>You and target creature's controller have a staring contest. If you win, destroy that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>73937
+      </id>
+      <name>Atinlay Igpay
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Eaturecray- Igpay
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Oubleday ikestray&lt;br&gt;Eneverwhay Atinlay Igpay's ontrollercay eaksspay ay onnay-Igpay-Atinlay ordway, acrificesay Atinlay Igpay.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.278
+      </rating>
+      <artist>Evkay Alkerway
+      </artist>
+      <num>1
+      </num>
+      <text>Oubleday ikestray&lt;br&gt;Eneverwhay Atinlay Igpay's ontrollercay eaksspay ay onnay-Igpay-Atinlay ordway, acrificesay Atinlay Igpay.
+      </text>
+    </mc>
+    <mc>
+      <id>73938
+      </id>
+      <name>B-I-N-G-O
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature- Hound
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Whenever a player plays a spell, put a chip counter on its converted mana cost.  &lt;br&gt;B-I-N-G-O gets +9/+9 for each set of three numbers in a row with chip counters on them.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.518
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>92
+      </num>
+      <text>Trample&lt;br&gt;Whenever a player plays a spell, put a chip counter on its converted mana cost.  &lt;br&gt;B-I-N-G-O gets +9/+9 for each set of three numbers in a row with chip counters on them.
+      </text>
+    </mc>
+    <mc>
+      <id>73939
+      </id>
+      <name>Booster Tutor
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Open a sealed Magic booster pack, reveal the cards, and put one of those cards into your hand. &lt;i&gt;(Remove that card from your deck before beginning a new game.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.598
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>51
+      </num>
+      <text>Open a sealed Magic booster pack, reveal the cards, and put one of those cards into your hand. &lt;i&gt;(Remove that card from your deck before beginning a new game.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>73940
+      </id>
+      <name>Circle of Protection: Art
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>As Circle of Protection: Art comes into play, choose an artist.&lt;br&gt;{1}{W}: The next time a source of your choice by the chosen artist would deal damage to you this turn, prevent that damage.&lt;br&gt;{1}{W}: Return Circle of Protection: Art to its owner's hand.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.211
+      </rating>
+      <artist>Jim "Stop the Da Vinci Beatdown" Pavelec
+      </artist>
+      <num>6
+      </num>
+      <text>As Circle of Protection: Art comes into play, choose an artist.&lt;br&gt;{1}{W}: The next time a source of your choice by the chosen artist would deal damage to you this turn, prevent that damage.&lt;br&gt;{1}{W}: Return Circle of Protection: Art to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>73941
+      </id>
+      <name>Frazzled Editor
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature- Human Bureaucrat
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Protection from wordy &lt;i&gt;(Something is wordy if it has four or more lines of text in its text box.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.447
+      </rating>
+      <artist>Jim Pavelec
+      </artist>
+      <num>77
+      </num>
+      <text>Protection from wordy &lt;i&gt;(Something is wordy if it has four or more lines of text in its text box.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>73942
+      </id>
+      <name>S.N.O.T.
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature- Ooze
+      </type>
+      <power>*{^2}
+      </power>
+      <toughness>*{^2}
+      </toughness>
+      <oracleText>As S.N.O.T. comes into play, you may stick it onto another creature named S.N.O.T. in play. If you do, all those creatures form a single creature.&lt;br&gt;S.N.O.T.'s power and toughness are equal to the square of the number of S.N.O.T.s stuck together. &lt;i&gt;(One is a 1/1, two are a 4/4, three are a 9/9, and four are a 16/16.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.159
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>111
+      </num>
+      <text>As S.N.O.T. comes into play, you may stick it onto another creature named S.N.O.T. in play. If you do, all those creatures form a single creature.&lt;br&gt;S.N.O.T.'s power and toughness are equal to the square of the number of S.N.O.T.s stuck together. &lt;i&gt;(One is a 1/1, two are a 4/4, three are a 9/9, and four are a 16/16.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>73943
+      </id>
+      <name>Duh
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature with reminder text. &lt;i&gt;(Reminder text is any italicized text in parentheses that explains rules you already know.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.567
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>52
+      </num>
+      <text>Destroy target creature with reminder text. &lt;i&gt;(Reminder text is any italicized text in parentheses that explains rules you already know.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>73944
+      </id>
+      <name>Emcee
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature- Human Rogue
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever another creature comes into play, you may stand up and say in a deep, booming voice "Presenting . . . " and that creature's name. If you do, put a +1/+1 counter on that creature.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.467
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>9
+      </num>
+      <text>Whenever another creature comes into play, you may stand up and say in a deep, booming voice "Presenting . . . " and that creature's name. If you do, put a +1/+1 counter on that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>73945
+      </id>
+      <name>My First Tome
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}: Say the flavor text on a card in your hand. Target opponent guesses that card's name. You may reveal that card. If you do and your opponent guessed wrong, draw a card.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.409
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>125
+      </num>
+      <text>{1}, {T}: Say the flavor text on a card in your hand. Target opponent guesses that card's name. You may reveal that card. If you do and your opponent guessed wrong, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>73947
+      </id>
+      <name>Gleemax
+      </name>
+      <cost>{1000000}
+      </cost>
+      <type>Legendary Artifact
+      </type>
+      <oracleText>You choose all targets for all spells and abilities.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.431
+      </rating>
+      <artist>Richard Thomas
+      </artist>
+      <num>121
+      </num>
+      <text>You choose all targets for all spells and abilities.
+      </text>
+    </mc>
+    <mc>
+      <id>73948
+      </id>
+      <name>Side to Side
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You and target opponent arm-wrestle. If you win, put a 3/3 green Ape creature token into play.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.167
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>110
+      </num>
+      <text>You and target opponent arm-wrestle. If you win, put a 3/3 green Ape creature token into play.
+      </text>
+    </mc>
+    <mc>
+      <id>73949
+      </id>
+      <name>Mouth to Mouth
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You and target opponent have a breath-holding contest. If you win, you gain control of target creature that player controls.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>40
+      </num>
+      <text>You and target opponent have a breath-holding contest. If you win, you gain control of target creature that player controls.
+      </text>
+    </mc>
+    <mc>
+      <id>73950
+      </id>
+      <name>Frankie Peanuts
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Legendary Creature- Elephant Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>At the beginning of your upkeep, you may ask target player a yes-or-no question. If you do, that player answers the question truthfully and abides by that answer if able until end of turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.946
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>13
+      </num>
+      <text>At the beginning of your upkeep, you may ask target player a yes-or-no question. If you do, that player answers the question truthfully and abides by that answer if able until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>73953
+      </id>
+      <name>Water Gun Balloon Game
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>As Water Gun Balloon Game comes into play, each player puts a pop counter on a 0.&lt;br&gt;Whenever a player plays a spell, move that player's pop counter up 1.&lt;br&gt;Whenever a player's pop counter hits 5, that player puts a 5/5 pink Giant Teddy Bear creature token into play and resets all pop counters to 0.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.182
+      </rating>
+      <artist>Mark Brill
+      </artist>
+      <num>132
+      </num>
+      <text>As Water Gun Balloon Game comes into play, each player puts a pop counter on a 0.&lt;br&gt;Whenever a player plays a spell, move that player's pop counter up 1.&lt;br&gt;Whenever a player's pop counter hits 5, that player puts a 5/5 pink Giant Teddy Bear creature token into play and resets all pop counters to 0.
+      </text>
+    </mc>
+    <mc>
+      <id>73955
+      </id>
+      <name>Mana Screw
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}: Flip a coin. If you win the flip, add {2} to your mana pool. Play this ability only any time you could play an instant.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.405
+      </rating>
+      <artist>Mike Raabe
+      </artist>
+      <num>123
+      </num>
+      <text>{1}: Flip a coin. If you win the flip, add {2} to your mana pool. Play this ability only any time you could play an instant.
+      </text>
+    </mc>
+    <mc>
+      <id>73956
+      </id>
+      <name>Curse of the Fire Penguin
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Enchant Creature
+      </type>
+      <oracleText>Curse of the Fire Penquin consumes and confuses enchanted creature.&lt;br&gt;-----&lt;br&gt;Creature Penguin&lt;br&gt;Trample&lt;br&gt;When this creature is put into a graveyard from play, return Curse of the Fire Penguin from your graveyard to play.&lt;br&gt;6/5
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.917
+      </rating>
+      <artist>Matt Thompson
+      </artist>
+      <num>73
+      </num>
+      <text>Curse of the Fire Penquin consumes and confuses enchanted creature.&lt;br&gt;-----&lt;br&gt;Creature Penguin&lt;br&gt;Trample&lt;br&gt;When this creature is put into a graveyard from play, return Curse of the Fire Penguin from your graveyard to play.&lt;br&gt;6/5
+      </text>
+    </mc>
+    <mc>
+      <id>73957
+      </id>
+      <name>Mons's Goblin Waiters
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature- Goblin Waiter
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice a creature or land: Add {HalfR} to your mana pool.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>82
+      </num>
+      <text>Sacrifice a creature or land: Add {HalfR} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>73959
+      </id>
+      <name>Now I Know My ABC's
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, if you control permanents with names that include all twenty-six letters of the English alphabet, you win the game.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.45
+      </rating>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>41
+      </num>
+      <text>At the beginning of your upkeep, if you control permanents with names that include all twenty-six letters of the English alphabet, you win the game.
+      </text>
+    </mc>
+    <mc>
+      <id>73960
+      </id>
+      <name>Orcish Paratroopers
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature- Orc Paratrooper
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Orcish Paratroopers comes into play, flip it from a height of at least one foot. Sacrifice Orcish Paratroopers unless it lands face up after turning over completely.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.812
+      </rating>
+      <artist>Matt Thompson
+      </artist>
+      <num>83
+      </num>
+      <text>When Orcish Paratroopers comes into play, flip it from a height of at least one foot. Sacrifice Orcish Paratroopers unless it lands face up after turning over completely.
+      </text>
+    </mc>
+    <mc>
+      <id>73961
+      </id>
+      <name>Elvish House Party
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Creature- Elf Rogue
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>Elvish House Party's power and toughness are each equal to the current hour, using the twelve-hour system.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.977
+      </rating>
+      <artist>Thomas Manning
+      </artist>
+      <num>94
+      </num>
+      <text>Elvish House Party's power and toughness are each equal to the current hour, using the twelve-hour system.
+      </text>
+    </mc>
+    <mc>
+      <id>73962
+      </id>
+      <name>Phyrexian Librarian
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature- Horror
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying, trample&lt;br&gt;At the beginning of your upkeep, remove the top card of your library from the game face up and balance it on your body.&lt;br&gt;When a balanced card falls or touches another balanced card, sacrifice Phyrexian Librarian.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.58
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>62
+      </num>
+      <text>Flying, trample&lt;br&gt;At the beginning of your upkeep, remove the top card of your library from the game face up and balance it on your body.&lt;br&gt;When a balanced card falls or touches another balanced card, sacrifice Phyrexian Librarian.
+      </text>
+    </mc>
+    <mc>
+      <id>73964
+      </id>
+      <name>Loose Lips
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchant Creature
+      </type>
+      <oracleText>As Loose Lips comes into play, choose a sentence with eight or fewer words.&lt;br&gt;Enchanted creature has flying.&lt;br&gt;Whenever enchanted creature deals damage to an opponent, you draw two cards unless that player says the chosen sentence.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.267
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>36
+      </num>
+      <text>As Loose Lips comes into play, choose a sentence with eight or fewer words.&lt;br&gt;Enchanted creature has flying.&lt;br&gt;Whenever enchanted creature deals damage to an opponent, you draw two cards unless that player says the chosen sentence.
+      </text>
+    </mc>
+    <mc>
+      <id>73966
+      </id>
+      <name>Face to Face
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You and target opponent play a best two-out-of-three Rock, Paper, Scissors match. If you win, Face to Face deals 5 damage to that opponent.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.69
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>76
+      </num>
+      <text>You and target opponent play a best two-out-of-three Rock, Paper, Scissors match. If you win, Face to Face deals 5 damage to that opponent.
+      </text>
+    </mc>
+    <mc>
+      <id>73967
+      </id>
+      <name>R&amp;D's Secret Lair
+      </name>
+      <type>Legendary Land
+      </type>
+      <oracleText>Play cards as written. Ignore all errata.&lt;br&gt;{T}: Add {1} to your mana pool.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.698
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>135
+      </num>
+      <text>Play cards as written. Ignore all errata.&lt;br&gt;{T}: Add {1} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>73968
+      </id>
+      <name>Rare-B-Gone
+      </name>
+      <cost>{2}{B}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player sacrifices all rare permanents, then reveals his or her hand and discards all rare cards.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.21
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>119
+      </num>
+      <text>Each player sacrifices all rare permanents, then reveals his or her hand and discards all rare cards.
+      </text>
+    </mc>
+    <mc>
+      <id>73971
+      </id>
+      <name>Keeper of the Sacred Word
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature- Human Druid
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>As Keeper of the Sacred Word comes into play, choose a word.&lt;br&gt;Whenever an opponent says the chosen word, Keeper of the Sacred Word gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.333
+      </rating>
+      <artist>Dany Orizio
+      </artist>
+      <num>101
+      </num>
+      <text>As Keeper of the Sacred Word comes into play, choose a word.&lt;br&gt;Whenever an opponent says the chosen word, Keeper of the Sacred Word gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>73972
+      </id>
+      <name>Wordmail
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchant Creature
+      </type>
+      <oracleText>Enchanted creature gets +1/+1 for each word in its name.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.037
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>22
+      </num>
+      <text>Enchanted creature gets +1/+1 for each word in its name.
+      </text>
+    </mc>
+    <mc>
+      <id>73974
+      </id>
+      <name>Tainted Monkey
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature- Ape
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Choose a word. Target player puts the top card of his or her library into his or her graveyard. If that card has the chosen word in its text box, that player loses 3 life.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.607
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>64
+      </num>
+      <text>{T}: Choose a word. Target player puts the top card of his or her library into his or her graveyard. If that card has the chosen word in its text box, that player loses 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>73976
+      </id>
+      <name>Uktabi Kong
+      </name>
+      <cost>{5}{G}{G}{G}
+      </cost>
+      <type>Creature- Ape
+      </type>
+      <power>8
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>Trample&lt;br&gt;When Uktabi Kong comes into play, destroy all artifacts.&lt;br&gt;Tap two untapped Apes you control: Put a 1/1 green Ape creature token into play.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.65
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>115
+      </num>
+      <text>Trample&lt;br&gt;When Uktabi Kong comes into play, destroy all artifacts.&lt;br&gt;Tap two untapped Apes you control: Put a 1/1 green Ape creature token into play.
+      </text>
+    </mc>
+    <mc>
+      <id>73977
+      </id>
+      <name>Bosom Buddy
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature- Elephant Townsfolk
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever you play a spell, you may gain ½ life for each word in that spell's name.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.579
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>3
+      </num>
+      <text>Whenever you play a spell, you may gain ½ life for each word in that spell's name.
+      </text>
+    </mc>
+    <mc>
+      <id>73979
+      </id>
+      <name>Bloodletter
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature- Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When the names of three or more nonland permanents begin with the same letter, sacrifice Bloodletter. If you do, it deals 2 damage to each creature and each player.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.176
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>50
+      </num>
+      <text>When the names of three or more nonland permanents begin with the same letter, sacrifice Bloodletter. If you do, it deals 2 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>73981
+      </id>
+      <name>Infernal Spawn of Infernal Spawn of Evil
+      </name>
+      <cost>{8}{B}{B}
+      </cost>
+      <type>Creature- Demon Child
+      </type>
+      <power>8
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>Flying, first strike, trample&lt;br&gt;If you say "I'm coming, too" as you search your library, you may pay {1}{B} and reveal Infernal Spawn of Infernal Spawn of Evil from your library to have it deal 2 damage to a player of your choice. Do this no more than once each turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.339
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>57
+      </num>
+      <text>Flying, first strike, trample&lt;br&gt;If you say "I'm coming, too" as you search your library, you may pay {1}{B} and reveal Infernal Spawn of Infernal Spawn of Evil from your library to have it deal 2 damage to a player of your choice. Do this no more than once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>73985
+      </id>
+      <name>Togglodyte
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature- Golem
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Togglodyte comes into play turned on.&lt;br&gt;Whenever a player plays a spell, toggle Togglodyte's ON/OFF switch.&lt;br&gt;As long as Togglodyte is turned off, it can't attack or block, and all damage it would deal is prevented.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.58
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>129
+      </num>
+      <text>Togglodyte comes into play turned on.&lt;br&gt;Whenever a player plays a spell, toggle Togglodyte's ON/OFF switch.&lt;br&gt;As long as Togglodyte is turned off, it can't attack or block, and all damage it would deal is prevented.
+      </text>
+    </mc>
+    <mc>
+      <id>74218
+      </id>
+      <name>Framed!
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Tap or untap all permanents by the artist of your choice.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.875
+      </rating>
+      <artist>Alan "Don't Feel Like You Have to Pick Me" Pollack
+      </artist>
+      <num>33
+      </num>
+      <text>Tap or untap all permanents by the artist of your choice.
+      </text>
+    </mc>
+    <mc>
+      <id>74219
+      </id>
+      <name>Wet Willie of the Damned
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Wet Willie of the Damned deals 2½ damage to target creature or player and you gain 2½ life.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.607
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>66
+      </num>
+      <text>Wet Willie of the Damned deals 2½ damage to target creature or player and you gain 2½ life.
+      </text>
+    </mc>
+    <mc>
+      <id>74220
+      </id>
+      <name>Cheap Ass
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature- Donkey Townsfolk
+      </type>
+      <power>1
+      </power>
+      <toughness>3{1/2}
+      </toughness>
+      <oracleText>Spells you play cost  less to play.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.093
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>5
+      </num>
+      <text>Spells you play cost  less to play.
+      </text>
+    </mc>
+    <mc>
+      <id>74221
+      </id>
+      <name>Goblin Mime
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature- Goblin Mime
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When you speak, sacrifice Goblin Mime.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.281
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>78
+      </num>
+      <text>When you speak, sacrifice Goblin Mime.
+      </text>
+    </mc>
+    <mc>
+      <id>74224
+      </id>
+      <name>Fat Ass
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature- Donkey Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>3{1/2}
+      </toughness>
+      <oracleText>Fat Ass gets +2/+2 and has trample as long as you're eating. &lt;i&gt;(Food is in your mouth and you're chewing, licking, sucking, or swallowing it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>95
+      </num>
+      <text>Fat Ass gets +2/+2 and has trample as long as you're eating. &lt;i&gt;(Food is in your mouth and you're chewing, licking, sucking, or swallowing it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>74227
+      </id>
+      <name>Blast from the Past
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Madness {R}, cycling {1}{R}, kicker {2}{R}, flashback {3}{R}, buyback {4}{R}&lt;br&gt;Blast from the Past deals 2 damage to target creature or player.&lt;br&gt;If the kicker cost was paid, put a 1/1 red Goblin creature token into play.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.397
+      </rating>
+      <artist>Douglas Schuler
+      </artist>
+      <num>72
+      </num>
+      <text>Madness {R}, cycling {1}{R}, kicker {2}{R}, flashback {3}{R}, buyback {4}{R}&lt;br&gt;Blast from the Past deals 2 damage to target creature or player.&lt;br&gt;If the kicker cost was paid, put a 1/1 red Goblin creature token into play.
+      </text>
+    </mc>
+    <mc>
+      <id>74231
+      </id>
+      <name>AWOL
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Remove target attacking creature from the game. Then remove it from the removed-from-game zone and put it into the absolutely-removed-from-the-freaking-game-forever zone.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.388
+      </rating>
+      <artist>Stephen Tappin
+      </artist>
+      <num>2
+      </num>
+      <text>Remove target attacking creature from the game. Then remove it from the removed-from-game zone and put it into the absolutely-removed-from-the-freaking-game-forever zone.
+      </text>
+    </mc>
+    <mc>
+      <id>74232
+      </id>
+      <name>Letter Bomb
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>When Letter Bomb comes into play, sign it and shuffle it into target player's library. That player reveals each card he or she draws until Letter Bomb is drawn. When that player draws Letter Bomb, it deals 19½ damage to him or her.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.719
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>122
+      </num>
+      <text>When Letter Bomb comes into play, sign it and shuffle it into target player's library. That player reveals each card he or she draws until Letter Bomb is drawn. When that player draws Letter Bomb, it deals 19½ damage to him or her.
+      </text>
+    </mc>
+    <mc>
+      <id>74233
+      </id>
+      <name>Monkey Monkey Monkey
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature- Ape
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>As Monkey Monkey Monkey comes into play, choose a letter.&lt;br&gt;Monkey Monkey Monkey gets +1/+1 for each nonland permanent whose name begins with the chosen letter.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.786
+      </rating>
+      <artist>Liz Danforth
+      </artist>
+      <num>104
+      </num>
+      <text>As Monkey Monkey Monkey comes into play, choose a letter.&lt;br&gt;Monkey Monkey Monkey gets +1/+1 for each nonland permanent whose name begins with the chosen letter.
+      </text>
+    </mc>
+    <mc>
+      <id>74234
+      </id>
+      <name>Toy Boat
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature- Ship
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Cumulative upkeep—Say "Toy Boat" quickly. &lt;i&gt;(At the beginning of your upkeep, put an age counter on Toy Boat, then sacrifice it unless you say "Toy Boat" once for each age counter on it—without pausing between or fumbling it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.024
+      </rating>
+      <artist>Lars Grant-West
+      </artist>
+      <num>130
+      </num>
+      <text>Cumulative upkeep—Say "Toy Boat" quickly. &lt;i&gt;(At the beginning of your upkeep, put an age counter on Toy Boat, then sacrifice it unless you say "Toy Boat" once for each age counter on it—without pausing between or fumbling it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>74235
+      </id>
+      <name>Old Fogey
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Summon- Dinosaur
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Phasing, cumulative upkeep {1}, echo, fading 3, bands with other Dinosaurs, protection from Homarids, snow-covered plainswalk, flanking, rampage 2
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.75
+      </rating>
+      <artist>Douglas Schuler
+      </artist>
+      <num>106
+      </num>
+      <text>Phasing, cumulative upkeep {1}, echo, fading 3, bands with other Dinosaurs, protection from Homarids, snow-covered plainswalk, flanking, rampage 2
+      </text>
+    </mc>
+    <mc>
+      <id>74236
+      </id>
+      <name>Carnivorous Death-Parrot
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature- Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Carnivorous Death-Parrot unless you say its flavor text.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.932
+      </rating>
+      <artist>Tim Hildebrandt
+      </artist>
+      <num>29
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Carnivorous Death-Parrot unless you say its flavor text.
+      </text>
+    </mc>
+    <mc>
+      <id>74237
+      </id>
+      <name>Our Market Research Shows That Players Like Really Long Card Names So We Made this Card to Have the Absolute Longest Card Name Ever Elemental
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature- Elemental
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Art rampage 2 &lt;i&gt;(Whenever this becomes blocked by a creature, it gets +2/+2 for each creature in the blocker's art beyond the first.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.465
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>107
+      </num>
+      <text>Art rampage 2 &lt;i&gt;(Whenever this becomes blocked by a creature, it gets +2/+2 for each creature in the blocker's art beyond the first.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>74238
+      </id>
+      <name>Persecute Artist
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose an artist other than Rebecca Guay. Target player reveals his or her hand and discards all nonland cards by the chosen artist.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.435
+      </rating>
+      <artist>Rebecca "Don't Mess with Me" Guay
+      </artist>
+      <num>61
+      </num>
+      <text>Choose an artist other than Rebecca Guay. Target player reveals his or her hand and discards all nonland cards by the chosen artist.
+      </text>
+    </mc>
+    <mc>
+      <id>74241
+      </id>
+      <name>Working Stiff
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature- Mummy
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>As Working Stiff comes into play, straighten your arms.&lt;br&gt;When you bend an elbow, sacrifice Working Stiff.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.654
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>68
+      </num>
+      <text>As Working Stiff comes into play, straighten your arms.&lt;br&gt;When you bend an elbow, sacrifice Working Stiff.
+      </text>
+    </mc>
+    <mc>
+      <id>74242
+      </id>
+      <name>Sauté
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Sauté deals 3½ damage to target creature or player.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.344
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>88
+      </num>
+      <text>Sauté deals 3½ damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>74244
+      </id>
+      <name>Cardpecker
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature- Bird
+      </type>
+      <power>1{1/2}
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Gotcha Whenever an opponent touches the table with his or her hand, you may say "Gotcha" If you do, return Cardpecker from your graveyard to your hand.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.688
+      </rating>
+      <artist>Richard Sardinha
+      </artist>
+      <num>4
+      </num>
+      <text>Flying&lt;br&gt;Gotcha Whenever an opponent touches the table with his or her hand, you may say "Gotcha" If you do, return Cardpecker from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>74246
+      </id>
+      <name>Stone-Cold Basilisk
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature- Basilisk
+      </type>
+      <power>2{1/2}
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Whenever Stone-Cold Basilisk blocks or becomes blocked by a creature with fewer letters in its name, destroy that creature at end of combat. &lt;i&gt;(Punctuation and spaces aren't letters.)&lt;/i&gt;&lt;br&gt;Whenever an opponent reads Stone-Cold Basilisk, that player is turned to stone until end of turn. Stoned players can't attack, block, or play spells or abilities.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.354
+      </rating>
+      <artist>Don Hazeltine
+      </artist>
+      <num>112
+      </num>
+      <text>Whenever Stone-Cold Basilisk blocks or becomes blocked by a creature with fewer letters in its name, destroy that creature at end of combat. &lt;i&gt;(Punctuation and spaces aren't letters.)&lt;/i&gt;&lt;br&gt;Whenever an opponent reads Stone-Cold Basilisk, that player is turned to stone until end of turn. Stoned players can't attack, block, or play spells or abilities.
+      </text>
+    </mc>
+    <mc>
+      <id>74248
+      </id>
+      <name>Punctuate
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Punctuate deals damage to target creature equal to half the number of punctuation marks in that creature's text box. &lt;i&gt;(The punctuation marks are  ? , ; : - ( )&lt;/i&gt; / " ' &amp; .)
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.227
+      </rating>
+      <artist>Jim Pavelec
+      </artist>
+      <num>84
+      </num>
+      <text>Punctuate deals damage to target creature equal to half the number of punctuation marks in that creature's text box. &lt;i&gt;(The punctuation marks are  ? , ; : - ( )&lt;/i&gt; / " ' &amp; .)
+      </text>
+    </mc>
+    <mc>
+      <id>74249
+      </id>
+      <name>Brushstroke Paintermage
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature- Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Target permanent's artist becomes the artist of your choice until end of turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.75
+      </rating>
+      <artist>Ron "Don't You Dare Change Me" Spears
+      </artist>
+      <num>27
+      </num>
+      <text>{T}: Target permanent's artist becomes the artist of your choice until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>74250
+      </id>
+      <name>Richard Garfield, Ph.D.
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Legendary Creature- Human Designer
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>You may play cards as though they were other Magic cards of your choice with the same mana cost. &lt;i&gt;(Mana cost includes color.)&lt;/i&gt; You can't choose the same card twice.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.802
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>44
+      </num>
+      <text>You may play cards as though they were other Magic cards of your choice with the same mana cost. &lt;i&gt;(Mana cost includes color.)&lt;/i&gt; You can't choose the same card twice.
+      </text>
+    </mc>
+    <mc>
+      <id>74251
+      </id>
+      <name>Assquatch
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature- Donkey Lord
+      </type>
+      <power>3{1/2}
+      </power>
+      <toughness>3{1/2}
+      </toughness>
+      <oracleText>Each other Donkey gets +1½/+1½.&lt;br&gt;Whenever another Donkey comes into play, untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.97
+      </rating>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>71
+      </num>
+      <text>Each other Donkey gets +1½/+1½.&lt;br&gt;Whenever another Donkey comes into play, untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>74252
+      </id>
+      <name>_____
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature- Shapeshifter
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}: This card's name becomes the name of your choice. Play this ability anywhere, anytime.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.174
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>23
+      </num>
+      <text>{1}: This card's name becomes the name of your choice. Play this ability anywhere, anytime.
+      </text>
+    </mc>
+    <mc>
+      <id>74254
+      </id>
+      <name>Avatar of Me
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature- Avatar
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>Avatar of Me costs {1} more to play for each ten years you've been alive.&lt;br&gt;Avatar of Me's power is equal to your height in feet and its toughness is equal to your American shoe size. Round to the nearest ½.&lt;br&gt;Avatar of Me's color is the color of your eyes.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.9
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>26
+      </num>
+      <text>Avatar of Me costs {1} more to play for each ten years you've been alive.&lt;br&gt;Avatar of Me's power is equal to your height in feet and its toughness is equal to your American shoe size. Round to the nearest ½.&lt;br&gt;Avatar of Me's color is the color of your eyes.
+      </text>
+    </mc>
+    <mc>
+      <id>74255
+      </id>
+      <name>Moniker Mage
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature- Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{U}, Say your middle name: Moniker Mage can't be the target of spells or abilities this turn.&lt;br&gt;{U}, Say an opponent's middle name: Moniker Mage gains flying until end of turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.542
+      </rating>
+      <artist>Keith Garletts
+      </artist>
+      <num>39
+      </num>
+      <text>{U}, Say your middle name: Moniker Mage can't be the target of spells or abilities this turn.&lt;br&gt;{U}, Say an opponent's middle name: Moniker Mage gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>74256
+      </id>
+      <name>Magical Hacker
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature- Human Gamer
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{U}: Change the text of target spell or permanent by replacing all instances of + with -, and vice versa, until end of turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.286
+      </rating>
+      <artist>Doug Chaffee
+      </artist>
+      <num>37
+      </num>
+      <text>{U}: Change the text of target spell or permanent by replacing all instances of + with -, and vice versa, until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>74257
+      </id>
+      <name>Little Girl
+      </name>
+      <cost>{0.5}
+      </cost>
+      <type>Creature- Human Child
+      </type>
+      <power>{1/2}
+      </power>
+      <toughness>{1/2}
+      </toughness>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.929
+      </rating>
+      <artist>Rebecca Guay-Mitchell
+      </artist>
+      <num>16
+      </num>
+    </mc>
+    <mc>
+      <id>74259
+      </id>
+      <name>Land Aid '04
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a basic land card, put that card into play tapped, then shuffle your library. If you sang a song the whole time you were searching and shuffling, you may untap that land.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.667
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>102
+      </num>
+      <text>Search your library for a basic land card, put that card into play tapped, then shuffle your library. If you sang a song the whole time you were searching and shuffling, you may untap that land.
+      </text>
+    </mc>
+    <mc>
+      <id>74260
+      </id>
+      <name>Ladies' Knight
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature- Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Spells that players wearing at least one item of women's clothing play cost {1} less to play. &lt;i&gt;(Women's clothing is designed to be worn exclusively by women.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.808
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>15
+      </num>
+      <text>Flying&lt;br&gt;Spells that players wearing at least one item of women's clothing play cost {1} less to play. &lt;i&gt;(Women's clothing is designed to be worn exclusively by women.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>74261
+      </id>
+      <name>First Come, First Served
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>The attacking or blocking creature with the lowest collector number has first strike. If two or more creatures are tied, they all have first strike.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.818
+      </rating>
+      <artist>Thomas Gianni
+      </artist>
+      <num>12
+      </num>
+      <text>The attacking or blocking creature with the lowest collector number has first strike. If two or more creatures are tied, they all have first strike.
+      </text>
+    </mc>
+    <mc>
+      <id>74262
+      </id>
+      <name>Double Header
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature- Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Double Header comes into play, you may return target permanent with a two-word name to its owner's hand.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.905
+      </rating>
+      <artist>Richard Sardinha
+      </artist>
+      <num>31
+      </num>
+      <text>Flying&lt;br&gt;When Double Header comes into play, you may return target permanent with a two-word name to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>74263
+      </id>
+      <name>Pointy Finger of Doom
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}, {T}: Spin Pointy Finger of Doom in the middle of the table so that it rotates completely at least once, then destroy the closest permanent the finger points to.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.304
+      </rating>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>126
+      </num>
+      <text>{3}, {T}: Spin Pointy Finger of Doom in the middle of the table so that it rotates completely at least once, then destroy the closest permanent the finger points to.
+      </text>
+    </mc>
+    <mc>
+      <id>74265
+      </id>
+      <name>Symbol Status
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put a 1/1 colorless Expansion-Symbol creature token into play for each different expansion symbol among permanents you control.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.214
+      </rating>
+      <artist>Liz Danforth
+      </artist>
+      <num>114
+      </num>
+      <text>Put a 1/1 colorless Expansion-Symbol creature token into play for each different expansion symbol among permanents you control.
+      </text>
+    </mc>
+    <mc>
+      <id>74266
+      </id>
+      <name>Mana Flair
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Add {R} to your mana pool for each nonland permanent by the artist of your choice.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.056
+      </rating>
+      <artist>Paolo "That's Actually Me" Parente
+      </artist>
+      <num>81
+      </num>
+      <text>Add {R} to your mana pool for each nonland permanent by the artist of your choice.
+      </text>
+    </mc>
+    <mc>
+      <id>74267
+      </id>
+      <name>Red-Hot Hottie
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature- Elemental
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Whenever Red-Hot Hottie deals damage to a creature, put a third-degree-burn counter on that creature. It has "At the end of each turn, sacrifice this creature unless you scream ‘Aaah' at the top of your lungs."
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>86
+      </num>
+      <text>Whenever Red-Hot Hottie deals damage to a creature, put a third-degree-burn counter on that creature. It has "At the end of each turn, sacrifice this creature unless you scream ‘Aaah' at the top of your lungs."
+      </text>
+    </mc>
+    <mc>
+      <id>74268
+      </id>
+      <name>Man of Measure
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature- Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>As long as you're shorter than an opponent, Man of Measure has first strike and gets +0/+1.&lt;br&gt;As long as you're taller than an opponent, Man of Measure gets +1/+0.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.438
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>18
+      </num>
+      <text>As long as you're shorter than an opponent, Man of Measure has first strike and gets +0/+1.&lt;br&gt;As long as you're taller than an opponent, Man of Measure gets +1/+0.
+      </text>
+    </mc>
+    <mc>
+      <id>74270
+      </id>
+      <name>Smart Ass
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature- Donkey Wizard
+      </type>
+      <power>2{1/2}
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Smart Ass attacks, name a card. Defending player may reveal his or her hand and show you that the named card isn't there. If that player doesn't, Smart Ass is unblockable this turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.611
+      </rating>
+      <artist>Trevor Hairsine
+      </artist>
+      <num>45
+      </num>
+      <text>Whenever Smart Ass attacks, name a card. Defending player may reveal his or her hand and show you that the named card isn't there. If that player doesn't, Smart Ass is unblockable this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>74271
+      </id>
+      <name>Johnny, Combo Player
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Legendary Creature- Human Gamer
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{4}: Search your library for a card and put that card into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.147
+      </rating>
+      <artist>Kensuke Okabayashi
+      </artist>
+      <num>35
+      </num>
+      <text>{4}: Search your library for a card and put that card into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>74274
+      </id>
+      <name>When Fluffy Bunnies Attack
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -X/-X until end of turn, where X is the number of times the letter of your choice appears in that creature's name.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.639
+      </rating>
+      <artist>Ray Lago
+      </artist>
+      <num>67
+      </num>
+      <text>Target creature gets -X/-X until end of turn, where X is the number of times the letter of your choice appears in that creature's name.
+      </text>
+    </mc>
+    <mc>
+      <id>74275
+      </id>
+      <name>Erase (Not the Urza's Legacy One)
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>If you control two or more white permanents that share an artist, you may play Erase &lt;i&gt;(Not the Urza's Legacy One)&lt;/i&gt; without paying its mana cost.&lt;br&gt;Remove target enchantment from the game.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.35
+      </rating>
+      <artist>Pete "Yes the Urza's Legacy One" Venters
+      </artist>
+      <num>10
+      </num>
+      <text>If you control two or more white permanents that share an artist, you may play Erase &lt;i&gt;(Not the Urza's Legacy One)&lt;/i&gt; without paying its mana cost.&lt;br&gt;Remove target enchantment from the game.
+      </text>
+    </mc>
+    <mc>
+      <id>74276
+      </id>
+      <name>Staying Power
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>As long as Staying Power is in play, "until end of turn" and "this turn" effects don't end.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.227
+      </rating>
+      <artist>Richard Sardinha
+      </artist>
+      <num>21
+      </num>
+      <text>As long as Staying Power is in play, "until end of turn" and "this turn" effects don't end.
+      </text>
+    </mc>
+    <mc>
+      <id>74277
+      </id>
+      <name>Save Life
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one Target player gains 2½ life; or prevent the next 2½ damage that would be dealt to target creature this turn.&lt;br&gt;Gotcha Whenever an opponent says "Save" or "Life," you may say "Gotcha" If you do, return Save Life from your graveyard to your hand.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.614
+      </rating>
+      <artist>Ray Lago
+      </artist>
+      <num>19
+      </num>
+      <text>Choose one Target player gains 2½ life; or prevent the next 2½ damage that would be dealt to target creature this turn.&lt;br&gt;Gotcha Whenever an opponent says "Save" or "Life," you may say "Gotcha" If you do, return Save Life from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>74281
+      </id>
+      <name>Granny's Payback
+      </name>
+      <cost>{7}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You gain life equal to your age.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.775
+      </rating>
+      <artist>Joel Thomas
+      </artist>
+      <num>99
+      </num>
+      <text>You gain life equal to your age.
+      </text>
+    </mc>
+    <mc>
+      <id>74284
+      </id>
+      <name>Aesthetic Consultation
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Name an artist. Remove the top six cards of your library from the game, then reveal cards from the top of your library until you reveal a card by the named artist. Put that card in your hand, then remove all the other cards revealed this way from the game.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.679
+      </rating>
+      <artist>David "Help Me" Martin
+      </artist>
+      <num>48
+      </num>
+      <text>Name an artist. Remove the top six cards of your library from the game, then reveal cards from the top of your library until you reveal a card by the named artist. Put that card in your hand, then remove all the other cards revealed this way from the game.
+      </text>
+    </mc>
+    <mc>
+      <id>74286
+      </id>
+      <name>Name Dropping
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Gotcha Whenever an opponent says a word that's in the name of a card in your graveyard, you may say "Gotcha" If you do, return that card to your hand.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.591
+      </rating>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>105
+      </num>
+      <text>Gotcha Whenever an opponent says a word that's in the name of a card in your graveyard, you may say "Gotcha" If you do, return that card to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>74287
+      </id>
+      <name>Dumb Ass
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature- Donkey Barbarian
+      </type>
+      <power>3{1/2}
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, flip a coin. If you lose the flip, target opponent chooses whether Dumb Ass attacks this turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.235
+      </rating>
+      <artist>Bradley Williams
+      </artist>
+      <num>75
+      </num>
+      <text>At the beginning of your upkeep, flip a coin. If you lose the flip, target opponent chooses whether Dumb Ass attacks this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>74288
+      </id>
+      <name>The Fallen Apart
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature- Zombie
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>The Fallen Apart comes into play with two arms and two legs.&lt;br&gt;Whenever damage is dealt to The Fallen Apart, remove an arm or a leg from it.&lt;br&gt;The Fallen Apart can't attack if it has no legs and can't block if it has no arms.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.654
+      </rating>
+      <artist>Corey D. Macourek
+      </artist>
+      <num>55
+      </num>
+      <text>The Fallen Apart comes into play with two arms and two legs.&lt;br&gt;Whenever damage is dealt to The Fallen Apart, remove an arm or a leg from it.&lt;br&gt;The Fallen Apart can't attack if it has no legs and can't block if it has no arms.
+      </text>
+    </mc>
+    <mc>
+      <id>74289
+      </id>
+      <name>Bursting Beebles
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature- Beeble
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Bursting Beebles is unblockable as long as defending player controls two or more nonland permanents that share an artist.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.595
+      </rating>
+      <artist>David "Beeblemania" Martin
+      </artist>
+      <num>28
+      </num>
+      <text>Bursting Beebles is unblockable as long as defending player controls two or more nonland permanents that share an artist.
+      </text>
+    </mc>
+    <mc>
+      <id>74290
+      </id>
+      <name>Zombie Fanboy
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature- Zombie Gamer
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>As Zombie Fanboy comes into play, choose an artist.&lt;br&gt;Whenever a permanent by the chosen artist is put into a graveyard, put two +1/+1 counters on Zombie Fanboy.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.656
+      </rating>
+      <artist>Matt "I'm Your Boy" Cavotta
+      </artist>
+      <num>69
+      </num>
+      <text>As Zombie Fanboy comes into play, choose an artist.&lt;br&gt;Whenever a permanent by the chosen artist is put into a graveyard, put two +1/+1 counters on Zombie Fanboy.
+      </text>
+    </mc>
+    <mc>
+      <id>74292
+      </id>
+      <name>Mother of Goons
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature- Human Cleric
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever a creature an opponent controls is put into a graveyard from play, sacrifice Mother of Goons unless you insult that creature.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.674
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>59
+      </num>
+      <text>Whenever a creature an opponent controls is put into a graveyard from play, sacrifice Mother of Goons unless you insult that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>74293
+      </id>
+      <name>Laughing Hyena
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature- Hyena
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Gotcha Whenever an opponent laughs, you may say "Gotcha" If you do, return Laughing Hyena from your graveyard to your hand.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.725
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>103
+      </num>
+      <text>Gotcha Whenever an opponent laughs, you may say "Gotcha" If you do, return Laughing Hyena from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>74294
+      </id>
+      <name>Question Elemental?
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature- Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Are you aware that when you say something that isn't a question, the player who first points out this fact gains control of Question Elemental?
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.4
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>43
+      </num>
+      <text>Flying&lt;br&gt;Are you aware that when you say something that isn't a question, the player who first points out this fact gains control of Question Elemental?
+      </text>
+    </mc>
+    <mc>
+      <id>74295
+      </id>
+      <name>Goblin Secret Agent
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature- Goblin Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike&lt;br&gt;At the beginning of your upkeep, reveal a card from your hand at random.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.952
+      </rating>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>79
+      </num>
+      <text>First strike&lt;br&gt;At the beginning of your upkeep, reveal a card from your hand at random.
+      </text>
+    </mc>
+    <mc>
+      <id>74296
+      </id>
+      <name>Greater Morphling
+      </name>
+      <cost>{6}{U}{U}
+      </cost>
+      <type>Creature- Shapeshifter
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>{2}: Greater Morphling gains your choice of banding, bushido 1, double strike, fear, flying, first strike, haste, landwalk of your choice, protection from a color of your choice, provoke, rampage 1, shadow, or trample until end of turn.&lt;br&gt;{2}: Greater Morphling becomes the colors of your choice until end of turn.&lt;br&gt;{2}: Greater Morphling's type becomes the creature type of your choice until end of turn.&lt;br&gt;{2}: Greater Morphling's expansion symbol becomes the symbol of your choice until end of turn.&lt;br&gt;{2}: Greater Morphling's artist becomes the artist of your choice until end of turn.&lt;br&gt;{2}: Greater Morphling gets +2/-2 or -2/+2 until end of turn.&lt;br&gt;{2}: Untap Greater Morphling.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.64
+      </rating>
+      <artist>Greg "Six-Pack" Staples
+      </artist>
+      <num>34
+      </num>
+      <text>{2}: Greater Morphling gains your choice of banding, bushido 1, double strike, fear, flying, first strike, haste, landwalk of your choice, protection from a color of your choice, provoke, rampage 1, shadow, or trample until end of turn.&lt;br&gt;{2}: Greater Morphling becomes the colors of your choice until end of turn.&lt;br&gt;{2}: Greater Morphling's type becomes the creature type of your choice until end of turn.&lt;br&gt;{2}: Greater Morphling's expansion symbol becomes the symbol of your choice until end of turn.&lt;br&gt;{2}: Greater Morphling's artist becomes the artist of your choice until end of turn.&lt;br&gt;{2}: Greater Morphling gets +2/-2 or -2/+2 until end of turn.&lt;br&gt;{2}: Untap Greater Morphling.
+      </text>
+    </mc>
+    <mc>
+      <id>74298
+      </id>
+      <name>Gluetius Maximus
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature- Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>As Gluetius Maximus comes into play, an opponent chooses one of your fingers. &lt;i&gt;(Thumbs are fingers, too.)&lt;/i&gt;&lt;br&gt;When the chosen finger isn't touching Gluetius Maximus, sacrifice Gluetius Maximus.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.5
+      </rating>
+      <artist>Jeff Easley
+      </artist>
+      <num>98
+      </num>
+      <text>As Gluetius Maximus comes into play, an opponent chooses one of your fingers. &lt;i&gt;(Thumbs are fingers, too.)&lt;/i&gt;&lt;br&gt;When the chosen finger isn't touching Gluetius Maximus, sacrifice Gluetius Maximus.
+      </text>
+    </mc>
+    <mc>
+      <id>74300
+      </id>
+      <name>Farewell to Arms
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>As Farewell to Arms comes into play, choose a hand attached to an opponent's arm.&lt;br&gt;When the chosen hand isn't behind its owner's back, sacrifice Farewell to Arms. If you do, that player discards his or her hand . . . of cards. &lt;i&gt;(The lawyers wouldn't let us do it the other way.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.68
+      </rating>
+      <artist>Ron Lemen
+      </artist>
+      <num>56
+      </num>
+      <text>As Farewell to Arms comes into play, choose a hand attached to an opponent's arm.&lt;br&gt;When the chosen hand isn't behind its owner's back, sacrifice Farewell to Arms. If you do, that player discards his or her hand . . . of cards. &lt;i&gt;(The lawyers wouldn't let us do it the other way.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>74301
+      </id>
+      <name>Fraction Jackson
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature- Human Hero
+      </type>
+      <power>1
+      </power>
+      <toughness>1{1/2}
+      </toughness>
+      <oracleText>{G}, {T}: Return target card with a ½ on it from your graveyard to your hand.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.882
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>97
+      </num>
+      <text>{G}, {T}: Return target card with a ½ on it from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>74303
+      </id>
+      <name>Creature Guy
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature- Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Gotcha Whenever an opponent says "Creature" or "Guy," you may say "Gotcha" If you do, return Creature Guy from your graveyard to your hand.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.333
+      </rating>
+      <artist>Jeff Easley
+      </artist>
+      <num>93
+      </num>
+      <text>Gotcha Whenever an opponent says "Creature" or "Guy," you may say "Gotcha" If you do, return Creature Guy from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>74304
+      </id>
+      <name>Mise
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Name a nonland card, then reveal the top card of your library. If that card is the named card, draw three cards.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.306
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>38
+      </num>
+      <text>Name a nonland card, then reveal the top card of your library. If that card is the named card, draw three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>74306
+      </id>
+      <name>Cheatyface
+      </name>
+      <cost>{U}{U}{U}
+      </cost>
+      <type>Creature- Efreet
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>You may sneak Cheatyface into play at any time without paying for it, but if an opponent catches you right away, that player may remove Cheatyface from the game.&lt;br&gt;Flying
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.458
+      </rating>
+      <artist>Doug Chaffee
+      </artist>
+      <num>30
+      </num>
+      <text>You may sneak Cheatyface into play at any time without paying for it, but if an opponent catches you right away, that player may remove Cheatyface from the game.&lt;br&gt;Flying
+      </text>
+    </mc>
+    <mc>
+      <id>74307
+      </id>
+      <name>Head to Head
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You and target opponent play Seven Questions about the top card of that player's library. &lt;i&gt;(That player looks at the card, then you ask up to six yes-or-no questions about the card that he or she answers truthfully. You guess the card's name—that's question seven—and the player reveals the card.)&lt;/i&gt; If you win, prevent all damage that would be dealt this turn by a source of your choice.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.156
+      </rating>
+      <artist>Thomas Gianni
+      </artist>
+      <num>14
+      </num>
+      <text>You and target opponent play Seven Questions about the top card of that player's library. &lt;i&gt;(That player looks at the card, then you ask up to six yes-or-no questions about the card that he or she answers truthfully. You guess the card's name—that's question seven—and the player reveals the card.)&lt;/i&gt; If you win, prevent all damage that would be dealt this turn by a source of your choice.
+      </text>
+    </mc>
+    <mc>
+      <id>74310
+      </id>
+      <name>Remodel
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>If you control two or more green permanents that share an artist, you may play Remodel without paying its mana cost.&lt;br&gt;Remove target artifact from the game.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.958
+      </rating>
+      <artist>Lars Grant-"Wild Wild"-West
+      </artist>
+      <num>108
+      </num>
+      <text>If you control two or more green permanents that share an artist, you may play Remodel without paying its mana cost.&lt;br&gt;Remove target artifact from the game.
+      </text>
+    </mc>
+    <mc>
+      <id>74312
+      </id>
+      <name>Enter the Dungeon
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Players play a Magic subgame under the table starting at 5 life, using their libraries as their decks. After the subgame ends, the winner searches his or her library for two cards, puts those cards into his or her hand, then shuffles his or her library.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.645
+      </rating>
+      <artist>Luca Zontini
+      </artist>
+      <num>53
+      </num>
+      <text>Players play a Magic subgame under the table starting at 5 life, using their libraries as their decks. After the subgame ends, the winner searches his or her library for two cards, puts those cards into his or her hand, then shuffles his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>74314
+      </id>
+      <name>Goblin S.W.A.T. Team
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature- Goblin Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Say "Goblin S.W.A.T. Team": Put a +1/+1 counter on Goblin S.W.A.T. Team unless an opponent swats the table within five seconds. Play this ability only once each turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.938
+      </rating>
+      <artist>Eric Deschamps
+      </artist>
+      <num>80
+      </num>
+      <text>Say "Goblin S.W.A.T. Team": Put a +1/+1 counter on Goblin S.W.A.T. Team unless an opponent swats the table within five seconds. Play this ability only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>74315
+      </id>
+      <name>Supersize
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +3½/+3½ until end of turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.192
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>113
+      </num>
+      <text>Target creature gets +3½/+3½ until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>74317
+      </id>
+      <name>Ambiguity
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a player plays a spell that counters a spell that has been played or a player plays a spell that comes into play with counters, that player may counter the next spell played or put an additional counter on a permanent that has already been played, but not countered.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.157
+      </rating>
+      <artist>Stephen Daniele
+      </artist>
+      <num>24
+      </num>
+      <text>Whenever a player plays a spell that counters a spell that has been played or a player plays a spell that comes into play with counters, that player may counter the next spell played or put an additional counter on a permanent that has already been played, but not countered.
+      </text>
+    </mc>
+    <mc>
+      <id>74318
+      </id>
+      <name>Form of the Squirrel
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>As Form of the Squirrel comes into play, put a 1/1 green Squirrel creature token into play. You lose the game when it leaves play.&lt;br&gt;Creatures can't attack you.&lt;br&gt;You can't be the target of spells or abilities.&lt;br&gt;You can't play spells.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.231
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>96
+      </num>
+      <text>As Form of the Squirrel comes into play, put a 1/1 green Squirrel creature token into play. You lose the game when it leaves play.&lt;br&gt;Creatures can't attack you.&lt;br&gt;You can't be the target of spells or abilities.&lt;br&gt;You can't play spells.
+      </text>
+    </mc>
+    <mc>
+      <id>74319
+      </id>
+      <name>Vile Bile
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature- Ooze
+      </type>
+      <power>2{1/2}
+      </power>
+      <toughness>2{1/2}
+      </toughness>
+      <oracleText>Whenever a player's skin or fingernail touches Vile Bile, that player loses 2 life.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.375
+      </rating>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>65
+      </num>
+      <text>Whenever a player's skin or fingernail touches Vile Bile, that player loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>74321
+      </id>
+      <name>Topsy Turvy
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>The phases of each player's turn are reversed. &lt;i&gt;(The phases are, in reverse order, end, postcombat main, combat, precombat main, and beginning.)&lt;/i&gt;&lt;br&gt;If there are more than two players in the game, the turn order is reversed.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.15
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>47
+      </num>
+      <text>The phases of each player's turn are reversed. &lt;i&gt;(The phases are, in reverse order, end, postcombat main, combat, precombat main, and beginning.)&lt;/i&gt;&lt;br&gt;If there are more than two players in the game, the turn order is reversed.
+      </text>
+    </mc>
+    <mc>
+      <id>74322
+      </id>
+      <name>Kill Destroy
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonblack creature.&lt;br&gt;Gotcha Whenever an opponent says "Kill" or "Destroy," you may say "Gotcha" If you do, return Kill Destroy from your graveyard to your hand.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.816
+      </rating>
+      <artist>Corey D. Macourek
+      </artist>
+      <num>58
+      </num>
+      <text>Destroy target nonblack creature.&lt;br&gt;Gotcha Whenever an opponent says "Kill" or "Destroy," you may say "Gotcha" If you do, return Kill Destroy from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>74323
+      </id>
+      <name>Mox Lotus
+      </name>
+      <cost>{15}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {Infinity} to your mana pool.&lt;br&gt;{100}: Add one mana of any color to your mana pool.&lt;br&gt;You don't lose life due to mana burn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.735
+      </rating>
+      <artist>Kevin Dobler
+      </artist>
+      <num>124
+      </num>
+      <text>{T}: Add {Infinity} to your mana pool.&lt;br&gt;{100}: Add one mana of any color to your mana pool.&lt;br&gt;You don't lose life due to mana burn.
+      </text>
+    </mc>
+    <mc>
+      <id>74324
+      </id>
+      <name>Rocket-Powered Turbo Slug
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature- Slug
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Super haste &lt;i&gt;(This may attack the turn before you play it. (You may put this card into play from your hand, tapped and attacking, during your declare attackers step. If you do, you lose the game at the end of your next turn unless you pay this card's mana cost during that turn.)&lt;/i&gt;)
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.473
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>87
+      </num>
+      <text>Super haste &lt;i&gt;(This may attack the turn before you play it. (You may put this card into play from your hand, tapped and attacking, during your declare attackers step. If you do, you lose the game at the end of your next turn unless you pay this card's mana cost during that turn.)&lt;/i&gt;)
+      </text>
+    </mc>
+    <mc>
+      <id>74325
+      </id>
+      <name>Drawn Together
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>As Drawn Together comes into play, choose an artist.&lt;br&gt;Creatures by the chosen artist get +2/+2.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.781
+      </rating>
+      <artist>Pete "Fear Me" Venters
+      </artist>
+      <num>8
+      </num>
+      <text>As Drawn Together comes into play, choose an artist.&lt;br&gt;Creatures by the chosen artist get +2/+2.
+      </text>
+    </mc>
+    <mc>
+      <id>74326
+      </id>
+      <name>Necro-Impotence
+      </name>
+      <cost>{B}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Skip your untap step.&lt;br&gt;At the beginning of your upkeep, you may pay X life. If you do, untap X permanents.&lt;br&gt;Pay ½ life: Remove the top card of your library from the game face down. Put that card into your hand at end of turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.391
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>60
+      </num>
+      <text>Skip your untap step.&lt;br&gt;At the beginning of your upkeep, you may pay X life. If you do, untap X permanents.&lt;br&gt;Pay ½ life: Remove the top card of your library from the game face down. Put that card into your hand at end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>74327
+      </id>
+      <name>City of Ass
+      </name>
+      <type>Land
+      </type>
+      <oracleText>City of Ass comes into play tapped.&lt;br&gt;{T}: Add one and one-half mana of any one color to your mana pool.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.491
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>134
+      </num>
+      <text>City of Ass comes into play tapped.&lt;br&gt;{T}: Add one and one-half mana of any one color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>74328
+      </id>
+      <name>Graphic Violence
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>All creatures by the artist of your choice get +2/+2 and gain trample until end of turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.944
+      </rating>
+      <artist>Wayne "King of" England
+      </artist>
+      <num>100
+      </num>
+      <text>All creatures by the artist of your choice get +2/+2 and gain trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>74329
+      </id>
+      <name>Ass Whuppin'
+      </name>
+      <cost>{1}{W}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target silver-bordered permanent in any game you can see from your seat.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Don Hazeltine
+      </artist>
+      <num>117
+      </num>
+      <text>Destroy target silver-bordered permanent in any game you can see from your seat.
+      </text>
+    </mc>
+    <mc>
+      <id>74330
+      </id>
+      <name>Flaccify
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell unless its controller pays {3}.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Tim Hildebrandt
+      </artist>
+      <num>32
+      </num>
+      <text>Counter target spell unless its controller pays {3}.
+      </text>
+    </mc>
+    <mc>
+      <id>74331
+      </id>
+      <name>Yet Another Æther Vortex
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>All creatures have haste.&lt;br&gt;Players play with the top card of their libraries revealed.&lt;br&gt;Noninstant, nonsorcery cards on top of a library are in play under their owner's control in addition to being in that library.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.562
+      </rating>
+      <artist>David Day
+      </artist>
+      <num>91
+      </num>
+      <text>All creatures have haste.&lt;br&gt;Players play with the top card of their libraries revealed.&lt;br&gt;Noninstant, nonsorcery cards on top of a library are in play under their owner's control in addition to being in that library.
+      </text>
+    </mc>
+    <mc>
+      <id>74332
+      </id>
+      <name>Shoe Tree
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature- Treefolk
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Shoe Tree comes into play with up to two shoe counters on it. Use your shoes as counters.&lt;br&gt;Shoe Tree gets +1/+1 for each shoe counter on it.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.676
+      </rating>
+      <artist>Francis Tsai
+      </artist>
+      <num>109
+      </num>
+      <text>Shoe Tree comes into play with up to two shoe counters on it. Use your shoes as counters.&lt;br&gt;Shoe Tree gets +1/+1 for each shoe counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>74333
+      </id>
+      <name>Pygmy Giant
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature- Giant
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}, {T}, Sacrifice a creature: Pygmy Giant deals X damage to target creature, where X is a number in the sacrificed creature's text box.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.052
+      </rating>
+      <artist>Eric Deschamps
+      </artist>
+      <num>85
+      </num>
+      <text>{R}, {T}, Sacrifice a creature: Pygmy Giant deals X damage to target creature, where X is a number in the sacrificed creature's text box.
+      </text>
+    </mc>
+    <mc>
+      <id>74334
+      </id>
+      <name>World-Bottling Kit
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{5}, Sacrifice World-Bottling Kit: Choose a Magic set. Remove from the game all permanents with that set's expansion symbol except for basic lands.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Alan Rabinowitz
+      </artist>
+      <num>133
+      </num>
+      <text>{5}, Sacrifice World-Bottling Kit: Choose a Magic set. Remove from the game all permanents with that set's expansion symbol except for basic lands.
+      </text>
+    </mc>
+    <mc>
+      <id>74336
+      </id>
+      <name>Zzzyxas's Abyss
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, destroy all nonland permanents with the first name alphabetically among nonland permanents in play.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.545
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>70
+      </num>
+      <text>At the beginning of your upkeep, destroy all nonland permanents with the first name alphabetically among nonland permanents in play.
+      </text>
+    </mc>
+    <mc>
+      <id>74337
+      </id>
+      <name>Number Crunch
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target permanent to its owner's hand.&lt;br&gt;Gotcha Whenever an opponent says a number, you may say "Gotcha" If you do, return Number Crunch from your graveyard to your hand.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.833
+      </rating>
+      <artist>Stephen Daniele
+      </artist>
+      <num>42
+      </num>
+      <text>Return target permanent to its owner's hand.&lt;br&gt;Gotcha Whenever an opponent says a number, you may say "Gotcha" If you do, return Number Crunch from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>74339
+      </id>
+      <name>Spell Counter
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell.&lt;br&gt;Gotcha Whenever an opponent says "Spell" or "Counter," you may say "Gotcha" If you do, return Spell Counter from your graveyard to your hand.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.154
+      </rating>
+      <artist>Doug Chaffee
+      </artist>
+      <num>46
+      </num>
+      <text>Counter target spell.&lt;br&gt;Gotcha Whenever an opponent says "Spell" or "Counter," you may say "Gotcha" If you do, return Spell Counter from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>74342
+      </id>
+      <name>Time Machine
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Remove Time Machine and target nontoken creature you own from the game. Return both cards to play at the beginning of your upkeep on your turn X of the next game you play with the same opponent, where X is the removed creature's converted mana cost.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.947
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>128
+      </num>
+      <text>{T}: Remove Time Machine and target nontoken creature you own from the game. Return both cards to play at the beginning of your upkeep on your turn X of the next game you play with the same opponent, where X is the removed creature's converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>74343
+      </id>
+      <name>Standing Army
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature- Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>As long as you're standing, Standing Army has vigilance. &lt;i&gt;(Attacking doesn't cause it to tap.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.3
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>20
+      </num>
+      <text>As long as you're standing, Standing Army has vigilance. &lt;i&gt;(Attacking doesn't cause it to tap.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>74344
+      </id>
+      <name>Rod of Spanking
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}: Rod of Spanking deals 1 damage to target player. Then untap Rod of Spanking unless that player says "Thank you, sir. May I have another?"
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.517
+      </rating>
+      <artist>Mark Brill
+      </artist>
+      <num>127
+      </num>
+      <text>{2}, {T}: Rod of Spanking deals 1 damage to target player. Then untap Rod of Spanking unless that player says "Thank you, sir. May I have another?"
+      </text>
+    </mc>
+    <mc>
+      <id>74345
+      </id>
+      <name>Urza's Hot Tub
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, Discard a card: Search your library for a card that shares a complete word in its name with the discarded card, reveal it, and put it into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.7
+      </rating>
+      <artist>Stephen Tappin
+      </artist>
+      <num>131
+      </num>
+      <text>{2}, Discard a card: Search your library for a card that shares a complete word in its name with the discarded card, reveal it, and put it into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>74346
+      </id>
+      <name>Stop That
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player discards a card.&lt;br&gt;Gotcha Whenever an opponent audibly flicks the cards in his or her hand, you may say "Gotcha" If you do, return Stop That from your graveyard to your hand.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.833
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>63
+      </num>
+      <text>Target player discards a card.&lt;br&gt;Gotcha Whenever an opponent audibly flicks the cards in his or her hand, you may say "Gotcha" If you do, return Stop That from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>74347
+      </id>
+      <name>Meddling Kids
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Creature- Human Child
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>As Meddling Kids comes into play, choose a word with four or more letters.&lt;br&gt;Nonland cards with the chosen word in their text box can't be played.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.639
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>118
+      </num>
+      <text>As Meddling Kids comes into play, choose a word with four or more letters.&lt;br&gt;Nonland cards with the chosen word in their text box can't be played.
+      </text>
+    </mc>
+    <mc>
+      <id>74348
+      </id>
+      <name>Fascist Art Director
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature- Human Horror
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{W}{W}: Fascist Art Director gains protection from the artist of your choice until end of turn..
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.875
+      </rating>
+      <artist>Edward P. "Feed Me" Beard, Jr.
+      </artist>
+      <num>11
+      </num>
+      <text>{W}{W}: Fascist Art Director gains protection from the artist of your choice until end of turn..
+      </text>
+    </mc>
+    <mc>
+      <id>74349
+      </id>
+      <name>Touch and Go
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target land.&lt;br&gt;Gotcha Whenever an opponent touches his or her face, you may say "Gotcha" If you do, return Touch and Go from your graveyard to your hand.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>90
+      </num>
+      <text>Destroy target land.&lt;br&gt;Gotcha Whenever an opponent touches his or her face, you may say "Gotcha" If you do, return Touch and Go from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>74350
+      </id>
+      <name>Bad Ass
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature- Donkey Zombie
+      </type>
+      <power>3{1/2}
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{B}, Growl: Regenerate Bad Ass.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.357
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>49
+      </num>
+      <text>{1}{B}, Growl: Regenerate Bad Ass.
+      </text>
+    </mc>
+    <mc>
+      <id>74354
+      </id>
+      <name>Collector Protector
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature- Human Gamer
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>{W}, Give an opponent a nonland card you own from outside the game: Prevent the next 1 damage that would be dealt to you or Collector Protector this turn.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.717
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>7
+      </num>
+      <text>{W}, Give an opponent a nonland card you own from outside the game: Prevent the next 1 damage that would be dealt to you or Collector Protector this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>74356
+      </id>
+      <name>Artful Looter
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature- Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Draw a card, then discard a card.&lt;br&gt;Whenever a permanent comes into play that shares an artist with another permanent you control, untap Artful Looter.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.231
+      </rating>
+      <artist>Heather "Erica Gassalasca-Jape" Hudson
+      </artist>
+      <num>25
+      </num>
+      <text>{T}: Draw a card, then discard a card.&lt;br&gt;Whenever a permanent comes into play that shares an artist with another permanent you control, untap Artful Looter.
+      </text>
+    </mc>
+    <mc>
+      <id>74358
+      </id>
+      <name>Who/What/When/Where/Why
+      </name>
+      <type>Instant
+      </type>
+      <oracleText>Who&lt;br&gt;oXoW&lt;br&gt;Instant&lt;br&gt;Target player gains X life.&lt;br&gt;-----&lt;br&gt;What&lt;br&gt;o2oR&lt;br&gt;Instant&lt;br&gt;Destroy target artifact.&lt;br&gt;-----&lt;br&gt;When&lt;br&gt;o2oU&lt;br&gt;Instant&lt;br&gt;Counter target creature spell.&lt;br&gt;-----&lt;br&gt;Where&lt;br&gt;o3oB&lt;br&gt;Instant&lt;br&gt;Destroy target land.&lt;br&gt;-----&lt;br&gt;Why&lt;br&gt;o1oG&lt;br&gt;Instant&lt;br&gt;Destroy target enchantment.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.75
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>120
+      </num>
+      <text>Who&lt;br&gt;oXoW&lt;br&gt;Instant&lt;br&gt;Target player gains X life.&lt;br&gt;-----&lt;br&gt;What&lt;br&gt;o2oR&lt;br&gt;Instant&lt;br&gt;Destroy target artifact.&lt;br&gt;-----&lt;br&gt;When&lt;br&gt;o2oU&lt;br&gt;Instant&lt;br&gt;Counter target creature spell.&lt;br&gt;-----&lt;br&gt;Where&lt;br&gt;o3oB&lt;br&gt;Instant&lt;br&gt;Destroy target land.&lt;br&gt;-----&lt;br&gt;Why&lt;br&gt;o1oG&lt;br&gt;Instant&lt;br&gt;Destroy target enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>74359
+      </id>
+      <name>Deal Damage
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Deal Damage deals 4 damage to target creature or player.&lt;br&gt;Gotcha Whenever an opponent says "Deal" or "Damage," you may say "Gotcha" If you do, return Deal Damage from your graveyard to your hand.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.1
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>74
+      </num>
+      <text>Deal Damage deals 4 damage to target creature or player.&lt;br&gt;Gotcha Whenever an opponent says "Deal" or "Damage," you may say "Gotcha" If you do, return Deal Damage from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>74360
+      </id>
+      <name>Look at Me, I'm R&amp;D
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>As Look at Me, I'm R&amp;D comes into play, choose a number and a second number one higher or one lower than that number.&lt;br&gt;All instances of the first chosen number on permanents, spells, and cards in any zone are the second chosen number.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.269
+      </rating>
+      <artist>none
+      </artist>
+      <num>17
+      </num>
+      <text>As Look at Me, I'm R&amp;D comes into play, choose a number and a second number one higher or one lower than that number.&lt;br&gt;All instances of the first chosen number on permanents, spells, and cards in any zone are the second chosen number.
+      </text>
+    </mc>
+    <mc>
+      <id>73946
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.84
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>140
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>73951
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.827
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>137
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>73958
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.829
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>139
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>73963
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.557
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>136
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>74272
+      </id>
+      <name>Super Secret Tech
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>All premium spells cost {1} less to play.&lt;br&gt;All premium creatures get +1/+1.
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Special
+      </rarity>
+      <rating>4.016
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>141
+      </num>
+      <text>All premium spells cost {1} less to play.&lt;br&gt;All premium creatures get +1/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>73973
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Unhinged
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.904
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>138
+      </num>
+      <text>B
+      </text>
+    </mc>
+  </list>
+</cards>

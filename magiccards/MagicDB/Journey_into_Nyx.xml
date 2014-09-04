@@ -1,0 +1,3975 @@
+
+<cards>
+  <name>Journey_into_Nyx</name>
+  <key>Journey_into_Nyx</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>380364
+      </id>
+      <name>Aegis of the Gods
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>You have hexproof. &lt;i&gt;(You can't be the target of spells or abilities your opponents control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Yefim Kligerman
+      </artist>
+      <num>1
+      </num>
+      <text>You have hexproof. &lt;i&gt;(You can't be the target of spells or abilities your opponents control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380365
+      </id>
+      <name>Aerial Formation
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Strive- Aerial Formation costs {2}{U} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures each get +1/+1 and gain flying until end of turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zack Stella
+      </artist>
+      <num>30
+      </num>
+      <text>Strive- Aerial Formation costs {2}{U} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures each get +1/+1 and gain flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380366
+      </id>
+      <name>Agent of Erebos
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Enchantment Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Constellation- Whenever Agent of Erebos or another enchantment enters the battlefield under your control, exile all cards from target player's graveyard.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>59
+      </num>
+      <text>Constellation- Whenever Agent of Erebos or another enchantment enters the battlefield under your control, exile all cards from target player's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>380367
+      </id>
+      <name>Ajani, Mentor of Heroes
+      </name>
+      <cost>{3}{G}{W}
+      </cost>
+      <type>Planeswalker - Ajani
+      </type>
+      <toughness>4
+      </toughness>
+      <oracleText>+1: Distribute three +1/+1 counters among one, two, or three target creatures you control.&lt;br&gt;+1: Look at the top four cards of your library. You may reveal an Aura, creature, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.&lt;br&gt;-8: You gain 100 life.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Aaron Miller
+      </artist>
+      <num>145
+      </num>
+      <text>+1: Distribute three +1/+1 counters among one, two, or three target creatures you control.&lt;br&gt;+1: Look at the top four cards of your library. You may reveal an Aura, creature, or planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in any order.&lt;br&gt;-8: You gain 100 life.
+      </text>
+    </mc>
+    <mc>
+      <id>380368
+      </id>
+      <name>Ajani's Presence
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Strive- Ajani's Presence costs {2}{W} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures each get +1/+1 and gain indestructible until end of turn. &lt;i&gt;(Damage and effects that say "destroy" don't destroy them.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>2
+      </num>
+      <text>Strive- Ajani's Presence costs {2}{W} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures each get +1/+1 and gain indestructible until end of turn. &lt;i&gt;(Damage and effects that say "destroy" don't destroy them.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380369
+      </id>
+      <name>Akroan Line Breaker
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Akroan Line Breaker, Akroan Line Breaker gets +2/+0 and gains intimidate until end of turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Marco Nelor
+      </artist>
+      <num>88
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Akroan Line Breaker, Akroan Line Breaker gets +2/+0 and gains intimidate until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380370
+      </id>
+      <name>Akroan Mastiff
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Hound
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{W}, {T}: Tap target creature.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>3
+      </num>
+      <text>{W}, {T}: Tap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>380371
+      </id>
+      <name>Armament of Nyx
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has double strike as long as it's an enchantment. Otherwise, prevent all damage that would be dealt by enchanted creature. &lt;i&gt;(A creature with double strike deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>4
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has double strike as long as it's an enchantment. Otherwise, prevent all damage that would be dealt by enchanted creature. &lt;i&gt;(A creature with double strike deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380372
+      </id>
+      <name>Armory of Iroas
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Whenever equipped creature attacks, put a +1/+1 counter on it.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>158
+      </num>
+      <text>Whenever equipped creature attacks, put a +1/+1 counter on it.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>380373
+      </id>
+      <name>Aspect of Gorgon
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+3 and has deathtouch. &lt;i&gt;(Any amount of damage it deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>60
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+3 and has deathtouch. &lt;i&gt;(Any amount of damage it deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380374
+      </id>
+      <name>Athreos, God of Passage
+      </name>
+      <cost>{1}{W}{B}
+      </cost>
+      <type>Legendary Enchantment Creature - God
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Indestructible&lt;br&gt;As long as your devotion to white and black is less than seven, Athreos isn't a creature.&lt;br&gt;Whenever another creature you own dies, return it to your hand unless target opponent pays 3 life.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>146
+      </num>
+      <text>Indestructible&lt;br&gt;As long as your devotion to white and black is less than seven, Athreos isn't a creature.&lt;br&gt;Whenever another creature you own dies, return it to your hand unless target opponent pays 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>380375
+      </id>
+      <name>Banishing Light
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield. &lt;i&gt;(That permanent returns under its owner's control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>5
+      </num>
+      <text>When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield. &lt;i&gt;(That permanent returns under its owner's control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380376
+      </id>
+      <name>Bassara Tower Archer
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Creature - Human Archer
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Hexproof, reach
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>117
+      </num>
+      <text>Hexproof, reach
+      </text>
+    </mc>
+    <mc>
+      <id>380377
+      </id>
+      <name>Battlefield Thaumaturge
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Each instant and sorcery spell you cast costs {1} less to cast for each creature it targets.&lt;br&gt;Heroic- Whenever you cast a spell that targets Battlefield Thaumaturge, Battlefield Thaumaturge gains hexproof until end of turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mike Sass
+      </artist>
+      <num>31
+      </num>
+      <text>Each instant and sorcery spell you cast costs {1} less to cast for each creature it targets.&lt;br&gt;Heroic- Whenever you cast a spell that targets Battlefield Thaumaturge, Battlefield Thaumaturge gains hexproof until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380378
+      </id>
+      <name>Bearer of the Heavens
+      </name>
+      <cost>{7}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>10
+      </power>
+      <toughness>10
+      </toughness>
+      <oracleText>When Bearer of the Heavens dies, destroy all permanents at the beginning of the next end step.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Ryan Alexander Lee
+      </artist>
+      <num>89
+      </num>
+      <text>When Bearer of the Heavens dies, destroy all permanents at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>380379
+      </id>
+      <name>Bladetusk Boar
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Boar
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Sam Burley
+      </artist>
+      <num>90
+      </num>
+      <text>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380380
+      </id>
+      <name>Blinding Flare
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Strive- Blinding Flare costs {R} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures can't block this turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Evan Shipard
+      </artist>
+      <num>91
+      </num>
+      <text>Strive- Blinding Flare costs {R} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380381
+      </id>
+      <name>Bloodcrazed Hoplite
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Bloodcrazed Hoplite, put a +1/+1 counter on it.&lt;br&gt;Whenever a +1/+1 counter is placed on Bloodcrazed Hoplite, remove a +1/+1 counter from target creature an opponent controls.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jeff Simpson
+      </artist>
+      <num>61
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Bloodcrazed Hoplite, put a +1/+1 counter on it.&lt;br&gt;Whenever a +1/+1 counter is placed on Bloodcrazed Hoplite, remove a +1/+1 counter from target creature an opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>380382
+      </id>
+      <name>Brain Maggot
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment Creature - Insect
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Brain Maggot enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card until Brain Maggot leaves the battlefield.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Min Yum
+      </artist>
+      <num>62
+      </num>
+      <text>When Brain Maggot enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card until Brain Maggot leaves the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>380383
+      </id>
+      <name>Cast into Darkness
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -2/-0 and can't block.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>63
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -2/-0 and can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>380384
+      </id>
+      <name>Chariot of Victory
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has first strike, trample, and haste.&lt;br&gt;Equip {1}
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>John Stanko
+      </artist>
+      <num>159
+      </num>
+      <text>Equipped creature has first strike, trample, and haste.&lt;br&gt;Equip {1}
+      </text>
+    </mc>
+    <mc>
+      <id>380385
+      </id>
+      <name>Cloaked Siren
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Siren
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>32
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying
+      </text>
+    </mc>
+    <mc>
+      <id>380386
+      </id>
+      <name>Colossal Heroics
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Strive- Colossal Heroics costs {1}{G} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures each get +2/+2 until end of turn. Untap those creatures.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>118
+      </num>
+      <text>Strive- Colossal Heroics costs {1}{G} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures each get +2/+2 until end of turn. Untap those creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>380387
+      </id>
+      <name>Consign to Dust
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Strive- Consign to Dust costs {2}{G} more to cast for each target beyond the first.&lt;br&gt;Destroy any number of target artifacts and/or enchantments.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Andreas Rocha
+      </artist>
+      <num>119
+      </num>
+      <text>Strive- Consign to Dust costs {2}{G} more to cast for each target beyond the first.&lt;br&gt;Destroy any number of target artifacts and/or enchantments.
+      </text>
+    </mc>
+    <mc>
+      <id>380388
+      </id>
+      <name>Countermand
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell. Its controller puts the top four cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>33
+      </num>
+      <text>Counter target spell. Its controller puts the top four cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>380389
+      </id>
+      <name>Cruel Feeding
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Strive- Cruel Feeding costs {2}{B} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures each get +1/+0 and gain lifelink until end of turn. &lt;i&gt;(Damage dealt by a creature with lifelink also causes its controller to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jason A. Engle
+      </artist>
+      <num>64
+      </num>
+      <text>Strive- Cruel Feeding costs {2}{B} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures each get +1/+0 and gain lifelink until end of turn. &lt;i&gt;(Damage dealt by a creature with lifelink also causes its controller to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380390
+      </id>
+      <name>Crystalline Nautilus
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment Creature - Nautilus
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Bestow {3}{U}{U} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;When Crystalline Nautilus becomes the target of a spell or ability, sacrifice it.&lt;br&gt;Enchanted creature gets +4/+4 and has "When this creature becomes the target of a spell or ability, sacrifice it."
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Brad Rigney
+      </artist>
+      <num>34
+      </num>
+      <text>Bestow {3}{U}{U} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;When Crystalline Nautilus becomes the target of a spell or ability, sacrifice it.&lt;br&gt;Enchanted creature gets +4/+4 and has "When this creature becomes the target of a spell or ability, sacrifice it."
+      </text>
+    </mc>
+    <mc>
+      <id>380391
+      </id>
+      <name>Cyclops of Eternal Fury
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Enchantment Creature - Cyclops
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Creatures you control have haste.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>92
+      </num>
+      <text>Creatures you control have haste.
+      </text>
+    </mc>
+    <mc>
+      <id>380392
+      </id>
+      <name>Dakra Mystic
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Merfolk Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{U}, {T}: Each player reveals the top card of his or her library. You may put the revealed cards into their owners' graveyards. If you don't, each player draws a card.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Wesley Burt
+      </artist>
+      <num>35
+      </num>
+      <text>{U}, {T}: Each player reveals the top card of his or her library. You may put the revealed cards into their owners' graveyards. If you don't, each player draws a card.
+      </text>
+    </mc>
+    <mc>
+      <id>380393
+      </id>
+      <name>Daring Thief
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Inspired- Whenever Daring Thief becomes untapped, you may exchange control of target nonland permanent you control and target permanent an opponent controls that shares a card type with it.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>36
+      </num>
+      <text>Inspired- Whenever Daring Thief becomes untapped, you may exchange control of target nonland permanent you control and target permanent an opponent controls that shares a card type with it.
+      </text>
+    </mc>
+    <mc>
+      <id>380394
+      </id>
+      <name>Dawnbringer Charioteers
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying, lifelink&lt;br&gt;Heroic- Whenever you cast a spell that targets Dawnbringer Charioteers, put a +1/+1 counter on Dawnbringer Charioteers.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Ryan Alexander Lee
+      </artist>
+      <num>6
+      </num>
+      <text>Flying, lifelink&lt;br&gt;Heroic- Whenever you cast a spell that targets Dawnbringer Charioteers, put a +1/+1 counter on Dawnbringer Charioteers.
+      </text>
+    </mc>
+    <mc>
+      <id>380395
+      </id>
+      <name>Deicide
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target enchantment. If the exiled card is a God card, search its controller's graveyard, hand, and library for any number of cards with the same name as that card and exile them, then that player shuffles his or her library.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jason Chan
+      </artist>
+      <num>7
+      </num>
+      <text>Exile target enchantment. If the exiled card is a God card, search its controller's graveyard, hand, and library for any number of cards with the same name as that card and exile them, then that player shuffles his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>380396
+      </id>
+      <name>Desecration Plague
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target enchantment or land.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ralph Horsley
+      </artist>
+      <num>120
+      </num>
+      <text>Destroy target enchantment or land.
+      </text>
+    </mc>
+    <mc>
+      <id>380397
+      </id>
+      <name>Deserter's Quarters
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may choose not to untap Deserter's Quarters during your untap step.&lt;br&gt;{6}, {T}: Tap target creature. It doesn't untap during its controller's untap step for as long as Deserter's Quarters remains tapped.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>160
+      </num>
+      <text>You may choose not to untap Deserter's Quarters during your untap step.&lt;br&gt;{6}, {T}: Tap target creature. It doesn't untap during its controller's untap step for as long as Deserter's Quarters remains tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>380398
+      </id>
+      <name>Desperate Stand
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Strive- Desperate Stand costs {R}{W} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures each get +2/+0 and gain first strike and vigilance until end of turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>147
+      </num>
+      <text>Strive- Desperate Stand costs {R}{W} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures each get +2/+0 and gain first strike and vigilance until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380399
+      </id>
+      <name>Dictate of Erebos
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Flash&lt;br&gt;Whenever a creature you control dies, each opponent sacrifices a creature.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Michael C. Hayes
+      </artist>
+      <num>65
+      </num>
+      <text>Flash&lt;br&gt;Whenever a creature you control dies, each opponent sacrifices a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>380400
+      </id>
+      <name>Dictate of Heliod
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Flash&lt;br&gt;Creatures you control get +2/+2.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Terese Nielsen
+      </artist>
+      <num>8
+      </num>
+      <text>Flash&lt;br&gt;Creatures you control get +2/+2.
+      </text>
+    </mc>
+    <mc>
+      <id>380401
+      </id>
+      <name>Dictate of Karametra
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Flash&lt;br&gt;Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>121
+      </num>
+      <text>Flash&lt;br&gt;Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.
+      </text>
+    </mc>
+    <mc>
+      <id>380402
+      </id>
+      <name>Dictate of Kruphix
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Flash&lt;br&gt;At the beginning of each player's draw step, that player draws an additional card.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>37
+      </num>
+      <text>Flash&lt;br&gt;At the beginning of each player's draw step, that player draws an additional card.
+      </text>
+    </mc>
+    <mc>
+      <id>380403
+      </id>
+      <name>Dictate of the Twin Gods
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Flash&lt;br&gt;If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>93
+      </num>
+      <text>Flash&lt;br&gt;If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.
+      </text>
+    </mc>
+    <mc>
+      <id>380404
+      </id>
+      <name>Disciple of Deceit
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Inspired- Whenever Disciple of Deceit becomes untapped, you may discard a nonland card. If you do, search your library for a card with the same converted mana cost as that card, reveal it, put it into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>148
+      </num>
+      <text>Inspired- Whenever Disciple of Deceit becomes untapped, you may discard a nonland card. If you do, search your library for a card with the same converted mana cost as that card, reveal it, put it into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>380405
+      </id>
+      <name>Doomwake Giant
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Enchantment Creature - Giant
+      </type>
+      <power>4
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Constellation- Whenever Doomwake Giant or another enchantment enters the battlefield under your control, creatures your opponents control get -1/-1 until end of turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>66
+      </num>
+      <text>Constellation- Whenever Doomwake Giant or another enchantment enters the battlefield under your control, creatures your opponents control get -1/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380406
+      </id>
+      <name>Dreadbringer Lampads
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Enchantment Creature - Nymph
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Constellation- Whenever Dreadbringer Lampads or another enchantment enters the battlefield under your control, target creature gains intimidate until end of turn. &lt;i&gt;(It can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>67
+      </num>
+      <text>Constellation- Whenever Dreadbringer Lampads or another enchantment enters the battlefield under your control, target creature gains intimidate until end of turn. &lt;i&gt;(It can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380407
+      </id>
+      <name>Eagle of the Watch
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying, vigilance
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Scott Murphy
+      </artist>
+      <num>9
+      </num>
+      <text>Flying, vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>380408
+      </id>
+      <name>Eidolon of Blossoms
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Enchantment Creature - Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Constellation- Whenever Eidolon of Blossoms or another enchantment enters the battlefield under your control, draw a card.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Min Yum
+      </artist>
+      <num>122
+      </num>
+      <text>Constellation- Whenever Eidolon of Blossoms or another enchantment enters the battlefield under your control, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>380409
+      </id>
+      <name>Eidolon of Rhetoric
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment Creature - Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Each player can't cast more than one spell each turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Yee
+      </artist>
+      <num>10
+      </num>
+      <text>Each player can't cast more than one spell each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380410
+      </id>
+      <name>Eidolon of the Great Revel
+      </name>
+      <cost>{R}{R}
+      </cost>
+      <type>Enchantment Creature - Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever a player casts a spell with converted mana cost 3 or less, Eidolon of the Great Revel deals 2 damage to that player.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>94
+      </num>
+      <text>Whenever a player casts a spell with converted mana cost 3 or less, Eidolon of the Great Revel deals 2 damage to that player.
+      </text>
+    </mc>
+    <mc>
+      <id>380411
+      </id>
+      <name>Extinguish All Hope
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all nonenchantment creatures.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>68
+      </num>
+      <text>Destroy all nonenchantment creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>380412
+      </id>
+      <name>Feast of Dreams
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target enchanted creature or enchantment creature.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>69
+      </num>
+      <text>Destroy target enchanted creature or enchantment creature.
+      </text>
+    </mc>
+    <mc>
+      <id>380413
+      </id>
+      <name>Felhide Petrifier
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Minotaur Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Deathtouch&lt;br&gt;Other Minotaur creatures you control have deathtouch.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>70
+      </num>
+      <text>Deathtouch&lt;br&gt;Other Minotaur creatures you control have deathtouch.
+      </text>
+    </mc>
+    <mc>
+      <id>380414
+      </id>
+      <name>Flamespeaker's Will
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature you control&lt;br&gt;Enchanted creature gets +1/+1.&lt;br&gt;Whenever enchanted creature deals combat damage to a player, you may sacrifice Flamespeaker's Will. If you do, destroy target artifact.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>95
+      </num>
+      <text>Enchant creature you control&lt;br&gt;Enchanted creature gets +1/+1.&lt;br&gt;Whenever enchanted creature deals combat damage to a player, you may sacrifice Flamespeaker's Will. If you do, destroy target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>380415
+      </id>
+      <name>Fleetfeather Cockatrice
+      </name>
+      <cost>{3}{G}{U}
+      </cost>
+      <type>Creature - Cockatrice
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying, deathtouch&lt;br&gt;{5}{G}{U}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>149
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying, deathtouch&lt;br&gt;{5}{G}{U}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380416
+      </id>
+      <name>Flurry of Horns
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put two 2/3 red Minotaur creature tokens with haste onto the battlefield.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Phill Simmer
+      </artist>
+      <num>96
+      </num>
+      <text>Put two 2/3 red Minotaur creature tokens with haste onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>380417
+      </id>
+      <name>Font of Fertility
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{G}, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jack Wang
+      </artist>
+      <num>123
+      </num>
+      <text>{1}{G}, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>380418
+      </id>
+      <name>Font of Fortunes
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{U}, Sacrifice Font of Fortunes: Draw two cards.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jonas De Ro
+      </artist>
+      <num>38
+      </num>
+      <text>{1}{U}, Sacrifice Font of Fortunes: Draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>380419
+      </id>
+      <name>Font of Ire
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{3}{R}, Sacrifice Font of Ire: Font of Ire deals 5 damage to target player.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zack Stella
+      </artist>
+      <num>97
+      </num>
+      <text>{3}{R}, Sacrifice Font of Ire: Font of Ire deals 5 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>380420
+      </id>
+      <name>Font of Return
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{3}{B}, Sacrifice Font of Return: Return up to three target creature cards from your graveyard to your hand.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>71
+      </num>
+      <text>{3}{B}, Sacrifice Font of Return: Return up to three target creature cards from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>380421
+      </id>
+      <name>Font of Vigor
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{2}{W}, Sacrifice Font of Vigor: You gain 7 life.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>11
+      </num>
+      <text>{2}{W}, Sacrifice Font of Vigor: You gain 7 life.
+      </text>
+    </mc>
+    <mc>
+      <id>380422
+      </id>
+      <name>Forgeborn Oreads
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Enchantment Creature - Nymph
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Constellation- Whenever Forgeborn Oreads or another enchantment enters the battlefield under your control, Forgeborn Oreads deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Yee
+      </artist>
+      <num>98
+      </num>
+      <text>Constellation- Whenever Forgeborn Oreads or another enchantment enters the battlefield under your control, Forgeborn Oreads deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>380423
+      </id>
+      <name>Gluttonous Cyclops
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Cyclops
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{5}{R}{R}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>99
+      </num>
+      <text>{5}{R}{R}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380424
+      </id>
+      <name>Gnarled Scarhide
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment Creature - Minotaur
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Bestow {3}{B} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Gnarled Scarhide can't block.&lt;br&gt;Enchanted creature gets +2/+1 and can't block.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>72
+      </num>
+      <text>Bestow {3}{B} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Gnarled Scarhide can't block.&lt;br&gt;Enchanted creature gets +2/+1 and can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>380425
+      </id>
+      <name>Godhunter Octopus
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Octopus
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Godhunter Octopus can't attack unless defending player controls an enchantment or an enchanted permanent.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>39
+      </num>
+      <text>Godhunter Octopus can't attack unless defending player controls an enchantment or an enchanted permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>380426
+      </id>
+      <name>Godsend
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Legendary Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +3/+3.&lt;br&gt;Whenever equipped creature blocks or becomes blocked by one or more creatures, you may exile one of those creatures.&lt;br&gt;Opponents can't cast cards with the same name as cards exiled with Godsend.&lt;br&gt;Equip {3}
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>12
+      </num>
+      <text>Equipped creature gets +3/+3.&lt;br&gt;Whenever equipped creature blocks or becomes blocked by one or more creatures, you may exile one of those creatures.&lt;br&gt;Opponents can't cast cards with the same name as cards exiled with Godsend.&lt;br&gt;Equip {3}
+      </text>
+    </mc>
+    <mc>
+      <id>380427
+      </id>
+      <name>Golden Hind
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elk
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Add {G} to your mana pool.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>124
+      </num>
+      <text>{T}: Add {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>380428
+      </id>
+      <name>Goldenhide Ox
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Enchantment Creature - Ox
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Constellation- Whenever Goldenhide Ox or another enchantment enters the battlefield under your control, target creature must be blocked this turn if able.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jack Wang
+      </artist>
+      <num>125
+      </num>
+      <text>Constellation- Whenever Goldenhide Ox or another enchantment enters the battlefield under your control, target creature must be blocked this turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>380429
+      </id>
+      <name>Gold-Forged Sentinel
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Chimera
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>James Zapata
+      </artist>
+      <num>161
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>380430
+      </id>
+      <name>Grim Guardian
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Enchantment Creature - Zombie
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Constellation- Whenever Grim Guardian or another enchantment enters the battlefield under your control, each opponent loses 1 life.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>73
+      </num>
+      <text>Constellation- Whenever Grim Guardian or another enchantment enters the battlefield under your control, each opponent loses 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>380431
+      </id>
+      <name>Hall of Triumph
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Legendary Artifact
+      </type>
+      <oracleText>As Hall of Triumph enters the battlefield, choose a color.&lt;br&gt;Creatures you control of the chosen color get +1/+1.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Ryan Yee
+      </artist>
+      <num>162
+      </num>
+      <text>As Hall of Triumph enters the battlefield, choose a color.&lt;br&gt;Creatures you control of the chosen color get +1/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>380432
+      </id>
+      <name>Harness by Force
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Strive- Harness by Force costs {2}{R} more to cast for each target beyond the first.&lt;br&gt;Gain control of any number of target creatures until end of turn. Untap those creatures. They gain haste until end of turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Yefim Kligerman
+      </artist>
+      <num>100
+      </num>
+      <text>Strive- Harness by Force costs {2}{R} more to cast for each target beyond the first.&lt;br&gt;Gain control of any number of target creatures until end of turn. Untap those creatures. They gain haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380433
+      </id>
+      <name>Harvestguard Alseids
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment Creature - Nymph
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Constellation- Whenever Harvestguard Alseids or another enchantment enters the battlefield under your control, prevent all damage that would be dealt to target creature this turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>13
+      </num>
+      <text>Constellation- Whenever Harvestguard Alseids or another enchantment enters the battlefield under your control, prevent all damage that would be dealt to target creature this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380434
+      </id>
+      <name>Heroes' Bane
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Hydra
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Heroes' Bane enters the battlefield with four +1/+1 counters on it.&lt;br&gt;{2}{G}{G}: Put X +1/+1 counters on Heroes' Bane, where X is its power.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>126
+      </num>
+      <text>Heroes' Bane enters the battlefield with four +1/+1 counters on it.&lt;br&gt;{2}{G}{G}: Put X +1/+1 counters on Heroes' Bane, where X is its power.
+      </text>
+    </mc>
+    <mc>
+      <id>380435
+      </id>
+      <name>Hour of Need
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Strive- Hour of Need costs {1}{U} more to cast for each target beyond the first.&lt;br&gt;Exile any number of target creatures. For each creature exiled this way, its controller puts a 4/4 blue Sphinx creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>40
+      </num>
+      <text>Strive- Hour of Need costs {1}{U} more to cast for each target beyond the first.&lt;br&gt;Exile any number of target creatures. For each creature exiled this way, its controller puts a 4/4 blue Sphinx creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>380436
+      </id>
+      <name>Hubris
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target creature and all Auras attached to it to their owners' hands.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>41
+      </num>
+      <text>Return target creature and all Auras attached to it to their owners' hands.
+      </text>
+    </mc>
+    <mc>
+      <id>380437
+      </id>
+      <name>Humbler of Mortals
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Enchantment Creature - Elemental
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Constellation- Whenever Humbler of Mortals or another enchantment enters the battlefield under your control, creatures you control gain trample until end of turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jason Felix
+      </artist>
+      <num>127
+      </num>
+      <text>Constellation- Whenever Humbler of Mortals or another enchantment enters the battlefield under your control, creatures you control gain trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380438
+      </id>
+      <name>Hydra Broodmaster
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Creature - Hydra
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>{X}{X}{G}: Monstrosity X. &lt;i&gt;(If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Hydra Broodmaster becomes monstrous, put X X/X green Hydra creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>128
+      </num>
+      <text>{X}{X}{G}: Monstrosity X. &lt;i&gt;(If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Hydra Broodmaster becomes monstrous, put X X/X green Hydra creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>380439
+      </id>
+      <name>Hypnotic Siren
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment Creature - Siren
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Bestow {5}{U}{U} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;You control enchanted creature.&lt;br&gt;Enchanted creature gets +1/+1 and has flying.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>42
+      </num>
+      <text>Bestow {5}{U}{U} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;You control enchanted creature.&lt;br&gt;Enchanted creature gets +1/+1 and has flying.
+      </text>
+    </mc>
+    <mc>
+      <id>380440
+      </id>
+      <name>Interpret the Signs
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Scry 3, then reveal the top card of your library. Draw cards equal to that card's converted mana cost. &lt;i&gt;(To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Cynthia Sheppard
+      </artist>
+      <num>43
+      </num>
+      <text>Scry 3, then reveal the top card of your library. Draw cards equal to that card's converted mana cost. &lt;i&gt;(To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380441
+      </id>
+      <name>Iroas, God of Victory
+      </name>
+      <cost>{2}{R}{W}
+      </cost>
+      <type>Legendary Enchantment Creature - God
+      </type>
+      <power>7
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Indestructible&lt;br&gt;As long as your devotion to red and white is less than seven, Iroas isn't a creature.&lt;br&gt;Creatures you control can't be blocked except by two or more creatures.&lt;br&gt;Prevent all damage that would be dealt to attacking creatures you control.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>150
+      </num>
+      <text>Indestructible&lt;br&gt;As long as your devotion to red and white is less than seven, Iroas isn't a creature.&lt;br&gt;Creatures you control can't be blocked except by two or more creatures.&lt;br&gt;Prevent all damage that would be dealt to attacking creatures you control.
+      </text>
+    </mc>
+    <mc>
+      <id>380442
+      </id>
+      <name>Keranos, God of Storms
+      </name>
+      <cost>{3}{U}{R}
+      </cost>
+      <type>Legendary Enchantment Creature - God
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Indestructible&lt;br&gt;As long as your devotion to blue and red is less than seven, Keranos isn't a creature.&lt;br&gt;Reveal the first card you draw on each of your turns. Whenever you reveal a land card this way, draw a card. Whenever you reveal a nonland card this way, Keranos deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>151
+      </num>
+      <text>Indestructible&lt;br&gt;As long as your devotion to blue and red is less than seven, Keranos isn't a creature.&lt;br&gt;Reveal the first card you draw on each of your turns. Whenever you reveal a land card this way, draw a card. Whenever you reveal a nonland card this way, Keranos deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>380443
+      </id>
+      <name>King Macar, the Gold-Cursed
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Legendary Creature - Human
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Inspired- Whenever King Macar, the Gold-Cursed becomes untapped, you may exile target creature. If you do, put a colorless artifact token named Gold onto the battlefield. It has "Sacrifice this artifact: Add one mana of any color to your mana pool."
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>74
+      </num>
+      <text>Inspired- Whenever King Macar, the Gold-Cursed becomes untapped, you may exile target creature. If you do, put a colorless artifact token named Gold onto the battlefield. It has "Sacrifice this artifact: Add one mana of any color to your mana pool."
+      </text>
+    </mc>
+    <mc>
+      <id>380444
+      </id>
+      <name>Kiora's Dismissal
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Strive- Kiora's Dismissal costs {U} more to cast for each target beyond the first.&lt;br&gt;Return any number of target enchantments to their owners' hands.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>44
+      </num>
+      <text>Strive- Kiora's Dismissal costs {U} more to cast for each target beyond the first.&lt;br&gt;Return any number of target enchantments to their owners' hands.
+      </text>
+    </mc>
+    <mc>
+      <id>380445
+      </id>
+      <name>Knowledge and Power
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever you scry, you may pay {2}. If you do, Knowledge and Power deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jung Park
+      </artist>
+      <num>101
+      </num>
+      <text>Whenever you scry, you may pay {2}. If you do, Knowledge and Power deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>380446
+      </id>
+      <name>Kruphix, God of Horizons
+      </name>
+      <cost>{3}{G}{U}
+      </cost>
+      <type>Legendary Enchantment Creature - God
+      </type>
+      <power>4
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Indestructible&lt;br&gt;As long as your devotion to green and blue is less than seven, Kruphix isn't a creature.&lt;br&gt;You have no maximum hand size.&lt;br&gt;If unused mana would empty from your mana pool, that mana becomes colorless instead.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>152
+      </num>
+      <text>Indestructible&lt;br&gt;As long as your devotion to green and blue is less than seven, Kruphix isn't a creature.&lt;br&gt;You have no maximum hand size.&lt;br&gt;If unused mana would empty from your mana pool, that mana becomes colorless instead.
+      </text>
+    </mc>
+    <mc>
+      <id>380447
+      </id>
+      <name>Kruphix's Insight
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Reveal the top six cards of your library. Put up to three enchantment cards from among them into your hand and the rest of the revealed cards into your graveyard.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>129
+      </num>
+      <text>Reveal the top six cards of your library. Put up to three enchantment cards from among them into your hand and the rest of the revealed cards into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>380448
+      </id>
+      <name>Lagonna-Band Trailblazer
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Centaur Scout
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Lagonna-Band Trailblazer, put a +1/+1 counter on Lagonna-Band Trailblazer.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>James Zapata
+      </artist>
+      <num>14
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Lagonna-Band Trailblazer, put a +1/+1 counter on Lagonna-Band Trailblazer.
+      </text>
+    </mc>
+    <mc>
+      <id>380449
+      </id>
+      <name>Launch the Fleet
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Strive- Launch the Fleet costs {1} more to cast for each target beyond the first.&lt;br&gt;Until end of turn, any number of target creatures each gain "Whenever this creature attacks, put a 1/1 white Soldier creature token onto the battlefield tapped and attacking."
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>15
+      </num>
+      <text>Strive- Launch the Fleet costs {1} more to cast for each target beyond the first.&lt;br&gt;Until end of turn, any number of target creatures each gain "Whenever this creature attacks, put a 1/1 white Soldier creature token onto the battlefield tapped and attacking."
+      </text>
+    </mc>
+    <mc>
+      <id>380450
+      </id>
+      <name>Leonin Iconoclast
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Cat Monk
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Leonin Iconoclast, destroy target enchantment creature an opponent controls.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>16
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Leonin Iconoclast, destroy target enchantment creature an opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>380451
+      </id>
+      <name>Lightning Diadem
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Lightning Diadem enters the battlefield, it deals 2 damage to target creature or player.&lt;br&gt;Enchanted creature gets +2/+2.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Alexander Lee
+      </artist>
+      <num>102
+      </num>
+      <text>Enchant creature&lt;br&gt;When Lightning Diadem enters the battlefield, it deals 2 damage to target creature or player.&lt;br&gt;Enchanted creature gets +2/+2.
+      </text>
+    </mc>
+    <mc>
+      <id>380452
+      </id>
+      <name>Magma Spray
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Richard Wright
+      </artist>
+      <num>103
+      </num>
+      <text>Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.
+      </text>
+    </mc>
+    <mc>
+      <id>380453
+      </id>
+      <name>Mana Confluence
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Pay 1 life: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Richard Wright
+      </artist>
+      <num>163
+      </num>
+      <text>{T}, Pay 1 life: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>380454
+      </id>
+      <name>Market Festival
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds two mana in any combination of colors to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>130
+      </num>
+      <text>Enchant land&lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds two mana in any combination of colors to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </text>
+    </mc>
+    <mc>
+      <id>380455
+      </id>
+      <name>Master of the Feast
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Enchantment Creature - Demon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, each opponent draws a card.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>75
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, each opponent draws a card.
+      </text>
+    </mc>
+    <mc>
+      <id>380456
+      </id>
+      <name>Mogis's Warhound
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment Creature - Hound
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Bestow {2}{R} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Mogis's Warhound attacks each turn if able.&lt;br&gt;Enchanted creature gets +2/+2 and attacks each turn if able.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>John Severin Brassell
+      </artist>
+      <num>104
+      </num>
+      <text>Bestow {2}{R} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Mogis's Warhound attacks each turn if able.&lt;br&gt;Enchanted creature gets +2/+2 and attacks each turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>380457
+      </id>
+      <name>Mortal Obstinacy
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature you control&lt;br&gt;Enchanted creature gets +1/+1.&lt;br&gt;Whenever enchanted creature deals combat damage to a player, you may sacrifice Mortal Obstinacy. If you do, destroy target enchantment.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>17
+      </num>
+      <text>Enchant creature you control&lt;br&gt;Enchanted creature gets +1/+1.&lt;br&gt;Whenever enchanted creature deals combat damage to a player, you may sacrifice Mortal Obstinacy. If you do, destroy target enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>380458
+      </id>
+      <name>Nature's Panoply
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Strive- Nature's Panoply costs {2}{G} more to cast for each target beyond the first.&lt;br&gt;Choose any number of target creatures. Put a +1/+1 counter on each of them.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>131
+      </num>
+      <text>Strive- Nature's Panoply costs {2}{G} more to cast for each target beyond the first.&lt;br&gt;Choose any number of target creatures. Put a +1/+1 counter on each of them.
+      </text>
+    </mc>
+    <mc>
+      <id>380459
+      </id>
+      <name>Nessian Game Warden
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>When Nessian Game Warden enters the battlefield, look at the top X cards of your library, where X is the number of Forests you control. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Vincent Proce
+      </artist>
+      <num>132
+      </num>
+      <text>When Nessian Game Warden enters the battlefield, look at the top X cards of your library, where X is the number of Forests you control. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>380460
+      </id>
+      <name>Nightmarish End
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -X/-X until end of turn, where X is the number of cards in your hand.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>76
+      </num>
+      <text>Target creature gets -X/-X until end of turn, where X is the number of cards in your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>380461
+      </id>
+      <name>Nyx Infusion
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 as long as it's an enchantment. Otherwise, it gets -2/-2.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jason A. Engle
+      </artist>
+      <num>77
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 as long as it's an enchantment. Otherwise, it gets -2/-2.
+      </text>
+    </mc>
+    <mc>
+      <id>380462
+      </id>
+      <name>Nyx Weaver
+      </name>
+      <cost>{1}{B}{G}
+      </cost>
+      <type>Enchantment Creature - Spider
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Reach&lt;br&gt;At the beginning of your upkeep, put the top two cards of your library into your graveyard.&lt;br&gt;{1}{B}{G}, Exile Nyx Weaver: Return target card from your graveyard to your hand.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jack Wang
+      </artist>
+      <num>153
+      </num>
+      <text>Reach&lt;br&gt;At the beginning of your upkeep, put the top two cards of your library into your graveyard.&lt;br&gt;{1}{B}{G}, Exile Nyx Weaver: Return target card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>380463
+      </id>
+      <name>Nyx-Fleece Ram
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment Creature - Sheep
+      </type>
+      <power>0
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>At the beginning of your upkeep, you gain 1 life.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Terese Nielsen
+      </artist>
+      <num>18
+      </num>
+      <text>At the beginning of your upkeep, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>380464
+      </id>
+      <name>Oakheart Dryads
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment Creature - Nymph Dryad
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Constellation- Whenever Oakheart Dryads or another enchantment enters the battlefield under your control, target creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>133
+      </num>
+      <text>Constellation- Whenever Oakheart Dryads or another enchantment enters the battlefield under your control, target creature gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380465
+      </id>
+      <name>Oppressive Rays
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block unless its controller pays {3}.&lt;br&gt;Activated abilities of enchanted creature cost {3} more to activate.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>19
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't attack or block unless its controller pays {3}.&lt;br&gt;Activated abilities of enchanted creature cost {3} more to activate.
+      </text>
+    </mc>
+    <mc>
+      <id>380466
+      </id>
+      <name>Oreskos Swiftclaw
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Cat Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>20
+      </num>
+    </mc>
+    <mc>
+      <id>380467
+      </id>
+      <name>Pensive Minotaur
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Minotaur Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>105
+      </num>
+    </mc>
+    <mc>
+      <id>380468
+      </id>
+      <name>Phalanx Formation
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Strive- Phalanx Formation costs {1}{W} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures each gain double strike until end of turn. &lt;i&gt;(They deal both first-strike and regular combat damage.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>21
+      </num>
+      <text>Strive- Phalanx Formation costs {1}{W} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures each gain double strike until end of turn. &lt;i&gt;(They deal both first-strike and regular combat damage.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380469
+      </id>
+      <name>Pharika, God of Affliction
+      </name>
+      <cost>{1}{B}{G}
+      </cost>
+      <type>Legendary Enchantment Creature - God
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Indestructible&lt;br&gt;As long as your devotion to black and green is less than seven, Pharika isn't a creature.&lt;br&gt;{B}{G}: Exile target creature card from a graveyard. Its owner puts a 1/1 black and green Snake enchantment creature token with deathtouch onto the battlefield.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>154
+      </num>
+      <text>Indestructible&lt;br&gt;As long as your devotion to black and green is less than seven, Pharika isn't a creature.&lt;br&gt;{B}{G}: Exile target creature card from a graveyard. Its owner puts a 1/1 black and green Snake enchantment creature token with deathtouch onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>380470
+      </id>
+      <name>Pharika's Chosen
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jonas De Ro
+      </artist>
+      <num>78
+      </num>
+      <text>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380471
+      </id>
+      <name>Pheres-Band Thunderhoof
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Centaur Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Pheres-Band Thunderhoof, put two +1/+1 counters on Pheres-Band Thunderhoof.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>134
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Pheres-Band Thunderhoof, put two +1/+1 counters on Pheres-Band Thunderhoof.
+      </text>
+    </mc>
+    <mc>
+      <id>380472
+      </id>
+      <name>Pheres-Band Warchief
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Centaur Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Vigilance, trample&lt;br&gt;Other Centaur creatures you control get +1/+1 and have vigilance and trample.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>135
+      </num>
+      <text>Vigilance, trample&lt;br&gt;Other Centaur creatures you control get +1/+1 and have vigilance and trample.
+      </text>
+    </mc>
+    <mc>
+      <id>380473
+      </id>
+      <name>Pin to the Earth
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -6/-0.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>45
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -6/-0.
+      </text>
+    </mc>
+    <mc>
+      <id>380474
+      </id>
+      <name>Polymorphous Rush
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Strive- Polymorphous Rush costs {1}{U} more to cast for each target beyond the first.&lt;br&gt;Choose a creature on the battlefield. Any number of target creatures you control each become a copy of that creature until end of turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>46
+      </num>
+      <text>Strive- Polymorphous Rush costs {1}{U} more to cast for each target beyond the first.&lt;br&gt;Choose a creature on the battlefield. Any number of target creatures you control each become a copy of that creature until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380475
+      </id>
+      <name>Prophetic Flamespeaker
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Double strike, trample&lt;br&gt;Whenever Prophetic Flamespeaker deals combat damage to a player, exile the top card of your library. You may play it this turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Cynthia Sheppard
+      </artist>
+      <num>106
+      </num>
+      <text>Double strike, trample&lt;br&gt;Whenever Prophetic Flamespeaker deals combat damage to a player, exile the top card of your library. You may play it this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380476
+      </id>
+      <name>Pull from the Deep
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return up to one target instant card and up to one target sorcery card from your graveyard to your hand. Exile Pull from the Deep.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Yee
+      </artist>
+      <num>47
+      </num>
+      <text>Return up to one target instant card and up to one target sorcery card from your graveyard to your hand. Exile Pull from the Deep.
+      </text>
+    </mc>
+    <mc>
+      <id>380477
+      </id>
+      <name>Quarry Colossus
+      </name>
+      <cost>{5}{W}{W}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>When Quarry Colossus enters the battlefield, put target creature into its owner's library just beneath the top X cards of that library, where X is the number of Plains you control.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Todd Lockwood
+      </artist>
+      <num>22
+      </num>
+      <text>When Quarry Colossus enters the battlefield, put target creature into its owner's library just beneath the top X cards of that library, where X is the number of Plains you control.
+      </text>
+    </mc>
+    <mc>
+      <id>380478
+      </id>
+      <name>Ravenous Leucrocota
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;{6}{G}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Burdett
+      </artist>
+      <num>136
+      </num>
+      <text>Vigilance&lt;br&gt;{6}{G}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380479
+      </id>
+      <name>Renowned Weaver
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{G}, Sacrifice Renowned Weaver: Put a 1/3 green Spider enchantment creature token with reach onto the battlefield. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Yohann Schepacz
+      </artist>
+      <num>137
+      </num>
+      <text>{1}{G}, Sacrifice Renowned Weaver: Put a 1/3 green Spider enchantment creature token with reach onto the battlefield. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380480
+      </id>
+      <name>Reprisal
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature with power 4 or greater. It can't be regenerated.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>23
+      </num>
+      <text>Destroy target creature with power 4 or greater. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>380481
+      </id>
+      <name>Returned Reveler
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie Satyr
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Returned Reveler dies, each player puts the top three cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Allen Williams
+      </artist>
+      <num>79
+      </num>
+      <text>When Returned Reveler dies, each player puts the top three cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>380482
+      </id>
+      <name>Revel of the Fallen God
+      </name>
+      <cost>{3}{R}{R}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put four 2/2 red and green Satyr creature tokens with haste onto the battlefield.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>155
+      </num>
+      <text>Put four 2/2 red and green Satyr creature tokens with haste onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>380483
+      </id>
+      <name>Reviving Melody
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose one or both- Return target creature card from your graveyard to your hand; and/or return target enchantment card from your graveyard to your hand.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Cynthia Sheppard
+      </artist>
+      <num>138
+      </num>
+      <text>Choose one or both- Return target creature card from your graveyard to your hand; and/or return target enchantment card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>380484
+      </id>
+      <name>Riddle of Lightning
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose target creature or player. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's converted mana cost to that creature or player. &lt;i&gt;(To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>107
+      </num>
+      <text>Choose target creature or player. Scry 3, then reveal the top card of your library. Riddle of Lightning deals damage equal to that card's converted mana cost to that creature or player. &lt;i&gt;(To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380485
+      </id>
+      <name>Riptide Chimera
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment Creature - Chimera
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, return an enchantment you control to its owner's hand.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>48
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, return an enchantment you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>380486
+      </id>
+      <name>Rise of Eagles
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put two 2/2 blue Bird enchantment creature tokens with flying onto the battlefield. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>49
+      </num>
+      <text>Put two 2/2 blue Bird enchantment creature tokens with flying onto the battlefield. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380487
+      </id>
+      <name>Ritual of the Returned
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature card from your graveyard. Put a black Zombie creature token onto the battlefield. Its power is equal to that card's power and its toughness is equal to that card's toughness.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Zack Stella
+      </artist>
+      <num>80
+      </num>
+      <text>Exile target creature card from your graveyard. Put a black Zombie creature token onto the battlefield. Its power is equal to that card's power and its toughness is equal to that card's toughness.
+      </text>
+    </mc>
+    <mc>
+      <id>380488
+      </id>
+      <name>Rollick of Abandon
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>All creatures get +2/-2 until end of turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>108
+      </num>
+      <text>All creatures get +2/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380489
+      </id>
+      <name>Rotted Hulk
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>81
+      </num>
+    </mc>
+    <mc>
+      <id>380490
+      </id>
+      <name>Rouse the Mob
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Strive- Rouse the Mob costs {2}{R} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures each get +2/+0 and gain trample until end of turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>John Stanko
+      </artist>
+      <num>109
+      </num>
+      <text>Strive- Rouse the Mob costs {2}{R} more to cast for each target beyond the first.&lt;br&gt;Any number of target creatures each get +2/+0 and gain trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380491
+      </id>
+      <name>Sage of Hours
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Sage of Hours, put a +1/+1 counter on it.&lt;br&gt;Remove all +1/+1 counters from Sage of Hours: For each five counters removed this way, take an extra turn after this one.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>50
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Sage of Hours, put a +1/+1 counter on it.&lt;br&gt;Remove all +1/+1 counters from Sage of Hours: For each five counters removed this way, take an extra turn after this one.
+      </text>
+    </mc>
+    <mc>
+      <id>380492
+      </id>
+      <name>Satyr Grovedancer
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Satyr Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Satyr Grovedancer enters the battlefield, put a +1/+1 counter on target creature.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jason A. Engle
+      </artist>
+      <num>139
+      </num>
+      <text>When Satyr Grovedancer enters the battlefield, put a +1/+1 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>380493
+      </id>
+      <name>Satyr Hoplite
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Satyr Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Satyr Hoplite, put a +1/+1 counter on Satyr Hoplite.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>110
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Satyr Hoplite, put a +1/+1 counter on Satyr Hoplite.
+      </text>
+    </mc>
+    <mc>
+      <id>380494
+      </id>
+      <name>Scourge of Fleets
+      </name>
+      <cost>{5}{U}{U}
+      </cost>
+      <type>Creature - Kraken
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>51
+      </num>
+      <text>When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>380495
+      </id>
+      <name>Setessan Tactics
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Strive- Setessan Tactics costs {G} more to cast for each target beyond the first.&lt;br&gt;Until end of turn, any number of target creatures each get +1/+1 and gain "{T}: This creature fights another target creature."
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mark Winters
+      </artist>
+      <num>140
+      </num>
+      <text>Strive- Setessan Tactics costs {G} more to cast for each target beyond the first.&lt;br&gt;Until end of turn, any number of target creatures each get +1/+1 and gain "{T}: This creature fights another target creature."
+      </text>
+    </mc>
+    <mc>
+      <id>380496
+      </id>
+      <name>Sightless Brawler
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment Creature - Human Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Bestow {4}{W} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Sightless Brawler can't attack alone.&lt;br&gt;Enchanted creature gets +3/+2 and can't attack alone.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>24
+      </num>
+      <text>Bestow {4}{W} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Sightless Brawler can't attack alone.&lt;br&gt;Enchanted creature gets +3/+2 and can't attack alone.
+      </text>
+    </mc>
+    <mc>
+      <id>380497
+      </id>
+      <name>Sigiled Skink
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Sigiled Skink attacks, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>111
+      </num>
+      <text>Whenever Sigiled Skink attacks, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380498
+      </id>
+      <name>Sigiled Starfish
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Starfish
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>52
+      </num>
+      <text>{T}: Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380499
+      </id>
+      <name>Silence the Believers
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Strive- Silence the Believers costs {2}{B} more to cast for each target beyond the first.&lt;br&gt;Exile any number of target creatures and all Auras attached to them.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>82
+      </num>
+      <text>Strive- Silence the Believers costs {2}{B} more to cast for each target beyond the first.&lt;br&gt;Exile any number of target creatures and all Auras attached to them.
+      </text>
+    </mc>
+    <mc>
+      <id>380500
+      </id>
+      <name>Skybind
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Constellation- Whenever Skybind or another enchantment enters the battlefield under your control, exile target nonenchantment permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>25
+      </num>
+      <text>Constellation- Whenever Skybind or another enchantment enters the battlefield under your control, exile target nonenchantment permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>380501
+      </id>
+      <name>Skyspear Cavalry
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Double strike &lt;i&gt;(This creature deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>26
+      </num>
+      <text>Flying&lt;br&gt;Double strike &lt;i&gt;(This creature deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380502
+      </id>
+      <name>Solidarity of Heroes
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Strive- Solidarity of Heroes costs {1}{G} more to cast for each target beyond the first.&lt;br&gt;Choose any number of target creatures. Double the number of +1/+1 counters on each of them.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>141
+      </num>
+      <text>Strive- Solidarity of Heroes costs {1}{G} more to cast for each target beyond the first.&lt;br&gt;Choose any number of target creatures. Double the number of +1/+1 counters on each of them.
+      </text>
+    </mc>
+    <mc>
+      <id>380503
+      </id>
+      <name>Spawn of Thraxes
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Spawn of Thraxes enters the battlefield, it deals damage to target creature or player equal to the number of Mountains you control.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>112
+      </num>
+      <text>Flying&lt;br&gt;When Spawn of Thraxes enters the battlefield, it deals damage to target creature or player equal to the number of Mountains you control.
+      </text>
+    </mc>
+    <mc>
+      <id>380504
+      </id>
+      <name>Spirespine
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment Creature - Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Bestow {4}{G} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Spirespine blocks each turn if able.&lt;br&gt;Enchanted creature gets +4/+1 and blocks each turn if able.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Sam Burley
+      </artist>
+      <num>142
+      </num>
+      <text>Bestow {4}{G} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Spirespine blocks each turn if able.&lt;br&gt;Enchanted creature gets +4/+1 and blocks each turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>380505
+      </id>
+      <name>Spite of Mogis
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Spite of Mogis deals damage to target creature equal to the number of instant and sorcery cards in your graveyard. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Vincent Proce
+      </artist>
+      <num>113
+      </num>
+      <text>Spite of Mogis deals damage to target creature equal to the number of instant and sorcery cards in your graveyard. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380506
+      </id>
+      <name>Spiteful Blow
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target creature and target land.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jason Chan
+      </artist>
+      <num>83
+      </num>
+      <text>Destroy target creature and target land.
+      </text>
+    </mc>
+    <mc>
+      <id>380507
+      </id>
+      <name>Squelching Leeches
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Leech
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>Squelching Leeches's power and toughness are each equal to the number of Swamps you control.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>84
+      </num>
+      <text>Squelching Leeches's power and toughness are each equal to the number of Swamps you control.
+      </text>
+    </mc>
+    <mc>
+      <id>380508
+      </id>
+      <name>Starfall
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Starfall deals 3 damage to target creature. If that creature is an enchantment, Starfall deals 3 damage to that creature's controller.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>114
+      </num>
+      <text>Starfall deals 3 damage to target creature. If that creature is an enchantment, Starfall deals 3 damage to that creature's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>380509
+      </id>
+      <name>Stonewise Fortifier
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{4}{W}: Prevent all damage that would be dealt to Stonewise Fortifier by target creature this turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Alexander Lee
+      </artist>
+      <num>27
+      </num>
+      <text>{4}{W}: Prevent all damage that would be dealt to Stonewise Fortifier by target creature this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380510
+      </id>
+      <name>Stormchaser Chimera
+      </name>
+      <cost>{2}{U}{R}
+      </cost>
+      <type>Creature - Chimera
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{2}{U}{R}: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. &lt;i&gt;(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>156
+      </num>
+      <text>Flying&lt;br&gt;{2}{U}{R}: Scry 1, then reveal the top card of your library. Stormchaser Chimera gets +X/+0 until end of turn, where X is that card's converted mana cost. &lt;i&gt;(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380511
+      </id>
+      <name>Strength from the Fallen
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Constellation- Whenever Strength from the Fallen or another enchantment enters the battlefield under your control, target creature gets +X/+X until end of turn, where X is the number of creature cards in your graveyard.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Min Yum
+      </artist>
+      <num>143
+      </num>
+      <text>Constellation- Whenever Strength from the Fallen or another enchantment enters the battlefield under your control, target creature gets +X/+X until end of turn, where X is the number of creature cards in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>380512
+      </id>
+      <name>Supply-Line Cranes
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Supply-Line Cranes enters the battlefield, put a +1/+1 counter on target creature.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>28
+      </num>
+      <text>Flying&lt;br&gt;When Supply-Line Cranes enters the battlefield, put a +1/+1 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>380513
+      </id>
+      <name>Swarmborn Giant
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>When you're dealt combat damage, sacrifice Swarmborn Giant.&lt;br&gt;{4}{G}{G}: Monstrosity 2. &lt;i&gt;(If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;As long as Swarmborn Giant is monstrous, it has reach.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>144
+      </num>
+      <text>When you're dealt combat damage, sacrifice Swarmborn Giant.&lt;br&gt;{4}{G}{G}: Monstrosity 2. &lt;i&gt;(If this creature isn't monstrous, put two +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;As long as Swarmborn Giant is monstrous, it has reach.
+      </text>
+    </mc>
+    <mc>
+      <id>380514
+      </id>
+      <name>Temple of Epiphany
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Temple of Epiphany enters the battlefield tapped.&lt;br&gt;When Temple of Epiphany enters the battlefield, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {U} or {R} to your mana pool.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>164
+      </num>
+      <text>Temple of Epiphany enters the battlefield tapped.&lt;br&gt;When Temple of Epiphany enters the battlefield, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {U} or {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>380515
+      </id>
+      <name>Temple of Malady
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Temple of Malady enters the battlefield tapped.&lt;br&gt;When Temple of Malady enters the battlefield, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {B} or {G} to your mana pool.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>James Paick
+      </artist>
+      <num>165
+      </num>
+      <text>Temple of Malady enters the battlefield tapped.&lt;br&gt;When Temple of Malady enters the battlefield, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {B} or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>380516
+      </id>
+      <name>Tethmos High Priest
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Cat Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Tethmos High Priest, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>29
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Tethmos High Priest, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>380517
+      </id>
+      <name>Thassa's Devourer
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Enchantment Creature - Elemental
+      </type>
+      <power>2
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Constellation- Whenever Thassa's Devourer or another enchantment enters the battlefield under your control, target player puts the top two cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>53
+      </num>
+      <text>Constellation- Whenever Thassa's Devourer or another enchantment enters the battlefield under your control, target player puts the top two cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>380518
+      </id>
+      <name>Thassa's Ire
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{3}{U}: You may tap or untap target creature.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>54
+      </num>
+      <text>{3}{U}: You may tap or untap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>380519
+      </id>
+      <name>Thoughtrender Lamia
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Enchantment Creature - Lamia
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Constellation- Whenever Thoughtrender Lamia or another enchantment enters the battlefield under your control, each opponent discards a card.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Magali Villeneuve
+      </artist>
+      <num>85
+      </num>
+      <text>Constellation- Whenever Thoughtrender Lamia or another enchantment enters the battlefield under your control, each opponent discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>380520
+      </id>
+      <name>Tormented Thoughts
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Tormented Thoughts, sacrifice a creature.&lt;br&gt;Target player discards a number of cards equal to the sacrificed creature's power.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Allen Williams
+      </artist>
+      <num>86
+      </num>
+      <text>As an additional cost to cast Tormented Thoughts, sacrifice a creature.&lt;br&gt;Target player discards a number of cards equal to the sacrificed creature's power.
+      </text>
+    </mc>
+    <mc>
+      <id>380521
+      </id>
+      <name>Triton Cavalry
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Merfolk Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Triton Cavalry, you may return target enchantment to its owner's hand.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>55
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Triton Cavalry, you may return target enchantment to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>380522
+      </id>
+      <name>Triton Shorestalker
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Merfolk Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Triton Shorestalker can't be blocked.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>56
+      </num>
+      <text>Triton Shorestalker can't be blocked.
+      </text>
+    </mc>
+    <mc>
+      <id>380523
+      </id>
+      <name>Twinflame
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Strive- Twinflame costs {2}{R} more to cast for each target beyond the first.&lt;br&gt;Choose any number of target creatures you control. For each of them, put a token that's a copy of that creature onto the battlefield. Those tokens have haste. Exile them at the beginning of the next end step.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>115
+      </num>
+      <text>Strive- Twinflame costs {2}{R} more to cast for each target beyond the first.&lt;br&gt;Choose any number of target creatures you control. For each of them, put a token that's a copy of that creature onto the battlefield. Those tokens have haste. Exile them at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>380524
+      </id>
+      <name>Underworld Coinsmith
+      </name>
+      <cost>{W}{B}
+      </cost>
+      <type>Enchantment Creature - Human Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Constellation- Whenever Underworld Coinsmith or another enchantment enters the battlefield under your control, you gain 1 life.&lt;br&gt;{W}{B}, Pay 1 life: Each opponent loses 1 life.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mark Winters
+      </artist>
+      <num>157
+      </num>
+      <text>Constellation- Whenever Underworld Coinsmith or another enchantment enters the battlefield under your control, you gain 1 life.&lt;br&gt;{W}{B}, Pay 1 life: Each opponent loses 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>380525
+      </id>
+      <name>War-Wing Siren
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Siren Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Heroic- Whenever you cast a spell that targets War-Wing Siren, put a +1/+1 counter on War-Wing Siren.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Magali Villeneuve
+      </artist>
+      <num>57
+      </num>
+      <text>Flying&lt;br&gt;Heroic- Whenever you cast a spell that targets War-Wing Siren, put a +1/+1 counter on War-Wing Siren.
+      </text>
+    </mc>
+    <mc>
+      <id>380526
+      </id>
+      <name>Whitewater Naiads
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Enchantment Creature - Nymph
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Constellation- Whenever Whitewater Naiads or another enchantment enters the battlefield under your control, target creature can't be blocked this turn.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>William Wu
+      </artist>
+      <num>58
+      </num>
+      <text>Constellation- Whenever Whitewater Naiads or another enchantment enters the battlefield under your control, target creature can't be blocked this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380527
+      </id>
+      <name>Wildfire Cerberus
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Hound
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{5}{R}{R}: Monstrosity 1. &lt;i&gt;(If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Wildfire Cerberus becomes monstrous, it deals 2 damage to each opponent and each creature your opponents control.
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>116
+      </num>
+      <text>{5}{R}{R}: Monstrosity 1. &lt;i&gt;(If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Wildfire Cerberus becomes monstrous, it deals 2 damage to each opponent and each creature your opponents control.
+      </text>
+    </mc>
+    <mc>
+      <id>380528
+      </id>
+      <name>Worst Fears
+      </name>
+      <cost>{7}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You control target player during that player's next turn. Exile Worst Fears. &lt;i&gt;(You see all cards that player could see and make all decisions for the player.)&lt;/i&gt;
+      </oracleText>
+      <edition>Journey into Nyx
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>87
+      </num>
+      <text>You control target player during that player's next turn. Exile Worst Fears. &lt;i&gt;(You see all cards that player could see and make all decisions for the player.)&lt;/i&gt;
+      </text>
+    </mc>
+  </list>
+</cards>

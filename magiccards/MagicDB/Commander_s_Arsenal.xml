@@ -1,0 +1,439 @@
+
+<cards>
+  <name>Commander_s_Arsenal</name>
+  <key>Commander_s_Arsenal</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>338441
+      </id>
+      <name>Chaos Warp
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>The owner of target permanent shuffles it into his or her library, then reveals the top card of his or her library. If it's a permanent card, he or she puts it onto the battlefield.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Trevor Claxton
+      </artist>
+      <num>1
+      </num>
+      <text>The owner of target permanent shuffles it into his or her library, then reveals the top card of his or her library. If it's a permanent card, he or she puts it onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>338442
+      </id>
+      <name>Command Tower
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add to your mana pool one mana of any color in your commander's color identity.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>2
+      </num>
+      <text>{T}: Add to your mana pool one mana of any color in your commander's color identity.
+      </text>
+    </mc>
+    <mc>
+      <id>338453
+      </id>
+      <name>Decree of Pain
+      </name>
+      <cost>{6}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.&lt;br&gt;Cycling {3}{B}{B} &lt;i&gt;({3}{B}{B}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Decree of Pain, all creatures get -2/-2 until end of turn.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>3
+      </num>
+      <text>Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.&lt;br&gt;Cycling {3}{B}{B} &lt;i&gt;({3}{B}{B}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Decree of Pain, all creatures get -2/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>338454
+      </id>
+      <name>Desertion
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>4
+      </num>
+      <text>Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>338449
+      </id>
+      <name>Diaochan, Artful Beauty
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Legendary Creature - Human Advisor
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate this ability only during your turn, before attackers are declared.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Miao Aili
+      </artist>
+      <num>5
+      </num>
+      <text>{T}: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate this ability only during your turn, before attackers are declared.
+      </text>
+    </mc>
+    <mc>
+      <id>338446
+      </id>
+      <name>Dragonlair Spider
+      </name>
+      <cost>{2}{R}{R}{G}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Reach&lt;br&gt;Whenever an opponent casts a spell, put a 1/1 green Insect creature token onto the battlefield.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Carl Critchlow
+      </artist>
+      <num>6
+      </num>
+      <text>Reach&lt;br&gt;Whenever an opponent casts a spell, put a 1/1 green Insect creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>338451
+      </id>
+      <name>Duplicant
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Shapeshifter
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Imprint- When Duplicant enters the battlefield, you may exile target nontoken creature.&lt;br&gt;As long as the exiled card is a creature card, Duplicant has that card's power, toughness, and creature types. It's still a Shapeshifter.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Marco Nelor
+      </artist>
+      <num>7
+      </num>
+      <text>Imprint- When Duplicant enters the battlefield, you may exile target nontoken creature.&lt;br&gt;As long as the exiled card is a creature card, Duplicant has that card's power, toughness, and creature types. It's still a Shapeshifter.
+      </text>
+    </mc>
+    <mc>
+      <id>338443
+      </id>
+      <name>Edric, Spymaster of Trest
+      </name>
+      <cost>{1}{G}{U}
+      </cost>
+      <type>Legendary Creature - Elf Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>8
+      </num>
+      <text>Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>338444
+      </id>
+      <name>Kaalia of the Vast
+      </name>
+      <cost>{1}{W}{B}{R}
+      </cost>
+      <type>Legendary Creature - Human Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Michael Komarck
+      </artist>
+      <num>9
+      </num>
+      <text>Flying&lt;br&gt;Whenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent.
+      </text>
+    </mc>
+    <mc>
+      <id>338450
+      </id>
+      <name>Loyal Retainers
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Advisor
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Solomon Au Yeung
+      </artist>
+      <num>10
+      </num>
+      <text>Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared.
+      </text>
+    </mc>
+    <mc>
+      <id>338447
+      </id>
+      <name>Maelstrom Wanderer
+      </name>
+      <cost>{5}{U}{R}{G}
+      </cost>
+      <type>Legendary Creature - Elemental
+      </type>
+      <power>7
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Creatures you control have haste.&lt;br&gt;Cascade, cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order. Then do it again.)&lt;/i&gt;
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>11
+      </num>
+      <text>Creatures you control have haste.&lt;br&gt;Cascade, cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order. Then do it again.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>338452
+      </id>
+      <name>Mind's Eye
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>13
+      </num>
+      <text>Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>338455
+      </id>
+      <name>Mirari's Wake
+      </name>
+      <cost>{3}{G}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures you control get +1/+1.&lt;br&gt;&lt;br&gt;Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>14
+      </num>
+      <text>Creatures you control get +1/+1.&lt;br&gt;&lt;br&gt;Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.
+      </text>
+    </mc>
+    <mc>
+      <id>338457
+      </id>
+      <name>Rhystic Study
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Terese Nielsen
+      </artist>
+      <num>15
+      </num>
+      <text>Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.
+      </text>
+    </mc>
+    <mc>
+      <id>338458
+      </id>
+      <name>Scroll Rack
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Heather Hudson
+      </artist>
+      <num>16
+      </num>
+      <text>{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>338456
+      </id>
+      <name>Sylvan Library
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>17
+      </num>
+      <text>At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>338445
+      </id>
+      <name>The Mimeoplasm
+      </name>
+      <cost>{2}{G}{U}{B}
+      </cost>
+      <type>Legendary Creature - Ooze
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>As The Mimeoplasm enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>12
+      </num>
+      <text>As The Mimeoplasm enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card.
+      </text>
+    </mc>
+    <mc>
+      <id>338448
+      </id>
+      <name>Vela the Night-Clad
+      </name>
+      <cost>{4}{U}{B}
+      </cost>
+      <type>Legendary Creature - Human Wizard
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Intimidate&lt;br&gt;Other creatures you control have intimidate.&lt;br&gt;Whenever Vela the Night-Clad or another creature you control leaves the battlefield, each opponent loses 1 life.
+      </oracleText>
+      <edition>Commander's Arsenal
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Allen Williams
+      </artist>
+      <num>18
+      </num>
+      <text>Intimidate&lt;br&gt;Other creatures you control have intimidate.&lt;br&gt;Whenever Vela the Night-Clad or another creature you control leaves the battlefield, each opponent loses 1 life.
+      </text>
+    </mc>
+  </list>
+</cards>

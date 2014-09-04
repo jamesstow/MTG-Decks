@@ -1,0 +1,3377 @@
+
+<cards>
+  <name>Battle_Royale_Box_Set</name>
+  <key>Battle_Royale_Box_Set</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>21097
+      </id>
+      <name>Maniacal Rage
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and can't block.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.615
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>1
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>21098
+      </id>
+      <name>Village Elder
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Human Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{G}, {T}, Sacrifice a Forest: Regenerate target creature.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.658
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>2
+      </num>
+      <text>{G}, {T}, Sacrifice a Forest: Regenerate target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>21099
+      </id>
+      <name>Broken Fall
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Return Broken Fall to its owner's hand: Regenerate target creature.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.25
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>3
+      </num>
+      <text>Return Broken Fall to its owner's hand: Regenerate target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>21101
+      </id>
+      <name>Symbiosis
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Two target creatures each get +2/+2 until end of turn.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>4
+      </num>
+      <text>Two target creatures each get +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>21102
+      </id>
+      <name>Arc Lightning
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.421
+      </rating>
+      <artist>Andrew Goldhawk
+      </artist>
+      <num>5
+      </num>
+      <text>Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.
+      </text>
+    </mc>
+    <mc>
+      <id>21104
+      </id>
+      <name>Shower of Sparks
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Shower of Sparks deals 1 damage to target creature and 1 damage to target player.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.2
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>6
+      </num>
+      <text>Shower of Sparks deals 1 damage to target creature and 1 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>21106
+      </id>
+      <name>Skyshroud Elite
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Skyshroud Elite gets +1/+2 as long as an opponent controls a nonbasic land.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.069
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>7
+      </num>
+      <text>Skyshroud Elite gets +1/+2 as long as an opponent controls a nonbasic land.
+      </text>
+    </mc>
+    <mc>
+      <id>21113
+      </id>
+      <name>Spike Feeder
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Spike
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Spike Feeder enters the battlefield with two +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.&lt;br&gt;Remove a +1/+1 counter from Spike Feeder: You gain 2 life.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.45
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>8
+      </num>
+      <text>Spike Feeder enters the battlefield with two +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.&lt;br&gt;Remove a +1/+1 counter from Spike Feeder: You gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>21114
+      </id>
+      <name>Trumpeting Armodon
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elephant
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{1}{G}: Target creature blocks Trumpeting Armodon this turn if able.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.438
+      </rating>
+      <artist>Gary Leach
+      </artist>
+      <num>9
+      </num>
+      <text>{1}{G}: Target creature blocks Trumpeting Armodon this turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>21115
+      </id>
+      <name>Wildfire Emissary
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Efreet
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Protection from white&lt;br&gt;{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.846
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>10
+      </num>
+      <text>Protection from white&lt;br&gt;{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>21116
+      </id>
+      <name>Plated Rootwalla
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{2}{G}: Plated Rootwalla gets +3/+3 until end of turn. Activate this ability only once each turn.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.7
+      </rating>
+      <artist>Randy Elliott
+      </artist>
+      <num>11
+      </num>
+      <text>{2}{G}: Plated Rootwalla gets +3/+3 until end of turn. Activate this ability only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>21117
+      </id>
+      <name>Mogg Hollows
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {R} or {G} to your mana pool. Mogg Hollows doesn't untap during your next untap step.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.194
+      </rating>
+      <artist>Jeff Laubenstein
+      </artist>
+      <num>12
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {R} or {G} to your mana pool. Mogg Hollows doesn't untap during your next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>21123
+      </id>
+      <name>Disruptive Student
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Counter target spell unless its controller pays {1}.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.288
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>13
+      </num>
+      <text>{T}: Counter target spell unless its controller pays {1}.
+      </text>
+    </mc>
+    <mc>
+      <id>21125
+      </id>
+      <name>Manta Riders
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Merfolk
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{U}: Manta Riders gains flying until end of turn.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.529
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>14
+      </num>
+      <text>{U}: Manta Riders gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>21134
+      </id>
+      <name>Songstitcher
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{W}: Prevent all combat damage that would be dealt this turn by target attacking creature with flying.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.3
+      </rating>
+      <artist>Berry
+      </artist>
+      <num>15
+      </num>
+      <text>{1}{W}: Prevent all combat damage that would be dealt this turn by target attacking creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>21135
+      </id>
+      <name>Windfall
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.744
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>16
+      </num>
+      <text>Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.
+      </text>
+    </mc>
+    <mc>
+      <id>21137
+      </id>
+      <name>Curfew
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Each player returns a creature he or she controls to its owner's hand.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.605
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>17
+      </num>
+      <text>Each player returns a creature he or she controls to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>21138
+      </id>
+      <name>Man-o'-War
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Jellyfish
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Man-o'-War enters the battlefield, return target creature to its owner's hand.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.477
+      </rating>
+      <artist>Jon J Muth
+      </artist>
+      <num>18
+      </num>
+      <text>When Man-o'-War enters the battlefield, return target creature to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>21143
+      </id>
+      <name>Catastrophe
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all lands or all creatures. Creatures destroyed this way can't be regenerated.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.115
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>19
+      </num>
+      <text>Destroy all lands or all creatures. Creatures destroyed this way can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>21146
+      </id>
+      <name>Thalakos Lowlands
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {W} or {U} to your mana pool. Thalakos Lowlands doesn't untap during your next untap step.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.333
+      </rating>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>20
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {W} or {U} to your mana pool. Thalakos Lowlands doesn't untap during your next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>21147
+      </id>
+      <name>Wall of Heat
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>2
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.075
+      </rating>
+      <artist>Richard Thomas
+      </artist>
+      <num>21
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>21148
+      </id>
+      <name>Subversion
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.972
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>22
+      </num>
+      <text>At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.
+      </text>
+    </mc>
+    <mc>
+      <id>21150
+      </id>
+      <name>Sadistic Glee
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever a creature dies, put a +1/+1 counter on enchanted creature.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.895
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>23
+      </num>
+      <text>Enchant creature&lt;br&gt;Whenever a creature dies, put a +1/+1 counter on enchanted creature.
+      </text>
+    </mc>
+    <mc>
+      <id>21153
+      </id>
+      <name>Exhume
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player puts a creature card from his or her graveyard onto the battlefield.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.77
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>24
+      </num>
+      <text>Each player puts a creature card from his or her graveyard onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>21155
+      </id>
+      <name>Living Death
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player exiles all creature cards from his or her graveyard, then sacrifices all creatures he or she controls, then puts all cards he or she exiled this way onto the battlefield.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Charles Gillespie
+      </artist>
+      <num>25
+      </num>
+      <text>Each player exiles all creature cards from his or her graveyard, then sacrifices all creatures he or she controls, then puts all cards he or she exiled this way onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>21156
+      </id>
+      <name>Unnerve
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each opponent discards two cards.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.375
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>26
+      </num>
+      <text>Each opponent discards two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>21158
+      </id>
+      <name>Rolling Thunder
+      </name>
+      <cost>{X}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Rolling Thunder deals X damage divided as you choose among any number of target creatures and/or players.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.077
+      </rating>
+      <artist>Richard Thomas
+      </artist>
+      <num>27
+      </num>
+      <text>Rolling Thunder deals X damage divided as you choose among any number of target creatures and/or players.
+      </text>
+    </mc>
+    <mc>
+      <id>21159
+      </id>
+      <name>Heat Ray
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Heat Ray deals X damage to target creature.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.875
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>28
+      </num>
+      <text>Heat Ray deals X damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>21160
+      </id>
+      <name>Reanimate
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.795
+      </rating>
+      <artist>Robert Bliss
+      </artist>
+      <num>29
+      </num>
+      <text>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>21161
+      </id>
+      <name>Sewer Rats
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Rat
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{B}, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate this ability no more than three times each turn.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.2
+      </rating>
+      <artist>Martin McKenna
+      </artist>
+      <num>30
+      </num>
+      <text>{B}, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate this ability no more than three times each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>21163
+      </id>
+      <name>Fire Ants
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Fire Ants deals 1 damage to each other creature without flying.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.219
+      </rating>
+      <artist>Tom Fleming
+      </artist>
+      <num>31
+      </num>
+      <text>{T}: Fire Ants deals 1 damage to each other creature without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>21164
+      </id>
+      <name>Phyrexian Ghoul
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.903
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>32
+      </num>
+      <text>Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>21165
+      </id>
+      <name>Crazed Skirge
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Imp
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying, haste
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.139
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>33
+      </num>
+      <text>Flying, haste
+      </text>
+    </mc>
+    <mc>
+      <id>21168
+      </id>
+      <name>Cackling Fiend
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Cackling Fiend enters the battlefield, each opponent discards a card.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.333
+      </rating>
+      <artist>Brian Despain
+      </artist>
+      <num>34
+      </num>
+      <text>When Cackling Fiend enters the battlefield, each opponent discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>21170
+      </id>
+      <name>Cinder Marsh
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {B} or {R} to your mana pool. Cinder Marsh doesn't untap during your next untap step.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.333
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>35
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {B} or {R} to your mana pool. Cinder Marsh doesn't untap during your next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>21178
+      </id>
+      <name>Vec Townships
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {G} or {W} to your mana pool. Vec Townships doesn't untap during your next untap step.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.143
+      </rating>
+      <artist>Eric David Anderson
+      </artist>
+      <num>36
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {G} or {W} to your mana pool. Vec Townships doesn't untap during your next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>21181
+      </id>
+      <name>Spike Colony
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Spike
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Spike Colony enters the battlefield with four +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.7
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>37
+      </num>
+      <text>Spike Colony enters the battlefield with four +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>21182
+      </id>
+      <name>Argothian Elder
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Untap two target lands.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.86
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>38
+      </num>
+      <text>{T}: Untap two target lands.
+      </text>
+    </mc>
+    <mc>
+      <id>21184
+      </id>
+      <name>Sanctum Custodian
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.75
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>39
+      </num>
+      <text>{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>21185
+      </id>
+      <name>Sanctum Guardian
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.15
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>40
+      </num>
+      <text>Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.
+      </text>
+    </mc>
+    <mc>
+      <id>21186
+      </id>
+      <name>Advance Scout
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Soldier Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike&lt;br&gt;{W}: Target creature gains first strike until end of turn.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.472
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>41
+      </num>
+      <text>First strike&lt;br&gt;{W}: Target creature gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>21187
+      </id>
+      <name>Soltari Foot Soldier
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Soltari Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.841
+      </rating>
+      <artist>Janet Aulisio
+      </artist>
+      <num>42
+      </num>
+      <text>Shadow &lt;i&gt;(This creature can block or be blocked by only creatures with shadow.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>21190
+      </id>
+      <name>Sun Clasp
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+3.&lt;br&gt;{W}: Return enchanted creature to its owner's hand.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.154
+      </rating>
+      <artist>John Coulthart
+      </artist>
+      <num>43
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+3.&lt;br&gt;{W}: Return enchanted creature to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>21196
+      </id>
+      <name>Dirtcowl Wurm
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.816
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>44
+      </num>
+      <text>Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm.
+      </text>
+    </mc>
+    <mc>
+      <id>21198
+      </id>
+      <name>Spike Worker
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Spike
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Spike Worker enters the battlefield with two +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Worker: Put a +1/+1 counter on target creature.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.033
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>45
+      </num>
+      <text>Spike Worker enters the battlefield with two +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Worker: Put a +1/+1 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>21199
+      </id>
+      <name>Slippery Karst
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Slippery Karst enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.591
+      </rating>
+      <artist>Stephen Daniele
+      </artist>
+      <num>46
+      </num>
+      <text>Slippery Karst enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>21202
+      </id>
+      <name>Polluted Mire
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Polluted Mire enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.227
+      </rating>
+      <artist>Stephen Daniele
+      </artist>
+      <num>47
+      </num>
+      <text>Polluted Mire enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>21203
+      </id>
+      <name>Drifting Meadow
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Drifting Meadow enters the battlefield tapped.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.353
+      </rating>
+      <artist>Bob Eggleton
+      </artist>
+      <num>48
+      </num>
+      <text>Drifting Meadow enters the battlefield tapped.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>21204
+      </id>
+      <name>Steam Blast
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Steam Blast deals 2 damage to each creature and each player.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.077
+      </rating>
+      <artist>Mike Raabe
+      </artist>
+      <num>49
+      </num>
+      <text>Steam Blast deals 2 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>21205
+      </id>
+      <name>Gorilla Warrior
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Ape Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.676
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>50
+      </num>
+    </mc>
+    <mc>
+      <id>22344
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.786
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>51
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>21167
+      </id>
+      <name>Abyssal Specter
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Specter
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Abyssal Specter deals damage to a player, that player discards a card.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.844
+      </rating>
+      <artist>George Pratt
+      </artist>
+      <num>52
+      </num>
+      <text>Flying&lt;br&gt;Whenever Abyssal Specter deals damage to a player, that player discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>21121
+      </id>
+      <name>Air Elemental
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.071
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>53
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>21177
+      </id>
+      <name>Angelic Page
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Angel Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{T}: Target attacking or blocking creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.679
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>54
+      </num>
+      <text>Flying&lt;br&gt;{T}: Target attacking or blocking creature gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>21120
+      </id>
+      <name>Armored Pegasus
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Pegasus
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.577
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>55
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>21122
+      </id>
+      <name>Azure Drake
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.632
+      </rating>
+      <artist>Janine Johnston
+      </artist>
+      <num>56
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>11177
+      </id>
+      <name>Blinking Spirit
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{0}: Return Blinking Spirit to its owner's hand.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>L. A. Williams
+      </artist>
+      <num>57
+      </num>
+      <text>{0}: Return Blinking Spirit to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>21141
+      </id>
+      <name>Control Magic
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;You control enchanted creature.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.282
+      </rating>
+      <artist>Dameon Willich
+      </artist>
+      <num>58
+      </num>
+      <text>Enchant creature&lt;br&gt;You control enchanted creature.
+      </text>
+    </mc>
+    <mc>
+      <id>21127
+      </id>
+      <name>Counterspell
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.794
+      </rating>
+      <artist>Hannibal King
+      </artist>
+      <num>59
+      </num>
+      <text>Counter target spell.
+      </text>
+    </mc>
+    <mc>
+      <id>21154
+      </id>
+      <name>Dark Ritual
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Add {B}{B}{B} to your mana pool.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.848
+      </rating>
+      <artist>Clint Langley
+      </artist>
+      <num>60
+      </num>
+      <text>Add {B}{B}{B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>21133
+      </id>
+      <name>Disenchant
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.348
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>61
+      </num>
+      <text>Destroy target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>21188
+      </id>
+      <name>Elvish Lyrist
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.125
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>62
+      </num>
+      <text>{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>21192
+      </id>
+      <name>Fecundity
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature dies, that creature's controller may draw a card.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.088
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>63
+      </num>
+      <text>Whenever a creature dies, that creature's controller may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>21175
+      </id>
+      <name>Fertile Ground
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.357
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>64
+      </num>
+      <text>Enchant land&lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </text>
+    </mc>
+    <mc>
+      <id>21139
+      </id>
+      <name>Flood
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{U}{U}: Tap target creature without flying.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.682
+      </rating>
+      <artist>Dennis Detwiller
+      </artist>
+      <num>65
+      </num>
+      <text>{U}{U}: Tap target creature without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>22355
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.731
+      </rating>
+      <artist>Ji Yong
+      </artist>
+      <num>66
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>22354
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.3
+      </rating>
+      <artist>Ji Yong
+      </artist>
+      <num>67
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>22353
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.812
+      </rating>
+      <artist>Ji Yong
+      </artist>
+      <num>68
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>22352
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.643
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>69
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>22351
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.462
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>70
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>22349
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.559
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>71
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>22348
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.286
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>72
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>22347
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.6
+      </rating>
+      <artist>David O'Connor
+      </artist>
+      <num>73
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>21119
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>David O'Connor
+      </artist>
+      <num>74
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>21194
+      </id>
+      <name>Giant Growth
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.312
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>75
+      </num>
+      <text>Target creature gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>21130
+      </id>
+      <name>Healing Salve
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.5
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>76
+      </num>
+      <text>Choose one- Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>21195
+      </id>
+      <name>Hurricane
+      </name>
+      <cost>{X}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Hurricane deals X damage to each creature with flying and each player.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.711
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>77
+      </num>
+      <text>Hurricane deals X damage to each creature with flying and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>21131
+      </id>
+      <name>Infantry Veteran
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Target attacking creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.214
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>78
+      </num>
+      <text>{T}: Target attacking creature gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>22367
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.132
+      </rating>
+      <artist>Ku Xueming
+      </artist>
+      <num>79
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>22366
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.382
+      </rating>
+      <artist>Ku Xueming
+      </artist>
+      <num>80
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>22365
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.111
+      </rating>
+      <artist>Ku Xueming
+      </artist>
+      <num>81
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>22364
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.625
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>82
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>21144
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.719
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>83
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>21197
+      </id>
+      <name>Land Tax
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.64
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>84
+      </num>
+      <text>At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>11380
+      </id>
+      <name>Lhurgoyf
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Lhurgoyf
+      </type>
+      <oracleText>Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.46
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>85
+      </num>
+      <text>Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.
+      </text>
+    </mc>
+    <mc>
+      <id>21166
+      </id>
+      <name>Lightning Elemental
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.321
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>86
+      </num>
+      <text>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>21107
+      </id>
+      <name>Llanowar Elves
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Add {G} to your mana pool.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.704
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>87
+      </num>
+      <text>{T}: Add {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>21126
+      </id>
+      <name>Mana Leak
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell unless its controller pays {3}.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.357
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>88
+      </num>
+      <text>Counter target spell unless its controller pays {3}.
+      </text>
+    </mc>
+    <mc>
+      <id>21176
+      </id>
+      <name>Master Decoy
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{W}, {T}: Tap target creature.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.4
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>89
+      </num>
+      <text>{W}, {T}: Tap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>22343
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.875
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>90
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>22342
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.406
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>91
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>22340
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.725
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>92
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>22339
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.611
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>93
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>22336
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.868
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>94
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>22335
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>95
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>22334
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.826
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>96
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>21118
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.412
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>97
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>15391
+      </id>
+      <name>Nekrataal
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Human Assassin
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.412
+      </rating>
+      <artist>Adrian Smith
+      </artist>
+      <num>98
+      </num>
+      <text>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>21128
+      </id>
+      <name>Opportunity
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player draws four cards.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.364
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>99
+      </num>
+      <text>Target player draws four cards.
+      </text>
+    </mc>
+    <mc>
+      <id>21191
+      </id>
+      <name>Pacifism
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.909
+      </rating>
+      <artist>Robert Bliss
+      </artist>
+      <num>100
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.
+      </text>
+    </mc>
+    <mc>
+      <id>21149
+      </id>
+      <name>Pestilence
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.&lt;br&gt;{B}: Pestilence deals 1 damage to each creature and each player.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.38
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>101
+      </num>
+      <text>At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.&lt;br&gt;{B}: Pestilence deals 1 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>21110
+      </id>
+      <name>Pincher Beetles
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Shroud &lt;i&gt;(This creature can't be the target of spells or abilities.)&lt;/i&gt;
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.125
+      </rating>
+      <artist>Stephen Daniele
+      </artist>
+      <num>102
+      </num>
+      <text>Shroud &lt;i&gt;(This creature can't be the target of spells or abilities.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>22363
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.864
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>103
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>22362
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.794
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>104
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>22361
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.605
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>105
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>22360
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.656
+      </rating>
+      <artist>He Jiancheng
+      </artist>
+      <num>106
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>22359
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.636
+      </rating>
+      <artist>He Jiancheng
+      </artist>
+      <num>107
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>22358
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.955
+      </rating>
+      <artist>He Jiancheng
+      </artist>
+      <num>108
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>22357
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.385
+      </rating>
+      <artist>Pat Morrissey
+      </artist>
+      <num>109
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>22356
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.857
+      </rating>
+      <artist>Pat Morrissey
+      </artist>
+      <num>110
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>21145
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.906
+      </rating>
+      <artist>Pat Morrissey
+      </artist>
+      <num>111
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>21129
+      </id>
+      <name>Prodigal Sorcerer
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Prodigal Sorcerer deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>112
+      </num>
+      <text>{T}: Prodigal Sorcerer deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>21162
+      </id>
+      <name>Raging Goblin
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Berserker
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.889
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>113
+      </num>
+      <text>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>21142
+      </id>
+      <name>Ray of Command
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.7
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>114
+      </num>
+      <text>Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.
+      </text>
+    </mc>
+    <mc>
+      <id>21200
+      </id>
+      <name>Remote Isle
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Remote Isle enters the battlefield tapped.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.227
+      </rating>
+      <artist>Ciruelo
+      </artist>
+      <num>115
+      </num>
+      <text>Remote Isle enters the battlefield tapped.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;Cycling {2} &lt;i&gt;({2}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>21109
+      </id>
+      <name>River Boa
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Islandwalk&lt;br&gt;{G}: Regenerate River Boa.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.273
+      </rating>
+      <artist>Steve White
+      </artist>
+      <num>116
+      </num>
+      <text>Islandwalk&lt;br&gt;{G}: Regenerate River Boa.
+      </text>
+    </mc>
+    <mc>
+      <id>21193
+      </id>
+      <name>Sandstorm
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Sandstorm deals 1 damage to each attacking creature.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.029
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>117
+      </num>
+      <text>Sandstorm deals 1 damage to each attacking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>21174
+      </id>
+      <name>Scaled Wurm
+      </name>
+      <cost>{7}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>7
+      </power>
+      <toughness>6
+      </toughness>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.094
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>118
+      </num>
+    </mc>
+    <mc>
+      <id>21105
+      </id>
+      <name>Scryb Sprites
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Faerie
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.906
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>119
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>21183
+      </id>
+      <name>Seasoned Marshal
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Seasoned Marshal attacks, you may tap target creature.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.735
+      </rating>
+      <artist>Matthew D. Wilson
+      </artist>
+      <num>120
+      </num>
+      <text>Whenever Seasoned Marshal attacks, you may tap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>21108
+      </id>
+      <name>Seeker of Skybreak
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Untap target creature.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.267
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>121
+      </num>
+      <text>{T}: Untap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>21169
+      </id>
+      <name>Sengir Vampire
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.833
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>122
+      </num>
+      <text>Flying&lt;br&gt;Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+      </text>
+    </mc>
+    <mc>
+      <id>21132
+      </id>
+      <name>Soul Warden
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever another creature enters the battlefield, you gain 1 life.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.205
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>123
+      </num>
+      <text>Whenever another creature enters the battlefield, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>21179
+      </id>
+      <name>Spike Weaver
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Spike
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Spike Weaver enters the battlefield with three +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature.&lt;br&gt;{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.37
+      </rating>
+      <artist>Mike Raabe
+      </artist>
+      <num>124
+      </num>
+      <text>Spike Weaver enters the battlefield with three +1/+1 counters on it.&lt;br&gt;{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature.&lt;br&gt;{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>22370
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>125
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>22369
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.778
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>126
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>22368
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.567
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>127
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>21171
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.792
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>128
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>21172
+      </id>
+      <name>Swords to Plowshares
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature. Its controller gains life equal to its power.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.779
+      </rating>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>129
+      </num>
+      <text>Exile target creature. Its controller gains life equal to its power.
+      </text>
+    </mc>
+    <mc>
+      <id>21152
+      </id>
+      <name>Syphon Soul
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.324
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>130
+      </num>
+      <text>Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.
+      </text>
+    </mc>
+    <mc>
+      <id>21151
+      </id>
+      <name>Terror
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonartifact, nonblack creature. It can't be regenerated.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.818
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>131
+      </num>
+      <text>Destroy target nonartifact, nonblack creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>21100
+      </id>
+      <name>Tranquility
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all enchantments.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.125
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>132
+      </num>
+      <text>Destroy all enchantments.
+      </text>
+    </mc>
+    <mc>
+      <id>21112
+      </id>
+      <name>Uthden Troll
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Troll
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}: Regenerate Uthden Troll.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.75
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>133
+      </num>
+      <text>{R}: Regenerate Uthden Troll.
+      </text>
+    </mc>
+    <mc>
+      <id>21157
+      </id>
+      <name>Weakness
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -2/-1.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.913
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>134
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -2/-1.
+      </text>
+    </mc>
+    <mc>
+      <id>21124
+      </id>
+      <name>Wind Drake
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.643
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>135
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>21180
+      </id>
+      <name>Wrath of God
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all creatures. They can't be regenerated.
+      </oracleText>
+      <edition>Battle Royale Box Set
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.786
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>136
+      </num>
+      <text>Destroy all creatures. They can't be regenerated.
+      </text>
+    </mc>
+  </list>
+</cards>

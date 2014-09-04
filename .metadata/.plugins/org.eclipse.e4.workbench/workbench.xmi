@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="ASCII"?>
+<application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_NFqDAS_EEeSm5_pq2BpFEA" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_NFqDAi_EEeSm5_pq2BpFEA" bindingContexts="_NFqDBC_EEeSm5_pq2BpFEA">
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList/>&#xD;&#xA;&lt;/workbench>"/>
+  <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
+  <tags>ModelMigrationProcessor.001</tags>
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_NFqDAi_EEeSm5_pq2BpFEA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_NLiBgS_EEeSm5_pq2BpFEA" label="%trimmedwindow.label.eclipseSDK" x="-638" y="-21" width="1386" height="788">
+    <persistedState key="coolBarVisible" value="true"/>
+    <persistedState key="perspectiveBarVisible" value="true"/>
+    <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workingSets/>"/>
+    <persistedState key="aggregateWorkingSetId"/>
+    <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
+    <children xsi:type="basic:PartSashContainer" xmi:id="_NLiBgS_EEeSm5_pq2BpFEA" selectedElement="_NLiokC_EEeSm5_pq2BpFEA" horizontal="true">
+      <children xsi:type="advanced:PerspectiveStack" xmi:id="_NLiokC_EEeSm5_pq2BpFEA" containerData="7500" selectedElement="_NOrcIC_EEeSm5_pq2BpFEA">
+        <children xsi:type="advanced:Perspective" xmi:id="_NOrcIC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.perspective.magic" selectedElement="_NOrcIS_EEeSm5_pq2BpFEA" label="Magic Cards" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/m.gif">
+          <tags>persp.viewSC:com.reflexit.magiccards.ui.views.card.CardDescView</tags>
+          <tags>persp.viewSC:com.reflexit.magiccards.ui.views.MagicDbView</tags>
+          <tags>persp.viewSC:com.reflexit.magiccards.ui.views.nav.CardsNavigatorView</tags>
+          <tags>persp.viewSC:com.reflexit.magiccards.ui.views.lib.LibView</tags>
+          <tags>persp.newWizSC:com.reflexit.magiccards.ui.wizards.NewDeckWizard</tags>
+          <tags>persp.newWizSC:com.reflexit.magiccards.ui.wizards.NewCardCollectionWizard</tags>
+          <tags>persp.newWizSC:com.reflexit.magiccards.ui.wizards.BoosterGeneratorWizard</tags>
+          <tags>persp.newWizSC:com.reflexit.magiccards.ui.wizards.BoosterGeneratorCollectionWizard</tags>
+          <tags>persp.newWizSC:com.reflexit.magiccards.ui.wizards.NewCollectionContainerWizard</tags>
+          <children xsi:type="basic:PartSashContainer" xmi:id="_NOrcIS_EEeSm5_pq2BpFEA" selectedElement="_NOrcJC_EEeSm5_pq2BpFEA" horizontal="true">
+            <children xsi:type="basic:PartStack" xmi:id="_NOrcIi_EEeSm5_pq2BpFEA" elementId="left" containerData="3089" selectedElement="_NOrcIy_EEeSm5_pq2BpFEA">
+              <tags>newtablook</tags>
+              <children xsi:type="advanced:Placeholder" xmi:id="_NOrcIy_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.card.CardDescView" ref="_NNvoAC_EEeSm5_pq2BpFEA">
+                <tags>NoClose</tags>
+              </children>
+            </children>
+            <children xsi:type="basic:PartSashContainer" xmi:id="_NOrcJC_EEeSm5_pq2BpFEA" containerData="6911" selectedElement="_NOrcJi_EEeSm5_pq2BpFEA" horizontal="true">
+              <children xsi:type="advanced:Placeholder" xmi:id="_NOrcJS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.editorss" toBeRendered="false" containerData="8200" ref="_NNkB0C_EEeSm5_pq2BpFEA"/>
+              <children xsi:type="basic:PartSashContainer" xmi:id="_NOrcJi_EEeSm5_pq2BpFEA" containerData="1800" selectedElement="_NOrcJy_EEeSm5_pq2BpFEA" horizontal="true">
+                <children xsi:type="basic:PartSashContainer" xmi:id="_NOrcJy_EEeSm5_pq2BpFEA" containerData="7000" selectedElement="_NOrcKC_EEeSm5_pq2BpFEA">
+                  <children xsi:type="basic:PartStack" xmi:id="_NOrcKC_EEeSm5_pq2BpFEA" elementId="up" containerData="5000" selectedElement="_bgmCkC_EEeSm5_pq2BpFEA">
+                    <tags>newtablook</tags>
+                    <tags>active</tags>
+                    <children xsi:type="advanced:Placeholder" xmi:id="_bgmCkC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.lib.DeckView:Sen Triplets.xml" ref="_bglbgC_EEeSm5_pq2BpFEA"/>
+                    <children xsi:type="advanced:Placeholder" xmi:id="_NOrcKS_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.lib.DeckView:*" toBeRendered="false" ref="_NOpm8S_EEeSm5_pq2BpFEA"/>
+                  </children>
+                  <children xsi:type="basic:PartStack" xmi:id="_NOrcKi_EEeSm5_pq2BpFEA" elementId="main" containerData="5000" selectedElement="_NOrcKy_EEeSm5_pq2BpFEA">
+                    <tags>newtablook</tags>
+                    <children xsi:type="advanced:Placeholder" xmi:id="_NOrcKy_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.MagicDbView" ref="_NOdZsC_EEeSm5_pq2BpFEA">
+                      <tags>NoClose</tags>
+                    </children>
+                    <children xsi:type="advanced:Placeholder" xmi:id="_NOrcLC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.lib.LibView" ref="_NOeAwC_EEeSm5_pq2BpFEA"/>
+                    <children xsi:type="advanced:Placeholder" xmi:id="_NOrcLS_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.collector.CollectorView" ref="_NOpm8C_EEeSm5_pq2BpFEA"/>
+                  </children>
+                </children>
+                <children xsi:type="basic:PartSashContainer" xmi:id="_NOrcLi_EEeSm5_pq2BpFEA" containerData="3000" selectedElement="_NOrcLy_EEeSm5_pq2BpFEA">
+                  <children xsi:type="basic:PartStack" xmi:id="_NOrcLy_EEeSm5_pq2BpFEA" elementId="rightTop" containerData="5000" selectedElement="_NOrcMC_EEeSm5_pq2BpFEA">
+                    <tags>newtablook</tags>
+                    <children xsi:type="advanced:Placeholder" xmi:id="_NOrcMC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.nav.CardsNavigatorView" ref="_NN-RgC_EEeSm5_pq2BpFEA">
+                      <tags>NoClose</tags>
+                    </children>
+                  </children>
+                  <children xsi:type="basic:PartStack" xmi:id="_NOrcMS_EEeSm5_pq2BpFEA" elementId="right" containerData="5000" selectedElement="_NOrcMi_EEeSm5_pq2BpFEA">
+                    <tags>newtablook</tags>
+                    <children xsi:type="advanced:Placeholder" xmi:id="_NOrcMi_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.printings.PrintingsView" ref="_NOWE8C_EEeSm5_pq2BpFEA"/>
+                    <children xsi:type="advanced:Placeholder" xmi:id="_NOrcMy_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.instances.InstancesView" ref="_NOcyoC_EEeSm5_pq2BpFEA"/>
+                    <children xsi:type="advanced:Placeholder" xmi:id="_NOrcNC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.instances.InstancesView" toBeRendered="false" ref="_NOcyoC_EEeSm5_pq2BpFEA"/>
+                  </children>
+                </children>
+              </children>
+            </children>
+          </children>
+        </children>
+      </children>
+      <children xsi:type="basic:PartStack" xmi:id="_NLiokS_EEeSm5_pq2BpFEA" elementId="stickyFolderRight" toBeRendered="false" containerData="2500">
+        <children xsi:type="advanced:Placeholder" xmi:id="_NLioki_EEeSm5_pq2BpFEA" elementId="org.eclipse.help.ui.HelpView" toBeRendered="false" ref="_NLgzYC_EEeSm5_pq2BpFEA"/>
+        <children xsi:type="advanced:Placeholder" xmi:id="_NLioky_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.internal.introview" toBeRendered="false" ref="_NLiBgC_EEeSm5_pq2BpFEA"/>
+      </children>
+    </children>
+    <sharedElements xsi:type="basic:Part" xmi:id="_NLgzYC_EEeSm5_pq2BpFEA" elementId="org.eclipse.help.ui.HelpView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Help" iconURI="platform:/plugin/org.eclipse.help.ui/icons/view16/help_view.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Help</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_NLiBgC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.internal.introview" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Welcome" iconURI="platform:/plugin/org.eclipse.ui/icons/full/eview16/defaultview_misc.gif" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:General</tags>
+    </sharedElements>
+    <sharedElements xsi:type="advanced:Area" xmi:id="_NNkB0C_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.editorss">
+      <children xsi:type="basic:PartStack" xmi:id="_NNkB0S_EEeSm5_pq2BpFEA" elementId="org.eclipse.e4.primaryDataStack">
+        <tags>newtablook</tags>
+        <tags>org.eclipse.e4.primaryDataStack</tags>
+        <tags>EditorStack</tags>
+      </children>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_NNvoAC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.card.CardDescView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Card Info" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/one_card24.png" tooltip="" closeable="true">
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:Magic Assistant</tags>
+      <menus xmi:id="_NPLLYC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.card.CardDescView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_NPLLYS_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.card.CardDescView" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_NN-RgC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.nav.CardsNavigatorView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Card Navigator" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/card_nav24.png" tooltip="" closeable="true">
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:Magic Assistant</tags>
+      <menus xmi:id="_NVRMUC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.nav.CardsNavigatorView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_NVRMUS_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.nav.CardsNavigatorView" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_NOWE8C_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.printings.PrintingsView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Printings" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/m24.gif" tooltip="" closeable="true">
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:Magic Assistant</tags>
+      <menus xmi:id="_NhMvgC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.printings.PrintingsView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_NhMvgS_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.printings.PrintingsView" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_NOcyoC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.instances.InstancesView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Instances" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/hand32.png" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Magic Assistant</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_NOdZsC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.MagicDbView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="MTG Database" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/m24.gif" tooltip="" closeable="true">
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:Magic Assistant</tags>
+      <menus xmi:id="_NRh70C_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.MagicDbView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_NRh70S_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.MagicDbView" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_NOeAwC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.lib.LibView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="My Cards" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/card_coll24.png" tooltip="" closeable="true">
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:Magic Assistant</tags>
+      <menus xmi:id="_UYeMgC_IEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.lib.LibView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_UYeMgS_IEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.lib.LibView" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_NOpm8C_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.collector.CollectorView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Collector" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/collector24.png" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Magic Assistant</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_NOpm8S_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.lib.DeckView:*" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Deck" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/hand32.png" closeable="true">
+      <tags>View</tags>
+      <tags>categoryTag:Magic Assistant</tags>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_bglbgC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.lib.DeckView:Sen Triplets.xml" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Deck: Sen Triplets" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/hand32.png" tooltip="" closeable="true">
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
+      <tags>View</tags>
+      <tags>categoryTag:Magic Assistant</tags>
+      <tags>active</tags>
+      <tags>activeOnClose</tags>
+      <menus xmi:id="_bhk6AC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.lib.DeckView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_bhlhEC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.lib.DeckView" visible="false"/>
+    </sharedElements>
+    <trimBars xmi:id="_NLovMC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.main.toolbar" visible="false">
+      <children xsi:type="menu:ToolControl" xmi:id="_NMBwwC_EEeSm5_pq2BpFEA" elementId="PerspectiveSpacer" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+        <tags>stretch</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_NMFbIC_EEeSm5_pq2BpFEA" elementId="Spacer Glue" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+        <tags>glue</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_NMGCMC_EEeSm5_pq2BpFEA" elementId="SearchField" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.quickaccess.SearchField"/>
+      <children xsi:type="menu:ToolControl" xmi:id="_NMmYgC_EEeSm5_pq2BpFEA" elementId="Search-PS Glue" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.LayoutModifierToolControl">
+        <tags>glue</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_NMm_kC_EEeSm5_pq2BpFEA" elementId="PerspectiveSwitcher" toBeRendered="false" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.e4.ui.workbench.addons.perspectiveswitcher.PerspectiveSwitcher">
+        <tags>Draggable</tags>
+      </children>
+    </trimBars>
+    <trimBars xmi:id="_NMm_kS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.trim.status" side="Bottom">
+      <children xsi:type="menu:ToolControl" xmi:id="_NMnmoC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.StatusLine" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.StandardTrim">
+        <tags>stretch</tags>
+      </children>
+      <children xsi:type="menu:ToolControl" xmi:id="_NMzz4C_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.HeapStatus" toBeRendered="false" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.StandardTrim"/>
+      <children xsi:type="menu:ToolControl" xmi:id="_NM5TcC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.ProgressBar" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.StandardTrim">
+        <tags>Draggable</tags>
+      </children>
+    </trimBars>
+    <trimBars xmi:id="_NNP4wC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.trim.vertical1" side="Left"/>
+    <trimBars xmi:id="_NNP4wS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.trim.vertical2" side="Right"/>
+  </children>
+  <bindingTables xmi:id="_NFqDAy_EEeSm5_pq2BpFEA" contributorURI="platform:/plugin/org.eclipse.ui.workbench" bindingContext="_NFqDBC_EEeSm5_pq2BpFEA">
+    <bindings xmi:id="_NGZp4S_EEeSm5_pq2BpFEA" keySequence="CTRL+INSERT" command="_NGDrty_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGZp4y_EEeSm5_pq2BpFEA" keySequence="CTRL+A" command="_NGDrqy_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGa4AS_EEeSm5_pq2BpFEA" keySequence="CTRL+Z" command="_NGESyi_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGa4By_EEeSm5_pq2BpFEA" keySequence="CTRL+Y" command="_NGESxC_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGa4CC_EEeSm5_pq2BpFEA" keySequence="CTRL+X" command="_NGDElC_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGa4CS_EEeSm5_pq2BpFEA" keySequence="CTRL+V" command="_NGESwS_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGbfFC_EEeSm5_pq2BpFEA" keySequence="CTRL+F10" command="_NGDrxi_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGctOi_EEeSm5_pq2BpFEA" keySequence="SHIFT+DEL" command="_NGDElC_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGctPC_EEeSm5_pq2BpFEA" keySequence="CTRL+C" command="_NGDrty_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGdUQC_EEeSm5_pq2BpFEA" keySequence="ALT+PAGE_UP" command="_NGESvC_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGdUQi_EEeSm5_pq2BpFEA" keySequence="ALT+PAGE_DOWN" command="_NGDrqi_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGdUQy_EEeSm5_pq2BpFEA" keySequence="SHIFT+INSERT" command="_NGESwS_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGdURC_EEeSm5_pq2BpFEA" keySequence="CTRL+SPACE" command="_NGESwC_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGdURi_EEeSm5_pq2BpFEA" keySequence="CTRL+SHIFT+SPACE" command="_NGDrry_EEeSm5_pq2BpFEA"/>
+  </bindingTables>
+  <bindingTables xmi:id="_NGV_gC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.contexts.window" bindingContext="_NFqDBS_EEeSm5_pq2BpFEA">
+    <bindings xmi:id="_NGZC0C_EEeSm5_pq2BpFEA" keySequence="ALT+ARROW_RIGHT" command="_NGESxy_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGZp4C_EEeSm5_pq2BpFEA" keySequence="CTRL+SHIFT+NUMPAD_MULTIPLY" command="_NGDroy_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGZp4i_EEeSm5_pq2BpFEA" keySequence="CTRL+E" command="_NGESuy_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGZp5C_EEeSm5_pq2BpFEA" keySequence="ALT+ARROW_LEFT" command="_NGFg2i_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGZp6S_EEeSm5_pq2BpFEA" keySequence="CTRL+N" command="_NGDrsC_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGaQ8C_EEeSm5_pq2BpFEA" keySequence="CTRL+W" command="_NGDrri_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGaQ8S_EEeSm5_pq2BpFEA" keySequence="CTRL+F4" command="_NGDrri_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGaQ8i_EEeSm5_pq2BpFEA" keySequence="CTRL+SHIFT+W" command="_NGE51C_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGaQ8y_EEeSm5_pq2BpFEA" keySequence="CTRL+SHIFT+F4" command="_NGE51C_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGaQ9C_EEeSm5_pq2BpFEA" keySequence="CTRL+S" command="_NGE50y_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGaQ9S_EEeSm5_pq2BpFEA" keySequence="CTRL+SHIFT+S" command="_NGDrvy_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGaQ9i_EEeSm5_pq2BpFEA" keySequence="F2" command="_NGCdhC_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGaQ9y_EEeSm5_pq2BpFEA" keySequence="CTRL+P" command="_NGESxi_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGaQ-C_EEeSm5_pq2BpFEA" keySequence="ALT+SHIFT+F7" command="_NGDrui_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGaQ-S_EEeSm5_pq2BpFEA" keySequence="ALT+F7" command="_NGFg1y_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGa4AC_EEeSm5_pq2BpFEA" keySequence="CTRL+SHIFT+NUMPAD_DIVIDE" command="_NGESty_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGa4Ai_EEeSm5_pq2BpFEA" keySequence="F5" command="_NGE52C_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGa4Ay_EEeSm5_pq2BpFEA" keySequence="ALT+CR" command="_NGFg1C_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGa4Bi_EEeSm5_pq2BpFEA" keySequence="CTRL+6" command="_NGE5yS_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGbfEC_EEeSm5_pq2BpFEA" keySequence="DEL" command="_NGESsi_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGbfES_EEeSm5_pq2BpFEA" keySequence="CTRL+." command="_NGDEkC_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGbfEi_EEeSm5_pq2BpFEA" keySequence="CTRL+," command="_NGESxS_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGbfEy_EEeSm5_pq2BpFEA" keySequence="ALT+-" command="_NGFg3C_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGbfFS_EEeSm5_pq2BpFEA" keySequence="F12" command="_NGDruS_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGbfFi_EEeSm5_pq2BpFEA" keySequence="CTRL+M" command="_NGESti_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGbfFy_EEeSm5_pq2BpFEA" keySequence="CTRL+F6" command="_NGFg0i_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGcGIC_EEeSm5_pq2BpFEA" keySequence="CTRL+SHIFT+F6" command="_NGEStS_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGcGIS_EEeSm5_pq2BpFEA" keySequence="CTRL+F7" command="_NGE52S_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGcGIi_EEeSm5_pq2BpFEA" keySequence="CTRL+SHIFT+F7" command="_NGESyS_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGcGIy_EEeSm5_pq2BpFEA" keySequence="CTRL+F8" command="_NGFg2y_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGcGJC_EEeSm5_pq2BpFEA" keySequence="CTRL+SHIFT+F8" command="_NGE5xS_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGctOy_EEeSm5_pq2BpFEA" keySequence="CTRL+F" command="_NGDroC_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGdURS_EEeSm5_pq2BpFEA" keySequence="CTRL+SHIFT+E" command="_NGESyC_EEeSm5_pq2BpFEA"/>
+  </bindingTables>
+  <bindingTables xmi:id="_NGZp5S_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.context" bindingContext="_NGH9Ey_EEeSm5_pq2BpFEA">
+    <bindings xmi:id="_NGZp5i_EEeSm5_pq2BpFEA" keySequence="NUMPAD_SUBTRACT" command="_NGFg0C_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGZp5y_EEeSm5_pq2BpFEA" keySequence="-" command="_NGFg0C_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGZp6C_EEeSm5_pq2BpFEA" keySequence="INSERT" command="_NGDrwC_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGa4BC_EEeSm5_pq2BpFEA" keySequence="=" command="_NGDruy_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGa4BS_EEeSm5_pq2BpFEA" keySequence="NUMPAD_ADD" command="_NGDruy_EEeSm5_pq2BpFEA"/>
+    <bindings xmi:id="_NGctMC_EEeSm5_pq2BpFEA" keySequence="? M" command="_NGDElS_EEeSm5_pq2BpFEA">
+      <parameters xmi:id="_NGctMS_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.count" name="com.reflexit.magiccards.ui.count" value="0"/>
+    </bindings>
+    <bindings xmi:id="_NGctMi_EEeSm5_pq2BpFEA" keySequence="1 M" command="_NGDElS_EEeSm5_pq2BpFEA">
+      <parameters xmi:id="_NGctMy_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.count" name="com.reflexit.magiccards.ui.count" value="1"/>
+    </bindings>
+    <bindings xmi:id="_NGctNC_EEeSm5_pq2BpFEA" keySequence="2 M" command="_NGDElS_EEeSm5_pq2BpFEA">
+      <parameters xmi:id="_NGctNS_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.count" name="com.reflexit.magiccards.ui.count" value="2"/>
+    </bindings>
+    <bindings xmi:id="_NGctNi_EEeSm5_pq2BpFEA" keySequence="3 M" command="_NGDElS_EEeSm5_pq2BpFEA">
+      <parameters xmi:id="_NGctNy_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.count" name="com.reflexit.magiccards.ui.count" value="3"/>
+    </bindings>
+    <bindings xmi:id="_NGctOC_EEeSm5_pq2BpFEA" keySequence="4 M" command="_NGDElS_EEeSm5_pq2BpFEA">
+      <parameters xmi:id="_NGctOS_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.count" name="com.reflexit.magiccards.ui.count" value="4"/>
+    </bindings>
+    <bindings xmi:id="_NGdUQS_EEeSm5_pq2BpFEA" keySequence="CTRL+D" command="_NGFg0S_EEeSm5_pq2BpFEA"/>
+  </bindingTables>
+  <rootContext xmi:id="_NFqDBC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.contexts.dialogAndWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" name="In Dialogs and Windows" description="Either a dialog or a window is open">
+    <children xmi:id="_NFqDBS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.contexts.window" contributorURI="platform:/plugin/org.eclipse.ui.workbench" name="In Windows" description="A window is open">
+      <children xmi:id="_NFqDBi_EEeSm5_pq2BpFEA" elementId="org.eclipse.e4.ui.contexts.views" contributorURI="platform:/plugin/org.eclipse.ui.workbench" name="%bindingcontext.name.bindingView"/>
+      <children xmi:id="_NGH9EC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.textEditorScope" name="Editing Text" description="Editing Text Context"/>
+      <children xmi:id="_NGH9Ey_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.context" name="Magic Assistant windows"/>
+    </children>
+    <children xmi:id="_NFqDBy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.contexts.dialog" contributorURI="platform:/plugin/org.eclipse.ui.workbench" name="In Dialogs" description="A dialog is open"/>
+  </rootContext>
+  <rootContext xmi:id="_NGH9ES_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.contexts.workbenchMenu" name="Workbench Menu" description="When no Workbench windows are active"/>
+  <rootContext xmi:id="_NGH9Ei_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.contexts.actionSet" name="Action Set" description="Parent context for action sets"/>
+  <descriptors xmi:id="_NHmjwC_EEeSm5_pq2BpFEA" elementId="org.eclipse.e4.ui.compatibility.editor" allowMultiple="true" category="org.eclipse.e4.primaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor">
+    <tags>Editor</tags>
+  </descriptors>
+  <descriptors xmi:id="_NHpAAC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.MagicDbView" label="MTG Database" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/m24.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Magic Assistant</tags>
+  </descriptors>
+  <descriptors xmi:id="_NHt4gC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.card.CardDescView" label="Card Info" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/one_card24.png" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Magic Assistant</tags>
+  </descriptors>
+  <descriptors xmi:id="_NHufkC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.lib.LibView" label="My Cards" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/card_coll24.png" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Magic Assistant</tags>
+  </descriptors>
+  <descriptors xmi:id="_NHvGoC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.nav.CardsNavigatorView" label="Card Navigator" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/card_nav24.png" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Magic Assistant</tags>
+  </descriptors>
+  <descriptors xmi:id="_NHvtsC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.lib.DeckView" label="Deck" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/hand32.png" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Magic Assistant</tags>
+  </descriptors>
+  <descriptors xmi:id="_NHwUwC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.printings.PrintingsView" label="Printings" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/m24.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Magic Assistant</tags>
+  </descriptors>
+  <descriptors xmi:id="_NHw70C_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.collector.CollectorView" label="Collector" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/collector24.png" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Magic Assistant</tags>
+  </descriptors>
+  <descriptors xmi:id="_NHxi4C_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.views.instances.InstancesView" label="Instances" iconURI="platform:/plugin/com.reflexit.magiccards.ui/icons/hand32.png" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Magic Assistant</tags>
+  </descriptors>
+  <descriptors xmi:id="_NHxi4S_EEeSm5_pq2BpFEA" elementId="com.reflexit.mtgtournament.ui.tour.views.TNavigatorView" label="Tournament Navigator" iconURI="platform:/plugin/com.reflexit.mtgtournament.ui/icons/tour_nav_16.png" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Magic Assistant</tags>
+  </descriptors>
+  <descriptors xmi:id="_NHyJ8C_EEeSm5_pq2BpFEA" elementId="com.reflexit.mtgtournament.ui.tour.views.TournamentView" label="Tournament" iconURI="platform:/plugin/com.reflexit.mtgtournament.ui/icons/tour.png" allowMultiple="true" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Magic Assistant</tags>
+  </descriptors>
+  <descriptors xmi:id="_NHyJ8S_EEeSm5_pq2BpFEA" elementId="com.reflexit.mtgtournament.ui.tour.views.PlayersView" label="Players" iconURI="platform:/plugin/com.reflexit.mtgtournament.ui/icons/People.png" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Magic Assistant</tags>
+  </descriptors>
+  <descriptors xmi:id="_NHyxAC_EEeSm5_pq2BpFEA" elementId="com.reflexit.mtgtournament.ui.views.TimerView" label="Timer" iconURI="platform:/plugin/com.reflexit.mtgtournament.ui/icons/launch_profile.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Magic Assistant</tags>
+  </descriptors>
+  <descriptors xmi:id="_NHyxAS_EEeSm5_pq2BpFEA" elementId="org.eclipse.help.ui.HelpView" label="Help" iconURI="platform:/plugin/org.eclipse.help.ui/icons/view16/help_view.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:Help</tags>
+  </descriptors>
+  <descriptors xmi:id="_NHzYEC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.internal.introview" label="Welcome" iconURI="platform:/plugin/org.eclipse.ui/icons/full/eview16/defaultview_misc.gif" category="org.eclipse.e4.secondaryDataStack" closeable="true" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView">
+    <tags>View</tags>
+    <tags>categoryTag:General</tags>
+  </descriptors>
+  <commands xmi:id="_NGCdgC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.customizePerspective" commandName="Customize Perspective" description="Customize the current perspective" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGCdgS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.ToggleCoolbarAction" commandName="Toggle Toolbar Visibility" description="Toggles the visibility of the window toolbar" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGCdgi_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.commands.updateMagicDbDialog" commandName="Update Magic Cards Database..." category="_NGBPYi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGCdgy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.up" commandName="Up" description="Navigate up one level" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGCdhC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.edit.rename" commandName="Rename" description="Rename the selected item" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGCdhS_EEeSm5_pq2BpFEA" elementId="com.reflexit.magicassistant.command.backup" commandName="Backup" category="_NGBPaC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDEkC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.next" commandName="Next" description="Navigate to the next item" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDEkS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.closePerspective" commandName="Close Perspective" description="Close the current perspective" category="_NGBPYS_EEeSm5_pq2BpFEA">
+    <parameters xmi:id="_NGDEki_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.closePerspective.perspectiveId" name="Perspective Id"/>
+  </commands>
+  <commands xmi:id="_NGDEky_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.hideShowEditors" commandName="Toggle Editor Area Visibility" description="Toggles the visibility of the editor area" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDElC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.edit.cut" commandName="Cut" description="Cut the selection to the clipboard" category="_NGBPZi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDElS_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.commands.moveToDeck" commandName="Move to Active Collection" category="_NGBPYi_EEeSm5_pq2BpFEA">
+    <parameters xmi:id="_NGDEli_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.count" name="Count" typeId="org.eclipse.ui.dialogs.Integer"/>
+  </commands>
+  <commands xmi:id="_NGDEly_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.commands.split" commandName="Split" category="_NGBPYi_EEeSm5_pq2BpFEA">
+    <parameters xmi:id="_NGDEmC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.count" name="Count" typeId="org.eclipse.ui.dialogs.Integer"/>
+  </commands>
+  <commands xmi:id="_NGDroC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.edit.findReplace" commandName="Find and Replace" description="Find and replace text" category="_NGBPZi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDroS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.edit.move" commandName="Move..." description="Move the selected item" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDroi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.lockToolBar" commandName="Lock the Toolbars" description="Lock the Toolbars" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDroy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.expandAll" commandName="Expand All" description="Expand the current tree" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrpC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.import" commandName="Import" description="Import" category="_NGBPZy_EEeSm5_pq2BpFEA">
+    <parameters xmi:id="_NGDrpS_EEeSm5_pq2BpFEA" elementId="importWizardId" name="Import Wizard"/>
+  </commands>
+  <commands xmi:id="_NGDrpi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.help.helpSearch" commandName="Help Search" description="Open the help search" category="_NGBPYy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrpy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.browser.openBundleResource" commandName="Open Resource in Browser" description="Opens a bundle resource in the default web browser." category="_NGBPYS_EEeSm5_pq2BpFEA">
+    <parameters xmi:id="_NGDrqC_EEeSm5_pq2BpFEA" elementId="plugin" name="Plugin"/>
+    <parameters xmi:id="_NGDrqS_EEeSm5_pq2BpFEA" elementId="path" name="Path"/>
+  </commands>
+  <commands xmi:id="_NGDrqi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.nextSubTab" commandName="Next Sub-Tab" description="Switch to the next sub-tab" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrqy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.edit.selectAll" commandName="Select All" description="Select all" category="_NGBPZi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrrC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.preferences" commandName="Preferences" description="Open the preferences dialog" category="_NGBPYS_EEeSm5_pq2BpFEA">
+    <parameters xmi:id="_NGDrrS_EEeSm5_pq2BpFEA" elementId="preferencePageId" name="Preference Page"/>
+  </commands>
+  <commands xmi:id="_NGDrri_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.close" commandName="Close" description="Close the active editor" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrry_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.edit.text.contentAssist.contextInformation" commandName="Context Information" description="Show Context Information" category="_NGBPZi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrsC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.newWizard" commandName="New" description="Open the New item wizard" category="_NGBPZy_EEeSm5_pq2BpFEA">
+    <parameters xmi:id="_NGDrsS_EEeSm5_pq2BpFEA" elementId="newWizardId" name="New Wizard"/>
+  </commands>
+  <commands xmi:id="_NGDrsi_EEeSm5_pq2BpFEA" elementId="org.eclipse.help.ui.ignoreMissingPlaceholders" commandName="Do not warn of missing documentation" description="Sets the help preferences to no longer report a warning about the current set of missing documents." category="_NGBPYy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrsy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.help.tipsAndTricksAction" commandName="Tips and Tricks" description="Open the tips and tricks help page" category="_NGBPYy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrtC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.commands.EditDeckProperties" commandName="Edit Properties..." category="_NGBPYi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrtS_EEeSm5_pq2BpFEA" elementId="org.eclipse.help.ui.indexcommand" commandName="Index" description="Show Keyword Index" category="_NGBPYy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrti_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.edit.addBookmark" commandName="Add Bookmark" description="Add a bookmark" category="_NGBPZi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrty_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.edit.copy" commandName="Copy" description="Copy the selection to the clipboard" category="_NGBPZi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDruC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.pinEditor" commandName="Pin Editor" description="Pin the current editor" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDruS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.activateEditor" commandName="Activate Editor" description="Activate the editor" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrui_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.part.previousPage" commandName="Previous Page" description="Switch to the previous page" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDruy_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.commands.increaseCount" commandName="Increase" category="_NGBPYi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrvC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.help.aboutAction" commandName="About" description="Open the about dialog" category="_NGBPYy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrvS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.help.helpContents" commandName="Help Contents" description="Open the help contents" category="_NGBPYy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrvi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.previousTab" commandName="Previous Tab" description="Switch to the previous tab" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrvy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.saveAll" commandName="Save All" description="Save all current contents" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrwC_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.commands.addToLib" commandName="Add to Default Collection" category="_NGBPYi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrwS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.restartWorkbench" commandName="Restart" description="Restart the workbench" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrwi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.export" commandName="Export" description="Export" category="_NGBPZy_EEeSm5_pq2BpFEA">
+    <parameters xmi:id="_NGDrwy_EEeSm5_pq2BpFEA" elementId="exportWizardId" name="Export Wizard"/>
+  </commands>
+  <commands xmi:id="_NGDrxC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.resetPerspective" commandName="Reset Perspective" description="Reset the current perspective to its default state" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrxS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.showContextMenu" commandName="Show Context Menu" description="Show the context menu" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGDrxi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.showViewMenu" commandName="Show View Menu" description="Show the view menu" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESsC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.savePerspective" commandName="Save Perspective As" description="Save the current perspective" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESsS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.newWindow" commandName="New Window" description="Open another window" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESsi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.edit.delete" commandName="Delete" description="Delete the selection" category="_NGBPZi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESsy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.showKeyAssist" commandName="Show Key Assist" description="Show the key assist dialog" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGEStC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.saveAs" commandName="Save As" description="Save the current contents to another location" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGEStS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.previousEditor" commandName="Previous Editor" description="Switch to the previous editor" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESti_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.maximizePart" commandName="Maximize Active View or Editor" description="Toggles maximize/restore state of active view or editor" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESty_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.collapseAll" commandName="Collapse All" description="Collapse the current tree" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESuC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.perspectives.showPerspective" commandName="Show Perspective" description="Show a particular perspective" category="_NGBPYC_EEeSm5_pq2BpFEA">
+    <parameters xmi:id="_NGESuS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.perspectives.showPerspective.perspectiveId" name="Parameter"/>
+    <parameters xmi:id="_NGESui_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.perspectives.showPerspective.newWindow" name="In New Window"/>
+  </commands>
+  <commands xmi:id="_NGESuy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.openEditorDropDown" commandName="Quick Switch Editor" description="Open the editor drop down list" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESvC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.previousSubTab" commandName="Previous Sub-Tab" description="Switch to the previous sub-tab" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESvS_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.commands.updateMagicDb" commandName="Update Magic Cards Database to Standard" category="_NGBPYi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESvi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.goInto" commandName="Go Into" description="Navigate into the selected item" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESvy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.activeContextInfo" commandName="Show activeContext Info" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESwC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.edit.text.contentAssist.proposals" commandName="Content Assist" description="Content Assist" category="_NGBPZi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESwS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.edit.paste" commandName="Paste" description="Paste from the clipboard" category="_NGBPZi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESwi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.revert" commandName="Revert" description="Revert to the last saved state" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESwy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.nextTab" commandName="Next Tab" description="Switch to the next tab" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESxC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.edit.redo" commandName="Redo" description="Redo the last operation" category="_NGBPZi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESxS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.previous" commandName="Previous" description="Navigate to the previous item" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESxi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.print" commandName="Print" description="Print" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESxy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.forwardHistory" commandName="Forward History" description="Move forward in the editor navigation history" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESyC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.switchToEditor" commandName="Switch to Editor" description="Switch to an editor" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESyS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.previousView" commandName="Previous View" description="Switch to the previous view" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGESyi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.edit.undo" commandName="Undo" description="Undo the last operation" category="_NGBPZi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE5wC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.back" commandName="Back" description="Navigate back" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE5wS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.linkWithEditor" commandName="Toggle Link with Editor " description="Toggles linking of a view's selection with the active editor's selection" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE5wi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.help.dynamicHelp" commandName="Dynamic Help" description="Open the dynamic help" category="_NGBPYy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE5wy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.help.displayHelp" commandName="Display Help" description="Display a Help topic" category="_NGBPYy_EEeSm5_pq2BpFEA">
+    <parameters xmi:id="_NGE5xC_EEeSm5_pq2BpFEA" elementId="href" name="Help topic href"/>
+  </commands>
+  <commands xmi:id="_NGE5xS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.previousPerspective" commandName="Previous Perspective" description="Switch to the previous perspective" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE5xi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.help.quickStartAction" commandName="Welcome" description="Show help for beginning users" category="_NGBPYy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE5xy_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.commands.sendBug" commandName="Send Bug or Feature Request" category="_NGBPYi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE5yC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.closeAllPerspectives" commandName="Close All Perspectives" description="Close all open perspectives" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE5yS_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.commands.filterCommand" commandName="Show Filter" category="_NGBPYi_EEeSm5_pq2BpFEA">
+    <parameters xmi:id="_NGE5yi_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.viewId" name="viewId" typeId="string"/>
+  </commands>
+  <commands xmi:id="_NGE5yy_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.commands.checkForUpdateMagicDb" commandName="Check for Updates to Magic Cards Database..." category="_NGBPYi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE5zC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.newEditor" commandName="New Editor" description="Open another editor on the active editor's input" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE5zS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.views.showView" commandName="Show View" description="Shows a particular view" category="_NGBPZS_EEeSm5_pq2BpFEA">
+    <parameters xmi:id="_NGE5zi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.views.showView.viewId" name="View"/>
+    <parameters xmi:id="_NGE5zy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.views.showView.secondaryId" name="Secondary Id"/>
+    <parameters xmi:id="_NGE50C_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.views.showView.makeFast" name="As FastView"/>
+  </commands>
+  <commands xmi:id="_NGE50S_EEeSm5_pq2BpFEA" elementId="org.eclipse.help.ui.closeTray" commandName="Close User Assistance Tray" description="Close the user assistance tray containing context help information and cheat sheets." category="_NGBPYy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE50i_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.help.installationDialog" commandName="Installation Information" description="Open the installation dialog" category="_NGBPYy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE50y_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.save" commandName="Save" description="Save the current contents" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE51C_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.closeAll" commandName="Close All" description="Close all editors" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE51S_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.spy" commandName="Show Contributing Plug-in" description="Shows contribution information for the currently selected element" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE51i_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.closePart" commandName="Close Part" description="Close the active workbench part" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE51y_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.quickAccess" commandName="Quick Access" description="Quickly access UI elements" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE52C_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.refresh" commandName="Refresh" description="Refresh the selected items" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE52S_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.nextView" commandName="Next View" description="Switch to the next view" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGE52i_EEeSm5_pq2BpFEA" elementId="com.reflexit.magicassistant.command.install" commandName="Install new software..." category="_NGBPaC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGFg0C_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.commands.decreaseCount" commandName="Decrease" category="_NGBPYi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGFg0S_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.commands.addToDeck" commandName="Copy to Active Collection" category="_NGBPYi_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGFg0i_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.nextEditor" commandName="Next Editor" description="Switch to the next editor" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGFg0y_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.minimizePart" commandName="Minimize Active View or Editor" description="Minimizes the active view or editor" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGFg1C_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.properties" commandName="Properties" description="Display the properties of the selected item" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGFg1S_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.showIn" commandName="Show In" category="_NGBPZC_EEeSm5_pq2BpFEA">
+    <parameters xmi:id="_NGFg1i_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.showIn.targetId" name="Show In Target Id" optional="false"/>
+  </commands>
+  <commands xmi:id="_NGFg1y_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.part.nextPage" commandName="Next Page" description="Switch to the next page" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGFg2C_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.forward" commandName="Forward" description="Navigate forward" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGFg2S_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.closeAllSaved" commandName="Close All Saved" description="Close all saved editors" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGFg2i_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.navigate.backwardHistory" commandName="Backward History" description="Move backward in the editor navigation history" category="_NGBPZC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGFg2y_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.nextPerspective" commandName="Next Perspective" description="Switch to the next perspective" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGFg3C_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.window.showSystemMenu" commandName="Show System Menu" description="Show the system menu" category="_NGBPYS_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGFg3S_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.closeOthers" commandName="Close Others" description="Close all editors except the one that is active" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGFg3i_EEeSm5_pq2BpFEA" elementId="com.reflexit.magicassistant.command.update" commandName="Check for Software Updates" category="_NGBPaC_EEeSm5_pq2BpFEA"/>
+  <commands xmi:id="_NGFg3y_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.file.exit" commandName="Exit" description="Exit the application" category="_NGBPZy_EEeSm5_pq2BpFEA"/>
+  <addons xmi:id="_NFqDCC_EEeSm5_pq2BpFEA" elementId="org.eclipse.e4.core.commands.service" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.core.commands/org.eclipse.e4.core.commands.CommandServiceAddon"/>
+  <addons xmi:id="_NFqDCS_EEeSm5_pq2BpFEA" elementId="org.eclipse.e4.ui.contexts.service" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.services/org.eclipse.e4.ui.services.ContextServiceAddon"/>
+  <addons xmi:id="_NFqDCi_EEeSm5_pq2BpFEA" elementId="org.eclipse.e4.ui.bindings.service" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.bindings/org.eclipse.e4.ui.bindings.BindingServiceAddon"/>
+  <addons xmi:id="_NFqDCy_EEeSm5_pq2BpFEA" elementId="org.eclipse.e4.ui.workbench.commands.model" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.CommandProcessingAddon"/>
+  <addons xmi:id="_NFqDDC_EEeSm5_pq2BpFEA" elementId="org.eclipse.e4.ui.workbench.contexts.model" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.ContextProcessingAddon"/>
+  <addons xmi:id="_NFqDDS_EEeSm5_pq2BpFEA" elementId="org.eclipse.e4.ui.workbench.bindings.model" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.swt/org.eclipse.e4.ui.workbench.swt.util.BindingProcessingAddon"/>
+  <addons xmi:id="_NFqDDi_EEeSm5_pq2BpFEA" elementId="Cleanup Addon" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.cleanupaddon.CleanupAddon"/>
+  <addons xmi:id="_NFqqEC_EEeSm5_pq2BpFEA" elementId="DnD Addon" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.dndaddon.DnDAddon"/>
+  <addons xmi:id="_NFqqES_EEeSm5_pq2BpFEA" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
+  <addons xmi:id="_NFqqEi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.workbench" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
+  <categories xmi:id="_NGBPYC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.category.perspectives" name="Perspectives" description="Commands for opening perspectives"/>
+  <categories xmi:id="_NGBPYS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.category.window" name="Window"/>
+  <categories xmi:id="_NGBPYi_EEeSm5_pq2BpFEA" elementId="com.reflexit.magiccards.ui.commands.category" name="Magic Assistant"/>
+  <categories xmi:id="_NGBPYy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.category.help" name="Help"/>
+  <categories xmi:id="_NGBPZC_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.category.navigate" name="Navigate"/>
+  <categories xmi:id="_NGBPZS_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>
+  <categories xmi:id="_NGBPZi_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.category.edit" name="Edit"/>
+  <categories xmi:id="_NGBPZy_EEeSm5_pq2BpFEA" elementId="org.eclipse.ui.category.file" name="File"/>
+  <categories xmi:id="_NGBPaC_EEeSm5_pq2BpFEA" elementId="org.eclipse.core.commands.categories.autogenerated" name="Uncategorized" description="Commands that were either auto-generated or have no category"/>
+</application:Application>

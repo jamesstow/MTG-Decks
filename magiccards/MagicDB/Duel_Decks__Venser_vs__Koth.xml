@@ -1,0 +1,1561 @@
+
+<cards>
+  <name>Duel_Decks__Venser_vs__Koth</name>
+  <key>Duel_Decks__Venser_vs__Koth</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>284491
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Rob Alexander
+      </artist>
+      <num>41
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>284490
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jung Park
+      </artist>
+      <num>42
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>284492
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>43
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>284494
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Tomasz Jedruszek
+      </artist>
+      <num>74
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>284496
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Tomasz Jedruszek
+      </artist>
+      <num>75
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>284493
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>76
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>284495
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Mark Tedin
+      </artist>
+      <num>77
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>284497
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>38
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>284499
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>James Paick
+      </artist>
+      <num>39
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>284498
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>40
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>279857
+      </id>
+      <name>Greater Stone Spirit
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Elemental Spirit
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Greater Stone Spirit can't be blocked by creatures with flying.&lt;br&gt;{2}{R}: Until end of turn, target creature gets +0/+2 and gains "{R}: This creature gets +1/+0 until end of turn."
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Greater Stone Spirit can't be blocked by creatures with flying.&lt;br&gt;{2}{R}: Until end of turn, target creature gets +0/+2 and gains "{R}: This creature gets +1/+0 until end of turn."
+      </text>
+    </mc>
+    <mc>
+      <id>270831
+      </id>
+      <name>Vanish into Memory
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature. You draw cards equal to that creature's power. At the beginning of your next upkeep, return that card to the battlefield under its owner's control. If you do, discard cards equal to its toughness.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Exile target creature. You draw cards equal to that creature's power. At the beginning of your next upkeep, return that card to the battlefield under its owner's control. If you do, discard cards equal to its toughness.
+      </text>
+    </mc>
+    <mc>
+      <id>284488
+      </id>
+      <name>Revoke Existence
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Exile target artifact or enchantment.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Exile target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>284489
+      </id>
+      <name>Sunblast Angel
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Sunblast Angel enters the battlefield, destroy all tapped creatures.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying&lt;br&gt;When Sunblast Angel enters the battlefield, destroy all tapped creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>270868
+      </id>
+      <name>Neurok Invisimancer
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Neurok Invisimancer is unblockable.&lt;br&gt;When Neurok Invisimancer enters the battlefield, target creature is unblockable this turn.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Neurok Invisimancer is unblockable.&lt;br&gt;When Neurok Invisimancer enters the battlefield, target creature is unblockable this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>266362
+      </id>
+      <name>Koth of the Hammer
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Planeswalker - Koth
+      </type>
+      <toughness>3
+      </toughness>
+      <oracleText>+1: Untap target Mountain. It becomes a 4/4 red Elemental creature until end of turn. It's still a land.&lt;br&gt;-2: Add {R} to your mana pool for each Mountain you control.&lt;br&gt;-5: You get an emblem with "Mountains you control have ‘{T}: This land deals 1 damage to target creature or player.'"
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>+1: Untap target Mountain. It becomes a 4/4 red Elemental creature until end of turn. It's still a land.&lt;br&gt;-2: Add {R} to your mana pool for each Mountain you control.&lt;br&gt;-5: You get an emblem with "Mountains you control have ‘{T}: This land deals 1 damage to target creature or player.'"
+      </text>
+    </mc>
+    <mc>
+      <id>266078
+      </id>
+      <name>Venser, the Sojourner
+      </name>
+      <cost>{3}{W}{U}
+      </cost>
+      <type>Planeswalker - Venser
+      </type>
+      <toughness>3
+      </toughness>
+      <oracleText>+2: Exile target permanent you own. Return it to the battlefield under your control at the beginning of the next end step.&lt;br&gt;-1: Creatures are unblockable this turn.&lt;br&gt;-8: You get an emblem with "Whenever you cast a spell, exile target permanent."
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>+2: Exile target permanent you own. Return it to the battlefield under your control at the beginning of the next end step.&lt;br&gt;-1: Creatures are unblockable this turn.&lt;br&gt;-8: You get an emblem with "Whenever you cast a spell, exile target permanent."
+      </text>
+    </mc>
+    <mc>
+      <id>270842
+      </id>
+      <name>Clone
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>279856
+      </id>
+      <name>Stone Giant
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>{T}: Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>270859
+      </id>
+      <name>Whitemane Lion
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Whitemane Lion enters the battlefield, return a creature you control to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Whitemane Lion enters the battlefield, return a creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>270857
+      </id>
+      <name>Primal Plasma
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Elemental Shapeshifter
+      </type>
+      <oracleText>As Primal Plasma enters the battlefield, it becomes your choice of a 3/3 creature, a 2/2 creature with flying, or a 1/6 creature with defender.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>As Primal Plasma enters the battlefield, it becomes your choice of a 3/3 creature, a 2/2 creature with flying, or a 1/6 creature with defender.
+      </text>
+    </mc>
+    <mc>
+      <id>270856
+      </id>
+      <name>Æther Membrane
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Defender; reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Whenever Æther Membrane blocks a creature, return that creature to its owner's hand at end of combat.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Defender; reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Whenever Æther Membrane blocks a creature, return that creature to its owner's hand at end of combat.
+      </text>
+    </mc>
+    <mc>
+      <id>270858
+      </id>
+      <name>Torchling
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{R}: Untap Torchling.&lt;br&gt;{R}: Target creature blocks Torchling this turn if able.&lt;br&gt;{R}: Change the target of target spell that targets only Torchling.&lt;br&gt;{1}: Torchling gets +1/-1 until end of turn.&lt;br&gt;{1}: Torchling gets -1/+1 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>{R}: Untap Torchling.&lt;br&gt;{R}: Target creature blocks Torchling this turn if able.&lt;br&gt;{R}: Change the target of target spell that targets only Torchling.&lt;br&gt;{1}: Torchling gets +1/-1 until end of turn.&lt;br&gt;{1}: Torchling gets -1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>270833
+      </id>
+      <name>Jaws of Stone
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Jaws of Stone deals X damage divided as you choose among any number of target creatures and/or players, where X is the number of Mountains you control as you cast Jaws of Stone.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Jaws of Stone deals X damage divided as you choose among any number of target creatures and/or players, where X is the number of Mountains you control as you cast Jaws of Stone.
+      </text>
+    </mc>
+    <mc>
+      <id>282603
+      </id>
+      <name>Mistmeadow Witch
+      </name>
+      <cost>{1}{W/U}
+      </cost>
+      <type>Creature - Kithkin Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{2}{W}{U}: Exile target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>{2}{W}{U}: Exile target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>270866
+      </id>
+      <name>Steel of the Godhead
+      </name>
+      <cost>{2}{W/U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;As long as enchanted creature is white, it gets +1/+1 and has lifelink. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;&lt;br&gt;As long as enchanted creature is blue, it gets +1/+1 and is unblockable.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Enchant creature&lt;br&gt;As long as enchanted creature is white, it gets +1/+1 and has lifelink. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;&lt;br&gt;As long as enchanted creature is blue, it gets +1/+1 and is unblockable.
+      </text>
+    </mc>
+    <mc>
+      <id>270855
+      </id>
+      <name>Volley of Boulders
+      </name>
+      <cost>{8}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Volley of Boulders deals 6 damage divided as you choose among any number of target creatures and/or players.&lt;br&gt;Flashback {R}{R}{R}{R}{R}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Volley of Boulders deals 6 damage divided as you choose among any number of target creatures and/or players.&lt;br&gt;Flashback {R}{R}{R}{R}{R}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>270806
+      </id>
+      <name>Vulshok Sorcerer
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste&lt;br&gt;{T}: Vulshok Sorcerer deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Haste&lt;br&gt;{T}: Vulshok Sorcerer deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>270805
+      </id>
+      <name>Bloodfire Colossus
+      </name>
+      <cost>{6}{R}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>{R}, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>{R}, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>270810
+      </id>
+      <name>Vulshok Morningstar
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +2/+2.&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Equipped creature gets +2/+2.&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>282600
+      </id>
+      <name>Coral Fighters
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Merfolk Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Coral Fighters attacks and isn't blocked, look at the top card of defending player's library. You may put that card on the bottom of that player's library.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Whenever Coral Fighters attacks and isn't blocked, look at the top card of defending player's library. You may put that card on the bottom of that player's library.
+      </text>
+    </mc>
+    <mc>
+      <id>270849
+      </id>
+      <name>Flood Plain
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Flood Plain enters the battlefield tapped.&lt;br&gt;{T}, Sacrifice Flood Plain: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Flood Plain enters the battlefield tapped.&lt;br&gt;{T}, Sacrifice Flood Plain: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>270848
+      </id>
+      <name>Oblivion Ring
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Oblivion Ring enters the battlefield, exile another target nonland permanent.&lt;br&gt;When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>When Oblivion Ring enters the battlefield, exile another target nonland permanent.&lt;br&gt;When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>270825
+      </id>
+      <name>Armillary Sphere
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>270840
+      </id>
+      <name>Seismic Strike
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Seismic Strike deals damage to target creature equal to the number of Mountains you control.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Seismic Strike deals damage to target creature equal to the number of Mountains you control.
+      </text>
+    </mc>
+    <mc>
+      <id>270839
+      </id>
+      <name>Galepowder Mage
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Kithkin Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Galepowder Mage attacks, exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying&lt;br&gt;Whenever Galepowder Mage attacks, exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>270851
+      </id>
+      <name>Slith Strider
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Slith
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Slith Strider becomes blocked, draw a card.&lt;br&gt;Whenever Slith Strider deals combat damage to a player, put a +1/+1 counter on it.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Whenever Slith Strider becomes blocked, draw a card.&lt;br&gt;Whenever Slith Strider deals combat damage to a player, put a +1/+1 counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>270846
+      </id>
+      <name>Vulshok Berserker
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Human Berserker
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>270852
+      </id>
+      <name>Vulshok Battlegear
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +3/+3.&lt;br&gt;Equip {3} &lt;i&gt;({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Equipped creature gets +3/+3.&lt;br&gt;Equip {3} &lt;i&gt;({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>266061
+      </id>
+      <name>Anger
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Incarnation
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste&lt;br&gt;As long as Anger is in your graveyard and you control a Mountain, creatures you control have haste.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Haste&lt;br&gt;As long as Anger is in your graveyard and you control a Mountain, creatures you control have haste.
+      </text>
+    </mc>
+    <mc>
+      <id>266017
+      </id>
+      <name>Path to Exile
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>270807
+      </id>
+      <name>Wayfarer's Bauble
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>270850
+      </id>
+      <name>Lithophage
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>At the beginning of your upkeep, sacrifice Lithophage unless you sacrifice a Mountain.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>At the beginning of your upkeep, sacrifice Lithophage unless you sacrifice a Mountain.
+      </text>
+    </mc>
+    <mc>
+      <id>270844
+      </id>
+      <name>Safe Passage
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all damage that would be dealt to you and creatures you control this turn.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Prevent all damage that would be dealt to you and creatures you control this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>279855
+      </id>
+      <name>Fiery Hellhound
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Elemental Hound
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}: Fiery Hellhound gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{R}: Fiery Hellhound gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>270841
+      </id>
+      <name>Augury Owl
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Augury Owl enters the battlefield, scry 3. &lt;i&gt;(To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flying&lt;br&gt;When Augury Owl enters the battlefield, scry 3. &lt;i&gt;(To scry 3, look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>265979
+      </id>
+      <name>Preordain
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Scry 2, then draw a card. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Scry 2, then draw a card. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>270845
+      </id>
+      <name>Scroll Thief
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Merfolk Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Scroll Thief deals combat damage to a player, draw a card.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Whenever Scroll Thief deals combat damage to a player, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>270843
+      </id>
+      <name>Earth Servant
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Earth Servant gets +0/+1 for each Mountain you control.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Earth Servant gets +0/+1 for each Mountain you control.
+      </text>
+    </mc>
+    <mc>
+      <id>284486
+      </id>
+      <name>Sphinx of Uthuun
+      </name>
+      <cost>{5}{U}{U}
+      </cost>
+      <type>Creature - Sphinx
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying&lt;br&gt;When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>282601
+      </id>
+      <name>Jedit's Dragoons
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Creature - Cat Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;When Jedit's Dragoons enters the battlefield, you gain 4 life.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Vigilance&lt;br&gt;When Jedit's Dragoons enters the battlefield, you gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>282591
+      </id>
+      <name>Journeyer's Kite
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}, {T}: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>{3}, {T}: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>270861
+      </id>
+      <name>Sawtooth Loon
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Sawtooth Loon enters the battlefield, return a white or blue creature you control to its owner's hand.&lt;br&gt;When Sawtooth Loon enters the battlefield, draw two cards, then put two cards from your hand on the bottom of your library.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Flying&lt;br&gt;When Sawtooth Loon enters the battlefield, return a white or blue creature you control to its owner's hand.&lt;br&gt;When Sawtooth Loon enters the battlefield, draw two cards, then put two cards from your hand on the bottom of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>282602
+      </id>
+      <name>Minamo Sightbender
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{X}, {T}: Target creature with power X or less is unblockable this turn.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>{X}, {T}: Target creature with power X or less is unblockable this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>284485
+      </id>
+      <name>Sky Spirit
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying, first strike
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Flying, first strike
+      </text>
+    </mc>
+    <mc>
+      <id>270829
+      </id>
+      <name>Wall of Denial
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>Defender, flying&lt;br&gt;Shroud &lt;i&gt;(This creature can't be the target of spells or abilities.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Defender, flying&lt;br&gt;Shroud &lt;i&gt;(This creature can't be the target of spells or abilities.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>270875
+      </id>
+      <name>Kor Cartographer
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Kor Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>270836
+      </id>
+      <name>Cryptic Annelid
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Worm Beast
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Cryptic Annelid enters the battlefield, scry 1, then scry 2, then scry 3. &lt;i&gt;(To scry X, look at the top X cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>When Cryptic Annelid enters the battlefield, scry 1, then scry 2, then scry 3. &lt;i&gt;(To scry X, look at the top X cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>282599
+      </id>
+      <name>Cache Raiders
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Merfolk Rogue
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>At the beginning of your upkeep, return a permanent you control to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>At the beginning of your upkeep, return a permanent you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>270835
+      </id>
+      <name>Windreaver
+      </name>
+      <cost>{3}{W}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{W}: Windreaver gains vigilance until end of turn.&lt;br&gt;{W}: Windreaver gets +0/+1 until end of turn.&lt;br&gt;{U}: Switch Windreaver's power and toughness until end of turn.&lt;br&gt;{U}: Return Windreaver to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying&lt;br&gt;{W}: Windreaver gains vigilance until end of turn.&lt;br&gt;{W}: Windreaver gets +0/+1 until end of turn.&lt;br&gt;{U}: Switch Windreaver's power and toughness until end of turn.&lt;br&gt;{U}: Return Windreaver to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>270813
+      </id>
+      <name>Sigil of Sleep
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature deals damage to a player, return target creature that player controls to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Enchant creature&lt;br&gt;Whenever enchanted creature deals damage to a player, return target creature that player controls to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>284487
+      </id>
+      <name>Angelic Shield
+      </name>
+      <cost>{W}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures you control get +0/+1.&lt;br&gt;Sacrifice Angelic Shield: Return target creature to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Creatures you control get +0/+1.&lt;br&gt;Sacrifice Angelic Shield: Return target creature to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>270834
+      </id>
+      <name>Overrule
+      </name>
+      <cost>{X}{W}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell unless its controller pays {X}. You gain X life.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Counter target spell unless its controller pays {X}. You gain X life.
+      </text>
+    </mc>
+    <mc>
+      <id>270826
+      </id>
+      <name>Azorius Chancery
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Azorius Chancery enters the battlefield tapped.&lt;br&gt;When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {W}{U} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Azorius Chancery enters the battlefield tapped.&lt;br&gt;When Azorius Chancery enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {W}{U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>270837
+      </id>
+      <name>New Benalia
+      </name>
+      <type>Land
+      </type>
+      <oracleText>New Benalia enters the battlefield tapped.&lt;br&gt;When New Benalia enters the battlefield, scry 1. &lt;i&gt;(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {W} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>New Benalia enters the battlefield tapped.&lt;br&gt;When New Benalia enters the battlefield, scry 1. &lt;i&gt;(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>270876
+      </id>
+      <name>Sejiri Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Sejiri Refuge enters the battlefield tapped.&lt;br&gt;When Sejiri Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Sejiri Refuge enters the battlefield tapped.&lt;br&gt;When Sejiri Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>270877
+      </id>
+      <name>Soaring Seacliff
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Soaring Seacliff enters the battlefield tapped.&lt;br&gt;When Soaring Seacliff enters the battlefield, target creature gains flying until end of turn.&lt;br&gt;{T}: Add {U} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Soaring Seacliff enters the battlefield tapped.&lt;br&gt;When Soaring Seacliff enters the battlefield, target creature gains flying until end of turn.&lt;br&gt;{T}: Add {U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>266210
+      </id>
+      <name>Plated Geopede
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, Plated Geopede gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>First strike&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, Plated Geopede gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>279859
+      </id>
+      <name>Pygmy Pyrosaur
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Pygmy Pyrosaur can't block.&lt;br&gt;&lt;br&gt;{R}: Pygmy Pyrosaur gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Pygmy Pyrosaur can't block.&lt;br&gt;&lt;br&gt;{R}: Pygmy Pyrosaur gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>270872
+      </id>
+      <name>Pilgrim's Eye
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Thopter
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flying&lt;br&gt;When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>270871
+      </id>
+      <name>Cosi's Ravager
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, you may have Cosi's Ravager deal 1 damage to target player.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Landfall- Whenever a land enters the battlefield under your control, you may have Cosi's Ravager deal 1 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>270812
+      </id>
+      <name>Bloodfire Kavu
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}, Sacrifice Bloodfire Kavu: Bloodfire Kavu deals 2 damage to each creature.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>{R}, Sacrifice Bloodfire Kavu: Bloodfire Kavu deals 2 damage to each creature.
+      </text>
+    </mc>
+    <mc>
+      <id>270874
+      </id>
+      <name>Geyser Glider
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Elemental Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, Geyser Glider gains flying until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Landfall- Whenever a land enters the battlefield under your control, Geyser Glider gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>270828
+      </id>
+      <name>Chartooth Cougar
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Cat Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{R}: Chartooth Cougar gets +1/+0 until end of turn.&lt;br&gt;Mountaincycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{R}: Chartooth Cougar gets +1/+0 until end of turn.&lt;br&gt;Mountaincycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>270873
+      </id>
+      <name>Searing Blaze
+      </name>
+      <cost>{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Searing Blaze deals 1 damage to target player and 1 damage to target creature that player controls.&lt;br&gt;Landfall- If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player and 3 damage to that creature instead.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Searing Blaze deals 1 damage to target player and 1 damage to target creature that player controls.&lt;br&gt;Landfall- If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player and 3 damage to that creature instead.
+      </text>
+    </mc>
+    <mc>
+      <id>270854
+      </id>
+      <name>Downhill Charge
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You may sacrifice a Mountain rather than pay Downhill Charge's mana cost.&lt;br&gt;&lt;br&gt;Target creature gets +X/+0 until end of turn, where X is the number of Mountains you control.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>You may sacrifice a Mountain rather than pay Downhill Charge's mana cost.&lt;br&gt;&lt;br&gt;Target creature gets +X/+0 until end of turn, where X is the number of Mountains you control.
+      </text>
+    </mc>
+    <mc>
+      <id>270878
+      </id>
+      <name>Spire Barrage
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Spire Barrage deals damage to target creature or player equal to the number of Mountains you control.
+      </oracleText>
+      <edition>Duel Decks: Venser vs. Koth
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Spire Barrage deals damage to target creature or player equal to the number of Mountains you control.
+      </text>
+    </mc>
+  </list>
+</cards>

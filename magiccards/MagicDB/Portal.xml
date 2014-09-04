@@ -1,0 +1,5605 @@
+
+<cards>
+  <name>Portal</name>
+  <key>Portal</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>4207
+      </id>
+      <name>Arrogant Vampire
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.051
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>1
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>4208
+      </id>
+      <name>Assassin's Blade
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Assassin's Blade only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Destroy target nonblack attacking creature.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.036
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>2
+      </num>
+      <text>Cast Assassin's Blade only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Destroy target nonblack attacking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4212
+      </id>
+      <name>Charging Bandits
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Charging Bandits attacks, it gets +2/+0 until end of turn.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.767
+      </rating>
+      <artist>Dermot Power
+      </artist>
+      <num>3
+      </num>
+      <text>Whenever Charging Bandits attacks, it gets +2/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4213
+      </id>
+      <name>Craven Knight
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Craven Knight can't block.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.435
+      </rating>
+      <artist>Charles Gillespie
+      </artist>
+      <num>4
+      </num>
+      <text>Craven Knight can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>4214
+      </id>
+      <name>Cruel Bargain
+      </name>
+      <cost>{B}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw four cards. You lose half your life, rounded up.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.844
+      </rating>
+      <artist>Adrian Smith
+      </artist>
+      <num>5
+      </num>
+      <text>Draw four cards. You lose half your life, rounded up.
+      </text>
+    </mc>
+    <mc>
+      <id>4215
+      </id>
+      <name>Cruel Tutor
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.774
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>6
+      </num>
+      <text>Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4216
+      </id>
+      <name>Dread Charge
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Until end of turn, black creatures you control can be blocked only by black creatures.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.958
+      </rating>
+      <artist>Ted Naifeh
+      </artist>
+      <num>7
+      </num>
+      <text>Until end of turn, black creatures you control can be blocked only by black creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>4219
+      </id>
+      <name>Ebon Dragon
+      </name>
+      <cost>{5}{B}{B}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Ebon Dragon enters the battlefield, you may have target opponent discard a card.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.417
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>8
+      </num>
+      <text>Flying&lt;br&gt;When Ebon Dragon enters the battlefield, you may have target opponent discard a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4220
+      </id>
+      <name>Endless Cockroaches
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Endless Cockroaches dies, return it to its owner's hand.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.283
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>9
+      </num>
+      <text>When Endless Cockroaches dies, return it to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4222
+      </id>
+      <name>Final Strike
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Final Strike, sacrifice a creature.&lt;br&gt;Final Strike deals damage to target opponent equal to the sacrificed creature's power.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.361
+      </rating>
+      <artist>John Coulthart
+      </artist>
+      <num>10
+      </num>
+      <text>As an additional cost to cast Final Strike, sacrifice a creature.&lt;br&gt;Final Strike deals damage to target opponent equal to the sacrificed creature's power.
+      </text>
+    </mc>
+    <mc>
+      <id>4227
+      </id>
+      <name>King's Assassin
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Human Assassin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.6
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>11
+      </num>
+      <text>{T}: Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.
+      </text>
+    </mc>
+    <mc>
+      <id>4228
+      </id>
+      <name>Mercenary Knight
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Mercenary Knight
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Mercenary Knight enters the battlefield, sacrifice it unless you discard a creature card.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.577
+      </rating>
+      <artist>Adrian Smith
+      </artist>
+      <num>12
+      </num>
+      <text>When Mercenary Knight enters the battlefield, sacrifice it unless you discard a creature card.
+      </text>
+    </mc>
+    <mc>
+      <id>4229
+      </id>
+      <name>Mind Knives
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent discards a card at random.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.579
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>13
+      </num>
+      <text>Target opponent discards a card at random.
+      </text>
+    </mc>
+    <mc>
+      <id>4232
+      </id>
+      <name>Nature's Ruin
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all green creatures.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.868
+      </rating>
+      <artist>Mike Dringenberg
+      </artist>
+      <num>14
+      </num>
+      <text>Destroy all green creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>4233
+      </id>
+      <name>Noxious Toad
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Frog
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Noxious Toad dies, each opponent discards a card.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.406
+      </rating>
+      <artist>Adrian Smith
+      </artist>
+      <num>15
+      </num>
+      <text>When Noxious Toad dies, each opponent discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4237
+      </id>
+      <name>Serpent Assassin
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Snake Assassin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Serpent Assassin enters the battlefield, you may destroy target nonblack creature.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.294
+      </rating>
+      <artist>Roger Raupp
+      </artist>
+      <num>16
+      </num>
+      <text>When Serpent Assassin enters the battlefield, you may destroy target nonblack creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4239
+      </id>
+      <name>Skeletal Crocodile
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Crocodile Skeleton
+      </type>
+      <power>5
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.115
+      </rating>
+      <artist>Mike Dringenberg
+      </artist>
+      <num>17
+      </num>
+    </mc>
+    <mc>
+      <id>4240
+      </id>
+      <name>Skeletal Snake
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Snake Skeleton
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.889
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>18
+      </num>
+    </mc>
+    <mc>
+      <id>4241
+      </id>
+      <name>Soul Shred
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Soul Shred deals 3 damage to target nonblack creature. You gain 3 life.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.227
+      </rating>
+      <artist>Alan Rabinowitz
+      </artist>
+      <num>19
+      </num>
+      <text>Soul Shred deals 3 damage to target nonblack creature. You gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4242
+      </id>
+      <name>Undying Beast
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Undying Beast dies, put it on top of its owner's library.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.75
+      </rating>
+      <artist>Steve Luke
+      </artist>
+      <num>20
+      </num>
+      <text>When Undying Beast dies, put it on top of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>4243
+      </id>
+      <name>Vampiric Feast
+      </name>
+      <cost>{5}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Vampiric Feast deals 4 damage to target creature or player and you gain 4 life.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.034
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>21
+      </num>
+      <text>Vampiric Feast deals 4 damage to target creature or player and you gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4244
+      </id>
+      <name>Vampiric Touch
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Vampiric Touch deals 2 damage to target opponent and you gain 2 life.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.233
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>22
+      </num>
+      <text>Vampiric Touch deals 2 damage to target opponent and you gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4245
+      </id>
+      <name>Virtue's Ruin
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all white creatures.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.9
+      </rating>
+      <artist>Mike Dringenberg
+      </artist>
+      <num>23
+      </num>
+      <text>Destroy all white creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>4250
+      </id>
+      <name>Capricious Sorcerer
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Capricious Sorcerer deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.4
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>24
+      </num>
+      <text>{T}: Capricious Sorcerer deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.
+      </text>
+    </mc>
+    <mc>
+      <id>4251
+      </id>
+      <name>Cloak of Feathers
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gains flying until end of turn.&lt;br&gt;&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.676
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>25
+      </num>
+      <text>Target creature gains flying until end of turn.&lt;br&gt;&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4252
+      </id>
+      <name>Cloud Dragon
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Illusion Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Cloud Dragon can block only creatures with flying.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.696
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>26
+      </num>
+      <text>Flying&lt;br&gt;Cloud Dragon can block only creatures with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>4253
+      </id>
+      <name>Cloud Pirates
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Human Pirate
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Cloud Pirates can block only creatures with flying.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.812
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>27
+      </num>
+      <text>Flying&lt;br&gt;Cloud Pirates can block only creatures with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>4254
+      </id>
+      <name>Cloud Spirit
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Cloud Spirit can block only creatures with flying.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.833
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>28
+      </num>
+      <text>Flying&lt;br&gt;Cloud Spirit can block only creatures with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>4255
+      </id>
+      <name>Command of Unsummoning
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Command of Unsummoning only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Return one or two target attacking creatures to their owner's hand.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.15
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>29
+      </num>
+      <text>Cast Command of Unsummoning only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Return one or two target attacking creatures to their owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4257
+      </id>
+      <name>Cruel Fate
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at the top five cards of target opponent's library. Put one of those cards into that player's graveyard, and the rest on top of his or her library in any order.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.714
+      </rating>
+      <artist>Adrian Smith
+      </artist>
+      <num>30
+      </num>
+      <text>Look at the top five cards of target opponent's library. Put one of those cards into that player's graveyard, and the rest on top of his or her library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>4258
+      </id>
+      <name>Deep-Sea Serpent
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Creature - Serpent
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Deep-Sea Serpent can't attack unless defending player controls an Island.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.5
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>31
+      </num>
+      <text>Deep-Sea Serpent can't attack unless defending player controls an Island.
+      </text>
+    </mc>
+    <mc>
+      <id>4259
+      </id>
+      <name>Déjà Vu
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target sorcery card from your graveyard to your hand.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.278
+      </rating>
+      <artist>Hannibal King
+      </artist>
+      <num>32
+      </num>
+      <text>Return target sorcery card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4260
+      </id>
+      <name>Djinn of the Lamp
+      </name>
+      <cost>{5}{U}{U}
+      </cost>
+      <type>Creature - Djinn
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.976
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>33
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>4262
+      </id>
+      <name>Flux
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player discards any number of cards, then draws that many cards.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.75
+      </rating>
+      <artist>Ted Naifeh
+      </artist>
+      <num>34
+      </num>
+      <text>Each player discards any number of cards, then draws that many cards.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4265
+      </id>
+      <name>Ingenious Thief
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Ingenious Thief enters the battlefield, look at target player's hand.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.846
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>35
+      </num>
+      <text>Flying&lt;br&gt;When Ingenious Thief enters the battlefield, look at target player's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4268
+      </id>
+      <name>Mystic Denial
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target creature or sorcery spell.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.875
+      </rating>
+      <artist>Hannibal King
+      </artist>
+      <num>36
+      </num>
+      <text>Counter target creature or sorcery spell.
+      </text>
+    </mc>
+    <mc>
+      <id>4269
+      </id>
+      <name>Omen
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at the top three cards of your library, then put them back in any order. You may shuffle your library. &lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.72
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>37
+      </num>
+      <text>Look at the top three cards of your library, then put them back in any order. You may shuffle your library. &lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4270
+      </id>
+      <name>Owl Familiar
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Owl Familiar enters the battlefield, draw a card, then discard a card.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.889
+      </rating>
+      <artist>Janine Johnston
+      </artist>
+      <num>38
+      </num>
+      <text>Flying&lt;br&gt;When Owl Familiar enters the battlefield, draw a card, then discard a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4271
+      </id>
+      <name>Personal Tutor
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a sorcery card and reveal that card. Shuffle your library, then put the card on top of it.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.132
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>39
+      </num>
+      <text>Search your library for a sorcery card and reveal that card. Shuffle your library, then put the card on top of it.
+      </text>
+    </mc>
+    <mc>
+      <id>4275
+      </id>
+      <name>Sorcerous Sight
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at target opponent's hand.&lt;br&gt;&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.711
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>40
+      </num>
+      <text>Look at target opponent's hand.&lt;br&gt;&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4277
+      </id>
+      <name>Symbol of Unsummoning
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target creature to its owner's hand.&lt;br&gt;&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.615
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>41
+      </num>
+      <text>Return target creature to its owner's hand.&lt;br&gt;&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4278
+      </id>
+      <name>Taunt
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>During target player's next turn, creatures that player controls attack you if able.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.107
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>42
+      </num>
+      <text>During target player's next turn, creatures that player controls attack you if able.
+      </text>
+    </mc>
+    <mc>
+      <id>4280
+      </id>
+      <name>Thing from the Deep
+      </name>
+      <cost>{6}{U}{U}{U}
+      </cost>
+      <type>Creature - Leviathan
+      </type>
+      <power>9
+      </power>
+      <toughness>9
+      </toughness>
+      <oracleText>Whenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.054
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>43
+      </num>
+      <text>Whenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island.
+      </text>
+    </mc>
+    <mc>
+      <id>4283
+      </id>
+      <name>Touch of Brilliance
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw two cards.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.278
+      </rating>
+      <artist>John Coulthart
+      </artist>
+      <num>44
+      </num>
+      <text>Draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>4293
+      </id>
+      <name>Elite Cat Warrior
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Cat Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Forestwalk
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.333
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>45
+      </num>
+      <text>Forestwalk
+      </text>
+    </mc>
+    <mc>
+      <id>4297
+      </id>
+      <name>Fruition
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You gain 1 life for each Forest on the battlefield.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.706
+      </rating>
+      <artist>Steve Luke
+      </artist>
+      <num>46
+      </num>
+      <text>You gain 1 life for each Forest on the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>4302
+      </id>
+      <name>Jungle Lion
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Jungle Lion can't block.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Janine Johnston
+      </artist>
+      <num>47
+      </num>
+      <text>Jungle Lion can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>4303
+      </id>
+      <name>Mobilize
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Untap all creatures you control.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.139
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>48
+      </num>
+      <text>Untap all creatures you control.
+      </text>
+    </mc>
+    <mc>
+      <id>4307
+      </id>
+      <name>Natural Order
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Natural Order, sacrifice a green creature.&lt;br&gt;Search your library for a green creature card and put it onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.765
+      </rating>
+      <artist>Alan Rabinowitz
+      </artist>
+      <num>49
+      </num>
+      <text>As an additional cost to cast Natural Order, sacrifice a green creature.&lt;br&gt;Search your library for a green creature card and put it onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>4313
+      </id>
+      <name>Plant Elemental
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Plant Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Plant Elemental enters the battlefield, sacrifice it unless you sacrifice a Forest.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.2
+      </rating>
+      <artist>Ted Naifeh
+      </artist>
+      <num>50
+      </num>
+      <text>When Plant Elemental enters the battlefield, sacrifice it unless you sacrifice a Forest.
+      </text>
+    </mc>
+    <mc>
+      <id>4316
+      </id>
+      <name>Rowan Treefolk
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Treefolk
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.146
+      </rating>
+      <artist>Gerry Grace
+      </artist>
+      <num>51
+      </num>
+    </mc>
+    <mc>
+      <id>4320
+      </id>
+      <name>Sylvan Tutor
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.107
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>52
+      </num>
+      <text>Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.
+      </text>
+    </mc>
+    <mc>
+      <id>4321
+      </id>
+      <name>Thundering Wurm
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Thundering Wurm enters the battlefield, sacrifice it unless you discard a land card.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.214
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>53
+      </num>
+      <text>When Thundering Wurm enters the battlefield, sacrifice it unless you discard a land card.
+      </text>
+    </mc>
+    <mc>
+      <id>4322
+      </id>
+      <name>Treetop Defense
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Treetop Defense only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Creatures you control gain reach until end of turn. &lt;i&gt;(They can block creatures with flying.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.417
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>54
+      </num>
+      <text>Cast Treetop Defense only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Creatures you control gain reach until end of turn. &lt;i&gt;(They can block creatures with flying.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4325
+      </id>
+      <name>Willow Dryad
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Dryad
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Forestwalk
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.211
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>55
+      </num>
+      <text>Forestwalk
+      </text>
+    </mc>
+    <mc>
+      <id>4326
+      </id>
+      <name>Winter's Grasp
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target land.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.15
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>56
+      </num>
+      <text>Destroy target land.
+      </text>
+    </mc>
+    <mc>
+      <id>4331
+      </id>
+      <name>Burning Cloak
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +2/+0 until end of turn. Burning Cloak deals 2 damage to that creature.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.324
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>57
+      </num>
+      <text>Target creature gets +2/+0 until end of turn. Burning Cloak deals 2 damage to that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4333
+      </id>
+      <name>Desert Drake
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.667
+      </rating>
+      <artist>Gerry Grace
+      </artist>
+      <num>58
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>4336
+      </id>
+      <name>Fire Dragon
+      </name>
+      <cost>{6}{R}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Fire Dragon enters the battlefield, it deals damage equal to the number of Mountains you control to target creature.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.896
+      </rating>
+      <artist>William Simpson
+      </artist>
+      <num>59
+      </num>
+      <text>Flying&lt;br&gt;When Fire Dragon enters the battlefield, it deals damage equal to the number of Mountains you control to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4337
+      </id>
+      <name>Fire Imp
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Imp
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Fire Imp enters the battlefield, it deals 2 damage to target creature.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.538
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>60
+      </num>
+      <text>When Fire Imp enters the battlefield, it deals 2 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4338
+      </id>
+      <name>Fire Snake
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Fire Snake dies, destroy target land.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.647
+      </rating>
+      <artist>Steve Luke
+      </artist>
+      <num>61
+      </num>
+      <text>When Fire Snake dies, destroy target land.
+      </text>
+    </mc>
+    <mc>
+      <id>4341
+      </id>
+      <name>Forked Lightning
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Forked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.389
+      </rating>
+      <artist>Ted Naifeh
+      </artist>
+      <num>62
+      </num>
+      <text>Forked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>4342
+      </id>
+      <name>Goblin Bully
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.143
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>63
+      </num>
+    </mc>
+    <mc>
+      <id>4343
+      </id>
+      <name>Highland Giant
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.75
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>64
+      </num>
+    </mc>
+    <mc>
+      <id>4349
+      </id>
+      <name>Lava Flow
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target creature or land.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.107
+      </rating>
+      <artist>Mike Dringenberg
+      </artist>
+      <num>65
+      </num>
+      <text>Destroy target creature or land.
+      </text>
+    </mc>
+    <mc>
+      <id>4350
+      </id>
+      <name>Lizard Warrior
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Lizard Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.659
+      </rating>
+      <artist>Roger Raupp
+      </artist>
+      <num>66
+      </num>
+    </mc>
+    <mc>
+      <id>4351
+      </id>
+      <name>Minotaur Warrior
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Minotaur Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.0
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>67
+      </num>
+    </mc>
+    <mc>
+      <id>4353
+      </id>
+      <name>Pillaging Horde
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Human Barbarian
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>When Pillaging Horde enters the battlefield, sacrifice it unless you discard a card at random.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.667
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>68
+      </num>
+      <text>When Pillaging Horde enters the battlefield, sacrifice it unless you discard a card at random.
+      </text>
+    </mc>
+    <mc>
+      <id>4355
+      </id>
+      <name>Raging Cougar
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.346
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>69
+      </num>
+      <text>Haste
+      </text>
+    </mc>
+    <mc>
+      <id>4358
+      </id>
+      <name>Raging Minotaur
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Minotaur Berserker
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Haste
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.188
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>70
+      </num>
+      <text>Haste
+      </text>
+    </mc>
+    <mc>
+      <id>4359
+      </id>
+      <name>Rain of Salt
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy two target lands.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.1
+      </rating>
+      <artist>Charles Gillespie
+      </artist>
+      <num>71
+      </num>
+      <text>Destroy two target lands.
+      </text>
+    </mc>
+    <mc>
+      <id>4361
+      </id>
+      <name>Scorching Winds
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Scorching Winds only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Scorching Winds deals 1 damage to each attacking creature.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.714
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>72
+      </num>
+      <text>Cast Scorching Winds only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Scorching Winds deals 1 damage to each attacking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4367
+      </id>
+      <name>Wall of Granite
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.679
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>73
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4369
+      </id>
+      <name>Alabaster Dragon
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Alabaster Dragon dies, shuffle it into its owner's library.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.5
+      </rating>
+      <artist>Ted Naifeh
+      </artist>
+      <num>74
+      </num>
+      <text>Flying&lt;br&gt;When Alabaster Dragon dies, shuffle it into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>4380
+      </id>
+      <name>Defiant Stand
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Defiant Stand only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Target creature gets +1/+3 until end of turn. Untap that creature.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.0
+      </rating>
+      <artist>Hannibal King
+      </artist>
+      <num>75
+      </num>
+      <text>Cast Defiant Stand only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Target creature gets +1/+3 until end of turn. Untap that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4383
+      </id>
+      <name>Fleet-Footed Monk
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Monk
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Fleet-Footed Monk can't be blocked by creatures with power 2 or greater.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.833
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>76
+      </num>
+      <text>Fleet-Footed Monk can't be blocked by creatures with power 2 or greater.
+      </text>
+    </mc>
+    <mc>
+      <id>4386
+      </id>
+      <name>Harsh Justice
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Harsh Justice only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;This turn, whenever an attacking creature deals combat damage to you, it deals that much damage to its controller.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.846
+      </rating>
+      <artist>John Coulthart
+      </artist>
+      <num>77
+      </num>
+      <text>Cast Harsh Justice only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;This turn, whenever an attacking creature deals combat damage to you, it deals that much damage to its controller.
+      </text>
+    </mc>
+    <mc>
+      <id>4387
+      </id>
+      <name>Keen-Eyed Archers
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Elf Archer
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.891
+      </rating>
+      <artist>Alan Rabinowitz
+      </artist>
+      <num>78
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4391
+      </id>
+      <name>Renewing Dawn
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You gain 2 life for each Mountain target opponent controls.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.083
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>79
+      </num>
+      <text>You gain 2 life for each Mountain target opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>4392
+      </id>
+      <name>Sacred Knight
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacred Knight can't be blocked by black and/or red creatures.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.816
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>80
+      </num>
+      <text>Sacred Knight can't be blocked by black and/or red creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>4395
+      </id>
+      <name>Spiritual Guardian
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Spiritual Guardian enters the battlefield, you gain 4 life.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.188
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>81
+      </num>
+      <text>When Spiritual Guardian enters the battlefield, you gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4396
+      </id>
+      <name>Spotted Griffin
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Griffin
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.933
+      </rating>
+      <artist>William Simpson
+      </artist>
+      <num>82
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>4398
+      </id>
+      <name>Starlit Angel
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.917
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>83
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>4400
+      </id>
+      <name>Stern Marshal
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Target creature gets +2/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.033
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>84
+      </num>
+      <text>{T}: Target creature gets +2/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.
+      </text>
+    </mc>
+    <mc>
+      <id>4401
+      </id>
+      <name>Temporary Truce
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.786
+      </rating>
+      <artist>Mike Raabe
+      </artist>
+      <num>85
+      </num>
+      <text>Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4402
+      </id>
+      <name>Valorous Charge
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>White creatures get +2/+0 until end of turn.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.167
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>86
+      </num>
+      <text>White creatures get +2/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4406
+      </id>
+      <name>Warrior's Charge
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Creatures you control get +1/+1 until end of turn.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.077
+      </rating>
+      <artist>Ted Naifeh
+      </artist>
+      <num>87
+      </num>
+      <text>Creatures you control get +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4286
+      </id>
+      <name>Alluring Scent
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>All creatures able to block target creature this turn do so.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.733
+      </rating>
+      <artist>Ted Naifeh
+      </artist>
+      <num>88
+      </num>
+      <text>All creatures able to block target creature this turn do so.
+      </text>
+    </mc>
+    <mc>
+      <id>4288
+      </id>
+      <name>Anaconda
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Swampwalk &lt;i&gt;(This creature is unblockable as long as defending player controls a Swamp.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.929
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>89
+      </num>
+      <text>Swampwalk &lt;i&gt;(This creature is unblockable as long as defending player controls a Swamp.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4287
+      </id>
+      <name>Anaconda
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Swampwalk &lt;i&gt;(This creature is unblockable as long as defending player controls a Swamp.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.333
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>90
+      </num>
+      <text>Swampwalk &lt;i&gt;(This creature is unblockable as long as defending player controls a Swamp.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4247
+      </id>
+      <name>Ancestral Memories
+      </name>
+      <cost>{2}{U}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.267
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>91
+      </num>
+      <text>Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>4370
+      </id>
+      <name>Angelic Blessing
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +3/+3 and gains flying until end of turn. &lt;i&gt;(It can't be blocked except by creatures with flying or reach.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.958
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>92
+      </num>
+      <text>Target creature gets +3/+3 and gains flying until end of turn. &lt;i&gt;(It can't be blocked except by creatures with flying or reach.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4371
+      </id>
+      <name>Archangel
+      </name>
+      <cost>{5}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying, vigilance
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.719
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>93
+      </num>
+      <text>Flying, vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>4372
+      </id>
+      <name>Ardent Militia
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Vigilance
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.75
+      </rating>
+      <artist>Mike Raabe
+      </artist>
+      <num>94
+      </num>
+      <text>Vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>4373
+      </id>
+      <name>Armageddon
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all lands.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.647
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>95
+      </num>
+      <text>Destroy all lands.
+      </text>
+    </mc>
+    <mc>
+      <id>4374
+      </id>
+      <name>Armored Pegasus
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Pegasus
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.75
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>96
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>4248
+      </id>
+      <name>Balance of Power
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>If target opponent has more cards in hand than you, draw cards equal to the difference.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.067
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>97
+      </num>
+      <text>If target opponent has more cards in hand than you, draw cards equal to the difference.
+      </text>
+    </mc>
+    <mc>
+      <id>4249
+      </id>
+      <name>Baleful Stare
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals his or her hand. You draw a card for each Mountain and red card in it.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.875
+      </rating>
+      <artist>John Coulthart
+      </artist>
+      <num>98
+      </num>
+      <text>Target opponent reveals his or her hand. You draw a card for each Mountain and red card in it.
+      </text>
+    </mc>
+    <mc>
+      <id>4289
+      </id>
+      <name>Bee Sting
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Bee Sting deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.603
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>99
+      </num>
+      <text>Bee Sting deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>4329
+      </id>
+      <name>Blaze
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Blaze deals X damage to target creature or player.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.857
+      </rating>
+      <artist>Gerry Grace
+      </artist>
+      <num>100
+      </num>
+      <text>Blaze deals X damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>4328
+      </id>
+      <name>Blaze
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Blaze deals X damage to target creature or player.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.119
+      </rating>
+      <artist>Gerry Grace
+      </artist>
+      <num>101
+      </num>
+      <text>Blaze deals X damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>4375
+      </id>
+      <name>Blessed Reversal
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You gain 3 life for each creature attacking you.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.385
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>102
+      </num>
+      <text>You gain 3 life for each creature attacking you.
+      </text>
+    </mc>
+    <mc>
+      <id>4376
+      </id>
+      <name>Blinding Light
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Tap all nonwhite creatures.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.143
+      </rating>
+      <artist>John Coulthart
+      </artist>
+      <num>103
+      </num>
+      <text>Tap all nonwhite creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>4209
+      </id>
+      <name>Bog Imp
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Imp
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.4
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>104
+      </num>
+      <text>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4210
+      </id>
+      <name>Bog Raiders
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Swampwalk &lt;i&gt;(This creature is unblockable as long as defending player controls a Swamp.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.542
+      </rating>
+      <artist>Steve Luke
+      </artist>
+      <num>105
+      </num>
+      <text>Swampwalk &lt;i&gt;(This creature is unblockable as long as defending player controls a Swamp.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4211
+      </id>
+      <name>Bog Wraith
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Wraith
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Swampwalk &lt;i&gt;(This creature is unblockable as long as defending player controls a Swamp.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.357
+      </rating>
+      <artist>Ted Naifeh
+      </artist>
+      <num>106
+      </num>
+      <text>Swampwalk &lt;i&gt;(This creature is unblockable as long as defending player controls a Swamp.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4330
+      </id>
+      <name>Boiling Seas
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all Islands.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.357
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>107
+      </num>
+      <text>Destroy all Islands.
+      </text>
+    </mc>
+    <mc>
+      <id>4377
+      </id>
+      <name>Border Guard
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.722
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>108
+      </num>
+    </mc>
+    <mc>
+      <id>4378
+      </id>
+      <name>Breath of Life
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target creature card from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.923
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>109
+      </num>
+      <text>Return target creature card from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>4290
+      </id>
+      <name>Bull Hippo
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Hippo
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Islandwalk
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.056
+      </rating>
+      <artist>Roger Raupp
+      </artist>
+      <num>110
+      </num>
+      <text>Islandwalk
+      </text>
+    </mc>
+    <mc>
+      <id>4379
+      </id>
+      <name>Charging Paladin
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.393
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>111
+      </num>
+      <text>Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4291
+      </id>
+      <name>Charging Rhino
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Rhino
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Charging Rhino can't be blocked by more than one creature.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.688
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>112
+      </num>
+      <text>Charging Rhino can't be blocked by more than one creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4256
+      </id>
+      <name>Coral Eel
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Fish
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.36
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>113
+      </num>
+    </mc>
+    <mc>
+      <id>4332
+      </id>
+      <name>Craven Giant
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>4
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Craven Giant can't block.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.789
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>114
+      </num>
+      <text>Craven Giant can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>4292
+      </id>
+      <name>Deep Wood
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Deep Wood only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Prevent all damage that would be dealt to you this turn by attacking creatures.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.633
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>115
+      </num>
+      <text>Cast Deep Wood only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Prevent all damage that would be dealt to you this turn by attacking creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>4334
+      </id>
+      <name>Devastation
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all creatures and lands.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.618
+      </rating>
+      <artist>Steve Luke
+      </artist>
+      <num>116
+      </num>
+      <text>Destroy all creatures and lands.
+      </text>
+    </mc>
+    <mc>
+      <id>4381
+      </id>
+      <name>Devoted Hero
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Elf Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.9
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>117
+      </num>
+    </mc>
+    <mc>
+      <id>4217
+      </id>
+      <name>Dread Reaper
+      </name>
+      <cost>{3}{B}{B}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Dread Reaper enters the battlefield, you lose 5 life.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.737
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>118
+      </num>
+      <text>Flying&lt;br&gt;When Dread Reaper enters the battlefield, you lose 5 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4218
+      </id>
+      <name>Dry Spell
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Dry Spell deals 1 damage to each creature and each player.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.979
+      </rating>
+      <artist>Roger Raupp
+      </artist>
+      <num>119
+      </num>
+      <text>Dry Spell deals 1 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>4335
+      </id>
+      <name>Earthquake
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Earthquake deals X damage to each creature without flying and each player.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.957
+      </rating>
+      <artist>Adrian Smith
+      </artist>
+      <num>120
+      </num>
+      <text>Earthquake deals X damage to each creature without flying and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>4294
+      </id>
+      <name>Elite Cat Warrior
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Cat Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Forestwalk
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.382
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>121
+      </num>
+      <text>Forestwalk
+      </text>
+    </mc>
+    <mc>
+      <id>4295
+      </id>
+      <name>Elven Cache
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target card from your graveyard to your hand.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.059
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>122
+      </num>
+      <text>Return target card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4296
+      </id>
+      <name>Elvish Ranger
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>4
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.316
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>123
+      </num>
+    </mc>
+    <mc>
+      <id>4261
+      </id>
+      <name>Exhaustion
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Creatures and lands target opponent controls don't untap during his or her next untap step.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.868
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>124
+      </num>
+      <text>Creatures and lands target opponent controls don't untap during his or her next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>4382
+      </id>
+      <name>False Peace
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player skips all combat phases of his or her next turn.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.861
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>125
+      </num>
+      <text>Target player skips all combat phases of his or her next turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4221
+      </id>
+      <name>Feral Shadow
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Nightstalker
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.159
+      </rating>
+      <artist>Colin MacNeil
+      </artist>
+      <num>126
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>4339
+      </id>
+      <name>Fire Tempest
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Fire Tempest deals 6 damage to each creature and each player.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.929
+      </rating>
+      <artist>Mike Dringenberg
+      </artist>
+      <num>127
+      </num>
+      <text>Fire Tempest deals 6 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>4340
+      </id>
+      <name>Flashfires
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all Plains.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.55
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>128
+      </num>
+      <text>Destroy all Plains.
+      </text>
+    </mc>
+    <mc>
+      <id>4384
+      </id>
+      <name>Foot Soldiers
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.842
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>129
+      </num>
+    </mc>
+    <mc>
+      <id>4416
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.62
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>130
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>4415
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.727
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>131
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>4414
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.775
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>132
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>4413
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.478
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>133
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>4263
+      </id>
+      <name>Giant Octopus
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Octopus
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.882
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>134
+      </num>
+    </mc>
+    <mc>
+      <id>4298
+      </id>
+      <name>Giant Spider
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.962
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>135
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4385
+      </id>
+      <name>Gift of Estates
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, and put them into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.075
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>136
+      </num>
+      <text>If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, and put them into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>4299
+      </id>
+      <name>Gorilla Warrior
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Ape Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.091
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>137
+      </num>
+    </mc>
+    <mc>
+      <id>4223
+      </id>
+      <name>Gravedigger
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.767
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>138
+      </num>
+      <text>When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4300
+      </id>
+      <name>Grizzly Bears
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Bear
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.6
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>139
+      </num>
+    </mc>
+    <mc>
+      <id>4225
+      </id>
+      <name>Hand of Death
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target nonblack creature.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.094
+      </rating>
+      <artist>John Coulthart
+      </artist>
+      <num>140
+      </num>
+      <text>Destroy target nonblack creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4224
+      </id>
+      <name>Hand of Death
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target nonblack creature.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.35
+      </rating>
+      <artist>John Coulthart
+      </artist>
+      <num>141
+      </num>
+      <text>Destroy target nonblack creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4344
+      </id>
+      <name>Hill Giant
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.194
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>142
+      </num>
+    </mc>
+    <mc>
+      <id>4264
+      </id>
+      <name>Horned Turtle
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Turtle
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.929
+      </rating>
+      <artist>Adrian Smith
+      </artist>
+      <num>143
+      </num>
+    </mc>
+    <mc>
+      <id>4226
+      </id>
+      <name>Howling Fury
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +4/+0 until end of turn.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.7
+      </rating>
+      <artist>Mike Dringenberg
+      </artist>
+      <num>144
+      </num>
+      <text>Target creature gets +4/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4345
+      </id>
+      <name>Hulking Cyclops
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Cyclops
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Hulking Cyclops can't block.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.675
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>145
+      </num>
+      <text>Hulking Cyclops can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>4346
+      </id>
+      <name>Hulking Goblin
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Hulking Goblin can't block.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.9
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>146
+      </num>
+      <text>Hulking Goblin can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>4301
+      </id>
+      <name>Hurricane
+      </name>
+      <cost>{X}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Hurricane deals X damage to each creature with flying and each player.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.531
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>147
+      </num>
+      <text>Hurricane deals X damage to each creature with flying and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>4424
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.477
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>148
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>4423
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.607
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>149
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>4422
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.444
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>150
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>4421
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.361
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>151
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>4388
+      </id>
+      <name>Knight Errant
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.5
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>152
+      </num>
+    </mc>
+    <mc>
+      <id>4347
+      </id>
+      <name>Last Chance
+      </name>
+      <cost>{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.632
+      </rating>
+      <artist>Hannibal King
+      </artist>
+      <num>153
+      </num>
+      <text>Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.
+      </text>
+    </mc>
+    <mc>
+      <id>4348
+      </id>
+      <name>Lava Axe
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Lava Axe deals 5 damage to target player.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.941
+      </rating>
+      <artist>Adrian Smith
+      </artist>
+      <num>154
+      </num>
+      <text>Lava Axe deals 5 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>4266
+      </id>
+      <name>Man-o'-War
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Jellyfish
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Man-o'-War enters the battlefield, return target creature to its owner's hand.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.354
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>155
+      </num>
+      <text>When Man-o'-War enters the battlefield, return target creature to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4267
+      </id>
+      <name>Merfolk of the Pearl Trident
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Merfolk
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.292
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>156
+      </num>
+    </mc>
+    <mc>
+      <id>4230
+      </id>
+      <name>Mind Rot
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards two cards.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.233
+      </rating>
+      <artist>Steve Luke
+      </artist>
+      <num>157
+      </num>
+      <text>Target player discards two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>4305
+      </id>
+      <name>Monstrous Growth
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +4/+4 until end of turn.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.441
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>158
+      </num>
+      <text>Target creature gets +4/+4 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4304
+      </id>
+      <name>Monstrous Growth
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +4/+4 until end of turn.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.381
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>159
+      </num>
+      <text>Target creature gets +4/+4 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4306
+      </id>
+      <name>Moon Sprite
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Faerie
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.4
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>160
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>4420
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.289
+      </rating>
+      <artist>Brian Durfee
+      </artist>
+      <num>161
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>4419
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.1
+      </rating>
+      <artist>Brian Durfee
+      </artist>
+      <num>162
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>4418
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.55
+      </rating>
+      <artist>Brian Durfee
+      </artist>
+      <num>163
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>4417
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.833
+      </rating>
+      <artist>Brian Durfee
+      </artist>
+      <num>164
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>4352
+      </id>
+      <name>Mountain Goat
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goat
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Mountainwalk
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.806
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>165
+      </num>
+      <text>Mountainwalk
+      </text>
+    </mc>
+    <mc>
+      <id>4231
+      </id>
+      <name>Muck Rats
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Rat
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.045
+      </rating>
+      <artist>Colin MacNeil
+      </artist>
+      <num>166
+      </num>
+    </mc>
+    <mc>
+      <id>4308
+      </id>
+      <name>Natural Spring
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player gains 8 life.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.286
+      </rating>
+      <artist>Janine Johnston
+      </artist>
+      <num>167
+      </num>
+      <text>Target player gains 8 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4309
+      </id>
+      <name>Nature's Cloak
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Green creatures you control gain forestwalk until end of turn.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.65
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>168
+      </num>
+      <text>Green creatures you control gain forestwalk until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4310
+      </id>
+      <name>Nature's Lore
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.87
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>169
+      </num>
+      <text>Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>4311
+      </id>
+      <name>Needle Storm
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Needle Storm deals 4 damage to each creature with flying.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.458
+      </rating>
+      <artist>Charles Gillespie
+      </artist>
+      <num>170
+      </num>
+      <text>Needle Storm deals 4 damage to each creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>9845
+      </id>
+      <name>Panther Warriors
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Cat Warrior
+      </type>
+      <power>6
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.103
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>171
+      </num>
+    </mc>
+    <mc>
+      <id>4389
+      </id>
+      <name>Path of Peace
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target creature. Its owner gains 4 life.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.175
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>172
+      </num>
+      <text>Destroy target creature. Its owner gains 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4272
+      </id>
+      <name>Phantom Warrior
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Illusion Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Phantom Warrior is unblockable.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.643
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>173
+      </num>
+      <text>Phantom Warrior is unblockable.
+      </text>
+    </mc>
+    <mc>
+      <id>4428
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.679
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>174
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>4427
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.556
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>175
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>4426
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.647
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>176
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>4425
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.079
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>177
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>4314
+      </id>
+      <name>Primeval Force
+      </name>
+      <cost>{2}{G}{G}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>8
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>When Primeval Force enters the battlefield, sacrifice it unless you sacrifice three Forests.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.175
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>178
+      </num>
+      <text>When Primeval Force enters the battlefield, sacrifice it unless you sacrifice three Forests.
+      </text>
+    </mc>
+    <mc>
+      <id>4273
+      </id>
+      <name>Prosperity
+      </name>
+      <cost>{X}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player draws X cards.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.75
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>179
+      </num>
+      <text>Each player draws X cards.
+      </text>
+    </mc>
+    <mc>
+      <id>4354
+      </id>
+      <name>Pyroclasm
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Pyroclasm deals 2 damage to each creature.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.326
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>180
+      </num>
+      <text>Pyroclasm deals 2 damage to each creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4234
+      </id>
+      <name>Python
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.167
+      </rating>
+      <artist>Alan Rabinowitz
+      </artist>
+      <num>181
+      </num>
+    </mc>
+    <mc>
+      <id>4357
+      </id>
+      <name>Raging Goblin
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Berserker
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.974
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>182
+      </num>
+      <text>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4356
+      </id>
+      <name>Raging Goblin
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Berserker
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.062
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>183
+      </num>
+      <text>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4235
+      </id>
+      <name>Rain of Tears
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target land.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.071
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>184
+      </num>
+      <text>Destroy target land.
+      </text>
+    </mc>
+    <mc>
+      <id>4236
+      </id>
+      <name>Raise Dead
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target creature card from your graveyard to your hand.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.25
+      </rating>
+      <artist>Charles Gillespie
+      </artist>
+      <num>185
+      </num>
+      <text>Return target creature card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4315
+      </id>
+      <name>Redwood Treefolk
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Treefolk
+      </type>
+      <power>3
+      </power>
+      <toughness>6
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.1
+      </rating>
+      <artist>Steve Luke
+      </artist>
+      <num>186
+      </num>
+    </mc>
+    <mc>
+      <id>4390
+      </id>
+      <name>Regal Unicorn
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Unicorn
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.85
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>187
+      </num>
+    </mc>
+    <mc>
+      <id>4393
+      </id>
+      <name>Sacred Nectar
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You gain 4 life.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>0.925
+      </rating>
+      <artist>Janine Johnston
+      </artist>
+      <num>188
+      </num>
+      <text>You gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4360
+      </id>
+      <name>Scorching Spear
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Scorching Spear deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>0.872
+      </rating>
+      <artist>Mike Raabe
+      </artist>
+      <num>189
+      </num>
+      <text>Scorching Spear deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>4394
+      </id>
+      <name>Seasoned Marshal
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Seasoned Marshal attacks, you may tap target creature.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.385
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>190
+      </num>
+      <text>Whenever Seasoned Marshal attacks, you may tap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4238
+      </id>
+      <name>Serpent Warrior
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Snake Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Serpent Warrior enters the battlefield, you lose 3 life.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.818
+      </rating>
+      <artist>Roger Raupp
+      </artist>
+      <num>191
+      </num>
+      <text>When Serpent Warrior enters the battlefield, you lose 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4274
+      </id>
+      <name>Snapping Drake
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.16
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>192
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>4317
+      </id>
+      <name>Spined Wurm
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.361
+      </rating>
+      <artist>Colin MacNeil
+      </artist>
+      <num>193
+      </num>
+    </mc>
+    <mc>
+      <id>4362
+      </id>
+      <name>Spitting Earth
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Spitting Earth deals damage to target creature equal to the number of Mountains you control.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.933
+      </rating>
+      <artist>Hannibal King
+      </artist>
+      <num>194
+      </num>
+      <text>Spitting Earth deals damage to target creature equal to the number of Mountains you control.
+      </text>
+    </mc>
+    <mc>
+      <id>4318
+      </id>
+      <name>Stalking Tiger
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Stalking Tiger can't be blocked by more than one creature.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.75
+      </rating>
+      <artist>Colin MacNeil
+      </artist>
+      <num>195
+      </num>
+      <text>Stalking Tiger can't be blocked by more than one creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4397
+      </id>
+      <name>Starlight
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You gain 3 life for each black creature target opponent controls.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.269
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>196
+      </num>
+      <text>You gain 3 life for each black creature target opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>4399
+      </id>
+      <name>Steadfastness
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Creatures you control get +0/+3 until end of turn.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.125
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>197
+      </num>
+      <text>Creatures you control get +0/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4363
+      </id>
+      <name>Stone Rain
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target land.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.957
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>198
+      </num>
+      <text>Destroy target land.
+      </text>
+    </mc>
+    <mc>
+      <id>4276
+      </id>
+      <name>Storm Crow
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.935
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>199
+      </num>
+      <text>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4319
+      </id>
+      <name>Summer Bloom
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You may play up to three additional lands this turn.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>200
+      </num>
+      <text>You may play up to three additional lands this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4412
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.567
+      </rating>
+      <artist>Romas
+      </artist>
+      <num>201
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>4411
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.722
+      </rating>
+      <artist>Romas
+      </artist>
+      <num>202
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>4410
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.75
+      </rating>
+      <artist>Romas
+      </artist>
+      <num>203
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>4409
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.417
+      </rating>
+      <artist>Romas
+      </artist>
+      <num>204
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>4279
+      </id>
+      <name>Theft of Dreams
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw a card for each tapped creature target opponent controls.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.263
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>205
+      </num>
+      <text>Draw a card for each tapped creature target opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>4364
+      </id>
+      <name>Thundermare
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Elemental Horse
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Haste &lt;i&gt;(This creature can attack the turn it comes under your control.)&lt;/i&gt;&lt;br&gt;When Thundermare enters the battlefield, tap all other creatures.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.643
+      </rating>
+      <artist>Bob Eggleton
+      </artist>
+      <num>206
+      </num>
+      <text>Haste &lt;i&gt;(This creature can attack the turn it comes under your control.)&lt;/i&gt;&lt;br&gt;When Thundermare enters the battlefield, tap all other creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>4281
+      </id>
+      <name>Tidal Surge
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Tap up to three target creatures without flying.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.885
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>207
+      </num>
+      <text>Tap up to three target creatures without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>4282
+      </id>
+      <name>Time Ebb
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put target creature on top of its owner's library.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.667
+      </rating>
+      <artist>Alan Rabinowitz
+      </artist>
+      <num>208
+      </num>
+      <text>Put target creature on top of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>4323
+      </id>
+      <name>Untamed Wilds
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.857
+      </rating>
+      <artist>Romas
+      </artist>
+      <num>209
+      </num>
+      <text>Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>4403
+      </id>
+      <name>Venerable Monk
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Monk Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Venerable Monk enters the battlefield, you gain 2 life.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.944
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>210
+      </num>
+      <text>When Venerable Monk enters the battlefield, you gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4404
+      </id>
+      <name>Vengeance
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target tapped creature.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.591
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>211
+      </num>
+      <text>Destroy target tapped creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4365
+      </id>
+      <name>Volcanic Dragon
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.315
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>212
+      </num>
+      <text>Flying&lt;br&gt;Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4366
+      </id>
+      <name>Volcanic Hammer
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Volcanic Hammer deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.694
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>213
+      </num>
+      <text>Volcanic Hammer deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>4405
+      </id>
+      <name>Wall of Swords
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Defender, flying &lt;i&gt;(This creature can't attack, and it can block creatures with flying.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.816
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>214
+      </num>
+      <text>Defender, flying &lt;i&gt;(This creature can't attack, and it can block creatures with flying.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4407
+      </id>
+      <name>Warrior's Charge
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Creatures you control get +1/+1 until end of turn.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.538
+      </rating>
+      <artist>Ted Naifeh
+      </artist>
+      <num>215
+      </num>
+      <text>Creatures you control get +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4324
+      </id>
+      <name>Whiptail Wurm
+      </name>
+      <cost>{6}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>8
+      </power>
+      <toughness>5
+      </toughness>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.324
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>216
+      </num>
+    </mc>
+    <mc>
+      <id>4246
+      </id>
+      <name>Wicked Pact
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy two target nonblack creatures. You lose 5 life.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.767
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>217
+      </num>
+      <text>Destroy two target nonblack creatures. You lose 5 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4284
+      </id>
+      <name>Wind Drake
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.765
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>218
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>4368
+      </id>
+      <name>Winds of Change
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.9
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>219
+      </num>
+      <text>Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.
+      </text>
+    </mc>
+    <mc>
+      <id>4285
+      </id>
+      <name>Withering Gaze
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals his or her hand. You draw a card for each Forest and green card in it.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.444
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>220
+      </num>
+      <text>Target opponent reveals his or her hand. You draw a card for each Forest and green card in it.
+      </text>
+    </mc>
+    <mc>
+      <id>4327
+      </id>
+      <name>Wood Elves
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.625
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>221
+      </num>
+      <text>When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>4408
+      </id>
+      <name>Wrath of God
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all creatures. They can't be regenerated.
+      </oracleText>
+      <edition>Portal
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.622
+      </rating>
+      <artist>Mike Raabe
+      </artist>
+      <num>222
+      </num>
+      <text>Destroy all creatures. They can't be regenerated.
+      </text>
+    </mc>
+  </list>
+</cards>
