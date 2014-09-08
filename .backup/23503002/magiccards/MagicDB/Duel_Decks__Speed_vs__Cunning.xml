@@ -1,0 +1,1721 @@
+
+<cards>
+  <name>Duel_Decks__Speed_vs__Cunning</name>
+  <key>Duel_Decks__Speed_vs__Cunning</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>386299
+      </id>
+      <name>Act of Treason
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. &lt;i&gt;(It can attack and {T} this turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>26
+      </num>
+      <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. &lt;i&gt;(It can attack and {T} this turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>386300
+      </id>
+      <name>Aquamorph Entity
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>As Aquamorph Entity enters the battlefield or is turned face up, it becomes your choice of 5/1 or 1/5.&lt;br&gt;Morph {2}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Brian Despain
+      </artist>
+      <num>54
+      </num>
+      <text>As Aquamorph Entity enters the battlefield or is turned face up, it becomes your choice of 5/1 or 1/5.&lt;br&gt;Morph {2}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>386301
+      </id>
+      <name>Arc Trail
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Arc Trail deals 2 damage to target creature or player and 1 damage to another target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Marc Simonetti
+      </artist>
+      <num>23
+      </num>
+      <text>Arc Trail deals 2 damage to target creature or player and 1 damage to another target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>386302
+      </id>
+      <name>Arcanis the Omnipotent
+      </name>
+      <cost>{3}{U}{U}{U}
+      </cost>
+      <type>Legendary Creature - Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{T}: Draw three cards.&lt;br&gt;{2}{U}{U}: Return Arcanis the Omnipotent to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Ryan Alexander Lee
+      </artist>
+      <num>42
+      </num>
+      <text>{T}: Draw three cards.&lt;br&gt;{2}{U}{U}: Return Arcanis the Omnipotent to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>386303
+      </id>
+      <name>Arrow Volley Trap
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If four or more creatures are attacking, you may pay {1}{W} rather than pay Arrow Volley Trap's mana cost.&lt;br&gt;Arrow Volley Trap deals 5 damage divided as you choose among any number of target attacking creatures.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Steve Argyle
+      </artist>
+      <num>71
+      </num>
+      <text>If four or more creatures are attacking, you may pay {1}{W} rather than pay Arrow Volley Trap's mana cost.&lt;br&gt;Arrow Volley Trap deals 5 damage divided as you choose among any number of target attacking creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>386304
+      </id>
+      <name>Banefire
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Banefire deals X damage to target creature or player.&lt;br&gt;If X is 5 or more, Banefire can't be countered by spells or abilities and the damage can't be prevented.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>31
+      </num>
+      <text>Banefire deals X damage to target creature or player.&lt;br&gt;If X is 5 or more, Banefire can't be countered by spells or abilities and the damage can't be prevented.
+      </text>
+    </mc>
+    <mc>
+      <id>386305
+      </id>
+      <name>Beetleback Chief
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Beetleback Chief enters the battlefield, put two 1/1 red Goblin creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Wayne England
+      </artist>
+      <num>14
+      </num>
+      <text>When Beetleback Chief enters the battlefield, put two 1/1 red Goblin creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>386306
+      </id>
+      <name>Bone Splinters
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Bone Splinters, sacrifice a creature.&lt;br&gt;Destroy target creature.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Cole Eastburn
+      </artist>
+      <num>22
+      </num>
+      <text>As an additional cost to cast Bone Splinters, sacrifice a creature.&lt;br&gt;Destroy target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>386307
+      </id>
+      <name>Coral Trickster
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Merfolk Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Morph {U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Coral Trickster is turned face up, you may tap or untap target permanent.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>44
+      </num>
+      <text>Morph {U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Coral Trickster is turned face up, you may tap or untap target permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>386308
+      </id>
+      <name>Dauntless Onslaught
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Up to two target creatures each get +2/+2 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>27
+      </num>
+      <text>Up to two target creatures each get +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>386309
+      </id>
+      <name>Dregscape Zombie
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Unearth {B} &lt;i&gt;({B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Lars Grant-West
+      </artist>
+      <num>5
+      </num>
+      <text>Unearth {B} &lt;i&gt;({B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>386310
+      </id>
+      <name>Echo Tracer
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Morph {2}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Echo Tracer is turned face up, return target creature to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>51
+      </num>
+      <text>Morph {2}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Echo Tracer is turned face up, return target creature to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>386311
+      </id>
+      <name>Evolving Wilds
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>32
+      </num>
+      <text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>386312
+      </id>
+      <name>Faerie Impostor
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Faerie Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Faerie Impostor enters the battlefield, sacrifice it unless you return another creature you control to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>43
+      </num>
+      <text>Flying&lt;br&gt;When Faerie Impostor enters the battlefield, sacrifice it unless you return another creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>386313
+      </id>
+      <name>Faerie Invaders
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Faerie Rogue
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>57
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying
+      </text>
+    </mc>
+    <mc>
+      <id>386314
+      </id>
+      <name>Fathom Seer
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Morph—Return two Islands you control to their owner's hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Fathom Seer is turned face up, draw two cards.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ralph Horsley
+      </artist>
+      <num>45
+      </num>
+      <text>Morph—Return two Islands you control to their owner's hand. &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Fathom Seer is turned face up, draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>386315
+      </id>
+      <name>Fiery Fall
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Fiery Fall deals 5 damage to target creature.&lt;br&gt;Basic landcycling {1}{R} &lt;i&gt;({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>29
+      </num>
+      <text>Fiery Fall deals 5 damage to target creature.&lt;br&gt;Basic landcycling {1}{R} &lt;i&gt;({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>386316
+      </id>
+      <name>Flame-Kin Zealot
+      </name>
+      <cost>{1}{R}{R}{W}
+      </cost>
+      <type>Creature - Elemental Berserker
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Flame-Kin Zealot enters the battlefield, creatures you control get +1/+1 and gain haste until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Arnie Swekel
+      </artist>
+      <num>17
+      </num>
+      <text>When Flame-Kin Zealot enters the battlefield, creatures you control get +1/+1 and gain haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>386317
+      </id>
+      <name>Fleeting Distraction
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -1/-0 until end of turn.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Yee
+      </artist>
+      <num>60
+      </num>
+      <text>Target creature gets -1/-0 until end of turn.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>386318
+      </id>
+      <name>Fleshbag Marauder
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Zombie Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>8
+      </num>
+      <text>When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>386319
+      </id>
+      <name>Frenzied Goblin
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Berserker
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Carl Critchlow
+      </artist>
+      <num>2
+      </num>
+      <text>Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>386320
+      </id>
+      <name>Fury of the Horde
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You may exile two red cards from your hand rather than pay Fury of the Horde's mana cost.&lt;br&gt;Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Stephen Tappin
+      </artist>
+      <num>30
+      </num>
+      <text>You may exile two red cards from your hand rather than pay Fury of the Horde's mana cost.&lt;br&gt;Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+      </text>
+    </mc>
+    <mc>
+      <id>386321
+      </id>
+      <name>Ghitu Encampment
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Ghitu Encampment enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;{1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land. &lt;i&gt;(It deals combat damage before creatures without first strike.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>33
+      </num>
+      <text>Ghitu Encampment enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;{1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land. &lt;i&gt;(It deals combat damage before creatures without first strike.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>386322
+      </id>
+      <name>Goblin
+      </name>
+      <type>Creature- Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>82
+      </num>
+    </mc>
+    <mc>
+      <id>386323
+      </id>
+      <name>Goblin Bombardment
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Sacrifice a creature: Goblin Bombardment deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>24
+      </num>
+      <text>Sacrifice a creature: Goblin Bombardment deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>386324
+      </id>
+      <name>Goblin Deathraiders
+      </name>
+      <cost>{B}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Trample
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>6
+      </num>
+      <text>Trample
+      </text>
+    </mc>
+    <mc>
+      <id>386325
+      </id>
+      <name>Goblin Warchief
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Goblin spells you cast cost {1} less to cast.&lt;br&gt;Goblin creatures you control have haste.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Greg &amp; Tim Hildebrandt
+      </artist>
+      <num>9
+      </num>
+      <text>Goblin spells you cast cost {1} less to cast.&lt;br&gt;Goblin creatures you control have haste.
+      </text>
+    </mc>
+    <mc>
+      <id>386327
+      </id>
+      <name>Hellraiser Goblin
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin Berserker
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Creatures you control have haste and attack each combat if able.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>7
+      </num>
+      <text>Creatures you control have haste and attack each combat if able.
+      </text>
+    </mc>
+    <mc>
+      <id>386326
+      </id>
+      <name>Hell's Thunder
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying, haste&lt;br&gt;At the beginning of the end step, sacrifice Hell's Thunder.&lt;br&gt;Unearth {4}{R} &lt;i&gt;({4}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>10
+      </num>
+      <text>Flying, haste&lt;br&gt;At the beginning of the end step, sacrifice Hell's Thunder.&lt;br&gt;Unearth {4}{R} &lt;i&gt;({4}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>386328
+      </id>
+      <name>Hold the Line
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Blocking creatures get +7/+7 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Ron Spears
+      </artist>
+      <num>66
+      </num>
+      <text>Blocking creatures get +7/+7 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>386329
+      </id>
+      <name>Hussar Patrol
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Vigilance
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>55
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>386330
+      </id>
+      <name>Impulse
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Izzy
+      </artist>
+      <num>63
+      </num>
+      <text>Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>386331
+      </id>
+      <name>Infantry Veteran
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Target attacking creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>3
+      </num>
+      <text>{T}: Target attacking creature gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>386332
+      </id>
+      <name>Inferno Trap
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay Inferno Trap's mana cost.&lt;br&gt;Inferno Trap deals 4 damage to target creature.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Philip Straub
+      </artist>
+      <num>67
+      </num>
+      <text>If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay Inferno Trap's mana cost.&lt;br&gt;Inferno Trap deals 4 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>386333
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Rob Alexander
+      </artist>
+      <num>75
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>386336
+      </id>
+      <name>Jeskai Elder
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature-- Human Monk
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt; &lt;br&gt;Whenever Jeskai Elder deals combat damage to a player, you may draw a card. If you do, discard a card.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Craig J Spearing
+      </artist>
+      <num>46
+      </num>
+      <text>Prowess &lt;i&gt;(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)&lt;/i&gt; &lt;br&gt;Whenever Jeskai Elder deals combat damage to a player, you may draw a card. If you do, discard a card.
+      </text>
+    </mc>
+    <mc>
+      <id>386337
+      </id>
+      <name>Kathari Bomber
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Creature - Bird Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Kathari Bomber deals combat damage to a player, put two 1/1 red Goblin creature tokens onto the battlefield and sacrifice Kathari Bomber.&lt;br&gt;Unearth {3}{B}{R} &lt;i&gt;({3}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Carl Critchlow
+      </artist>
+      <num>11
+      </num>
+      <text>Flying&lt;br&gt;When Kathari Bomber deals combat damage to a player, put two 1/1 red Goblin creature tokens onto the battlefield and sacrifice Kathari Bomber.&lt;br&gt;Unearth {3}{B}{R} &lt;i&gt;({3}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>386338
+      </id>
+      <name>Kor Hookmaster
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Kor Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>52
+      </num>
+      <text>When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>386339
+      </id>
+      <name>Krenko, Mob Boss
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Legendary Creature - Goblin Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Put X 1/1 red Goblin creature tokens onto the battlefield, where X is the number of Goblins you control.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>15
+      </num>
+      <text>{T}: Put X 1/1 red Goblin creature tokens onto the battlefield, where X is the number of Goblins you control.
+      </text>
+    </mc>
+    <mc>
+      <id>386340
+      </id>
+      <name>Krenko's Command
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put two 1/1 red Goblin creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>25
+      </num>
+      <text>Put two 1/1 red Goblin creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>386341
+      </id>
+      <name>Leonin Snarecaster
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Cat Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Leonin Snarecaster enters the battlefield, you may tap target creature.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>4
+      </num>
+      <text>When Leonin Snarecaster enters the battlefield, you may tap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>386342
+      </id>
+      <name>Lightning Angel
+      </name>
+      <cost>{1}{R}{W}{U}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying, vigilance, haste
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>rk post
+      </artist>
+      <num>56
+      </num>
+      <text>Flying, vigilance, haste
+      </text>
+    </mc>
+    <mc>
+      <id>386343
+      </id>
+      <name>Lightning Helix
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Lightning Helix deals 3 damage to target creature or player and you gain 3 life.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>65
+      </num>
+      <text>Lightning Helix deals 3 damage to target creature or player and you gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>386344
+      </id>
+      <name>Lone Missionary
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Kor Monk
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Lone Missionary enters the battlefield, you gain 4 life.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>49
+      </num>
+      <text>When Lone Missionary enters the battlefield, you gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>386345
+      </id>
+      <name>Mana Leak
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell unless its controller pays {3}.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Howard Lyon
+      </artist>
+      <num>64
+      </num>
+      <text>Counter target spell unless its controller pays {3}.
+      </text>
+    </mc>
+    <mc>
+      <id>386346
+      </id>
+      <name>Mardu Heart-Piercer
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature-- Human Archer
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Raid- When Mardu Heart-Piercer enters the battlefield, if you attacked with a creature this turn, Mardu Heart-Piercer deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>13
+      </num>
+      <text>Raid- When Mardu Heart-Piercer enters the battlefield, if you attacked with a creature this turn, Mardu Heart-Piercer deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>386347
+      </id>
+      <name>Master Decoy
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{W}, {T}: Tap target creature.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ben Thompson
+      </artist>
+      <num>50
+      </num>
+      <text>{W}, {T}: Tap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>386351
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>36
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>386352
+      </id>
+      <name>Mystic Monastery
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Mystic Monastery enters the battlefield tapped. &lt;br&gt;{T}: Add {U}, {R}, or {W} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Florian de Gesincourt
+      </artist>
+      <num>73
+      </num>
+      <text>Mystic Monastery enters the battlefield tapped. &lt;br&gt;{T}: Add {U}, {R}, or {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>386353
+      </id>
+      <name>Nomad Outpost
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Nomad Outpost enters the battlefield tapped. &lt;br&gt;{T}: Add {R}, {W}, or {B} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>34
+      </num>
+      <text>Nomad Outpost enters the battlefield tapped. &lt;br&gt;{T}: Add {R}, {W}, or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>386354
+      </id>
+      <name>Ogre Battledriver
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Ogre Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. &lt;i&gt;(It can attack and {T} this turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>16
+      </num>
+      <text>Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. &lt;i&gt;(It can attack and {T} this turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>386355
+      </id>
+      <name>Oni of Wild Places
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Demon Spirit
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Haste&lt;br&gt;At the beginning of your upkeep, return a red creature you control to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mark Tedin
+      </artist>
+      <num>19
+      </num>
+      <text>Haste&lt;br&gt;At the beginning of your upkeep, return a red creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>386356
+      </id>
+      <name>Orcish Cannonade
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Orcish Cannonade deals 2 damage to target creature or player and 3 damage to you.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Pete Venters
+      </artist>
+      <num>28
+      </num>
+      <text>Orcish Cannonade deals 2 damage to target creature or player and 3 damage to you.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>386357
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>79
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>386361
+      </id>
+      <name>Reckless Abandon
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Reckless Abandon, sacrifice a creature.&lt;br&gt;Reckless Abandon deals 4 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ron Spears
+      </artist>
+      <num>20
+      </num>
+      <text>As an additional cost to cast Reckless Abandon, sacrifice a creature.&lt;br&gt;Reckless Abandon deals 4 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>386362
+      </id>
+      <name>Repeal
+      </name>
+      <cost>{X}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target nonland permanent with converted mana cost X to its owner's hand.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Anthony Palumbo
+      </artist>
+      <num>72
+      </num>
+      <text>Return target nonland permanent with converted mana cost X to its owner's hand.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>386363
+      </id>
+      <name>Scourge Devil
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Devil
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.&lt;br&gt;Unearth {2}{R} &lt;i&gt;({2}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>18
+      </num>
+      <text>When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.&lt;br&gt;Unearth {2}{R} &lt;i&gt;({2}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>386364
+      </id>
+      <name>Shambling Remains
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Creature - Zombie Horror
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Shambling Remains can't block.&lt;br&gt;Unearth {B}{R} &lt;i&gt;({B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>12
+      </num>
+      <text>Shambling Remains can't block.&lt;br&gt;Unearth {B}{R} &lt;i&gt;({B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>386365
+      </id>
+      <name>Shock
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Shock deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jon Foster
+      </artist>
+      <num>21
+      </num>
+      <text>Shock deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>386366
+      </id>
+      <name>Sparkmage Apprentice
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Sparkmage Apprentice enters the battlefield, it deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>48
+      </num>
+      <text>When Sparkmage Apprentice enters the battlefield, it deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>386367
+      </id>
+      <name>Sphinx of Uthuun
+      </name>
+      <cost>{5}{U}{U}
+      </cost>
+      <type>Creature - Sphinx
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Kekai Kotaki
+      </artist>
+      <num>59
+      </num>
+      <text>Flying&lt;br&gt;When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>386368
+      </id>
+      <name>Stave Off
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gains protection from the color of your choice until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>61
+      </num>
+      <text>Target creature gains protection from the color of your choice until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>386369
+      </id>
+      <name>Steam Augury
+      </name>
+      <cost>{2}{U}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>68
+      </num>
+      <text>Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>386370
+      </id>
+      <name>Stonecloaker
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Gargoyle
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Stonecloaker enters the battlefield, return a creature you control to its owner's hand.&lt;br&gt;When Stonecloaker enters the battlefield, exile target card from a graveyard.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Tomas Giorello
+      </artist>
+      <num>53
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Stonecloaker enters the battlefield, return a creature you control to its owner's hand.&lt;br&gt;When Stonecloaker enters the battlefield, exile target card from a graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>386372
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>39
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>386374
+      </id>
+      <name>Swift Justice
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, target creature gets +1/+0 and gains first strike and lifelink.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>62
+      </num>
+      <text>Until end of turn, target creature gets +1/+0 and gains first strike and lifelink.
+      </text>
+    </mc>
+    <mc>
+      <id>386375
+      </id>
+      <name>Terramorphic Expanse
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>74
+      </num>
+      <text>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>386376
+      </id>
+      <name>Thousand Winds
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Creature-- Elemental
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying &lt;br&gt;Morph {5}{U}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt; &lt;br&gt;When Thousand Winds is turned face up, return all other tapped creatures to their owners' hands.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>58
+      </num>
+      <text>Flying &lt;br&gt;Morph {5}{U}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt; &lt;br&gt;When Thousand Winds is turned face up, return all other tapped creatures to their owners' hands.
+      </text>
+    </mc>
+    <mc>
+      <id>386377
+      </id>
+      <name>Traumatic Visions
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell.&lt;br&gt;Basic landcycling {1}{U} &lt;i&gt;({1}{U}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>69
+      </num>
+      <text>Counter target spell.&lt;br&gt;Basic landcycling {1}{U} &lt;i&gt;({1}{U}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>386378
+      </id>
+      <name>Whiplash Trap
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If an opponent had two or more creatures enter the battlefield under his or her control this turn, you may pay {U} rather than pay Whiplash Trap's mana cost.&lt;br&gt;Return two target creatures to their owners' hands.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>70
+      </num>
+      <text>If an opponent had two or more creatures enter the battlefield under his or her control this turn, you may pay {U} rather than pay Whiplash Trap's mana cost.&lt;br&gt;Return two target creatures to their owners' hands.
+      </text>
+    </mc>
+    <mc>
+      <id>386379
+      </id>
+      <name>Willbender
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Morph {1}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Willbender is turned face up, change the target of target spell or ability with a single target.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Eric Peterson
+      </artist>
+      <num>47
+      </num>
+      <text>Morph {1}{U} &lt;i&gt;(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;&lt;br&gt;When Willbender is turned face up, change the target of target spell or ability with a single target.
+      </text>
+    </mc>
+    <mc>
+      <id>386380
+      </id>
+      <name>Zurgo Helmsmasher
+      </name>
+      <cost>{2}{R}{W}{B}
+      </cost>
+      <type>Legendary Creature-- Orc Warrior
+      </type>
+      <power>7
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste &lt;br&gt;Zurgo Helmsmasher attacks each combat if able. &lt;br&gt;Zurgo Helmsmasher has indestructible as long as it's your turn. &lt;br&gt;Whenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher.
+      </oracleText>
+      <edition>Duel Decks: Speed vs. Cunning
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Ryan Alexander Lee
+      </artist>
+      <num>1
+      </num>
+      <text>Haste &lt;br&gt;Zurgo Helmsmasher attacks each combat if able. &lt;br&gt;Zurgo Helmsmasher has indestructible as long as it's your turn. &lt;br&gt;Whenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher.
+      </text>
+    </mc>
+  </list>
+</cards>

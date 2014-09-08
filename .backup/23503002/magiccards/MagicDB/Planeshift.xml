@@ -1,0 +1,3769 @@
+
+<cards>
+  <name>Planeshift</name>
+  <key>Planeshift</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>12691
+      </id>
+      <name>Radiant Kavu
+      </name>
+      <cost>{R}{G}{W}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{R}{G}{W}: Prevent all combat damage blue creatures and black creatures would deal this turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.775
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>120
+      </num>
+      <text>{R}{G}{W}: Prevent all combat damage blue creatures and black creatures would deal this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>15144
+      </id>
+      <name>Dralnu's Pet
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Kicker—{2}{B}, Discard a creature card. &lt;i&gt;(You may pay {2}{B} and discard a creature card in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;If Dralnu's Pet was kicked, it enters the battlefield with flying and with X +1/+1 counters on it, where X is the discarded card's converted mana cost.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.609
+      </rating>
+      <artist>Glen Angus
+      </artist>
+      <num>23
+      </num>
+      <text>Kicker—{2}{B}, Discard a creature card. &lt;i&gt;(You may pay {2}{B} and discard a creature card in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;If Dralnu's Pet was kicked, it enters the battlefield with flying and with X +1/+1 counters on it, where X is the discarded card's converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>19141
+      </id>
+      <name>Guard Dogs
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Hound
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{2}{W}, {T}: Choose a permanent you control. Prevent all combat damage target creature would deal this turn if it shares a color with that permanent.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.6
+      </rating>
+      <artist>Mike Raabe
+      </artist>
+      <num>5
+      </num>
+      <text>{2}{W}, {T}: Choose a permanent you control. Prevent all combat damage target creature would deal this turn if it shares a color with that permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>19149
+      </id>
+      <name>Ancient Spider
+      </name>
+      <cost>{2}{G}{W}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>First strike; reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.368
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>96
+      </num>
+      <text>First strike; reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>19358
+      </id>
+      <name>Keldon Mantle
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;{B}: Regenerate enchanted creature.&lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn.&lt;br&gt;{G}: Enchanted creature gains trample until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.545
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>65
+      </num>
+      <text>Enchant creature&lt;br&gt;{B}: Regenerate enchanted creature.&lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn.&lt;br&gt;{G}: Enchanted creature gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>21276
+      </id>
+      <name>Escape Routes
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{2}{U}: Return target white or black creature you control to its owner's hand.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.656
+      </rating>
+      <artist>Marc Fishman
+      </artist>
+      <num>25
+      </num>
+      <text>{2}{U}: Return target white or black creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>21323
+      </id>
+      <name>Keldon Twilight
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of each player's end step, if no creatures attacked this turn, that player sacrifices a creature he or she controlled since the beginning of the turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.656
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>112
+      </num>
+      <text>At the beginning of each player's end step, if no creatures attacked this turn, that player sacrifices a creature he or she controlled since the beginning of the turn.
+      </text>
+    </mc>
+    <mc>
+      <id>22025
+      </id>
+      <name>Slingshot Goblin
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}, {T}: Slingshot Goblin deals 2 damage to target blue creature.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>Jeff Easley
+      </artist>
+      <num>72
+      </num>
+      <text>{R}, {T}: Slingshot Goblin deals 2 damage to target blue creature.
+      </text>
+    </mc>
+    <mc>
+      <id>22298
+      </id>
+      <name>Multani's Harmony
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has "{T}: Add one mana of any color to your mana pool."
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.7
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>84
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has "{T}: Add one mana of any color to your mana pool."
+      </text>
+    </mc>
+    <mc>
+      <id>22962
+      </id>
+      <name>Samite Elder
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Creatures you control gain protection from the colors of target permanent you control until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.4
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>14
+      </num>
+      <text>{T}: Creatures you control gain protection from the colors of target permanent you control until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>22980
+      </id>
+      <name>Hunting Drake
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Hunting Drake enters the battlefield, put target red or green creature on top of its owner's library.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.727
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>27
+      </num>
+      <text>Flying&lt;br&gt;When Hunting Drake enters the battlefield, put target red or green creature on top of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>23051
+      </id>
+      <name>Doomsday Specter
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Creature - Specter
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Doomsday Specter enters the battlefield, return a blue or black creature you control to its owner's hand.&lt;br&gt;Whenever Doomsday Specter deals combat damage to a player, look at that player's hand and choose a card from it. The player discards that card.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.943
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>103
+      </num>
+      <text>Flying&lt;br&gt;When Doomsday Specter enters the battlefield, return a blue or black creature you control to its owner's hand.&lt;br&gt;Whenever Doomsday Specter deals combat damage to a player, look at that player's hand and choose a card from it. The player discards that card.
+      </text>
+    </mc>
+    <mc>
+      <id>23113
+      </id>
+      <name>Pygmy Kavu
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Pygmy Kavu enters the battlefield, draw a card for each black creature your opponents control.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.656
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>88
+      </num>
+      <text>When Pygmy Kavu enters the battlefield, draw a card for each black creature your opponents control.
+      </text>
+    </mc>
+    <mc>
+      <id>25614
+      </id>
+      <name>Ertai, the Corrupted
+      </name>
+      <cost>{2}{W}{U}{B}
+      </cost>
+      <type>Legendary Creature - Human Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.037
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>107
+      </num>
+      <text>{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.
+      </text>
+    </mc>
+    <mc>
+      <id>25615
+      </id>
+      <name>Sunscape Familiar
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Green spells and blue spells you cast cost {1} less to cast.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.021
+      </rating>
+      <artist>Brian Despain
+      </artist>
+      <num>17
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Green spells and blue spells you cast cost {1} less to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>25616
+      </id>
+      <name>Stormscape Familiar
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;White spells and black spells you cast cost {1} less to cast.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.409
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>36
+      </num>
+      <text>Flying&lt;br&gt;White spells and black spells you cast cost {1} less to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>25617
+      </id>
+      <name>Thunderscape Familiar
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Black spells and green spells you cast cost {1} less to cast.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.12
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>76
+      </num>
+      <text>First strike&lt;br&gt;Black spells and green spells you cast cost {1} less to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>25618
+      </id>
+      <name>Thornscape Familiar
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Red spells and white spells you cast cost {1} less to cast.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.021
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>95
+      </num>
+      <text>Red spells and white spells you cast cost {1} less to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>25646
+      </id>
+      <name>Eladamri's Call
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.63
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>106
+      </num>
+      <text>Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>25693
+      </id>
+      <name>Nightscape Familiar
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Blue spells and red spells you cast cost {1} less to cast.&lt;br&gt;{1}{B}: Regenerate Nightscape Familiar.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.571
+      </rating>
+      <artist>Jeff Easley
+      </artist>
+      <num>48
+      </num>
+      <text>Blue spells and red spells you cast cost {1} less to cast.&lt;br&gt;{1}{B}: Regenerate Nightscape Familiar.
+      </text>
+    </mc>
+    <mc>
+      <id>25797
+      </id>
+      <name>Draco
+      </name>
+      <cost>{16}
+      </cost>
+      <type>Artifact Creature - Dragon
+      </type>
+      <power>9
+      </power>
+      <toughness>9
+      </toughness>
+      <oracleText>Domain- Draco costs {2} less to cast for each basic land type among lands you control.&lt;br&gt;Flying&lt;br&gt;Domain- At the beginning of your upkeep, sacrifice Draco unless you pay {1}0. This cost is reduced by {2} for each basic land type among lands you control.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.238
+      </rating>
+      <artist>Sam Wood
+      </artist>
+      <num>131
+      </num>
+      <text>Domain- Draco costs {2} less to cast for each basic land type among lands you control.&lt;br&gt;Flying&lt;br&gt;Domain- At the beginning of your upkeep, sacrifice Draco unless you pay {1}0. This cost is reduced by {2} for each basic land type among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>25822
+      </id>
+      <name>Daring Leap
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +1/+1 and gains flying and first strike until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.933
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>101
+      </num>
+      <text>Target creature gets +1/+1 and gains flying and first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>25862
+      </id>
+      <name>Dromar's Charm
+      </name>
+      <cost>{W}{U}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- You gain 5 life; or counter target spell; or target creature gets -2/-2 until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.371
+      </rating>
+      <artist>David Martin
+      </artist>
+      <num>105
+      </num>
+      <text>Choose one- You gain 5 life; or counter target spell; or target creature gets -2/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>25863
+      </id>
+      <name>Crosis's Charm
+      </name>
+      <cost>{U}{B}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Return target permanent to its owner's hand; or destroy target nonblack creature, and it can't be regenerated; or destroy target artifact.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.125
+      </rating>
+      <artist>David Martin
+      </artist>
+      <num>99
+      </num>
+      <text>Choose one- Return target permanent to its owner's hand; or destroy target nonblack creature, and it can't be regenerated; or destroy target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>25864
+      </id>
+      <name>Darigaaz's Charm
+      </name>
+      <cost>{B}{R}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Return target creature card from your graveyard to your hand; or Darigaaz's Charm deals 3 damage to target creature or player; or target creature gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.615
+      </rating>
+      <artist>David Martin
+      </artist>
+      <num>100
+      </num>
+      <text>Choose one- Return target creature card from your graveyard to your hand; or Darigaaz's Charm deals 3 damage to target creature or player; or target creature gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>25865
+      </id>
+      <name>Rith's Charm
+      </name>
+      <cost>{R}{G}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Destroy target nonbasic land; or put three 1/1 green Saproling creature tokens onto the battlefield; or prevent all damage a source of your choice would deal this turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.972
+      </rating>
+      <artist>David Martin
+      </artist>
+      <num>122
+      </num>
+      <text>Choose one- Destroy target nonbasic land; or put three 1/1 green Saproling creature tokens onto the battlefield; or prevent all damage a source of your choice would deal this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>25866
+      </id>
+      <name>Treva's Charm
+      </name>
+      <cost>{G}{W}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Destroy target enchantment; or exile target attacking creature; or draw a card, then discard a card.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.35
+      </rating>
+      <artist>David Martin
+      </artist>
+      <num>129
+      </num>
+      <text>Choose one- Destroy target enchantment; or exile target attacking creature; or draw a card, then discard a card.
+      </text>
+    </mc>
+    <mc>
+      <id>25869
+      </id>
+      <name>Stratadon
+      </name>
+      <cost>{10}
+      </cost>
+      <type>Artifact Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Domain- Stratadon costs {1} less to cast for each basic land type among lands you control.&lt;br&gt;Trample
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.159
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>135
+      </num>
+      <text>Domain- Stratadon costs {1} less to cast for each basic land type among lands you control.&lt;br&gt;Trample
+      </text>
+    </mc>
+    <mc>
+      <id>25870
+      </id>
+      <name>Malicious Advice
+      </name>
+      <cost>{X}{U}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Tap X target artifacts, creatures, and/or lands. You lose X life.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.167
+      </rating>
+      <artist>Glen Angus
+      </artist>
+      <num>114
+      </num>
+      <text>Tap X target artifacts, creatures, and/or lands. You lose X life.
+      </text>
+    </mc>
+    <mc>
+      <id>25871
+      </id>
+      <name>Terminate
+      </name>
+      <cost>{B}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature. It can't be regenerated.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>128
+      </num>
+      <text>Destroy target creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>25872
+      </id>
+      <name>Hull Breach
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose one- Destroy target artifact; or destroy target enchantment; or destroy target artifact and target enchantment.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.426
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>111
+      </num>
+      <text>Choose one- Destroy target artifact; or destroy target enchantment; or destroy target artifact and target enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>25873
+      </id>
+      <name>Gerrard's Command
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Untap target creature. It gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.024
+      </rating>
+      <artist>Roger Raupp
+      </artist>
+      <num>109
+      </num>
+      <text>Untap target creature. It gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>25886
+      </id>
+      <name>Planeswalker's Mirth
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{3}{W}: Target opponent reveals a card at random from his or her hand. You gain life equal to that card's converted mana cost.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.405
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>12
+      </num>
+      <text>{3}{W}: Target opponent reveals a card at random from his or her hand. You gain life equal to that card's converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>25887
+      </id>
+      <name>Planeswalker's Mischief
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{3}{U}: Target opponent reveals a card at random from his or her hand. If it's an instant or sorcery card, exile it. You may cast it without paying its mana cost for as long as it remains exiled. &lt;i&gt;(If it has X in its mana cost, X is 0.)&lt;/i&gt; At the beginning of the next end step, if you haven't cast it, return it to its owner's hand. Activate this ability only any time you could cast a sorcery.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.389
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>29
+      </num>
+      <text>{3}{U}: Target opponent reveals a card at random from his or her hand. If it's an instant or sorcery card, exile it. You may cast it without paying its mana cost for as long as it remains exiled. &lt;i&gt;(If it has X in its mana cost, X is 0.)&lt;/i&gt; At the beginning of the next end step, if you haven't cast it, return it to its owner's hand. Activate this ability only any time you could cast a sorcery.
+      </text>
+    </mc>
+    <mc>
+      <id>25888
+      </id>
+      <name>Planeswalker's Scorn
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{3}{B}: Target opponent reveals a card at random from his or her hand. Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost. Activate this ability only any time you could cast a sorcery.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.281
+      </rating>
+      <artist>Glen Angus
+      </artist>
+      <num>52
+      </num>
+      <text>{3}{B}: Target opponent reveals a card at random from his or her hand. Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost. Activate this ability only any time you could cast a sorcery.
+      </text>
+    </mc>
+    <mc>
+      <id>25889
+      </id>
+      <name>Planeswalker's Fury
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{3}{R}: Target opponent reveals a card at random from his or her hand. Planeswalker's Fury deals damage equal to that card's converted mana cost to that player. Activate this ability only any time you could cast a sorcery.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.658
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>70
+      </num>
+      <text>{3}{R}: Target opponent reveals a card at random from his or her hand. Planeswalker's Fury deals damage equal to that card's converted mana cost to that player. Activate this ability only any time you could cast a sorcery.
+      </text>
+    </mc>
+    <mc>
+      <id>25890
+      </id>
+      <name>Planeswalker's Favor
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{3}{G}: Target opponent reveals a card at random from his or her hand. Target creature gets +X/+X until end of turn, where X is the revealed card's converted mana cost.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>86
+      </num>
+      <text>{3}{G}: Target opponent reveals a card at random from his or her hand. Target creature gets +X/+X until end of turn, where X is the revealed card's converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>25893
+      </id>
+      <name>Forsaken City
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Forsaken City doesn't untap during your untap step.&lt;br&gt;At the beginning of your upkeep, you may exile a card from your hand. If you do, untap Forsaken City.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.679
+      </rating>
+      <artist>Dana Knutson
+      </artist>
+      <num>139
+      </num>
+      <text>Forsaken City doesn't untap during your untap step.&lt;br&gt;At the beginning of your upkeep, you may exile a card from your hand. If you do, untap Forsaken City.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>25899
+      </id>
+      <name>Cloud Cover
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever another permanent you control becomes the target of a spell or ability an opponent controls, you may return that permanent to its owner's hand.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.141
+      </rating>
+      <artist>Marc Fishman
+      </artist>
+      <num>98
+      </num>
+      <text>Whenever another permanent you control becomes the target of a spell or ability an opponent controls, you may return that permanent to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>25900
+      </id>
+      <name>Singe
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Singe deals 1 damage to target creature. That creature becomes black until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.05
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>71
+      </num>
+      <text>Singe deals 1 damage to target creature. That creature becomes black until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>25912
+      </id>
+      <name>Sunscape Battlemage
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Kicker {1}{G} and/or {2}{U} &lt;i&gt;(You may pay an additional {1}{G} and/or {2}{U} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Sunscape Battlemage enters the battlefield, if it was kicked with its {1}{G} kicker, destroy target creature with flying.&lt;br&gt;When Sunscape Battlemage enters the battlefield, if it was kicked with its {2}{U} kicker, draw two cards.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.688
+      </rating>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>16
+      </num>
+      <text>Kicker {1}{G} and/or {2}{U} &lt;i&gt;(You may pay an additional {1}{G} and/or {2}{U} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Sunscape Battlemage enters the battlefield, if it was kicked with its {1}{G} kicker, destroy target creature with flying.&lt;br&gt;When Sunscape Battlemage enters the battlefield, if it was kicked with its {2}{U} kicker, draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>25913
+      </id>
+      <name>Stormscape Battlemage
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Metathran Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Kicker {W} and/or {2}{B} &lt;i&gt;(You may pay an additional {W} and/or {2}{B} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Stormscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, you gain 3 life.&lt;br&gt;When Stormscape Battlemage enters the battlefield, if it was kicked with its {2}{B} kicker, destroy target nonblack creature. That creature can't be regenerated.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.471
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>35
+      </num>
+      <text>Kicker {W} and/or {2}{B} &lt;i&gt;(You may pay an additional {W} and/or {2}{B} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Stormscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, you gain 3 life.&lt;br&gt;When Stormscape Battlemage enters the battlefield, if it was kicked with its {2}{B} kicker, destroy target nonblack creature. That creature can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>25914
+      </id>
+      <name>Nightscape Battlemage
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Zombie Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Kicker {2}{U} and/or {2}{R} &lt;i&gt;(You may pay an additional {2}{U} and/or {2}{R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Nightscape Battlemage enters the battlefield, if it was kicked with its {2}{U} kicker, return up to two target nonblack creatures to their owners' hands.&lt;br&gt;When Nightscape Battlemage enters the battlefield, if it was kicked with its {2}{R} kicker, destroy target land.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.675
+      </rating>
+      <artist>Andrew Goldhawk
+      </artist>
+      <num>47
+      </num>
+      <text>Kicker {2}{U} and/or {2}{R} &lt;i&gt;(You may pay an additional {2}{U} and/or {2}{R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Nightscape Battlemage enters the battlefield, if it was kicked with its {2}{U} kicker, return up to two target nonblack creatures to their owners' hands.&lt;br&gt;When Nightscape Battlemage enters the battlefield, if it was kicked with its {2}{R} kicker, destroy target land.
+      </text>
+    </mc>
+    <mc>
+      <id>25915
+      </id>
+      <name>Thunderscape Battlemage
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Kicker {1}{B} and/or {G} &lt;i&gt;(You may pay an additional {1}{B} and/or {G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Thunderscape Battlemage enters the battlefield, if it was kicked with its {1}{B} kicker, target player discards two cards.&lt;br&gt;When Thunderscape Battlemage enters the battlefield, if it was kicked with its {G} kicker, destroy target enchantment.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.429
+      </rating>
+      <artist>Mike Ploog
+      </artist>
+      <num>75
+      </num>
+      <text>Kicker {1}{B} and/or {G} &lt;i&gt;(You may pay an additional {1}{B} and/or {G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Thunderscape Battlemage enters the battlefield, if it was kicked with its {1}{B} kicker, target player discards two cards.&lt;br&gt;When Thunderscape Battlemage enters the battlefield, if it was kicked with its {G} kicker, destroy target enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>25916
+      </id>
+      <name>Thornscape Battlemage
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Kicker {R} and/or {W} &lt;i&gt;(You may pay an additional {R} and/or {W} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Thornscape Battlemage enters the battlefield, if it was kicked with its {R} kicker, it deals 2 damage to target creature or player.&lt;br&gt;When Thornscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, destroy target artifact.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.632
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>94
+      </num>
+      <text>Kicker {R} and/or {W} &lt;i&gt;(You may pay an additional {R} and/or {W} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Thornscape Battlemage enters the battlefield, if it was kicked with its {R} kicker, it deals 2 damage to target creature or player.&lt;br&gt;When Thornscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, destroy target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>25918
+      </id>
+      <name>Urza's Guilt
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player draws two cards, then discards three cards, then loses 4 life.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.452
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>130
+      </num>
+      <text>Each player draws two cards, then discards three cards, then loses 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>25924
+      </id>
+      <name>Shivan Wurm
+      </name>
+      <cost>{3}{R}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Trample&lt;br&gt;When Shivan Wurm enters the battlefield, return a red or green creature you control to its owner's hand.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.652
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>124
+      </num>
+      <text>Trample&lt;br&gt;When Shivan Wurm enters the battlefield, return a red or green creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>25925
+      </id>
+      <name>Silver Drake
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Silver Drake enters the battlefield, return a white or blue creature you control to its owner's hand.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.98
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>125
+      </num>
+      <text>Flying&lt;br&gt;When Silver Drake enters the battlefield, return a white or blue creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>25926
+      </id>
+      <name>Cavern Harpy
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Creature - Harpy Beast
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Cavern Harpy enters the battlefield, return a blue or black creature you control to its owner's hand.&lt;br&gt;Pay 1 life: Return Cavern Harpy to its owner's hand.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.88
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>97
+      </num>
+      <text>Flying&lt;br&gt;When Cavern Harpy enters the battlefield, return a blue or black creature you control to its owner's hand.&lt;br&gt;Pay 1 life: Return Cavern Harpy to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>25927
+      </id>
+      <name>Lava Zombie
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Lava Zombie enters the battlefield, return a black or red creature you control to its owner's hand.&lt;br&gt;{2}: Lava Zombie gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.548
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>113
+      </num>
+      <text>When Lava Zombie enters the battlefield, return a black or red creature you control to its owner's hand.&lt;br&gt;{2}: Lava Zombie gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>25928
+      </id>
+      <name>Horned Kavu
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Horned Kavu enters the battlefield, return a red or green creature you control to its owner's hand.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.017
+      </rating>
+      <artist>Michael Sutfin
+      </artist>
+      <num>110
+      </num>
+      <text>When Horned Kavu enters the battlefield, return a red or green creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>25929
+      </id>
+      <name>Steel Leaf Paladin
+      </name>
+      <cost>{4}{G}{W}
+      </cost>
+      <type>Creature - Elf Knight
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>First strike&lt;br&gt;When Steel Leaf Paladin enters the battlefield, return a green or white creature you control to its owner's hand.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.233
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>127
+      </num>
+      <text>First strike&lt;br&gt;When Steel Leaf Paladin enters the battlefield, return a green or white creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>25931
+      </id>
+      <name>Exotic Disease
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Domain- Target player loses X life and you gain X life, where X is the number of basic land types among lands you control.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.725
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>43
+      </num>
+      <text>Domain- Target player loses X life and you gain X life, where X is the number of basic land types among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>25932
+      </id>
+      <name>Dromar's Cavern
+      </name>
+      <type>Land - Lair
+      </type>
+      <oracleText>When Dromar's Cavern enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.&lt;br&gt;{T}: Add {W}, {U}, or {B} to your mana pool.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.238
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>138
+      </num>
+      <text>When Dromar's Cavern enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.&lt;br&gt;{T}: Add {W}, {U}, or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>25933
+      </id>
+      <name>Sawtooth Loon
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Sawtooth Loon enters the battlefield, return a white or blue creature you control to its owner's hand.&lt;br&gt;When Sawtooth Loon enters the battlefield, draw two cards, then put two cards from your hand on the bottom of your library.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.853
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>123
+      </num>
+      <text>Flying&lt;br&gt;When Sawtooth Loon enters the battlefield, return a white or blue creature you control to its owner's hand.&lt;br&gt;When Sawtooth Loon enters the battlefield, draw two cards, then put two cards from your hand on the bottom of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>25934
+      </id>
+      <name>Marsh Crocodile
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Creature - Crocodile
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Marsh Crocodile enters the battlefield, return a blue or black creature you control to its owner's hand.&lt;br&gt;When Marsh Crocodile enters the battlefield, each player discards a card.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.386
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>115
+      </num>
+      <text>When Marsh Crocodile enters the battlefield, return a blue or black creature you control to its owner's hand.&lt;br&gt;When Marsh Crocodile enters the battlefield, each player discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>25935
+      </id>
+      <name>Sparkcaster
+      </name>
+      <cost>{2}{R}{G}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Sparkcaster enters the battlefield, return a red or green creature you control to its owner's hand.&lt;br&gt;When Sparkcaster enters the battlefield, it deals 1 damage to target player.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.714
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>126
+      </num>
+      <text>When Sparkcaster enters the battlefield, return a red or green creature you control to its owner's hand.&lt;br&gt;When Sparkcaster enters the battlefield, it deals 1 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>25936
+      </id>
+      <name>Crosis's Catacombs
+      </name>
+      <type>Land - Lair
+      </type>
+      <oracleText>When Crosis's Catacombs enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.&lt;br&gt;{T}: Add {U}, {B}, or {R} to your mana pool.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.933
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>136
+      </num>
+      <text>When Crosis's Catacombs enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.&lt;br&gt;{T}: Add {U}, {B}, or {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>25937
+      </id>
+      <name>Razing Snidd
+      </name>
+      <cost>{4}{B}{R}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Razing Snidd enters the battlefield, return a black or red creature you control to its owner's hand.&lt;br&gt;When Razing Snidd enters the battlefield, each player sacrifices a land.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.1
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>121
+      </num>
+      <text>When Razing Snidd enters the battlefield, return a black or red creature you control to its owner's hand.&lt;br&gt;When Razing Snidd enters the battlefield, each player sacrifices a land.
+      </text>
+    </mc>
+    <mc>
+      <id>25938
+      </id>
+      <name>Darigaaz's Caldera
+      </name>
+      <type>Land - Lair
+      </type>
+      <oracleText>When Darigaaz's Caldera enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.&lt;br&gt;{T}: Add {B}, {R}, or {G} to your mana pool.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.952
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>137
+      </num>
+      <text>When Darigaaz's Caldera enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.&lt;br&gt;{T}: Add {B}, {R}, or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>25939
+      </id>
+      <name>Rith's Grove
+      </name>
+      <type>Land - Lair
+      </type>
+      <oracleText>When Rith's Grove enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.&lt;br&gt;{T}: Add {R}, {G}, or {W} to your mana pool.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.75
+      </rating>
+      <artist>Scott Bailey
+      </artist>
+      <num>141
+      </num>
+      <text>When Rith's Grove enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.&lt;br&gt;{T}: Add {R}, {G}, or {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>25940
+      </id>
+      <name>Treva's Ruins
+      </name>
+      <type>Land - Lair
+      </type>
+      <oracleText>When Treva's Ruins enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.&lt;br&gt;{T}: Add {G}, {W}, or {U} to your mana pool.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.941
+      </rating>
+      <artist>Jerry Tiritilli
+      </artist>
+      <num>143
+      </num>
+      <text>When Treva's Ruins enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.&lt;br&gt;{T}: Add {G}, {W}, or {U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>25941
+      </id>
+      <name>Pollen Remedy
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker—Sacrifice a land. &lt;i&gt;(You may sacrifice a land in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;Prevent the next 3 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose. If Pollen Remedy was kicked, prevent the next 6 damage this way instead.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.706
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>13
+      </num>
+      <text>Kicker—Sacrifice a land. &lt;i&gt;(You may sacrifice a land in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;Prevent the next 3 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose. If Pollen Remedy was kicked, prevent the next 6 damage this way instead.
+      </text>
+    </mc>
+    <mc>
+      <id>25942
+      </id>
+      <name>Rushing River
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker—Sacrifice a land. &lt;i&gt;(You may sacrifice a land in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;Return target nonland permanent to its owner's hand. If Rushing River was kicked, return another target nonland permanent to its owner's hand.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.143
+      </rating>
+      <artist>Don Hazeltine
+      </artist>
+      <num>30
+      </num>
+      <text>Kicker—Sacrifice a land. &lt;i&gt;(You may sacrifice a land in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;Return target nonland permanent to its owner's hand. If Rushing River was kicked, return another target nonland permanent to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>25943
+      </id>
+      <name>Bog Down
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kicker—Sacrifice two lands. &lt;i&gt;(You may sacrifice two lands in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target player discards two cards. If Bog Down was kicked, that player discards three cards instead.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.973
+      </rating>
+      <artist>Andrew Goldhawk
+      </artist>
+      <num>39
+      </num>
+      <text>Kicker—Sacrifice two lands. &lt;i&gt;(You may sacrifice two lands in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target player discards two cards. If Bog Down was kicked, that player discards three cards instead.
+      </text>
+    </mc>
+    <mc>
+      <id>25944
+      </id>
+      <name>Magma Burst
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker—Sacrifice two lands. &lt;i&gt;(You may sacrifice two lands in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;Magma Burst deals 3 damage to target creature or player. If Magma Burst was kicked, it deals 3 damage to another target creature or player.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.156
+      </rating>
+      <artist>Bradley Williams
+      </artist>
+      <num>66
+      </num>
+      <text>Kicker—Sacrifice two lands. &lt;i&gt;(You may sacrifice two lands in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;Magma Burst deals 3 damage to target creature or player. If Magma Burst was kicked, it deals 3 damage to another target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>25945
+      </id>
+      <name>Falling Timber
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker—Sacrifice a land. &lt;i&gt;(You may sacrifice a land in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;Prevent all combat damage target creature would deal this turn. If Falling Timber was kicked, prevent all combat damage another target creature would deal this turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.31
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>79
+      </num>
+      <text>Kicker—Sacrifice a land. &lt;i&gt;(You may sacrifice a land in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;Prevent all combat damage target creature would deal this turn. If Falling Timber was kicked, prevent all combat damage another target creature would deal this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>25954
+      </id>
+      <name>Sinister Strength
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+1 and is black.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.714
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>54
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+1 and is black.
+      </text>
+    </mc>
+    <mc>
+      <id>25979
+      </id>
+      <name>Meteor Crater
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Choose a color of a permanent you control. Add one mana of that color to your mana pool.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>140
+      </num>
+      <text>{T}: Choose a color of a permanent you control. Add one mana of that color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>25980
+      </id>
+      <name>Terminal Moraine
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}, Sacrifice Terminal Moraine: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.237
+      </rating>
+      <artist>Scott Bailey
+      </artist>
+      <num>142
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}, Sacrifice Terminal Moraine: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>26260
+      </id>
+      <name>Implode
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target land.&lt;br&gt;&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.031
+      </rating>
+      <artist>Arnie Swekel
+      </artist>
+      <num>62
+      </num>
+      <text>Destroy target land.&lt;br&gt;&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>26262
+      </id>
+      <name>Flametongue Kavu
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.559
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>60
+      </num>
+      <text>When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>26263
+      </id>
+      <name>Honorable Scout
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Honorable Scout enters the battlefield, you gain 2 life for each black and/or red creature target opponent controls.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.321
+      </rating>
+      <artist>Mike Ploog
+      </artist>
+      <num>8
+      </num>
+      <text>When Honorable Scout enters the battlefield, you gain 2 life for each black and/or red creature target opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>26268
+      </id>
+      <name>Kavu Recluse
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Target land becomes a Forest until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.107
+      </rating>
+      <artist>Aaron Boyd
+      </artist>
+      <num>64
+      </num>
+      <text>{T}: Target land becomes a Forest until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>26271
+      </id>
+      <name>Samite Pilgrim
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Domain- {T}: Prevent the next X damage that would be dealt to target creature this turn, where X is the number of basic land types among lands you control.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.5
+      </rating>
+      <artist>D. J. Cleland-Hura
+      </artist>
+      <num>15
+      </num>
+      <text>Domain- {T}: Prevent the next X damage that would be dealt to target creature this turn, where X is the number of basic land types among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>26275
+      </id>
+      <name>Mogg Jailer
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Mogg Jailer can't attack if defending player controls an untapped creature with power 2 or less.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.644
+      </rating>
+      <artist>Mark Romanoski
+      </artist>
+      <num>68
+      </num>
+      <text>Mogg Jailer can't attack if defending player controls an untapped creature with power 2 or less.
+      </text>
+    </mc>
+    <mc>
+      <id>26277
+      </id>
+      <name>March of Souls
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all creatures. They can't be regenerated. For each creature destroyed this way, its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Marc Fishman
+      </artist>
+      <num>10
+      </num>
+      <text>Destroy all creatures. They can't be regenerated. For each creature destroyed this way, its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>26280
+      </id>
+      <name>Phyrexian Bloodstock
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Phyrexian Bloodstock leaves the battlefield, destroy target white creature. It can't be regenerated.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.767
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>50
+      </num>
+      <text>When Phyrexian Bloodstock leaves the battlefield, destroy target white creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>26281
+      </id>
+      <name>Phyrexian Tyranny
+      </name>
+      <cost>{U}{B}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a player draws a card, that player loses 2 life unless he or she pays {2}.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.558
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>118
+      </num>
+      <text>Whenever a player draws a card, that player loses 2 life unless he or she pays {2}.
+      </text>
+    </mc>
+    <mc>
+      <id>26284
+      </id>
+      <name>Aurora Griffin
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Griffin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{W}: Target permanent becomes white until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.786
+      </rating>
+      <artist>Ciruelo
+      </artist>
+      <num>2
+      </num>
+      <text>Flying&lt;br&gt;{W}: Target permanent becomes white until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>26285
+      </id>
+      <name>Disciple of Kangee
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{U}, {T}: Target creature gains flying and becomes blue until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>3
+      </num>
+      <text>{U}, {T}: Target creature gains flying and becomes blue until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>26288
+      </id>
+      <name>Strafe
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Strafe deals 3 damage to target nonred creature.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.06
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>73
+      </num>
+      <text>Strafe deals 3 damage to target nonred creature.
+      </text>
+    </mc>
+    <mc>
+      <id>26292
+      </id>
+      <name>Hobble
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Hobble enters the battlefield, draw a card.&lt;br&gt;Enchanted creature can't attack.&lt;br&gt;Enchanted creature can't block if it's black.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.679
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>7
+      </num>
+      <text>Enchant creature&lt;br&gt;When Hobble enters the battlefield, draw a card.&lt;br&gt;Enchanted creature can't attack.&lt;br&gt;Enchanted creature can't block if it's black.
+      </text>
+    </mc>
+    <mc>
+      <id>26348
+      </id>
+      <name>Quirion Explorer
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Druid Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.077
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>90
+      </num>
+      <text>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+      </text>
+    </mc>
+    <mc>
+      <id>26360
+      </id>
+      <name>Arctic Merfolk
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Merfolk
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Kicker—Return a creature you control to its owner's hand. &lt;i&gt;(You may return a creature you control to its owner's hand in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;If Arctic Merfolk was kicked, it enters the battlefield with a +1/+1 counter on it.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.406
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>21
+      </num>
+      <text>Kicker—Return a creature you control to its owner's hand. &lt;i&gt;(You may return a creature you control to its owner's hand in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;If Arctic Merfolk was kicked, it enters the battlefield with a +1/+1 counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>26362
+      </id>
+      <name>Sea Snidd
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Target land becomes the basic land type of your choice until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.971
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>31
+      </num>
+      <text>{T}: Target land becomes the basic land type of your choice until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>26363
+      </id>
+      <name>Mire Kavu
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Mire Kavu gets +1/+1 as long as you control a Swamp.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.375
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>67
+      </num>
+      <text>Mire Kavu gets +1/+1 as long as you control a Swamp.
+      </text>
+    </mc>
+    <mc>
+      <id>26368
+      </id>
+      <name>Volcano Imp
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Imp
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;&lt;br&gt;{1}{R}: Volcano Imp gains first strike until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.143
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>56
+      </num>
+      <text>Flying&lt;br&gt;&lt;br&gt;{1}{R}: Volcano Imp gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>26377
+      </id>
+      <name>Stone Kavu
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{R}: Stone Kavu gets +1/+0 until end of turn.&lt;br&gt;{W}: Stone Kavu gets +0/+1 until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.364
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>93
+      </num>
+      <text>{R}: Stone Kavu gets +1/+0 until end of turn.&lt;br&gt;{W}: Stone Kavu gets +0/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>26381
+      </id>
+      <name>Mana Cylix
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.694
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>132
+      </num>
+      <text>{1}, {T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>26382
+      </id>
+      <name>Aura Blast
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target enchantment.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.848
+      </rating>
+      <artist>Ron Walotsky
+      </artist>
+      <num>1
+      </num>
+      <text>Destroy target enchantment.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>26383
+      </id>
+      <name>Allied Strategies
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Domain- Target player draws a card for each basic land type among lands he or she controls.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.275
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>20
+      </num>
+      <text>Domain- Target player draws a card for each basic land type among lands he or she controls.
+      </text>
+    </mc>
+    <mc>
+      <id>26396
+      </id>
+      <name>Primal Growth
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kicker—Sacrifice a creature. &lt;i&gt;(You may sacrifice a creature in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;Search your library for a basic land card, put that card onto the battlefield, then shuffle your library. If Primal Growth was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle your library.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>87
+      </num>
+      <text>Kicker—Sacrifice a creature. &lt;i&gt;(You may sacrifice a creature in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;Search your library for a basic land card, put that card onto the battlefield, then shuffle your library. If Primal Growth was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>26397
+      </id>
+      <name>Magnigoth Treefolk
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Treefolk
+      </type>
+      <power>2
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Domain- For each basic land type among lands you control, Magnigoth Treefolk has landwalk of that type.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.4
+      </rating>
+      <artist>Peter Bollinger
+      </artist>
+      <num>82
+      </num>
+      <text>Domain- For each basic land type among lands you control, Magnigoth Treefolk has landwalk of that type.
+      </text>
+    </mc>
+    <mc>
+      <id>26402
+      </id>
+      <name>Skyshroud Blessing
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Lands gain shroud until end of turn. &lt;i&gt;(They can't be the targets of spells or abilities.)&lt;/i&gt;&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.8
+      </rating>
+      <artist>Jerry Tiritilli
+      </artist>
+      <num>92
+      </num>
+      <text>Lands gain shroud until end of turn. &lt;i&gt;(They can't be the targets of spells or abilities.)&lt;/i&gt;&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>26403
+      </id>
+      <name>Surprise Deployment
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Surprise Deployment only during combat.&lt;br&gt;You may put a nonwhite creature card from your hand onto the battlefield. At the beginning of the next end step, return that creature to your hand. &lt;i&gt;(Return it only if it's on the battlefield.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.969
+      </rating>
+      <artist>Bradley Williams
+      </artist>
+      <num>18
+      </num>
+      <text>Cast Surprise Deployment only during combat.&lt;br&gt;You may put a nonwhite creature card from your hand onto the battlefield. At the beginning of the next end step, return that creature to your hand. &lt;i&gt;(Return it only if it's on the battlefield.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>26407
+      </id>
+      <name>Sisay's Ingenuity
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Sisay's Ingenuity enters the battlefield, draw a card.&lt;br&gt;Enchanted creature has "{2}{U}: Target creature becomes the color of your choice until end of turn."
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.818
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>33
+      </num>
+      <text>Enchant creature&lt;br&gt;When Sisay's Ingenuity enters the battlefield, draw a card.&lt;br&gt;Enchanted creature has "{2}{U}: Target creature becomes the color of your choice until end of turn."
+      </text>
+    </mc>
+    <mc>
+      <id>26408
+      </id>
+      <name>Tahngarth, Talruum Hero
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Legendary Creature - Minotaur Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;{1}{R}, {T}: Tahngarth, Talruum Hero deals damage equal to its power to target creature. That creature deals damage equal to its power to Tahngarth.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.909
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>74
+      </num>
+      <text>Vigilance&lt;br&gt;{1}{R}, {T}: Tahngarth, Talruum Hero deals damage equal to its power to target creature. That creature deals damage equal to its power to Tahngarth.
+      </text>
+    </mc>
+    <mc>
+      <id>26409
+      </id>
+      <name>Amphibious Kavu
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Amphibious Kavu blocks or becomes blocked by one or more blue and/or black creatures, Amphibious Kavu gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.325
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>78
+      </num>
+      <text>Whenever Amphibious Kavu blocks or becomes blocked by one or more blue and/or black creatures, Amphibious Kavu gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>26410
+      </id>
+      <name>Natural Emergence
+      </name>
+      <cost>{2}{R}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Natural Emergence enters the battlefield, return a red or green enchantment you control to its owner's hand.&lt;br&gt;Lands you control are 2/2 creatures with first strike. They're still lands.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.045
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>117
+      </num>
+      <text>When Natural Emergence enters the battlefield, return a red or green enchantment you control to its owner's hand.&lt;br&gt;Lands you control are 2/2 creatures with first strike. They're still lands.
+      </text>
+    </mc>
+    <mc>
+      <id>26412
+      </id>
+      <name>Nemata, Grove Guardian
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Legendary Creature - Treefolk
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>{2}{G}: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;Sacrifice a Saproling: Saproling creatures get +1/+1 until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.964
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>85
+      </num>
+      <text>{2}{G}: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;Sacrifice a Saproling: Saproling creatures get +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>26414
+      </id>
+      <name>Dark Suspicions
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of each opponent's upkeep, that player loses X life, where X is the number of cards in that player's hand minus the number of cards in your hand.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.717
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>40
+      </num>
+      <text>At the beginning of each opponent's upkeep, that player loses X life, where X is the number of cards in that player's hand minus the number of cards in your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>26415
+      </id>
+      <name>Insolence
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature becomes tapped, Insolence deals 2 damage to that creature's controller.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.875
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>63
+      </num>
+      <text>Enchant creature&lt;br&gt;Whenever enchanted creature becomes tapped, Insolence deals 2 damage to that creature's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>26420
+      </id>
+      <name>Heroic Defiance
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3 unless it shares a color with the most common color among all permanents or a color tied for most common.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.111
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>6
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3 unless it shares a color with the most common color among all permanents or a color tied for most common.
+      </text>
+    </mc>
+    <mc>
+      <id>26422
+      </id>
+      <name>Diabolic Intent
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Diabolic Intent, sacrifice a creature.&lt;br&gt;Search your library for a card and put that card into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.222
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>42
+      </num>
+      <text>As an additional cost to cast Diabolic Intent, sacrifice a creature.&lt;br&gt;Search your library for a card and put that card into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>26423
+      </id>
+      <name>Dominaria's Judgment
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, creatures you control gain protection from white if you control a Plains, from blue if you control an Island, from black if you control a Swamp, from red if you control a Mountain, and from green if you control a Forest.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.238
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>4
+      </num>
+      <text>Until end of turn, creatures you control gain protection from white if you control a Plains, from blue if you control an Island, from black if you control a Swamp, from red if you control a Mountain, and from green if you control a Forest.
+      </text>
+    </mc>
+    <mc>
+      <id>26437
+      </id>
+      <name>Caldera Kavu
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{B}: Caldera Kavu gets +1/+1 until end of turn.&lt;br&gt;{G}: Caldera Kavu becomes the color of your choice until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.667
+      </rating>
+      <artist>Arnie Swekel
+      </artist>
+      <num>58
+      </num>
+      <text>{1}{B}: Caldera Kavu gets +1/+1 until end of turn.&lt;br&gt;{G}: Caldera Kavu becomes the color of your choice until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>26477
+      </id>
+      <name>Phyrexian Scuta
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Kicker—Pay 3 life. &lt;i&gt;(You may pay 3 life in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;If Phyrexian Scuta was kicked, it enters the battlefield with two +1/+1 counters on it.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.784
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>51
+      </num>
+      <text>Kicker—Pay 3 life. &lt;i&gt;(You may pay 3 life in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;If Phyrexian Scuta was kicked, it enters the battlefield with two +1/+1 counters on it.
+      </text>
+    </mc>
+    <mc>
+      <id>26478
+      </id>
+      <name>Noxious Vapors
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player reveals his or her hand and chooses one card of each color from it, then discards all other nonland cards.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.029
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>49
+      </num>
+      <text>Each player reveals his or her hand and chooses one card of each color from it, then discards all other nonland cards.
+      </text>
+    </mc>
+    <mc>
+      <id>26479
+      </id>
+      <name>Fleetfoot Panther
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flash&lt;br&gt;When Fleetfoot Panther enters the battlefield, return a green or white creature you control to its owner's hand.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.028
+      </rating>
+      <artist>Mark Brill
+      </artist>
+      <num>108
+      </num>
+      <text>Flash&lt;br&gt;When Fleetfoot Panther enters the battlefield, return a green or white creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>26480
+      </id>
+      <name>Skyship Weatherlight
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Legendary Artifact
+      </type>
+      <oracleText>When Skyship Weatherlight enters the battlefield, search your library for any number of artifact and/or creature cards and exile them. Then shuffle your library.&lt;br&gt;{4}, {T}: Choose a card at random that was exiled with Skyship Weatherlight. Put that card into its owner's hand.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.625
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>133
+      </num>
+      <text>When Skyship Weatherlight enters the battlefield, search your library for any number of artifact and/or creature cards and exile them. Then shuffle your library.&lt;br&gt;{4}, {T}: Choose a card at random that was exiled with Skyship Weatherlight. Put that card into its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>26590
+      </id>
+      <name>Ertai's Trickery
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell if it was kicked.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.463
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>24
+      </num>
+      <text>Counter target spell if it was kicked.
+      </text>
+    </mc>
+    <mc>
+      <id>26591
+      </id>
+      <name>Meddling Mage
+      </name>
+      <cost>{W}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>As Meddling Mage enters the battlefield, name a nonland card.&lt;br&gt;The named card can't be cast.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.571
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>116
+      </num>
+      <text>As Meddling Mage enters the battlefield, name a nonland card.&lt;br&gt;The named card can't be cast.
+      </text>
+    </mc>
+    <mc>
+      <id>26781
+      </id>
+      <name>Sleeping Potion
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Sleeping Potion enters the battlefield, tap enchanted creature.&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.&lt;br&gt;When enchanted creature becomes the target of a spell or ability, sacrifice Sleeping Potion.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.722
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>34
+      </num>
+      <text>Enchant creature&lt;br&gt;When Sleeping Potion enters the battlefield, tap enchanted creature.&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.&lt;br&gt;When enchanted creature becomes the target of a spell or ability, sacrifice Sleeping Potion.
+      </text>
+    </mc>
+    <mc>
+      <id>26782
+      </id>
+      <name>Death Bomb
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Death Bomb, sacrifice a creature.&lt;br&gt;Destroy target nonblack creature. It can't be regenerated. Its controller loses 2 life.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.052
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>41
+      </num>
+      <text>As an additional cost to cast Death Bomb, sacrifice a creature.&lt;br&gt;Destroy target nonblack creature. It can't be regenerated. Its controller loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>26833
+      </id>
+      <name>Lashknife Barrier
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Lashknife Barrier enters the battlefield, draw a card.&lt;br&gt;If a source would deal damage to a creature you control, it deals that much damage minus 1 to that creature instead.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.566
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>9
+      </num>
+      <text>When Lashknife Barrier enters the battlefield, draw a card.&lt;br&gt;If a source would deal damage to a creature you control, it deals that much damage minus 1 to that creature instead.
+      </text>
+    </mc>
+    <mc>
+      <id>26835
+      </id>
+      <name>Planar Overlay
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player chooses a land he or she controls of each basic land type. Return those lands to their owners' hands.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.222
+      </rating>
+      <artist>Ron Walotsky
+      </artist>
+      <num>28
+      </num>
+      <text>Each player chooses a land he or she controls of each basic land type. Return those lands to their owners' hands.
+      </text>
+    </mc>
+    <mc>
+      <id>26837
+      </id>
+      <name>Deadapult
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{R}, Sacrifice a Zombie: Deadapult deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.983
+      </rating>
+      <artist>Mark Brill
+      </artist>
+      <num>59
+      </num>
+      <text>{R}, Sacrifice a Zombie: Deadapult deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>26838
+      </id>
+      <name>Gaea's Might
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Domain- Target creature gets +1/+1 until end of turn for each basic land type among lands you control.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.15
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>81
+      </num>
+      <text>Domain- Target creature gets +1/+1 until end of turn for each basic land type among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>26839
+      </id>
+      <name>Mirrorwood Treefolk
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Treefolk
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{2}{R}{W}: The next time damage would be dealt to Mirrorwood Treefolk this turn, that damage is dealt to target creature or player instead.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.105
+      </rating>
+      <artist>Arnie Swekel
+      </artist>
+      <num>83
+      </num>
+      <text>{2}{R}{W}: The next time damage would be dealt to Mirrorwood Treefolk this turn, that damage is dealt to target creature or player instead.
+      </text>
+    </mc>
+    <mc>
+      <id>26840
+      </id>
+      <name>Dralnu's Crusade
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Goblin creatures get +1/+1.&lt;br&gt;All Goblins are black and are Zombies in addition to their other creature types.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.078
+      </rating>
+      <artist>Arnie Swekel
+      </artist>
+      <num>104
+      </num>
+      <text>Goblin creatures get +1/+1.&lt;br&gt;All Goblins are black and are Zombies in addition to their other creature types.
+      </text>
+    </mc>
+    <mc>
+      <id>26851
+      </id>
+      <name>Waterspout Elemental
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Kicker {U} &lt;i&gt;(You may pay an additional {U} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Waterspout Elemental enters the battlefield, if it was kicked, return all other creatures to their owners' hands and you skip your next turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.857
+      </rating>
+      <artist>Mark Romanoski
+      </artist>
+      <num>38
+      </num>
+      <text>Kicker {U} &lt;i&gt;(You may pay an additional {U} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Waterspout Elemental enters the battlefield, if it was kicked, return all other creatures to their owners' hands and you skip your next turn.
+      </text>
+    </mc>
+    <mc>
+      <id>26852
+      </id>
+      <name>Orim's Chant
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker {W} &lt;i&gt;(You may pay an additional {W} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target player can't cast spells this turn.&lt;br&gt;If Orim's Chant was kicked, creatures can't attack this turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.672
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>11
+      </num>
+      <text>Kicker {W} &lt;i&gt;(You may pay an additional {W} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target player can't cast spells this turn.&lt;br&gt;If Orim's Chant was kicked, creatures can't attack this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>27189
+      </id>
+      <name>Gainsay
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target blue spell.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.0
+      </rating>
+      <artist>Roger Raupp
+      </artist>
+      <num>26
+      </num>
+      <text>Counter target blue spell.
+      </text>
+    </mc>
+    <mc>
+      <id>27229
+      </id>
+      <name>Shriek of Dread
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gains fear until end of turn. &lt;i&gt;(It can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.571
+      </rating>
+      <artist>Nelson DeCastro
+      </artist>
+      <num>53
+      </num>
+      <text>Target creature gains fear until end of turn. &lt;i&gt;(It can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>27589
+      </id>
+      <name>Morgue Toad
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Frog
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacrifice Morgue Toad: Add {U}{R} to your mana pool.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.132
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>46
+      </num>
+      <text>Sacrifice Morgue Toad: Add {U}{R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>27613
+      </id>
+      <name>Alpha Kavu
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{G}: Target Kavu creature gets -1/+1 until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.079
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>77
+      </num>
+      <text>{1}{G}: Target Kavu creature gets -1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>27634
+      </id>
+      <name>Questing Phelddagrif
+      </name>
+      <cost>{1}{G}{W}{U}
+      </cost>
+      <type>Creature - Phelddagrif
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent puts a 1/1 green Hippo creature token onto the battlefield.&lt;br&gt;{W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life.&lt;br&gt;{U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.01
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>119
+      </num>
+      <text>{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent puts a 1/1 green Hippo creature token onto the battlefield.&lt;br&gt;{W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life.&lt;br&gt;{U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>27714
+      </id>
+      <name>Confound
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell that targets one or more creatures.&lt;br&gt;&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.714
+      </rating>
+      <artist>Doug Chaffee
+      </artist>
+      <num>22
+      </num>
+      <text>Counter target spell that targets one or more creatures.&lt;br&gt;&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>8827
+      </id>
+      <name>Root Greevil
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{2}{G}, {T}, Sacrifice Root Greevil: Destroy all enchantments of the color of your choice.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.615
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>91
+      </num>
+      <text>{2}{G}, {T}, Sacrifice Root Greevil: Destroy all enchantments of the color of your choice.
+      </text>
+    </mc>
+    <mc>
+      <id>8902
+      </id>
+      <name>Goblin Game
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player hides at least one item, then all players reveal them simultaneously. Each player loses life equal to the number of items he or she revealed. The player who revealed the fewest items then loses half his or her life, rounded up. If two or more players are tied for fewest, each loses half his or her life, rounded up.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.22
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>61
+      </num>
+      <text>Each player hides at least one item, then all players reveal them simultaneously. Each player loses life equal to the number of items he or she revealed. The player who revealed the fewest items then loses half his or her life, rounded up. If two or more players are tied for fewest, each loses half his or her life, rounded up.
+      </text>
+    </mc>
+    <mc>
+      <id>9690
+      </id>
+      <name>Destructive Flow
+      </name>
+      <cost>{B}{R}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of each player's upkeep, that player sacrifices a nonbasic land.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.75
+      </rating>
+      <artist>Don Hazeltine
+      </artist>
+      <num>102
+      </num>
+      <text>At the beginning of each player's upkeep, that player sacrifices a nonbasic land.
+      </text>
+    </mc>
+    <mc>
+      <id>29292
+      </id>
+      <name>Ertai, the Corrupted
+      </name>
+      <cost>{2}{W}{U}{B}
+      </cost>
+      <type>Legendary Creature - Human Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.067
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>107
+      </num>
+      <text>{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.
+      </text>
+    </mc>
+    <mc>
+      <id>26411
+      </id>
+      <name>Gaea's Herald
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Creature spells can't be countered.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.48
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>80
+      </num>
+      <text>Creature spells can't be countered.
+      </text>
+    </mc>
+    <mc>
+      <id>10742
+      </id>
+      <name>Lord of the Undead
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Other Zombie creatures get +1/+1.&lt;br&gt;{1}{B}, {T}: Return target Zombie card from your graveyard to your hand.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.406
+      </rating>
+      <artist>Brom
+      </artist>
+      <num>44
+      </num>
+      <text>Other Zombie creatures get +1/+1.&lt;br&gt;{1}{B}, {T}: Return target Zombie card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>26266
+      </id>
+      <name>Maggot Carrier
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Maggot Carrier enters the battlefield, each player loses 1 life.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.767
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>45
+      </num>
+      <text>When Maggot Carrier enters the battlefield, each player loses 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>26269
+      </id>
+      <name>Mogg Sentry
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.955
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>69
+      </num>
+      <text>Whenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>26286
+      </id>
+      <name>Quirion Dryad
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Dryad
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever you cast a white, blue, black, or red spell, put a +1/+1 counter on Quirion Dryad.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.054
+      </rating>
+      <artist>Don Hazeltine
+      </artist>
+      <num>89
+      </num>
+      <text>Whenever you cast a white, blue, black, or red spell, put a +1/+1 counter on Quirion Dryad.
+      </text>
+    </mc>
+    <mc>
+      <id>26290
+      </id>
+      <name>Shifting Sky
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>As Shifting Sky enters the battlefield, choose a color.&lt;br&gt;All nonland permanents are the chosen color.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.607
+      </rating>
+      <artist>Jerry Tiritilli
+      </artist>
+      <num>32
+      </num>
+      <text>As Shifting Sky enters the battlefield, choose a color.&lt;br&gt;All nonland permanents are the chosen color.
+      </text>
+    </mc>
+    <mc>
+      <id>29293
+      </id>
+      <name>Skyship Weatherlight
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Legendary Artifact
+      </type>
+      <oracleText>When Skyship Weatherlight enters the battlefield, search your library for any number of artifact and/or creature cards and exile them. Then shuffle your library.&lt;br&gt;{4}, {T}: Choose a card at random that was exiled with Skyship Weatherlight. Put that card into its owner's hand.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.654
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>133
+      </num>
+      <text>When Skyship Weatherlight enters the battlefield, search your library for any number of artifact and/or creature cards and exile them. Then shuffle your library.&lt;br&gt;{4}, {T}: Choose a card at random that was exiled with Skyship Weatherlight. Put that card into its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>15137
+      </id>
+      <name>Slay
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target green creature. It can't be regenerated.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.263
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>55
+      </num>
+      <text>Destroy target green creature. It can't be regenerated.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>25880
+      </id>
+      <name>Star Compass
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Star Compass enters the battlefield tapped.&lt;br&gt;{T}: Add to your mana pool one mana of any color that a basic land you control could produce.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.192
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>134
+      </num>
+      <text>Star Compass enters the battlefield tapped.&lt;br&gt;{T}: Add to your mana pool one mana of any color that a basic land you control could produce.
+      </text>
+    </mc>
+    <mc>
+      <id>21305
+      </id>
+      <name>Sunken Hope
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of each player's upkeep, that player returns a creature he or she controls to its owner's hand.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.906
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>37
+      </num>
+      <text>At the beginning of each player's upkeep, that player returns a creature he or she controls to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>29291
+      </id>
+      <name>Tahngarth, Talruum Hero
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Legendary Creature - Minotaur Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;{1}{R}, {T}: Tahngarth, Talruum Hero deals damage equal to its power to target creature. That creature deals damage equal to its power to Tahngarth.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>74
+      </num>
+      <text>Vigilance&lt;br&gt;{1}{R}, {T}: Tahngarth, Talruum Hero deals damage equal to its power to target creature. That creature deals damage equal to its power to Tahngarth.
+      </text>
+    </mc>
+    <mc>
+      <id>26417
+      </id>
+      <name>Voice of All
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;As Voice of All enters the battlefield, choose a color. &lt;br&gt;Voice of All has protection from the chosen color.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>19
+      </num>
+      <text>Flying&lt;br&gt;As Voice of All enters the battlefield, choose a color. &lt;br&gt;Voice of All has protection from the chosen color.
+      </text>
+    </mc>
+    <mc>
+      <id>26836
+      </id>
+      <name>Warped Devotion
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a permanent is returned to a player's hand, that player discards a card.
+      </oracleText>
+      <edition>Planeshift
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Orizio Daniele
+      </artist>
+      <num>57
+      </num>
+      <text>Whenever a permanent is returned to a player's hand, that player discards a card.
+      </text>
+    </mc>
+  </list>
+</cards>

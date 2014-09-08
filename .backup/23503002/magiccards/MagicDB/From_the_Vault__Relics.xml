@@ -1,0 +1,381 @@
+
+<cards>
+  <name>From_the_Vault__Relics</name>
+  <key>From_the_Vault__Relics</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>212630
+      </id>
+      <name>Æther Vial
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>At the beginning of your upkeep, you may put a charge counter on Æther Vial.&lt;br&gt;{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Æther Vial from your hand onto the battlefield.
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.787
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>1
+      </num>
+      <text>At the beginning of your upkeep, you may put a charge counter on Æther Vial.&lt;br&gt;{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Æther Vial from your hand onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>212636
+      </id>
+      <name>Black Vise
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>As Black Vise enters the battlefield, choose an opponent.&lt;br&gt;At the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4.
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.75
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>2
+      </num>
+      <text>As Black Vise enters the battlefield, choose an opponent.&lt;br&gt;At the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4.
+      </text>
+    </mc>
+    <mc>
+      <id>212626
+      </id>
+      <name>Isochron Scepter
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Imprint- When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.&lt;br&gt;{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.869
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>3
+      </num>
+      <text>Imprint- When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.&lt;br&gt;{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>212639
+      </id>
+      <name>Ivory Tower
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.37
+      </rating>
+      <artist>Jason Chan
+      </artist>
+      <num>4
+      </num>
+      <text>At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.
+      </text>
+    </mc>
+    <mc>
+      <id>212627
+      </id>
+      <name>Jester's Cap
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library.
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>3.955
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>5
+      </num>
+      <text>{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>212632
+      </id>
+      <name>Karn, Silver Golem
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Legendary Artifact Creature - Golem
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.&lt;br&gt;{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.556
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>6
+      </num>
+      <text>Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.&lt;br&gt;{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>212629
+      </id>
+      <name>Masticore
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Masticore
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>At the beginning of your upkeep, sacrifice Masticore unless you discard a card.&lt;br&gt;{2}: Masticore deals 1 damage to target creature.&lt;br&gt;{2}: Regenerate Masticore.
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.28
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>7
+      </num>
+      <text>At the beginning of your upkeep, sacrifice Masticore unless you discard a card.&lt;br&gt;{2}: Masticore deals 1 damage to target creature.&lt;br&gt;{2}: Regenerate Masticore.
+      </text>
+    </mc>
+    <mc>
+      <id>212633
+      </id>
+      <name>Memory Jar
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}, Sacrifice Memory Jar: Each player exiles all cards from his or her hand face down and draws seven cards. At the beginning of the next end step, each player discards his or her hand and returns to his or her hand each card he or she exiled this way.
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.68
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>8
+      </num>
+      <text>{T}, Sacrifice Memory Jar: Each player exiles all cards from his or her hand face down and draws seven cards. At the beginning of the next end step, each player discards his or her hand and returns to his or her hand each card he or she exiled this way.
+      </text>
+    </mc>
+    <mc>
+      <id>212635
+      </id>
+      <name>Mirari
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Legendary Artifact
+      </type>
+      <oracleText>Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy.
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>9
+      </num>
+      <text>Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy.
+      </text>
+    </mc>
+    <mc>
+      <id>212634
+      </id>
+      <name>Mox Diamond
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>If Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.557
+      </rating>
+      <artist>Volkan Baga
+      </artist>
+      <num>10
+      </num>
+      <text>If Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>212637
+      </id>
+      <name>Nevinyrral's Disk
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Nevinyrral's Disk enters the battlefield tapped.&lt;br&gt;{1}, {T}: Destroy all artifacts, creatures, and enchantments.
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.647
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>11
+      </num>
+      <text>Nevinyrral's Disk enters the battlefield tapped.&lt;br&gt;{1}, {T}: Destroy all artifacts, creatures, and enchantments.
+      </text>
+    </mc>
+    <mc>
+      <id>212638
+      </id>
+      <name>Sol Ring
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {2} to your mana pool.
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.86
+      </rating>
+      <artist>Mike Bierek
+      </artist>
+      <num>12
+      </num>
+      <text>{T}: Add {2} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>212631
+      </id>
+      <name>Sundering Titan
+      </name>
+      <cost>{8}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>7
+      </power>
+      <toughness>10
+      </toughness>
+      <oracleText>When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands.
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.337
+      </rating>
+      <artist>Jim Murray
+      </artist>
+      <num>13
+      </num>
+      <text>When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands.
+      </text>
+    </mc>
+    <mc>
+      <id>212640
+      </id>
+      <name>Sword of Body and Mind
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +2/+2 and has protection from green and from blue.&lt;br&gt;Whenever equipped creature deals combat damage to a player, you put a 2/2 green Wolf creature token onto the battlefield and that player puts the top ten cards of his or her library into his or her graveyard.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.311
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>14
+      </num>
+      <text>Equipped creature gets +2/+2 and has protection from green and from blue.&lt;br&gt;Whenever equipped creature deals combat damage to a player, you put a 2/2 green Wolf creature token onto the battlefield and that player puts the top ten cards of his or her library into his or her graveyard.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>212628
+      </id>
+      <name>Zuran Orb
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Sacrifice a land: You gain 2 life.
+      </oracleText>
+      <edition>From the Vault: Relics
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>15
+      </num>
+      <text>Sacrifice a land: You gain 2 life.
+      </text>
+    </mc>
+  </list>
+</cards>

@@ -1,0 +1,1869 @@
+
+<cards>
+  <name>Duel_Decks__Sorin_vs__Tibalt</name>
+  <key>Duel_Decks__Sorin_vs__Tibalt</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>368527
+      </id>
+      <name>Absorb Vis
+      </name>
+      <cost>{6}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player loses 4 life and you gain 4 life.&lt;br&gt;Basic landcycling {1}{B} &lt;i&gt;({1}{B}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Brandon Kitkouski
+      </artist>
+      <num>31
+      </num>
+      <text>Target player loses 4 life and you gain 4 life.&lt;br&gt;Basic landcycling {1}{B} &lt;i&gt;({1}{B}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368523
+      </id>
+      <name>Akoum Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Akoum Refuge enters the battlefield tapped.&lt;br&gt;When Akoum Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Fred Fields
+      </artist>
+      <num>73
+      </num>
+      <text>Akoum Refuge enters the battlefield tapped.&lt;br&gt;When Akoum Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>368540
+      </id>
+      <name>Ancient Craving
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You draw three cards and you lose 3 life.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Rob Alexander
+      </artist>
+      <num>28
+      </num>
+      <text>You draw three cards and you lose 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>368476
+      </id>
+      <name>Ashmouth Hound
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Elemental Hound
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>45
+      </num>
+      <text>Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>368507
+      </id>
+      <name>Blazing Salvo
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Blazing Salvo deals 3 damage to target creature unless that creature's controller has Blazing Salvo deal 5 damage to him or her.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>rk post
+      </artist>
+      <num>58
+      </num>
+      <text>Blazing Salvo deals 3 damage to target creature unless that creature's controller has Blazing Salvo deal 5 damage to him or her.
+      </text>
+    </mc>
+    <mc>
+      <id>368483
+      </id>
+      <name>Blightning
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Blightning deals 3 damage to target player. That player discards two cards.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>69
+      </num>
+      <text>Blightning deals 3 damage to target player. That player discards two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>368543
+      </id>
+      <name>Bloodrage Vampire
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>10
+      </num>
+      <text>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368486
+      </id>
+      <name>Breaking Point
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Any player may have Breaking Point deal 6 damage to him or her. If no one does, destroy all creatures. Creatures destroyed this way can't be regenerated.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Matthew D. Wilson
+      </artist>
+      <num>67
+      </num>
+      <text>Any player may have Breaking Point deal 6 damage to him or her. If no one does, destroy all creatures. Creatures destroyed this way can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>368528
+      </id>
+      <name>Browbeat
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>66
+      </num>
+      <text>Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>368490
+      </id>
+      <name>Bump in the Night
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent loses 3 life.&lt;br&gt;Flashback {5}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>57
+      </num>
+      <text>Target opponent loses 3 life.&lt;br&gt;Flashback {5}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368501
+      </id>
+      <name>Butcher of Malakir
+      </name>
+      <cost>{5}{B}{B}
+      </cost>
+      <type>Creature - Vampire Warrior
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Butcher of Malakir or another creature you control dies, each opponent sacrifices a creature.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jason Chan
+      </artist>
+      <num>18
+      </num>
+      <text>Flying&lt;br&gt;Whenever Butcher of Malakir or another creature you control dies, each opponent sacrifices a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>368520
+      </id>
+      <name>Child of Night
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ash Wood
+      </artist>
+      <num>5
+      </num>
+      <text>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368533
+      </id>
+      <name>Coal Stoker
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Coal Stoker enters the battlefield, if you cast it from your hand, add {R}{R}{R} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>49
+      </num>
+      <text>When Coal Stoker enters the battlefield, if you cast it from your hand, add {R}{R}{R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>368487
+      </id>
+      <name>Corpse Connoisseur
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Zombie Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Corpse Connoisseur enters the battlefield, you may search your library for a creature card and put that card into your graveyard. If you do, shuffle your library.&lt;br&gt;Unearth {3}{B} &lt;i&gt;({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mark Hyzer
+      </artist>
+      <num>54
+      </num>
+      <text>When Corpse Connoisseur enters the battlefield, you may search your library for a creature card and put that card into your graveyard. If you do, shuffle your library.&lt;br&gt;Unearth {3}{B} &lt;i&gt;({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368495
+      </id>
+      <name>Death Grasp
+      </name>
+      <cost>{X}{W}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Death Grasp deals X damage to target creature or player. You gain X life.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>32
+      </num>
+      <text>Death Grasp deals X damage to target creature or player. You gain X life.
+      </text>
+    </mc>
+    <mc>
+      <id>368506
+      </id>
+      <name>Decompose
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Exile up to three target cards from a single graveyard.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>20
+      </num>
+      <text>Exile up to three target cards from a single graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>368518
+      </id>
+      <name>Devil's Play
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Devil's Play deals X damage to target creature or player.&lt;br&gt;Flashback {X}{R}{R}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Austin Hsu
+      </artist>
+      <num>72
+      </num>
+      <text>Devil's Play deals X damage to target creature or player.&lt;br&gt;Flashback {X}{R}{R}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368503
+      </id>
+      <name>Doomed Traveler
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Lars Grant-West
+      </artist>
+      <num>2
+      </num>
+      <text>When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>368541
+      </id>
+      <name>Duskhunter Bat
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Bat
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;Flying
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>6
+      </num>
+      <text>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;Flying
+      </text>
+    </mc>
+    <mc>
+      <id>368505
+      </id>
+      <name>Evolving Wilds
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>33
+      </num>
+      <text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>368475
+      </id>
+      <name>Faithless Looting
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw two cards, then discard two cards.&lt;br&gt;Flashback {2}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Gabor Szikszai
+      </artist>
+      <num>59
+      </num>
+      <text>Draw two cards, then discard two cards.&lt;br&gt;Flashback {2}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368510
+      </id>
+      <name>Field of Souls
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a nontoken creature is put into your graveyard from the battlefield, put a 1/1 white Spirit creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>30
+      </num>
+      <text>Whenever a nontoken creature is put into your graveyard from the battlefield, put a 1/1 white Spirit creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>368496
+      </id>
+      <name>Fiend Hunter
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Fiend Hunter enters the battlefield, you may exile another target creature.&lt;br&gt;When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>11
+      </num>
+      <text>When Fiend Hunter enters the battlefield, you may exile another target creature.&lt;br&gt;When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>368544
+      </id>
+      <name>Flame Javelin
+      </name>
+      <cost>{2/R}{2/R}{2/R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>&lt;i&gt;({2/R} can be paid with any two mana or with {R}. This card's converted mana cost is 6.)&lt;/i&gt;&lt;br&gt;Flame Javelin deals 4 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Trevor Hairsine
+      </artist>
+      <num>70
+      </num>
+      <text>&lt;i&gt;({2/R} can be paid with any two mana or with {R}. This card's converted mana cost is 6.)&lt;/i&gt;&lt;br&gt;Flame Javelin deals 4 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>368536
+      </id>
+      <name>Flame Slash
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Flame Slash deals 4 damage to target creature.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>60
+      </num>
+      <text>Flame Slash deals 4 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>368539
+      </id>
+      <name>Gang of Devils
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Devil
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Gang of Devils dies, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Erica Yang
+      </artist>
+      <num>56
+      </num>
+      <text>When Gang of Devils dies, it deals 3 damage divided as you choose among one, two, or three target creatures and/or players.
+      </text>
+    </mc>
+    <mc>
+      <id>368479
+      </id>
+      <name>Gatekeeper of Malakir
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Vampire Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Kicker {B} &lt;i&gt;(You may pay an additional {B} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Gatekeeper of Malakir enters the battlefield, if it was kicked, target player sacrifices a creature.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>8
+      </num>
+      <text>Kicker {B} &lt;i&gt;(You may pay an additional {B} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Gatekeeper of Malakir enters the battlefield, if it was kicked, target player sacrifices a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>368524
+      </id>
+      <name>Geistflame
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Geistflame deals 1 damage to target creature or player.&lt;br&gt;Flashback {3}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Scott Chou
+      </artist>
+      <num>61
+      </num>
+      <text>Geistflame deals 1 damage to target creature or player.&lt;br&gt;Flashback {3}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368478
+      </id>
+      <name>Goblin Arsonist
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Goblin Arsonist dies, you may have it deal 1 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>42
+      </num>
+      <text>When Goblin Arsonist dies, you may have it deal 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>368530
+      </id>
+      <name>Hellrider
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Devil
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Whenever a creature you control attacks, Hellrider deals 1 damage to defending player.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>52
+      </num>
+      <text>Haste&lt;br&gt;Whenever a creature you control attacks, Hellrider deals 1 damage to defending player.
+      </text>
+    </mc>
+    <mc>
+      <id>368477
+      </id>
+      <name>Hellspark Elemental
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Trample, haste&lt;br&gt;At the beginning of the end step, sacrifice Hellspark Elemental.&lt;br&gt;Unearth {1}{R} &lt;i&gt;({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Justin Sweet
+      </artist>
+      <num>46
+      </num>
+      <text>Trample, haste&lt;br&gt;At the beginning of the end step, sacrifice Hellspark Elemental.&lt;br&gt;Unearth {1}{R} &lt;i&gt;({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368526
+      </id>
+      <name>Lavaborn Muse
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Lavaborn Muse deals 3 damage to him or her.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Brian Snoddy
+      </artist>
+      <num>50
+      </num>
+      <text>At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Lavaborn Muse deals 3 damage to him or her.
+      </text>
+    </mc>
+    <mc>
+      <id>368485
+      </id>
+      <name>Lingering Souls
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put two 1/1 white Spirit creature tokens with flying onto the battlefield.&lt;br&gt;Flashback {1}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>John Stanko
+      </artist>
+      <num>24
+      </num>
+      <text>Put two 1/1 white Spirit creature tokens with flying onto the battlefield.&lt;br&gt;Flashback {1}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368474
+      </id>
+      <name>Mad Prophet
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste&lt;br&gt;{T}, Discard a card: Draw a card.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>51
+      </num>
+      <text>Haste&lt;br&gt;{T}, Discard a card: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>368499
+      </id>
+      <name>Mark of the Vampire
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has lifelink. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>29
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has lifelink. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368547
+      </id>
+      <name>Mausoleum Guard
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Mausoleum Guard dies, put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>13
+      </num>
+      <text>When Mausoleum Guard dies, put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>368519
+      </id>
+      <name>Mesmeric Fiend
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Nightmare Horror
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Mesmeric Fiend enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.&lt;br&gt;When Mesmeric Fiend leaves the battlefield, return the exiled card to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dana Knutson
+      </artist>
+      <num>7
+      </num>
+      <text>When Mesmeric Fiend enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.&lt;br&gt;When Mesmeric Fiend leaves the battlefield, return the exiled card to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>368498
+      </id>
+      <name>Mortify
+      </name>
+      <cost>{1}{W}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature or enchantment.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>25
+      </num>
+      <text>Destroy target creature or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>368502
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>James Paick
+      </artist>
+      <num>75
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>368546
+      </id>
+      <name>Phantom General
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Spirit Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Creature tokens you control get +1/+1.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>14
+      </num>
+      <text>Creature tokens you control get +1/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>368473
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>38
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>368545
+      </id>
+      <name>Pyroclasm
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Pyroclasm deals 2 damage to each creature.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>62
+      </num>
+      <text>Pyroclasm deals 2 damage to each creature.
+      </text>
+    </mc>
+    <mc>
+      <id>368493
+      </id>
+      <name>Rakdos Carnarium
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Rakdos Carnarium enters the battlefield tapped.&lt;br&gt;When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {B}{R} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>74
+      </num>
+      <text>Rakdos Carnarium enters the battlefield tapped.&lt;br&gt;When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {B}{R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>368551
+      </id>
+      <name>Reassembling Skeleton
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Skeleton Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield tapped.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Austin Hsu
+      </artist>
+      <num>44
+      </num>
+      <text>{1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>368517
+      </id>
+      <name>Recoup
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. &lt;i&gt;(Mana cost includes color.)&lt;/i&gt;&lt;br&gt;Flashback {3}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dave Dorman
+      </artist>
+      <num>63
+      </num>
+      <text>Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. &lt;i&gt;(Mana cost includes color.)&lt;/i&gt;&lt;br&gt;Flashback {3}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368532
+      </id>
+      <name>Revenant Patriarch
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Revenant Patriarch enters the battlefield, if {W} was spent to cast it, target player skips his or her next combat phase.&lt;br&gt;Revenant Patriarch can't block.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Nick Percival
+      </artist>
+      <num>16
+      </num>
+      <text>When Revenant Patriarch enters the battlefield, if {W} was spent to cast it, target player skips his or her next combat phase.&lt;br&gt;Revenant Patriarch can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>368504
+      </id>
+      <name>Scorched Rusalka
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{R}, Sacrifice a creature: Scorched Rusalka deals 1 damage to target player.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Luca Zontini
+      </artist>
+      <num>43
+      </num>
+      <text>{R}, Sacrifice a creature: Scorched Rusalka deals 1 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>368513
+      </id>
+      <name>Scourge Devil
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Devil
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.&lt;br&gt;Unearth {2}{R} &lt;i&gt;({2}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>55
+      </num>
+      <text>When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.&lt;br&gt;Unearth {2}{R} &lt;i&gt;({2}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368525
+      </id>
+      <name>Sengir Vampire
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>17
+      </num>
+      <text>Flying&lt;br&gt;Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+      </text>
+    </mc>
+    <mc>
+      <id>368489
+      </id>
+      <name>Shambling Remains
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Creature - Zombie Horror
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Shambling Remains can't block.&lt;br&gt;Unearth {B}{R} &lt;i&gt;({B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>48
+      </num>
+      <text>Shambling Remains can't block.&lt;br&gt;Unearth {B}{R} &lt;i&gt;({B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368488
+      </id>
+      <name>Skirsdag Cultist
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}, {T}, Sacrifice a creature: Skirsdag Cultist deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>53
+      </num>
+      <text>{R}, {T}, Sacrifice a creature: Skirsdag Cultist deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>368535
+      </id>
+      <name>Sorin, Lord of Innistrad
+      </name>
+      <cost>{2}{W}{B}
+      </cost>
+      <type>Planeswalker - Sorin
+      </type>
+      <toughness>3
+      </toughness>
+      <oracleText>+1: Put a 1/1 black Vampire creature token with lifelink onto the battlefield.&lt;br&gt;-2: You get an emblem with "Creatures you control get +1/+0."&lt;br&gt;-6: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>1
+      </num>
+      <text>+1: Put a 1/1 black Vampire creature token with lifelink onto the battlefield.&lt;br&gt;-2: You get an emblem with "Creatures you control get +1/+0."&lt;br&gt;-6: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>368509
+      </id>
+      <name>Sorin's Thirst
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Sorin's Thirst deals 2 damage to target creature and you gain 2 life.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>21
+      </num>
+      <text>Sorin's Thirst deals 2 damage to target creature and you gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>368515
+      </id>
+      <name>Spectral Procession
+      </name>
+      <cost>{2/W}{2/W}{2/W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>&lt;i&gt;({2/W} can be paid with any two mana or with {W}. This card's converted mana cost is 6.)&lt;/i&gt;&lt;br&gt;Put three 1/1 white Spirit creature tokens with flying onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Tomasz Jedruszek
+      </artist>
+      <num>26
+      </num>
+      <text>&lt;i&gt;({2/W} can be paid with any two mana or with {W}. This card's converted mana cost is 6.)&lt;/i&gt;&lt;br&gt;Put three 1/1 white Spirit creature tokens with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>368521
+      </id>
+      <name>Strangling Soot
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature with toughness 3 or less.&lt;br&gt;Flashback {5}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jim Murray
+      </artist>
+      <num>65
+      </num>
+      <text>Destroy target creature with toughness 3 or less.&lt;br&gt;Flashback {5}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368550
+      </id>
+      <name>Sulfuric Vortex
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of each player's upkeep, Sulfuric Vortex deals 2 damage to that player.&lt;br&gt;If a player would gain life, that player gains no life instead.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>68
+      </num>
+      <text>At the beginning of each player's upkeep, Sulfuric Vortex deals 2 damage to that player.&lt;br&gt;If a player would gain life, that player gains no life instead.
+      </text>
+    </mc>
+    <mc>
+      <id>368497
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jung Park
+      </artist>
+      <num>37
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>368529
+      </id>
+      <name>Tainted Field
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {W} or {B} to your mana pool. Activate this ability only if you control a Swamp.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Don Hazeltine
+      </artist>
+      <num>34
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {W} or {B} to your mana pool. Activate this ability only if you control a Swamp.
+      </text>
+    </mc>
+    <mc>
+      <id>368491
+      </id>
+      <name>Terminate
+      </name>
+      <cost>{B}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature. It can't be regenerated.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>64
+      </num>
+      <text>Destroy target creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>368531
+      </id>
+      <name>Tibalt, the Fiend-Blooded
+      </name>
+      <cost>{R}{R}
+      </cost>
+      <type>Planeswalker - Tibalt
+      </type>
+      <toughness>2
+      </toughness>
+      <oracleText>+1: Draw a card, then discard a card at random.&lt;br&gt;-4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player.&lt;br&gt;-6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>41
+      </num>
+      <text>+1: Draw a card, then discard a card at random.&lt;br&gt;-4: Tibalt, the Fiend-Blooded deals damage equal to the number of cards in target player's hand to that player.&lt;br&gt;-6: Gain control of all creatures until end of turn. Untap them. They gain haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>368511
+      </id>
+      <name>Torrent of Souls
+      </name>
+      <cost>{4}{B/R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return up to one target creature card from your graveyard to the battlefield if {B} was spent to cast Torrent of Souls. Creatures target player controls get +2/+0 and gain haste until end of turn if {R} was spent to cast Torrent of Souls. &lt;i&gt;(Do both if {B}{R} was spent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ian Edward Ameling
+      </artist>
+      <num>71
+      </num>
+      <text>Return up to one target creature card from your graveyard to the battlefield if {B} was spent to cast Torrent of Souls. Creatures target player controls get +2/+0 and gain haste until end of turn if {R} was spent to cast Torrent of Souls. &lt;i&gt;(Do both if {B}{R} was spent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368549
+      </id>
+      <name>Twilight Drover
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever a creature token leaves the battlefield, put a +1/+1 counter on Twilight Drover.&lt;br&gt;{2}{W}, Remove a +1/+1 counter from Twilight Drover: Put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Dave Allsop
+      </artist>
+      <num>9
+      </num>
+      <text>Whenever a creature token leaves the battlefield, put a +1/+1 counter on Twilight Drover.&lt;br&gt;{2}{W}, Remove a +1/+1 counter from Twilight Drover: Put two 1/1 white Spirit creature tokens with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>368514
+      </id>
+      <name>Unmake
+      </name>
+      <cost>{W/B}{W/B}{W/B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>27
+      </num>
+      <text>Exile target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>368522
+      </id>
+      <name>Urge to Feed
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>22
+      </num>
+      <text>Target creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires.
+      </text>
+    </mc>
+    <mc>
+      <id>368481
+      </id>
+      <name>Vampire Lacerator
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Vampire Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, you lose 1 life unless an opponent has 10 or less life.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Argyle
+      </artist>
+      <num>3
+      </num>
+      <text>At the beginning of your upkeep, you lose 1 life unless an opponent has 10 or less life.
+      </text>
+    </mc>
+    <mc>
+      <id>368534
+      </id>
+      <name>Vampire Nighthawk
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Vampire Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jason Chan
+      </artist>
+      <num>12
+      </num>
+      <text>Flying&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368537
+      </id>
+      <name>Vampire Outcasts
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Bloodthirst 2 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>15
+      </num>
+      <text>Bloodthirst 2 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368472
+      </id>
+      <name>Vampire's Bite
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker {2}{B} &lt;i&gt;(You may pay an additional {2}{B} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target creature gets +3/+0 until end of turn. If Vampire's Bite was kicked, that creature gains lifelink until end of turn. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>19
+      </num>
+      <text>Kicker {2}{B} &lt;i&gt;(You may pay an additional {2}{B} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target creature gets +3/+0 until end of turn. If Vampire's Bite was kicked, that creature gains lifelink until end of turn. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368548
+      </id>
+      <name>Vithian Stinger
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Vithian Stinger deals 1 damage to target creature or player.&lt;br&gt;Unearth {1}{R} &lt;i&gt;({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>47
+      </num>
+      <text>{T}: Vithian Stinger deals 1 damage to target creature or player.&lt;br&gt;Unearth {1}{R} &lt;i&gt;({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>368516
+      </id>
+      <name>Wall of Omens
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender&lt;br&gt;When Wall of Omens enters the battlefield, draw a card.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>James Paick
+      </artist>
+      <num>4
+      </num>
+      <text>Defender&lt;br&gt;When Wall of Omens enters the battlefield, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>368542
+      </id>
+      <name>Zealous Persecution
+      </name>
+      <cost>{W}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>23
+      </num>
+      <text>Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.
+      </text>
+    </mc>
+    <mc>
+      <id>368500
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>76
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>368512
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Eytan Zana
+      </artist>
+      <num>77
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>368480
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jung Park
+      </artist>
+      <num>39
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>368508
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Eytan Zana
+      </artist>
+      <num>40
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>368492
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>James Paick
+      </artist>
+      <num>35
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>368538
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>36
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>368494
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>James Paick
+      </artist>
+      <num>78
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>368484
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>79
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>368482
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Duel Decks: Sorin vs. Tibalt
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Jung Park
+      </artist>
+      <num>80
+      </num>
+      <text>B
+      </text>
+    </mc>
+  </list>
+</cards>

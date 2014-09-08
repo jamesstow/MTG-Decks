@@ -1,0 +1,6779 @@
+
+<cards>
+  <name>Zendikar</name>
+  <key>Zendikar</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>178135
+      </id>
+      <name>Adventuring Gear
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, equipped creature gets +2/+2 until end of turn.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.535
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>195
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, equipped creature gets +2/+2 until end of turn.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>170993
+      </id>
+      <name>Æther Figment
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Kicker {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Æther Figment is unblockable.&lt;br&gt;If Æther Figment was kicked, it enters the battlefield with two +1/+1 counters on it.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.685
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>40
+      </num>
+      <text>Kicker {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Æther Figment is unblockable.&lt;br&gt;If Æther Figment was kicked, it enters the battlefield with two +1/+1 counters on it.
+      </text>
+    </mc>
+    <mc>
+      <id>189638
+      </id>
+      <name>Akoum Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Akoum Refuge enters the battlefield tapped.&lt;br&gt;When Akoum Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.884
+      </rating>
+      <artist>Fred Fields
+      </artist>
+      <num>210
+      </num>
+      <text>Akoum Refuge enters the battlefield tapped.&lt;br&gt;When Akoum Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>197538
+      </id>
+      <name>Archive Trap
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If an opponent searched his or her library this turn, you may pay {0} rather than pay Archive Trap's mana cost.&lt;br&gt;Target opponent puts the top thirteen cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.385
+      </rating>
+      <artist>Jason Felix
+      </artist>
+      <num>41
+      </num>
+      <text>If an opponent searched his or her library this turn, you may pay {0} rather than pay Archive Trap's mana cost.&lt;br&gt;Target opponent puts the top thirteen cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>197893
+      </id>
+      <name>Archmage Ascension
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of each end step, if you drew two or more cards this turn, you may put a quest counter on Archmage Ascension.&lt;br&gt;As long as Archmage Ascension has six or more quest counters on it, if you would draw a card, you may instead search your library for a card, put that card into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.99
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>42
+      </num>
+      <text>At the beginning of each end step, if you drew two or more cards this turn, you may put a quest counter on Archmage Ascension.&lt;br&gt;As long as Archmage Ascension has six or more quest counters on it, if you would draw a card, you may instead search your library for a card, put that card into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>177584
+      </id>
+      <name>Arid Mesa
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card and put it onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.388
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>211
+      </num>
+      <text>{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card and put it onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>190420
+      </id>
+      <name>Armament Master
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Kor Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Other Kor creatures you control get +2/+2 for each Equipment attached to Armament Master.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.331
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>1
+      </num>
+      <text>Other Kor creatures you control get +2/+2 for each Equipment attached to Armament Master.
+      </text>
+    </mc>
+    <mc>
+      <id>193404
+      </id>
+      <name>Arrow Volley Trap
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If four or more creatures are attacking, you may pay {1}{W} rather than pay Arrow Volley Trap's mana cost.&lt;br&gt;Arrow Volley Trap deals 5 damage divided as you choose among any number of target attacking creatures.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>2
+      </num>
+      <text>If four or more creatures are attacking, you may pay {1}{W} rather than pay Arrow Volley Trap's mana cost.&lt;br&gt;Arrow Volley Trap deals 5 damage divided as you choose among any number of target attacking creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>197402
+      </id>
+      <name>Bala Ged Thief
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Human Rogue Ally
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Bala Ged Thief or another Ally enters the battlefield under your control, target player reveals a number of cards from his or her hand equal to the number of Allies you control. You choose one of them. That player discards that card.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.471
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>79
+      </num>
+      <text>Whenever Bala Ged Thief or another Ally enters the battlefield under your control, target player reveals a number of cards from his or her hand equal to the number of Allies you control. You choose one of them. That player discards that card.
+      </text>
+    </mc>
+    <mc>
+      <id>197531
+      </id>
+      <name>Baloth Cage Trap
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If an opponent had an artifact enter the battlefield under his or her control this turn, you may pay {1}{G} rather than pay Baloth Cage Trap's mana cost.&lt;br&gt;Put a 4/4 green Beast creature token onto the battlefield.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.208
+      </rating>
+      <artist>Austin Hsu
+      </artist>
+      <num>156
+      </num>
+      <text>If an opponent had an artifact enter the battlefield under his or her control this turn, you may pay {1}{G} rather than pay Baloth Cage Trap's mana cost.&lt;br&gt;Put a 4/4 green Beast creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>192231
+      </id>
+      <name>Baloth Woodcrasher
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, Baloth Woodcrasher gets +4/+4 and gains trample until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.319
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>157
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, Baloth Woodcrasher gets +4/+4 and gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>185703
+      </id>
+      <name>Beast Hunt
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.032
+      </rating>
+      <artist>Kieran Yanner
+      </artist>
+      <num>158
+      </num>
+      <text>Reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>197890
+      </id>
+      <name>Beastmaster Ascension
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature you control attacks, you may put a quest counter on Beastmaster Ascension.&lt;br&gt;As long as Beastmaster Ascension has seven or more quest counters on it, creatures you control get +5/+5.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.402
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>159
+      </num>
+      <text>Whenever a creature you control attacks, you may put a quest counter on Beastmaster Ascension.&lt;br&gt;As long as Beastmaster Ascension has seven or more quest counters on it, creatures you control get +5/+5.
+      </text>
+    </mc>
+    <mc>
+      <id>193397
+      </id>
+      <name>Blade of the Bloodchief
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Whenever a creature dies, put a +1/+1 counter on equipped creature. If equipped creature is a Vampire, put two +1/+1 counters on it instead.&lt;br&gt;Equip {1}
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.304
+      </rating>
+      <artist>Jung Park
+      </artist>
+      <num>196
+      </num>
+      <text>Whenever a creature dies, put a +1/+1 counter on equipped creature. If equipped creature is a Vampire, put two +1/+1 counters on it instead.&lt;br&gt;Equip {1}
+      </text>
+    </mc>
+    <mc>
+      <id>180350
+      </id>
+      <name>Bladetusk Boar
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Boar
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.339
+      </rating>
+      <artist>Paul Bonner
+      </artist>
+      <num>118
+      </num>
+      <text>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>191372
+      </id>
+      <name>Blazing Torch
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature can't be blocked by Vampires or Zombies.&lt;br&gt;Equipped creature has "{T}, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player."&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.489
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>197
+      </num>
+      <text>Equipped creature can't be blocked by Vampires or Zombies.&lt;br&gt;Equipped creature has "{T}, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player."&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>180362
+      </id>
+      <name>Blood Seeker
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Vampire Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.9
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>80
+      </num>
+      <text>Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>170995
+      </id>
+      <name>Blood Tribute
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kicker—Tap an untapped Vampire you control. &lt;i&gt;(You may tap a Vampire you control in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target opponent loses half his or her life, rounded up. If Blood Tribute was kicked, you gain life equal to the life lost this way.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.306
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>81
+      </num>
+      <text>Kicker—Tap an untapped Vampire you control. &lt;i&gt;(You may tap a Vampire you control in addition to any other costs as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target opponent loses half his or her life, rounded up. If Blood Tribute was kicked, you gain life equal to the life lost this way.
+      </text>
+    </mc>
+    <mc>
+      <id>197892
+      </id>
+      <name>Bloodchief Ascension
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of each end step, if an opponent lost 2 or more life this turn, you may put a quest counter on Bloodchief Ascension. &lt;i&gt;(Damage causes loss of life.)&lt;/i&gt;&lt;br&gt;Whenever a card is put into an opponent's graveyard from anywhere, if Bloodchief Ascension has three or more quest counters on it, you may have that player lose 2 life. If you do, you gain 2 life.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.43
+      </rating>
+      <artist>Adi Granov
+      </artist>
+      <num>82
+      </num>
+      <text>At the beginning of each end step, if an opponent lost 2 or more life this turn, you may put a quest counter on Bloodchief Ascension. &lt;i&gt;(Damage causes loss of life.)&lt;/i&gt;&lt;br&gt;Whenever a card is put into an opponent's graveyard from anywhere, if Bloodchief Ascension has three or more quest counters on it, you may have that player lose 2 life. If you do, you gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>192230
+      </id>
+      <name>Bloodghast
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Vampire Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Bloodghast can't block.&lt;br&gt;Bloodghast has haste as long as an opponent has 10 or less life.&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may return Bloodghast from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.392
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>83
+      </num>
+      <text>Bloodghast can't block.&lt;br&gt;Bloodghast has haste as long as an opponent has 10 or less life.&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may return Bloodghast from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>177500
+      </id>
+      <name>Bog Tatters
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Wraith
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Swampwalk
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.516
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>84
+      </num>
+      <text>Swampwalk
+      </text>
+    </mc>
+    <mc>
+      <id>180509
+      </id>
+      <name>Bold Defense
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker {3}{W} &lt;i&gt;(You may pay an additional {3}{W} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Creatures you control get +1/+1 until end of turn. If Bold Defense was kicked, instead creatures you control get +2/+2 and gain first strike until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.622
+      </rating>
+      <artist>Scott Chou
+      </artist>
+      <num>3
+      </num>
+      <text>Kicker {3}{W} &lt;i&gt;(You may pay an additional {3}{W} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Creatures you control get +1/+1 until end of turn. If Bold Defense was kicked, instead creatures you control get +2/+2 and gain first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>185734
+      </id>
+      <name>Brave the Elements
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose a color. White creatures you control gain protection from the chosen color until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.432
+      </rating>
+      <artist>Goran Josic
+      </artist>
+      <num>4
+      </num>
+      <text>Choose a color. White creatures you control gain protection from the chosen color until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>177558
+      </id>
+      <name>Burst Lightning
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker {4} &lt;i&gt;(You may pay an additional {4} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Burst Lightning deals 2 damage to target creature or player. If Burst Lightning was kicked, it deals 4 damage to that creature or player instead.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.221
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>119
+      </num>
+      <text>Kicker {4} &lt;i&gt;(You may pay an additional {4} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Burst Lightning deals 2 damage to target creature or player. If Burst Lightning was kicked, it deals 4 damage to that creature or player instead.
+      </text>
+    </mc>
+    <mc>
+      <id>183417
+      </id>
+      <name>Caller of Gales
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Merfolk Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{U}, {T}: Target creature gains flying until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.907
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>43
+      </num>
+      <text>{1}{U}, {T}: Target creature gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>189001
+      </id>
+      <name>Cancel
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.934
+      </rating>
+      <artist>Scott Chou
+      </artist>
+      <num>44
+      </num>
+      <text>Counter target spell.
+      </text>
+    </mc>
+    <mc>
+      <id>185697
+      </id>
+      <name>Caravan Hurda
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>1
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.212
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>5
+      </num>
+      <text>Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>193406
+      </id>
+      <name>Carnage Altar
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}, Sacrifice a creature: Draw a card.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.27
+      </rating>
+      <artist>James Paick
+      </artist>
+      <num>198
+      </num>
+      <text>{3}, Sacrifice a creature: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>198524
+      </id>
+      <name>Celestial Mantle
+      </name>
+      <cost>{3}{W}{W}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3.&lt;br&gt;Whenever enchanted creature deals combat damage to a player, double its controller's life total.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.031
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>6
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3.&lt;br&gt;Whenever enchanted creature deals combat damage to a player, double its controller's life total.
+      </text>
+    </mc>
+    <mc>
+      <id>195402
+      </id>
+      <name>Chandra Ablaze
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Planeswalker - Chandra
+      </type>
+      <toughness>5
+      </toughness>
+      <oracleText>+1: Discard a card. If a red card is discarded this way, Chandra Ablaze deals 4 damage to target creature or player.&lt;br&gt;-2: Each player discards his or her hand, then draws three cards.&lt;br&gt;-7: Cast any number of red instant and/or sorcery cards from your graveyard without paying their mana costs.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.281
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>120
+      </num>
+      <text>+1: Discard a card. If a red card is discarded this way, Chandra Ablaze deals 4 damage to target creature or player.&lt;br&gt;-2: Each player discards his or her hand, then draws three cards.&lt;br&gt;-7: Cast any number of red instant and/or sorcery cards from your graveyard without paying their mana costs.
+      </text>
+    </mc>
+    <mc>
+      <id>177546
+      </id>
+      <name>Cliff Threader
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Kor Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Mountainwalk
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.793
+      </rating>
+      <artist>Paul Bonner
+      </artist>
+      <num>7
+      </num>
+      <text>Mountainwalk
+      </text>
+    </mc>
+    <mc>
+      <id>197535
+      </id>
+      <name>Cobra Trap
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If a noncreature permanent under your control was destroyed this turn by a spell or ability an opponent controlled, you may pay {G} rather than pay Cobra Trap's mana cost.&lt;br&gt;Put four 1/1 green Snake creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.65
+      </rating>
+      <artist>Scott Chou
+      </artist>
+      <num>160
+      </num>
+      <text>If a noncreature permanent under your control was destroyed this turn by a spell or ability an opponent controlled, you may pay {G} rather than pay Cobra Trap's mana cost.&lt;br&gt;Put four 1/1 green Snake creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>195626
+      </id>
+      <name>Conqueror's Pledge
+      </name>
+      <cost>{2}{W}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kicker {6} &lt;i&gt;(You may pay an additional {6} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Put six 1/1 white Kor Soldier creature tokens onto the battlefield. If Conqueror's Pledge was kicked, put twelve of those tokens onto the battlefield instead.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.354
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>8
+      </num>
+      <text>Kicker {6} &lt;i&gt;(You may pay an additional {6} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Put six 1/1 white Kor Soldier creature tokens onto the battlefield. If Conqueror's Pledge was kicked, put twelve of those tokens onto the battlefield instead.
+      </text>
+    </mc>
+    <mc>
+      <id>186322
+      </id>
+      <name>Cosi's Trickster
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Merfolk Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever an opponent shuffles his or her library, you may put a +1/+1 counter on Cosi's Trickster.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.1
+      </rating>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>45
+      </num>
+      <text>Whenever an opponent shuffles his or her library, you may put a +1/+1 counter on Cosi's Trickster.
+      </text>
+    </mc>
+    <mc>
+      <id>190394
+      </id>
+      <name>Crypt of Agadeem
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Crypt of Agadeem enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;{2}, {T}: Add {B} to your mana pool for each black creature card in your graveyard.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.479
+      </rating>
+      <artist>Jason Felix
+      </artist>
+      <num>212
+      </num>
+      <text>Crypt of Agadeem enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;{2}, {T}: Add {B} to your mana pool for each black creature card in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>178121
+      </id>
+      <name>Crypt Ripper
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Shade
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste&lt;br&gt;{B}: Crypt Ripper gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.7
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>85
+      </num>
+      <text>Haste&lt;br&gt;{B}: Crypt Ripper gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>186309
+      </id>
+      <name>Day of Judgment
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all creatures.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.419
+      </rating>
+      <artist>Vincent Proce
+      </artist>
+      <num>9
+      </num>
+      <text>Destroy all creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>190406
+      </id>
+      <name>Demolish
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target artifact or land.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.089
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>121
+      </num>
+      <text>Destroy target artifact or land.
+      </text>
+    </mc>
+    <mc>
+      <id>178137
+      </id>
+      <name>Desecrated Earth
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target land. Its controller discards a card.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.321
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>86
+      </num>
+      <text>Destroy target land. Its controller discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>191374
+      </id>
+      <name>Devout Lightcaster
+      </name>
+      <cost>{W}{W}{W}
+      </cost>
+      <type>Creature - Kor Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Protection from black&lt;br&gt;When Devout Lightcaster enters the battlefield, exile target black permanent.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.365
+      </rating>
+      <artist>Shelly Wan
+      </artist>
+      <num>10
+      </num>
+      <text>Protection from black&lt;br&gt;When Devout Lightcaster enters the battlefield, exile target black permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>180115
+      </id>
+      <name>Disfigure
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -2/-2 until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.347
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>87
+      </num>
+      <text>Target creature gets -2/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>193398
+      </id>
+      <name>Eldrazi Monument
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Creatures you control get +1/+1, have flying, and are indestructible.&lt;br&gt;At the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice Eldrazi Monument.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.386
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>199
+      </num>
+      <text>Creatures you control get +1/+1, have flying, and are indestructible.&lt;br&gt;At the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice Eldrazi Monument.
+      </text>
+    </mc>
+    <mc>
+      <id>191373
+      </id>
+      <name>Electropotence
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature enters the battlefield under your control, you may pay {2}{R}. If you do, that creature deals damage equal to its power to target creature or player.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.514
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>122
+      </num>
+      <text>Whenever a creature enters the battlefield under your control, you may pay {2}{R}. If you do, that creature deals damage equal to its power to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>192221
+      </id>
+      <name>Elemental Appeal
+      </name>
+      <cost>{R}{R}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kicker {5} &lt;i&gt;(You may pay an additional {5} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step. If Elemental Appeal was kicked, that creature gets +7/+0 until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.28
+      </rating>
+      <artist>Anthony Francisco
+      </artist>
+      <num>123
+      </num>
+      <text>Kicker {5} &lt;i&gt;(You may pay an additional {5} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step. If Elemental Appeal was kicked, that creature gets +7/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>190399
+      </id>
+      <name>Emeria Angel
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may put a 1/1 white Bird creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.447
+      </rating>
+      <artist>Jim Murray
+      </artist>
+      <num>11
+      </num>
+      <text>Flying&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may put a 1/1 white Bird creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>190414
+      </id>
+      <name>Emeria, the Sky Ruin
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Emeria, the Sky Ruin enters the battlefield tapped.&lt;br&gt;At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield.&lt;br&gt;{T}: Add {W} to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.32
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>213
+      </num>
+      <text>Emeria, the Sky Ruin enters the battlefield tapped.&lt;br&gt;At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield.&lt;br&gt;{T}: Add {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>189006
+      </id>
+      <name>Eternity Vessel
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Eternity Vessel enters the battlefield with X charge counters on it, where X is your life total.&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may have your life total become the number of charge counters on Eternity Vessel.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.181
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>200
+      </num>
+      <text>Eternity Vessel enters the battlefield with X charge counters on it, where X is your life total.&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may have your life total become the number of charge counters on Eternity Vessel.
+      </text>
+    </mc>
+    <mc>
+      <id>193405
+      </id>
+      <name>Expedition Map
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.129
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>201
+      </num>
+      <text>{2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>190396
+      </id>
+      <name>Explorer's Scope
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.275
+      </rating>
+      <artist>Vincent Proce
+      </artist>
+      <num>202
+      </num>
+      <text>Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189629
+      </id>
+      <name>Feast of Blood
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Cast Feast of Blood only if you control two or more Vampires.&lt;br&gt;Destroy target creature. You gain 4 life.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.092
+      </rating>
+      <artist>Jason Felix
+      </artist>
+      <num>88
+      </num>
+      <text>Cast Feast of Blood only if you control two or more Vampires.&lt;br&gt;Destroy target creature. You gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>185743
+      </id>
+      <name>Felidar Sovereign
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Creature - Cat Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Vigilance, lifelink&lt;br&gt;At the beginning of your upkeep, if you have 40 or more life, you win the game.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.402
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>12
+      </num>
+      <text>Vigilance, lifelink&lt;br&gt;At the beginning of your upkeep, if you have 40 or more life, you win the game.
+      </text>
+    </mc>
+    <mc>
+      <id>201962
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.725
+      </rating>
+      <artist>Jung Park
+      </artist>
+      <num>247
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>180361
+      </id>
+      <name>Frontier Guide
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{3}{G}, {T}: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.929
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>161
+      </num>
+      <text>{3}{G}, {T}: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>185698
+      </id>
+      <name>Gatekeeper of Malakir
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Vampire Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Kicker {B} &lt;i&gt;(You may pay an additional {B} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Gatekeeper of Malakir enters the battlefield, if it was kicked, target player sacrifices a creature.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.549
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>89
+      </num>
+      <text>Kicker {B} &lt;i&gt;(You may pay an additional {B} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Gatekeeper of Malakir enters the battlefield, if it was kicked, target player sacrifices a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>197887
+      </id>
+      <name>Geyser Glider
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Elemental Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, Geyser Glider gains flying until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.516
+      </rating>
+      <artist>Warren Mahy
+      </artist>
+      <num>124
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, Geyser Glider gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>192226
+      </id>
+      <name>Giant Scorpion
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Scorpion
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.741
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>90
+      </num>
+      <text>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>195627
+      </id>
+      <name>Gigantiform
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Kicker {4}&lt;br&gt;Enchant creature&lt;br&gt;Enchanted creature is 8/8 and has trample.&lt;br&gt;When Gigantiform enters the battlefield, if it was kicked, you may search your library for a card named Gigantiform, put it onto the battlefield, then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.129
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>162
+      </num>
+      <text>Kicker {4}&lt;br&gt;Enchant creature&lt;br&gt;Enchanted creature is 8/8 and has trample.&lt;br&gt;When Gigantiform enters the battlefield, if it was kicked, you may search your library for a card named Gigantiform, put it onto the battlefield, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>177501
+      </id>
+      <name>Goblin Bushwhacker
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Kicker {R} &lt;i&gt;(You may pay an additional {R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Goblin Bushwhacker enters the battlefield, if it was kicked, creatures you control get +1/+0 and gain haste until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.352
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>125
+      </num>
+      <text>Kicker {R} &lt;i&gt;(You may pay an additional {R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Goblin Bushwhacker enters the battlefield, if it was kicked, creatures you control get +1/+0 and gain haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>170987
+      </id>
+      <name>Goblin Guide
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Whenever Goblin Guide attacks, defending player reveals the top card of his or her library. If it's a land card, that player puts it into his or her hand.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.457
+      </rating>
+      <artist>Warren Mahy
+      </artist>
+      <num>126
+      </num>
+      <text>Haste&lt;br&gt;Whenever Goblin Guide attacks, defending player reveals the top card of his or her library. If it's a land card, that player puts it into his or her hand.
+      </text>
+    </mc>
+    <mc>
+      <id>180411
+      </id>
+      <name>Goblin Ruinblaster
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Kicker {R} &lt;i&gt;(You may pay an additional {R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Haste&lt;br&gt;When Goblin Ruinblaster enters the battlefield, if it was kicked, destroy target nonbasic land.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.022
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>127
+      </num>
+      <text>Kicker {R} &lt;i&gt;(You may pay an additional {R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Haste&lt;br&gt;When Goblin Ruinblaster enters the battlefield, if it was kicked, destroy target nonbasic land.
+      </text>
+    </mc>
+    <mc>
+      <id>180473
+      </id>
+      <name>Goblin Shortcutter
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Goblin Shortcutter enters the battlefield, target creature can't block this turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.708
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>128
+      </num>
+      <text>When Goblin Shortcutter enters the battlefield, target creature can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>185701
+      </id>
+      <name>Goblin War Paint
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has haste. &lt;i&gt;(It can attack and {T} no matter when it came under its controller's control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.551
+      </rating>
+      <artist>Austin Hsu
+      </artist>
+      <num>129
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has haste. &lt;i&gt;(It can attack and {T} no matter when it came under its controller's control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>198523
+      </id>
+      <name>Gomazoa
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Jellyfish
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Defender, flying&lt;br&gt;{T}: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle their libraries.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>46
+      </num>
+      <text>Defender, flying&lt;br&gt;{T}: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle their libraries.
+      </text>
+    </mc>
+    <mc>
+      <id>192220
+      </id>
+      <name>Grappling Hook
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has double strike.&lt;br&gt;Whenever equipped creature attacks, you may have target creature block it this turn if able.&lt;br&gt;Equip {4}
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.639
+      </rating>
+      <artist>Philip Straub
+      </artist>
+      <num>203
+      </num>
+      <text>Equipped creature has double strike.&lt;br&gt;Whenever equipped creature attacks, you may have target creature block it this turn if able.&lt;br&gt;Equip {4}
+      </text>
+    </mc>
+    <mc>
+      <id>189631
+      </id>
+      <name>Graypelt Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Graypelt Refuge enters the battlefield tapped.&lt;br&gt;When Graypelt Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.118
+      </rating>
+      <artist>Philip Straub
+      </artist>
+      <num>214
+      </num>
+      <text>Graypelt Refuge enters the battlefield tapped.&lt;br&gt;When Graypelt Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>189621
+      </id>
+      <name>Grazing Gladehart
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Antelope
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, you may gain 2 life.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.279
+      </rating>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>163
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, you may gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>185694
+      </id>
+      <name>Greenweaver Druid
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Add {G}{G} to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.651
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>164
+      </num>
+      <text>{T}: Add {G}{G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>180127
+      </id>
+      <name>Grim Discovery
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose one or both- Return target creature card from your graveyard to your hand; and/or return target land card from your graveyard to your hand.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.371
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>91
+      </num>
+      <text>Choose one or both- Return target creature card from your graveyard to your hand; and/or return target land card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>183418
+      </id>
+      <name>Guul Draz Specter
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Specter
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Guul Draz Specter gets +3/+3 as long as an opponent has no cards in hand.&lt;br&gt;Whenever Guul Draz Specter deals combat damage to a player, that player discards a card.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.283
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>92
+      </num>
+      <text>Flying&lt;br&gt;Guul Draz Specter gets +3/+3 as long as an opponent has no cards in hand.&lt;br&gt;Whenever Guul Draz Specter deals combat damage to a player, that player discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>180498
+      </id>
+      <name>Guul Draz Vampire
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Vampire Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>As long as an opponent has 10 or less life, Guul Draz Vampire gets +2/+1 and has intimidate. &lt;i&gt;(It can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.104
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>93
+      </num>
+      <text>As long as an opponent has 10 or less life, Guul Draz Vampire gets +2/+1 and has intimidate. &lt;i&gt;(It can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>170998
+      </id>
+      <name>Hagra Crocodile
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Crocodile
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Hagra Crocodile can't block.&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, Hagra Crocodile gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.095
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>94
+      </num>
+      <text>Hagra Crocodile can't block.&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, Hagra Crocodile gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>197404
+      </id>
+      <name>Hagra Diabolist
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Ogre Shaman Ally
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Hagra Diabolist or another Ally enters the battlefield under your control, you may have target player lose life equal to the number of Allies you control.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.244
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>95
+      </num>
+      <text>Whenever Hagra Diabolist or another Ally enters the battlefield under your control, you may have target player lose life equal to the number of Allies you control.
+      </text>
+    </mc>
+    <mc>
+      <id>185752
+      </id>
+      <name>Halo Hunter
+      </name>
+      <cost>{2}{B}{B}{B}
+      </cost>
+      <type>Creature - Demon
+      </type>
+      <power>6
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;&lt;br&gt;When Halo Hunter enters the battlefield, destroy target Angel.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.429
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>96
+      </num>
+      <text>Intimidate &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;&lt;br&gt;When Halo Hunter enters the battlefield, destroy target Angel.
+      </text>
+    </mc>
+    <mc>
+      <id>180408
+      </id>
+      <name>Harrow
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Harrow, sacrifice a land.&lt;br&gt;Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.38
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>165
+      </num>
+      <text>As an additional cost to cast Harrow, sacrifice a land.&lt;br&gt;Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>191361
+      </id>
+      <name>Heartstabber Mosquito
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Kicker {2}{B} &lt;i&gt;(You may pay an additional {2}{B} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Heartstabber Mosquito enters the battlefield, if it was kicked, destroy target creature.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.826
+      </rating>
+      <artist>Jason Felix
+      </artist>
+      <num>97
+      </num>
+      <text>Kicker {2}{B} &lt;i&gt;(You may pay an additional {2}{B} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Heartstabber Mosquito enters the battlefield, if it was kicked, destroy target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>180348
+      </id>
+      <name>Hedron Crab
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Crab
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, target player puts the top three cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.593
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>47
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, target player puts the top three cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>193394
+      </id>
+      <name>Hedron Scrabbler
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, Hedron Scrabbler gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.173
+      </rating>
+      <artist>Jason Felix
+      </artist>
+      <num>204
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, Hedron Scrabbler gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>192215
+      </id>
+      <name>Hellfire Mongrel
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Elemental Hound
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Hellfire Mongrel deals 2 damage to him or her.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.897
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>130
+      </num>
+      <text>At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Hellfire Mongrel deals 2 damage to him or her.
+      </text>
+    </mc>
+    <mc>
+      <id>185727
+      </id>
+      <name>Hellkite Charger
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying, haste&lt;br&gt;Whenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.361
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>131
+      </num>
+      <text>Flying, haste&lt;br&gt;Whenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.
+      </text>
+    </mc>
+    <mc>
+      <id>180435
+      </id>
+      <name>Hideous End
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonblack creature. Its controller loses 2 life.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.99
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>98
+      </num>
+      <text>Destroy target nonblack creature. Its controller loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>180467
+      </id>
+      <name>Highland Berserker
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Human Berserker Ally
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Highland Berserker or another Ally enters the battlefield under your control, you may have Ally creatures you control gain first strike until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.438
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>132
+      </num>
+      <text>Whenever Highland Berserker or another Ally enters the battlefield under your control, you may have Ally creatures you control gain first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>197530
+      </id>
+      <name>Inferno Trap
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay Inferno Trap's mana cost.&lt;br&gt;Inferno Trap deals 4 damage to target creature.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.605
+      </rating>
+      <artist>Philip Straub
+      </artist>
+      <num>133
+      </num>
+      <text>If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay Inferno Trap's mana cost.&lt;br&gt;Inferno Trap deals 4 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>178151
+      </id>
+      <name>Into the Roil
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker {1}{U} &lt;i&gt;(You may pay an additional {1}{U} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Return target nonland permanent to its owner's hand. If Into the Roil was kicked, draw a card.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.398
+      </rating>
+      <artist>Kieran Yanner
+      </artist>
+      <num>48
+      </num>
+      <text>Kicker {1}{U} &lt;i&gt;(You may pay an additional {1}{U} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Return target nonland permanent to its owner's hand. If Into the Roil was kicked, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>190407
+      </id>
+      <name>Iona, Shield of Emeria
+      </name>
+      <cost>{6}{W}{W}{W}
+      </cost>
+      <type>Legendary Creature - Angel
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Flying&lt;br&gt;As Iona, Shield of Emeria enters the battlefield, choose a color.&lt;br&gt;Your opponents can't cast spells of the chosen color.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.353
+      </rating>
+      <artist>Jason Chan
+      </artist>
+      <num>13
+      </num>
+      <text>Flying&lt;br&gt;As Iona, Shield of Emeria enters the battlefield, choose a color.&lt;br&gt;Your opponents can't cast spells of the chosen color.
+      </text>
+    </mc>
+    <mc>
+      <id>185711
+      </id>
+      <name>Ior Ruin Expedition
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Ior Ruin Expedition.&lt;br&gt;Remove three quest counters from Ior Ruin Expedition and sacrifice it: Draw two cards.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.239
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>49
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Ior Ruin Expedition.&lt;br&gt;Remove three quest counters from Ior Ruin Expedition and sacrifice it: Draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>201964
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.895
+      </rating>
+      <artist>Jung Park
+      </artist>
+      <num>235
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>192227
+      </id>
+      <name>Joraga Bard
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elf Rogue Ally
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever Joraga Bard or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.883
+      </rating>
+      <artist>Volkan Baga
+      </artist>
+      <num>166
+      </num>
+      <text>Whenever Joraga Bard or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>177505
+      </id>
+      <name>Journey to Nowhere
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Journey to Nowhere enters the battlefield, exile target creature.&lt;br&gt;When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.356
+      </rating>
+      <artist>Warren Mahy
+      </artist>
+      <num>14
+      </num>
+      <text>When Journey to Nowhere enters the battlefield, exile target creature.&lt;br&gt;When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>189627
+      </id>
+      <name>Jwar Isle Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Jwar Isle Refuge enters the battlefield tapped.&lt;br&gt;When Jwar Isle Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.298
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>215
+      </num>
+      <text>Jwar Isle Refuge enters the battlefield tapped.&lt;br&gt;When Jwar Isle Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>169963
+      </id>
+      <name>Kabira Crossroads
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Kabira Crossroads enters the battlefield tapped.&lt;br&gt;When Kabira Crossroads enters the battlefield, you gain 2 life.&lt;br&gt;{T}: Add {W} to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.733
+      </rating>
+      <artist>James Paick
+      </artist>
+      <num>216
+      </num>
+      <text>Kabira Crossroads enters the battlefield tapped.&lt;br&gt;When Kabira Crossroads enters the battlefield, you gain 2 life.&lt;br&gt;{T}: Add {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>180347
+      </id>
+      <name>Kabira Evangel
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Cleric Ally
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Kabira Evangel or another Ally enters the battlefield under your control, you may choose a color. If you do, Allies you control gain protection from the chosen color until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.275
+      </rating>
+      <artist>Eric Deschamps
+      </artist>
+      <num>15
+      </num>
+      <text>Whenever Kabira Evangel or another Ally enters the battlefield under your control, you may choose a color. If you do, Allies you control gain protection from the chosen color until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>185704
+      </id>
+      <name>Kalitas, Bloodchief of Ghet
+      </name>
+      <cost>{5}{B}{B}
+      </cost>
+      <type>Legendary Creature - Vampire Warrior
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>{B}{B}{B}, {T}: Destroy target creature. If that creature dies this way, put a black Vampire creature token onto the battlefield. Its power is equal to that creature's power and its toughness is equal to that creature's toughness.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.297
+      </rating>
+      <artist>Todd Lockwood
+      </artist>
+      <num>99
+      </num>
+      <text>{B}{B}{B}, {T}: Destroy target creature. If that creature dies this way, put a black Vampire creature token onto the battlefield. Its power is equal to that creature's power and its toughness is equal to that creature's toughness.
+      </text>
+    </mc>
+    <mc>
+      <id>191356
+      </id>
+      <name>Kazandu Blademaster
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Soldier Ally
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike, vigilance&lt;br&gt;Whenever Kazandu Blademaster or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Kazandu Blademaster.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.466
+      </rating>
+      <artist>Michael Komarck
+      </artist>
+      <num>16
+      </num>
+      <text>First strike, vigilance&lt;br&gt;Whenever Kazandu Blademaster or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Kazandu Blademaster.
+      </text>
+    </mc>
+    <mc>
+      <id>189635
+      </id>
+      <name>Kazandu Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Kazandu Refuge enters the battlefield tapped.&lt;br&gt;When Kazandu Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.262
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>217
+      </num>
+      <text>Kazandu Refuge enters the battlefield tapped.&lt;br&gt;When Kazandu Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>190408
+      </id>
+      <name>Kazuul Warlord
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Minotaur Warrior Ally
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Kazuul Warlord or another Ally enters the battlefield under your control, you may put a +1/+1 counter on each Ally creature you control.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.281
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>134
+      </num>
+      <text>Whenever Kazuul Warlord or another Ally enters the battlefield under your control, you may put a +1/+1 counter on each Ally creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>198519
+      </id>
+      <name>Khalni Gem
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>When Khalni Gem enters the battlefield, return two lands you control to their owner's hand.&lt;br&gt;{T}: Add two mana of any one color to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.798
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>205
+      </num>
+      <text>When Khalni Gem enters the battlefield, return two lands you control to their owner's hand.&lt;br&gt;{T}: Add two mana of any one color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>186320
+      </id>
+      <name>Khalni Heart Expedition
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.&lt;br&gt;Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.138
+      </rating>
+      <artist>Jason Chan
+      </artist>
+      <num>167
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.&lt;br&gt;Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>177530
+      </id>
+      <name>Kor Aeronaut
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Kor Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Kicker {1}{W} &lt;i&gt;(You may pay an additional {1}{W} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Kor Aeronaut enters the battlefield, if it was kicked, target creature gains flying until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.208
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>17
+      </num>
+      <text>Kicker {1}{W} &lt;i&gt;(You may pay an additional {1}{W} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Kor Aeronaut enters the battlefield, if it was kicked, target creature gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>170991
+      </id>
+      <name>Kor Cartographer
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Kor Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.557
+      </rating>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>18
+      </num>
+      <text>When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>177542
+      </id>
+      <name>Kor Duelist
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Kor Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>As long as Kor Duelist is equipped, it has double strike. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.372
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>19
+      </num>
+      <text>As long as Kor Duelist is equipped, it has double strike. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>178131
+      </id>
+      <name>Kor Hookmaster
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Kor Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.964
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>20
+      </num>
+      <text>When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>189637
+      </id>
+      <name>Kor Outfitter
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Kor Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Kor Outfitter enters the battlefield, you may attach target Equipment you control to target creature you control.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.907
+      </rating>
+      <artist>Kieran Yanner
+      </artist>
+      <num>21
+      </num>
+      <text>When Kor Outfitter enters the battlefield, you may attach target Equipment you control to target creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>192214
+      </id>
+      <name>Kor Sanctifiers
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Kor Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Kicker {W} &lt;i&gt;(You may pay an additional {W} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Kor Sanctifiers enters the battlefield, if it was kicked, destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.943
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>22
+      </num>
+      <text>Kicker {W} &lt;i&gt;(You may pay an additional {W} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Kor Sanctifiers enters the battlefield, if it was kicked, destroy target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>178145
+      </id>
+      <name>Kor Skyfisher
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Kor Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.346
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>23
+      </num>
+      <text>Flying&lt;br&gt;When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>177585
+      </id>
+      <name>Kraken Hatchling
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Kraken
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.335
+      </rating>
+      <artist>Jason Felix
+      </artist>
+      <num>50
+      </num>
+    </mc>
+    <mc>
+      <id>188999
+      </id>
+      <name>Landbind Ritual
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You gain 2 life for each Plains you control.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.079
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>24
+      </num>
+      <text>You gain 2 life for each Plains you control.
+      </text>
+    </mc>
+    <mc>
+      <id>197528
+      </id>
+      <name>Lavaball Trap
+      </name>
+      <cost>{6}{R}{R}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If an opponent had two or more lands enter the battlefield under his or her control this turn, you may pay {3}{R}{R} rather than pay Lavaball Trap's mana cost.&lt;br&gt;Destroy two target lands. Lavaball Trap deals 4 damage to each creature.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.643
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>135
+      </num>
+      <text>If an opponent had two or more lands enter the battlefield under his or her control this turn, you may pay {3}{R}{R} rather than pay Lavaball Trap's mana cost.&lt;br&gt;Destroy two target lands. Lavaball Trap deals 4 damage to each creature.
+      </text>
+    </mc>
+    <mc>
+      <id>197534
+      </id>
+      <name>Lethargy Trap
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If three or more creatures are attacking, you may pay {U} rather than pay Lethargy Trap's mana cost.&lt;br&gt;Attacking creatures get -3/-0 until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.955
+      </rating>
+      <artist>Anthony Francisco
+      </artist>
+      <num>51
+      </num>
+      <text>If three or more creatures are attacking, you may pay {U} rather than pay Lethargy Trap's mana cost.&lt;br&gt;Attacking creatures get -3/-0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>189636
+      </id>
+      <name>Living Tsunami
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Living Tsunami unless you return a land you control to its owner's hand.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.893
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>52
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Living Tsunami unless you return a land you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>191369
+      </id>
+      <name>Lorthos, the Tidemaker
+      </name>
+      <cost>{5}{U}{U}{U}
+      </cost>
+      <type>Legendary Creature - Octopus
+      </type>
+      <power>8
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>Whenever Lorthos, the Tidemaker attacks, you may pay {8}. If you do, tap up to eight target permanents. Those permanents don't untap during their controllers' next untap steps.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.227
+      </rating>
+      <artist>Kekai Kotaki
+      </artist>
+      <num>53
+      </num>
+      <text>Whenever Lorthos, the Tidemaker attacks, you may pay {8}. If you do, tap up to eight target permanents. Those permanents don't untap during their controllers' next untap steps.
+      </text>
+    </mc>
+    <mc>
+      <id>185749
+      </id>
+      <name>Lotus Cobra
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, you may add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.331
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>168
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, you may add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>190404
+      </id>
+      <name>Lullmage Mentor
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Merfolk Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever a spell or ability you control counters a spell, you may put a 1/1 blue Merfolk creature token onto the battlefield.&lt;br&gt;Tap seven untapped Merfolk you control: Counter target spell.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.208
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>54
+      </num>
+      <text>Whenever a spell or ability you control counters a spell, you may put a 1/1 blue Merfolk creature token onto the battlefield.&lt;br&gt;Tap seven untapped Merfolk you control: Counter target spell.
+      </text>
+    </mc>
+    <mc>
+      <id>197889
+      </id>
+      <name>Luminarch Ascension
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of each opponent's end step, if you didn't lose life this turn, you may put a quest counter on Luminarch Ascension. &lt;i&gt;(Damage causes loss of life.)&lt;/i&gt;&lt;br&gt;{1}{W}: Put a 4/4 white Angel creature token with flying onto the battlefield. Activate this ability only if Luminarch Ascension has four or more quest counters on it.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.479
+      </rating>
+      <artist>Michael Komarck
+      </artist>
+      <num>25
+      </num>
+      <text>At the beginning of each opponent's end step, if you didn't lose life this turn, you may put a quest counter on Luminarch Ascension. &lt;i&gt;(Damage causes loss of life.)&lt;/i&gt;&lt;br&gt;{1}{W}: Put a 4/4 white Angel creature token with flying onto the battlefield. Activate this ability only if Luminarch Ascension has four or more quest counters on it.
+      </text>
+    </mc>
+    <mc>
+      <id>180352
+      </id>
+      <name>Magma Rift
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Magma Rift, sacrifice a land.&lt;br&gt;Magma Rift deals 5 damage to target creature.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.214
+      </rating>
+      <artist>Jung Park
+      </artist>
+      <num>136
+      </num>
+      <text>As an additional cost to cast Magma Rift, sacrifice a land.&lt;br&gt;Magma Rift deals 5 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>190412
+      </id>
+      <name>Magosi, the Waterveil
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Magosi, the Waterveil enters the battlefield tapped.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{U}, {T}: Put an eon counter on Magosi, the Waterveil. Skip your next turn.&lt;br&gt;{T}, Remove an eon counter from Magosi, the Waterveil and return it to its owner's hand: Take an extra turn after this one.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.543
+      </rating>
+      <artist>Eric Deschamps
+      </artist>
+      <num>218
+      </num>
+      <text>Magosi, the Waterveil enters the battlefield tapped.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{U}, {T}: Put an eon counter on Magosi, the Waterveil. Skip your next turn.&lt;br&gt;{T}, Remove an eon counter from Magosi, the Waterveil and return it to its owner's hand: Take an extra turn after this one.
+      </text>
+    </mc>
+    <mc>
+      <id>195628
+      </id>
+      <name>Makindi Shieldmate
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Kor Soldier Ally
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Defender&lt;br&gt;Whenever Makindi Shieldmate or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Makindi Shieldmate.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.167
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>26
+      </num>
+      <text>Defender&lt;br&gt;Whenever Makindi Shieldmate or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Makindi Shieldmate.
+      </text>
+    </mc>
+    <mc>
+      <id>190398
+      </id>
+      <name>Malakir Bloodwitch
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Vampire Shaman
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying, protection from white&lt;br&gt;When Malakir Bloodwitch enters the battlefield, each opponent loses life equal to the number of Vampires you control. You gain life equal to the life lost this way.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.372
+      </rating>
+      <artist>Shelly Wan
+      </artist>
+      <num>100
+      </num>
+      <text>Flying, protection from white&lt;br&gt;When Malakir Bloodwitch enters the battlefield, each opponent loses life equal to the number of Vampires you control. You gain life equal to the life lost this way.
+      </text>
+    </mc>
+    <mc>
+      <id>186324
+      </id>
+      <name>Mark of Mutiny
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.616
+      </rating>
+      <artist>Mike Bierek
+      </artist>
+      <num>137
+      </num>
+      <text>Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>177543
+      </id>
+      <name>Marsh Casualties
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kicker {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Creatures target player controls get -1/-1 until end of turn. If Marsh Casualties was kicked, those creatures get -2/-2 until end of turn instead.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.971
+      </rating>
+      <artist>Scott Chou
+      </artist>
+      <num>101
+      </num>
+      <text>Kicker {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Creatures target player controls get -1/-1 until end of turn. If Marsh Casualties was kicked, those creatures get -2/-2 until end of turn instead.
+      </text>
+    </mc>
+    <mc>
+      <id>191371
+      </id>
+      <name>Marsh Flats
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card and put it onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.407
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>219
+      </num>
+      <text>{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card and put it onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>189625
+      </id>
+      <name>Merfolk Seastalkers
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Merfolk Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Islandwalk&lt;br&gt;{2}{U}: Tap target creature without flying.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.226
+      </rating>
+      <artist>Eric Deschamps
+      </artist>
+      <num>55
+      </num>
+      <text>Islandwalk&lt;br&gt;{2}{U}: Tap target creature without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>170978
+      </id>
+      <name>Merfolk Wayfinder
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Merfolk Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.516
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>56
+      </num>
+      <text>Flying&lt;br&gt;When Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>193403
+      </id>
+      <name>Mind Sludge
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards a card for each Swamp you control.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.028
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>102
+      </num>
+      <text>Target player discards a card for each Swamp you control.
+      </text>
+    </mc>
+    <mc>
+      <id>197532
+      </id>
+      <name>Mindbreak Trap
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If an opponent cast three or more spells this turn, you may pay {0} rather than pay Mindbreak Trap's mana cost.&lt;br&gt;Exile any number of target spells.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.399
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>57
+      </num>
+      <text>If an opponent cast three or more spells this turn, you may pay {0} rather than pay Mindbreak Trap's mana cost.&lt;br&gt;Exile any number of target spells.
+      </text>
+    </mc>
+    <mc>
+      <id>180415
+      </id>
+      <name>Mindless Null
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Mindless Null can't block unless you control a Vampire.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>0.877
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>103
+      </num>
+      <text>Mindless Null can't block unless you control a Vampire.
+      </text>
+    </mc>
+    <mc>
+      <id>190401
+      </id>
+      <name>Mire Blight
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When enchanted creature is dealt damage, destroy it.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>104
+      </num>
+      <text>Enchant creature&lt;br&gt;When enchanted creature is dealt damage, destroy it.
+      </text>
+    </mc>
+    <mc>
+      <id>190413
+      </id>
+      <name>Misty Rainforest
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card and put it onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.31
+      </rating>
+      <artist>Shelly Wan
+      </artist>
+      <num>220
+      </num>
+      <text>{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card and put it onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>183414
+      </id>
+      <name>Mold Shambler
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Fungus Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Kicker {1}{G} &lt;i&gt;(You may pay an additional {1}{G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.315
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>169
+      </num>
+      <text>Kicker {1}{G} &lt;i&gt;(You may pay an additional {1}{G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>191359
+      </id>
+      <name>Molten Ravager
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{R}: Molten Ravager gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.435
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>138
+      </num>
+      <text>{R}: Molten Ravager gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>201967
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.77
+      </rating>
+      <artist>Jung Park
+      </artist>
+      <num>243
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>195634
+      </id>
+      <name>Murasa Pyromancer
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Human Shaman Ally
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Murasa Pyromancer or another Ally enters the battlefield under your control, you may have Murasa Pyromancer deal damage to target creature equal to the number of Allies you control.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.311
+      </rating>
+      <artist>Kekai Kotaki
+      </artist>
+      <num>139
+      </num>
+      <text>Whenever Murasa Pyromancer or another Ally enters the battlefield under your control, you may have Murasa Pyromancer deal damage to target creature equal to the number of Allies you control.
+      </text>
+    </mc>
+    <mc>
+      <id>180360
+      </id>
+      <name>Narrow Escape
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target permanent you control to its owner's hand. You gain 4 life.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.662
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>27
+      </num>
+      <text>Return target permanent you control to its owner's hand. You gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>197529
+      </id>
+      <name>Needlebite Trap
+      </name>
+      <cost>{5}{B}{B}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If an opponent gained life this turn, you may pay {B} rather than pay Needlebite Trap's mana cost.&lt;br&gt;Target player loses 5 life and you gain 5 life.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.2
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>105
+      </num>
+      <text>If an opponent gained life this turn, you may pay {B} rather than pay Needlebite Trap's mana cost.&lt;br&gt;Target player loses 5 life and you gain 5 life.
+      </text>
+    </mc>
+    <mc>
+      <id>197403
+      </id>
+      <name>Nimana Sell-Sword
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Human Warrior Ally
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Nimana Sell-Sword or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Nimana Sell-Sword.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.333
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>106
+      </num>
+      <text>Whenever Nimana Sell-Sword or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Nimana Sell-Sword.
+      </text>
+    </mc>
+    <mc>
+      <id>180346
+      </id>
+      <name>Nimbus Wings
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+2 and has flying.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.163
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>28
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+2 and has flying.
+      </text>
+    </mc>
+    <mc>
+      <id>190411
+      </id>
+      <name>Nissa Revane
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Planeswalker - Nissa
+      </type>
+      <toughness>2
+      </toughness>
+      <oracleText>+1: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library.&lt;br&gt;+1: You gain 2 life for each Elf you control.&lt;br&gt;-7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>3.991
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>170
+      </num>
+      <text>+1: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library.&lt;br&gt;+1: You gain 2 life for each Elf you control.&lt;br&gt;-7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>185699
+      </id>
+      <name>Nissa's Chosen
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Creature - Elf Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>If Nissa's Chosen would die, put it on the bottom of its owner's library instead.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.303
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>171
+      </num>
+      <text>If Nissa's Chosen would die, put it on the bottom of its owner's library instead.
+      </text>
+    </mc>
+    <mc>
+      <id>171001
+      </id>
+      <name>Noble Vestige
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{T}: Prevent the next 1 damage that would be dealt to target player this turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.693
+      </rating>
+      <artist>Jason Chan
+      </artist>
+      <num>29
+      </num>
+      <text>Flying&lt;br&gt;{T}: Prevent the next 1 damage that would be dealt to target player this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>192219
+      </id>
+      <name>Ob Nixilis, the Fallen
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Legendary Creature - Demon
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, you may have target player lose 3 life. If you do, put three +1/+1 counters on Ob Nixilis, the Fallen.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.431
+      </rating>
+      <artist>Jason Felix
+      </artist>
+      <num>107
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, you may have target player lose 3 life. If you do, put three +1/+1 counters on Ob Nixilis, the Fallen.
+      </text>
+    </mc>
+    <mc>
+      <id>192224
+      </id>
+      <name>Obsidian Fireheart
+      </name>
+      <cost>{1}{R}{R}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{1}{R}{R}: Put a blaze counter on target land without a blaze counter on it. For as long as that land has a blaze counter on it, it has "At the beginning of your upkeep, this land deals 1 damage to you." &lt;i&gt;(The land continues to burn after Obsidian Fireheart has left the battlefield.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.378
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>140
+      </num>
+      <text>{1}{R}{R}: Put a blaze counter on target land without a blaze counter on it. For as long as that land has a blaze counter on it, it has "At the beginning of your upkeep, this land deals 1 damage to you." &lt;i&gt;(The land continues to burn after Obsidian Fireheart has left the battlefield.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>192210
+      </id>
+      <name>Ondu Cleric
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Kor Cleric Ally
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Ondu Cleric or another Ally enters the battlefield under your control, you may gain life equal to the number of Allies you control.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.328
+      </rating>
+      <artist>Jim Murray
+      </artist>
+      <num>30
+      </num>
+      <text>Whenever Ondu Cleric or another Ally enters the battlefield under your control, you may gain life equal to the number of Allies you control.
+      </text>
+    </mc>
+    <mc>
+      <id>185737
+      </id>
+      <name>Oracle of Mul Daya
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elf Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>You may play an additional land on each of your turns.&lt;br&gt;Play with the top card of your library revealed.&lt;br&gt;You may play the top card of your library if it's a land card.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.341
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>172
+      </num>
+      <text>You may play an additional land on each of your turns.&lt;br&gt;Play with the top card of your library revealed.&lt;br&gt;You may play the top card of your library if it's a land card.
+      </text>
+    </mc>
+    <mc>
+      <id>185696
+      </id>
+      <name>Oran-Rief Recluse
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Kicker {2}{G} &lt;i&gt;(You may pay an additional {2}{G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;When Oran-Rief Recluse enters the battlefield, if it was kicked, destroy target creature with flying.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.172
+      </rating>
+      <artist>Lars Grant-West
+      </artist>
+      <num>173
+      </num>
+      <text>Kicker {2}{G} &lt;i&gt;(You may pay an additional {2}{G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;When Oran-Rief Recluse enters the battlefield, if it was kicked, destroy target creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>178138
+      </id>
+      <name>Oran-Rief Survivalist
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Human Warrior Ally
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Oran-Rief Survivalist or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Oran-Rief Survivalist.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.07
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>174
+      </num>
+      <text>Whenever Oran-Rief Survivalist or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Oran-Rief Survivalist.
+      </text>
+    </mc>
+    <mc>
+      <id>190417
+      </id>
+      <name>Oran-Rief, the Vastwood
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Oran-Rief, the Vastwood enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}: Put a +1/+1 counter on each green creature that entered the battlefield this turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.371
+      </rating>
+      <artist>Mike Bierek
+      </artist>
+      <num>221
+      </num>
+      <text>Oran-Rief, the Vastwood enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}: Put a +1/+1 counter on each green creature that entered the battlefield this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>178109
+      </id>
+      <name>Paralyzing Grasp
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.773
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>58
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>190395
+      </id>
+      <name>Pillarfield Ox
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Ox
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.78
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>31
+      </num>
+    </mc>
+    <mc>
+      <id>169975
+      </id>
+      <name>Piranha Marsh
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Piranha Marsh enters the battlefield tapped.&lt;br&gt;When Piranha Marsh enters the battlefield, target player loses 1 life.&lt;br&gt;{T}: Add {B} to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.595
+      </rating>
+      <artist>Nic Klein
+      </artist>
+      <num>222
+      </num>
+      <text>Piranha Marsh enters the battlefield tapped.&lt;br&gt;When Piranha Marsh enters the battlefield, target player loses 1 life.&lt;br&gt;{T}: Add {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>197533
+      </id>
+      <name>Pitfall Trap
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If exactly one creature is attacking, you may pay {W} rather than pay Pitfall Trap's mana cost.&lt;br&gt;Destroy target attacking creature without flying.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.317
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>32
+      </num>
+      <text>If exactly one creature is attacking, you may pay {W} rather than pay Pitfall Trap's mana cost.&lt;br&gt;Destroy target attacking creature without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>201972
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.559
+      </rating>
+      <artist>Jung Park
+      </artist>
+      <num>231
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>170977
+      </id>
+      <name>Plated Geopede
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, Plated Geopede gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.389
+      </rating>
+      <artist>Eric Deschamps
+      </artist>
+      <num>141
+      </num>
+      <text>First strike&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, Plated Geopede gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>169958
+      </id>
+      <name>Predatory Urge
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has "{T}: This creature deals damage equal to its power to target creature. That creature deals damage equal to its power to this creature."
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.907
+      </rating>
+      <artist>Scott Chou
+      </artist>
+      <num>175
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has "{T}: This creature deals damage equal to its power to target creature. That creature deals damage equal to its power to this creature."
+      </text>
+    </mc>
+    <mc>
+      <id>193407
+      </id>
+      <name>Primal Bellow
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +1/+1 until end of turn for each Forest you control.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.342
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>176
+      </num>
+      <text>Target creature gets +1/+1 until end of turn for each Forest you control.
+      </text>
+    </mc>
+    <mc>
+      <id>192217
+      </id>
+      <name>Punishing Fire
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Punishing Fire deals 2 damage to target creature or player.&lt;br&gt;Whenever an opponent gains life, you may pay {R}. If you do, return Punishing Fire from your graveyard to your hand.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.272
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>142
+      </num>
+      <text>Punishing Fire deals 2 damage to target creature or player.&lt;br&gt;Whenever an opponent gains life, you may pay {R}. If you do, return Punishing Fire from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>197891
+      </id>
+      <name>Pyromancer Ascension
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever you cast an instant or sorcery spell that has the same name as a card in your graveyard, you may put a quest counter on Pyromancer Ascension.&lt;br&gt;Whenever you cast an instant or sorcery spell while Pyromancer Ascension has two or more quest counters on it, you may copy that spell. You may choose new targets for the copy.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.365
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>143
+      </num>
+      <text>Whenever you cast an instant or sorcery spell that has the same name as a card in your graveyard, you may put a quest counter on Pyromancer Ascension.&lt;br&gt;Whenever you cast an instant or sorcery spell while Pyromancer Ascension has two or more quest counters on it, you may copy that spell. You may choose new targets for the copy.
+      </text>
+    </mc>
+    <mc>
+      <id>195635
+      </id>
+      <name>Quest for Ancient Secrets
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a card is put into your graveyard from anywhere, you may put a quest counter on Quest for Ancient Secrets.&lt;br&gt;Remove five quest counters from Quest for Ancient Secrets and sacrifice it: Target player shuffles his or her graveyard into his or her library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.819
+      </rating>
+      <artist>Mike Bierek
+      </artist>
+      <num>59
+      </num>
+      <text>Whenever a card is put into your graveyard from anywhere, you may put a quest counter on Quest for Ancient Secrets.&lt;br&gt;Remove five quest counters from Quest for Ancient Secrets and sacrifice it: Target player shuffles his or her graveyard into his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>197407
+      </id>
+      <name>Quest for Pure Flame
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a source you control deals damage to an opponent, you may put a quest counter on Quest for Pure Flame.&lt;br&gt;Remove four quest counters from Quest for Pure Flame and sacrifice it: If any source you control would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.327
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>144
+      </num>
+      <text>Whenever a source you control deals damage to an opponent, you may put a quest counter on Quest for Pure Flame.&lt;br&gt;Remove four quest counters from Quest for Pure Flame and sacrifice it: If any source you control would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.
+      </text>
+    </mc>
+    <mc>
+      <id>195572
+      </id>
+      <name>Quest for the Gemblades
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature you control deals combat damage to a creature, you may put a quest counter on Quest for the Gemblades.&lt;br&gt;Remove a quest counter from Quest for the Gemblades and sacrifice it: Put four +1/+1 counters on target creature.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.32
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>177
+      </num>
+      <text>Whenever a creature you control deals combat damage to a creature, you may put a quest counter on Quest for the Gemblades.&lt;br&gt;Remove a quest counter from Quest for the Gemblades and sacrifice it: Put four +1/+1 counters on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>180448
+      </id>
+      <name>Quest for the Gravelord
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature dies, you may put a quest counter on Quest for the Gravelord.&lt;br&gt;Remove three quest counters from Quest for the Gravelord and sacrifice it: Put a 5/5 black Zombie Giant creature token onto the battlefield.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.364
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>108
+      </num>
+      <text>Whenever a creature dies, you may put a quest counter on Quest for the Gravelord.&lt;br&gt;Remove three quest counters from Quest for the Gravelord and sacrifice it: Put a 5/5 black Zombie Giant creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>197406
+      </id>
+      <name>Quest for the Holy Relic
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever you cast a creature spell, you may put a quest counter on Quest for the Holy Relic.&lt;br&gt;Remove five quest counters from Quest for the Holy Relic and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, and attach it to a creature you control. Then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.729
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>33
+      </num>
+      <text>Whenever you cast a creature spell, you may put a quest counter on Quest for the Holy Relic.&lt;br&gt;Remove five quest counters from Quest for the Holy Relic and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, and attach it to a creature you control. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>192222
+      </id>
+      <name>Rampaging Baloths
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may put a 4/4 green Beast creature token onto the battlefield.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>178
+      </num>
+      <text>Trample&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may put a 4/4 green Beast creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>197537
+      </id>
+      <name>Ravenous Trap
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If an opponent had three or more cards put into his or her graveyard from anywhere this turn, you may pay {0} rather than pay Ravenous Trap's mana cost.&lt;br&gt;Exile all cards from target player's graveyard.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.1
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>109
+      </num>
+      <text>If an opponent had three or more cards put into his or her graveyard from anywhere this turn, you may pay {0} rather than pay Ravenous Trap's mana cost.&lt;br&gt;Exile all cards from target player's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>180493
+      </id>
+      <name>Reckless Scholar
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Target player draws a card, then discards a card.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.652
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>60
+      </num>
+      <text>{T}: Target player draws a card, then discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>178115
+      </id>
+      <name>Relic Crush
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or enchantment and up to one other target artifact or enchantment.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.061
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>179
+      </num>
+      <text>Destroy target artifact or enchantment and up to one other target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>195630
+      </id>
+      <name>Rite of Replication
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kicker {5} &lt;i&gt;(You may pay an additional {5} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Put a token that's a copy of target creature onto the battlefield. If Rite of Replication was kicked, put five of those tokens onto the battlefield instead.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.425
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>61
+      </num>
+      <text>Kicker {5} &lt;i&gt;(You may pay an additional {5} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Put a token that's a copy of target creature onto the battlefield. If Rite of Replication was kicked, put five of those tokens onto the battlefield instead.
+      </text>
+    </mc>
+    <mc>
+      <id>197405
+      </id>
+      <name>River Boa
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Islandwalk&lt;br&gt;{G}: Regenerate River Boa.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.375
+      </rating>
+      <artist>Paul Bonner
+      </artist>
+      <num>180
+      </num>
+      <text>Islandwalk&lt;br&gt;{G}: Regenerate River Boa.
+      </text>
+    </mc>
+    <mc>
+      <id>185712
+      </id>
+      <name>Roil Elemental
+      </name>
+      <cost>{3}{U}{U}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may gain control of target creature for as long as you control Roil Elemental.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.243
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>62
+      </num>
+      <text>Flying&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may gain control of target creature for as long as you control Roil Elemental.
+      </text>
+    </mc>
+    <mc>
+      <id>189624
+      </id>
+      <name>Ruinous Minotaur
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Minotaur Warrior
+      </type>
+      <power>5
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Ruinous Minotaur deals damage to an opponent, sacrifice a land.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.019
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>145
+      </num>
+      <text>Whenever Ruinous Minotaur deals damage to an opponent, sacrifice a land.
+      </text>
+    </mc>
+    <mc>
+      <id>197536
+      </id>
+      <name>Runeflare Trap
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If an opponent drew three or more cards this turn, you may pay {R} rather than pay Runeflare Trap's mana cost.&lt;br&gt;Runeflare Trap deals damage to target player equal to the number of cards in that player's hand.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.731
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>146
+      </num>
+      <text>If an opponent drew three or more cards this turn, you may pay {R} rather than pay Runeflare Trap's mana cost.&lt;br&gt;Runeflare Trap deals damage to target player equal to the number of cards in that player's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>195632
+      </id>
+      <name>Sadistic Sacrament
+      </name>
+      <cost>{B}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kicker {7} &lt;i&gt;(You may pay an additional {7} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Search target player's library for up to three cards, exile them, then that player shuffles his or her library. If Sadistic Sacrament was kicked, instead search that player's library for up to fifteen cards, exile them, then that player shuffles his or her library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.38
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>110
+      </num>
+      <text>Kicker {7} &lt;i&gt;(You may pay an additional {7} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Search target player's library for up to three cards, exile them, then that player shuffles his or her library. If Sadistic Sacrament was kicked, instead search that player's library for up to fifteen cards, exile them, then that player shuffles his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>186316
+      </id>
+      <name>Savage Silhouette
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has "{1}{G}: Regenerate this creature."
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.456
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>181
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has "{1}{G}: Regenerate this creature."
+      </text>
+    </mc>
+    <mc>
+      <id>190393
+      </id>
+      <name>Scalding Tarn
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card and put it onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.347
+      </rating>
+      <artist>Philip Straub
+      </artist>
+      <num>223
+      </num>
+      <text>{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card and put it onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>180455
+      </id>
+      <name>Scute Mob
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.417
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>182
+      </num>
+      <text>At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.
+      </text>
+    </mc>
+    <mc>
+      <id>178113
+      </id>
+      <name>Scythe Tiger
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Shroud &lt;i&gt;(This creature can't be the target of spells or abilities.)&lt;/i&gt;&lt;br&gt;When Scythe Tiger enters the battlefield, sacrifice it unless you sacrifice a land.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.823
+      </rating>
+      <artist>Michael Komarck
+      </artist>
+      <num>183
+      </num>
+      <text>Shroud &lt;i&gt;(This creature can't be the target of spells or abilities.)&lt;/i&gt;&lt;br&gt;When Scythe Tiger enters the battlefield, sacrifice it unless you sacrifice a land.
+      </text>
+    </mc>
+    <mc>
+      <id>195629
+      </id>
+      <name>Sea Gate Loremaster
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Merfolk Wizard Ally
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Draw a card for each Ally you control.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.158
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>63
+      </num>
+      <text>{T}: Draw a card for each Ally you control.
+      </text>
+    </mc>
+    <mc>
+      <id>195631
+      </id>
+      <name>Seascape Aerialist
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Merfolk Wizard Ally
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Seascape Aerialist or another Ally enters the battlefield under your control, you may have Ally creatures you control gain flying until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.958
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>64
+      </num>
+      <text>Whenever Seascape Aerialist or another Ally enters the battlefield under your control, you may have Ally creatures you control gain flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>180134
+      </id>
+      <name>Seismic Shudder
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Seismic Shudder deals 1 damage to each creature without flying.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.017
+      </rating>
+      <artist>Vincent Proce
+      </artist>
+      <num>147
+      </num>
+      <text>Seismic Shudder deals 1 damage to each creature without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>189626
+      </id>
+      <name>Sejiri Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Sejiri Refuge enters the battlefield tapped.&lt;br&gt;When Sejiri Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>224
+      </num>
+      <text>Sejiri Refuge enters the battlefield tapped.&lt;br&gt;When Sejiri Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>180505
+      </id>
+      <name>Shatterskull Giant
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Giant Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.111
+      </rating>
+      <artist>Kekai Kotaki
+      </artist>
+      <num>148
+      </num>
+    </mc>
+    <mc>
+      <id>193399
+      </id>
+      <name>Shepherd of the Lost
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying, first strike, vigilance
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.093
+      </rating>
+      <artist>Kekai Kotaki
+      </artist>
+      <num>34
+      </num>
+      <text>Flying, first strike, vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>178119
+      </id>
+      <name>Shieldmate's Blessing
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent the next 3 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.488
+      </rating>
+      <artist>Mike Bierek
+      </artist>
+      <num>35
+      </num>
+      <text>Prevent the next 3 damage that would be dealt to target creature or player this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>177517
+      </id>
+      <name>Shoal Serpent
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Serpent
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Defender&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, Shoal Serpent loses defender until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.521
+      </rating>
+      <artist>Trevor Claxton
+      </artist>
+      <num>65
+      </num>
+      <text>Defender&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, Shoal Serpent loses defender until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>192211
+      </id>
+      <name>Sky Ruin Drake
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.375
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>66
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>178136
+      </id>
+      <name>Slaughter Cry
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +3/+0 and gains first strike until end of turn. &lt;i&gt;(It deals combat damage before creatures without first strike.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.65
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>149
+      </num>
+      <text>Target creature gets +3/+0 and gains first strike until end of turn. &lt;i&gt;(It deals combat damage before creatures without first strike.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>177541
+      </id>
+      <name>Soaring Seacliff
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Soaring Seacliff enters the battlefield tapped.&lt;br&gt;When Soaring Seacliff enters the battlefield, target creature gains flying until end of turn.&lt;br&gt;{T}: Add {U} to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.742
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>225
+      </num>
+      <text>Soaring Seacliff enters the battlefield tapped.&lt;br&gt;When Soaring Seacliff enters the battlefield, target creature gains flying until end of turn.&lt;br&gt;{T}: Add {U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>195403
+      </id>
+      <name>Sorin Markov
+      </name>
+      <cost>{3}{B}{B}{B}
+      </cost>
+      <type>Planeswalker - Sorin
+      </type>
+      <toughness>4
+      </toughness>
+      <oracleText>+2: Sorin Markov deals 2 damage to target creature or player and you gain 2 life.&lt;br&gt;-3: Target opponent's life total becomes 10.&lt;br&gt;-7: You control target player during that player's next turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.388
+      </rating>
+      <artist>Michael Komarck
+      </artist>
+      <num>111
+      </num>
+      <text>+2: Sorin Markov deals 2 damage to target creature or player and you gain 2 life.&lt;br&gt;-3: Target opponent's life total becomes 10.&lt;br&gt;-7: You control target player during that player's next turn.
+      </text>
+    </mc>
+    <mc>
+      <id>177586
+      </id>
+      <name>Soul Stair Expedition
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Soul Stair Expedition.&lt;br&gt;Remove three quest counters from Soul Stair Expedition and sacrifice it: Return up to two target creature cards from your graveyard to your hand.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.907
+      </rating>
+      <artist>Anthony Francisco
+      </artist>
+      <num>112
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Soul Stair Expedition.&lt;br&gt;Remove three quest counters from Soul Stair Expedition and sacrifice it: Return up to two target creature cards from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>178144
+      </id>
+      <name>Spell Pierce
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target noncreature spell unless its controller pays {2}.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.363
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>67
+      </num>
+      <text>Counter target noncreature spell unless its controller pays {2}.
+      </text>
+    </mc>
+    <mc>
+      <id>185709
+      </id>
+      <name>Sphinx of Jwar Isle
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Creature - Sphinx
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying, shroud&lt;br&gt;You may look at the top card of your library. &lt;i&gt;(You may do this at any time.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.482
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>68
+      </num>
+      <text>Flying, shroud&lt;br&gt;You may look at the top card of your library. &lt;i&gt;(You may do this at any time.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>185751
+      </id>
+      <name>Sphinx of Lost Truths
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Sphinx
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Kicker {1}{U} &lt;i&gt;(You may pay an additional {1}{U} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Sphinx of Lost Truths enters the battlefield, draw three cards. Then if it wasn't kicked, discard three cards.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.993
+      </rating>
+      <artist>Shelly Wan
+      </artist>
+      <num>69
+      </num>
+      <text>Kicker {1}{U} &lt;i&gt;(You may pay an additional {1}{U} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Sphinx of Lost Truths enters the battlefield, draw three cards. Then if it wasn't kicked, discard three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>178134
+      </id>
+      <name>Spidersilk Net
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +0/+2 and has reach. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.852
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>206
+      </num>
+      <text>Equipped creature gets +0/+2 and has reach. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>180495
+      </id>
+      <name>Spire Barrage
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Spire Barrage deals damage to target creature or player equal to the number of Mountains you control.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.02
+      </rating>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>150
+      </num>
+      <text>Spire Barrage deals damage to target creature or player equal to the number of Mountains you control.
+      </text>
+    </mc>
+    <mc>
+      <id>190405
+      </id>
+      <name>Spreading Seas
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;When Spreading Seas enters the battlefield, draw a card.&lt;br&gt;Enchanted land is an Island.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.377
+      </rating>
+      <artist>Jung Park
+      </artist>
+      <num>70
+      </num>
+      <text>Enchant land&lt;br&gt;When Spreading Seas enters the battlefield, draw a card.&lt;br&gt;Enchanted land is an Island.
+      </text>
+    </mc>
+    <mc>
+      <id>171012
+      </id>
+      <name>Steppe Lynx
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, Steppe Lynx gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.341
+      </rating>
+      <artist>Nic Klein
+      </artist>
+      <num>36
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, Steppe Lynx gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>190397
+      </id>
+      <name>Stonework Puma
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Cat Ally
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.589
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>207
+      </num>
+    </mc>
+    <mc>
+      <id>191360
+      </id>
+      <name>Summoner's Bane
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target creature spell. Put a 2/2 blue Illusion creature token onto the battlefield.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.545
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>71
+      </num>
+      <text>Counter target creature spell. Put a 2/2 blue Illusion creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>197527
+      </id>
+      <name>Summoning Trap
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If a creature spell you cast this turn was countered by a spell or ability an opponent controlled, you may pay {0} rather than pay Summoning Trap's mana cost.&lt;br&gt;Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.366
+      </rating>
+      <artist>Kieran Yanner
+      </artist>
+      <num>184
+      </num>
+      <text>If a creature spell you cast this turn was countered by a spell or ability an opponent controlled, you may pay {0} rather than pay Summoning Trap's mana cost.&lt;br&gt;Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>177551
+      </id>
+      <name>Sunspring Expedition
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Sunspring Expedition.&lt;br&gt;Remove three quest counters from Sunspring Expedition and sacrifice it: You gain 8 life.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.54
+      </rating>
+      <artist>Chris J. Anderson
+      </artist>
+      <num>37
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Sunspring Expedition.&lt;br&gt;Remove three quest counters from Sunspring Expedition and sacrifice it: You gain 8 life.
+      </text>
+    </mc>
+    <mc>
+      <id>180465
+      </id>
+      <name>Surrakar Marauder
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Surrakar
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, Surrakar Marauder gains intimidate until end of turn. &lt;i&gt;(It can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>113
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, Surrakar Marauder gains intimidate until end of turn. &lt;i&gt;(It can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>201978
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.859
+      </rating>
+      <artist>Jung Park
+      </artist>
+      <num>239
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>180457
+      </id>
+      <name>Tajuru Archer
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf Archer Ally
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Tajuru Archer or another Ally enters the battlefield under your control, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.333
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>185
+      </num>
+      <text>Whenever Tajuru Archer or another Ally enters the battlefield under your control, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.
+      </text>
+    </mc>
+    <mc>
+      <id>191355
+      </id>
+      <name>Tanglesap
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all combat damage that would be dealt this turn by creatures without trample.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.088
+      </rating>
+      <artist>Trevor Claxton
+      </artist>
+      <num>186
+      </num>
+      <text>Prevent all combat damage that would be dealt this turn by creatures without trample.
+      </text>
+    </mc>
+    <mc>
+      <id>177549
+      </id>
+      <name>Teetering Peaks
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Teetering Peaks enters the battlefield tapped.&lt;br&gt;When Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.&lt;br&gt;{T}: Add {R} to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.013
+      </rating>
+      <artist>Fred Fields
+      </artist>
+      <num>226
+      </num>
+      <text>Teetering Peaks enters the battlefield tapped.&lt;br&gt;When Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.&lt;br&gt;{T}: Add {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>180482
+      </id>
+      <name>Tempest Owl
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Kicker {4}{U} &lt;i&gt;(You may pay an additional {4}{U} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Tempest Owl enters the battlefield, if it was kicked, tap up to three target permanents.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.952
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>72
+      </num>
+      <text>Kicker {4}{U} &lt;i&gt;(You may pay an additional {4}{U} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Tempest Owl enters the battlefield, if it was kicked, tap up to three target permanents.
+      </text>
+    </mc>
+    <mc>
+      <id>186321
+      </id>
+      <name>Terra Stomper
+      </name>
+      <cost>{3}{G}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>8
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>Terra Stomper can't be countered.&lt;br&gt;Trample
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.386
+      </rating>
+      <artist>Goran Josic
+      </artist>
+      <num>187
+      </num>
+      <text>Terra Stomper can't be countered.&lt;br&gt;Trample
+      </text>
+    </mc>
+    <mc>
+      <id>170971
+      </id>
+      <name>Territorial Baloth
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, Territorial Baloth gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.167
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>188
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, Territorial Baloth gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>180458
+      </id>
+      <name>Timbermaw Larva
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Timbermaw Larva attacks, it gets +1/+1 until end of turn for each Forest you control.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.353
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>189
+      </num>
+      <text>Whenever Timbermaw Larva attacks, it gets +1/+1 until end of turn for each Forest you control.
+      </text>
+    </mc>
+    <mc>
+      <id>180423
+      </id>
+      <name>Torch Slinger
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Kicker {1}{R} &lt;i&gt;(You may pay an additional {1}{R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Torch Slinger enters the battlefield, if it was kicked, it deals 2 damage to target creature.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.05
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>151
+      </num>
+      <text>Kicker {1}{R} &lt;i&gt;(You may pay an additional {1}{R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Torch Slinger enters the battlefield, if it was kicked, it deals 2 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>190410
+      </id>
+      <name>Trailblazer's Boots
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has nonbasic landwalk. &lt;i&gt;(It's unblockable as long as defending player controls a nonbasic land.)&lt;/i&gt;&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.375
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>208
+      </num>
+      <text>Equipped creature has nonbasic landwalk. &lt;i&gt;(It's unblockable as long as defending player controls a nonbasic land.)&lt;/i&gt;&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>192212
+      </id>
+      <name>Trapfinder's Trick
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player reveals his or her hand and discards all Trap cards.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.143
+      </rating>
+      <artist>Philip Straub
+      </artist>
+      <num>73
+      </num>
+      <text>Target player reveals his or her hand and discards all Trap cards.
+      </text>
+    </mc>
+    <mc>
+      <id>192223
+      </id>
+      <name>Trapmaker's Snare
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Search your library for a Trap card, reveal it, and put it into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.847
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>74
+      </num>
+      <text>Search your library for a Trap card, reveal it, and put it into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>193396
+      </id>
+      <name>Trusty Machete
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +2/+1.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.226
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>209
+      </num>
+      <text>Equipped creature gets +2/+1.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>192229
+      </id>
+      <name>Tuktuk Grunts
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Goblin Warrior Ally
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Whenever Tuktuk Grunts or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Tuktuk Grunts.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.103
+      </rating>
+      <artist>Mike Bierek
+      </artist>
+      <num>152
+      </num>
+      <text>Haste&lt;br&gt;Whenever Tuktuk Grunts or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Tuktuk Grunts.
+      </text>
+    </mc>
+    <mc>
+      <id>178140
+      </id>
+      <name>Turntimber Basilisk
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Basilisk
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may have target creature block Turntimber Basilisk this turn if able.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.878
+      </rating>
+      <artist>Goran Josic
+      </artist>
+      <num>190
+      </num>
+      <text>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, you may have target creature block Turntimber Basilisk this turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>169977
+      </id>
+      <name>Turntimber Grove
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Turntimber Grove enters the battlefield tapped.&lt;br&gt;When Turntimber Grove enters the battlefield, target creature gets +1/+1 until end of turn.&lt;br&gt;{T}: Add {G} to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.3
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>227
+      </num>
+      <text>Turntimber Grove enters the battlefield tapped.&lt;br&gt;When Turntimber Grove enters the battlefield, target creature gets +1/+1 until end of turn.&lt;br&gt;{T}: Add {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>169971
+      </id>
+      <name>Turntimber Ranger
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Elf Scout Ally
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Turntimber Ranger or another Ally enters the battlefield under your control, you may put a 2/2 green Wolf creature token onto the battlefield. If you do, put a +1/+1 counter on Turntimber Ranger.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.346
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>191
+      </num>
+      <text>Whenever Turntimber Ranger or another Ally enters the battlefield under your control, you may put a 2/2 green Wolf creature token onto the battlefield. If you do, put a +1/+1 counter on Turntimber Ranger.
+      </text>
+    </mc>
+    <mc>
+      <id>180447
+      </id>
+      <name>Umara Raptor
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Bird Ally
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Umara Raptor or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Umara Raptor.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.054
+      </rating>
+      <artist>Sam Wood
+      </artist>
+      <num>75
+      </num>
+      <text>Flying&lt;br&gt;Whenever Umara Raptor or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Umara Raptor.
+      </text>
+    </mc>
+    <mc>
+      <id>192209
+      </id>
+      <name>Unstable Footing
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker {3}{R} &lt;i&gt;(You may pay an additional {3}{R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Damage can't be prevented this turn. If Unstable Footing was kicked, it deals 5 damage to target player.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.225
+      </rating>
+      <artist>Nic Klein
+      </artist>
+      <num>153
+      </num>
+      <text>Kicker {3}{R} &lt;i&gt;(You may pay an additional {3}{R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Damage can't be prevented this turn. If Unstable Footing was kicked, it deals 5 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>190400
+      </id>
+      <name>Valakut, the Molten Pinnacle
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Valakut, the Molten Pinnacle enters the battlefield tapped.&lt;br&gt;Whenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to target creature or player.&lt;br&gt;{T}: Add {R} to your mana pool.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.353
+      </rating>
+      <artist>Kieran Yanner
+      </artist>
+      <num>228
+      </num>
+      <text>Valakut, the Molten Pinnacle enters the battlefield tapped.&lt;br&gt;Whenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to target creature or player.&lt;br&gt;{T}: Add {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>192232
+      </id>
+      <name>Vampire Hexmage
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Vampire Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Sacrifice Vampire Hexmage: Remove all counters from target permanent.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.532
+      </rating>
+      <artist>Eric Deschamps
+      </artist>
+      <num>114
+      </num>
+      <text>First strike&lt;br&gt;Sacrifice Vampire Hexmage: Remove all counters from target permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>192225
+      </id>
+      <name>Vampire Lacerator
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Vampire Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, you lose 1 life unless an opponent has 10 or less life.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.294
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>115
+      </num>
+      <text>At the beginning of your upkeep, you lose 1 life unless an opponent has 10 or less life.
+      </text>
+    </mc>
+    <mc>
+      <id>185707
+      </id>
+      <name>Vampire Nighthawk
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Vampire Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.711
+      </rating>
+      <artist>Jason Chan
+      </artist>
+      <num>116
+      </num>
+      <text>Flying&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>178150
+      </id>
+      <name>Vampire's Bite
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker {2}{B} &lt;i&gt;(You may pay an additional {2}{B} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target creature gets +3/+0 until end of turn. If Vampire's Bite was kicked, that creature gains lifelink until end of turn. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.039
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>117
+      </num>
+      <text>Kicker {2}{B} &lt;i&gt;(You may pay an additional {2}{B} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target creature gets +3/+0 until end of turn. If Vampire's Bite was kicked, that creature gains lifelink until end of turn. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>180454
+      </id>
+      <name>Vastwood Gorger
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.286
+      </rating>
+      <artist>Kieran Yanner
+      </artist>
+      <num>192
+      </num>
+    </mc>
+    <mc>
+      <id>193400
+      </id>
+      <name>Verdant Catacombs
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card and put it onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.341
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>229
+      </num>
+      <text>{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card and put it onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>177571
+      </id>
+      <name>Vines of Vastwood
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker {G} &lt;i&gt;(You may pay an additional {G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target creature can't be the target of spells or abilities your opponents control this turn. If Vines of Vastwood was kicked, that creature gets +4/+4 until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.513
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>193
+      </num>
+      <text>Kicker {G} &lt;i&gt;(You may pay an additional {G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target creature can't be the target of spells or abilities your opponents control this turn. If Vines of Vastwood was kicked, that creature gets +4/+4 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>191368
+      </id>
+      <name>Warren Instigator
+      </name>
+      <cost>{R}{R}
+      </cost>
+      <type>Creature - Goblin Berserker
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Double strike&lt;br&gt;Whenever Warren Instigator deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.485
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>154
+      </num>
+      <text>Double strike&lt;br&gt;Whenever Warren Instigator deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>191353
+      </id>
+      <name>Welkin Tern
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Welkin Tern can block only creatures with flying.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.573
+      </rating>
+      <artist>Austin Hsu
+      </artist>
+      <num>76
+      </num>
+      <text>Flying&lt;br&gt;Welkin Tern can block only creatures with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>197526
+      </id>
+      <name>Whiplash Trap
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Instant - Trap
+      </type>
+      <oracleText>If an opponent had two or more creatures enter the battlefield under his or her control this turn, you may pay {U} rather than pay Whiplash Trap's mana cost.&lt;br&gt;Return two target creatures to their owners' hands.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.03
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>77
+      </num>
+      <text>If an opponent had two or more creatures enter the battlefield under his or her control this turn, you may pay {U} rather than pay Whiplash Trap's mana cost.&lt;br&gt;Return two target creatures to their owners' hands.
+      </text>
+    </mc>
+    <mc>
+      <id>190418
+      </id>
+      <name>Windborne Charge
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Two target creatures you control each get +2/+2 and gain flying until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.188
+      </rating>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>38
+      </num>
+      <text>Two target creatures you control each get +2/+2 and gain flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>170982
+      </id>
+      <name>Windrider Eel
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Fish
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, Windrider Eel gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.841
+      </rating>
+      <artist>Austin Hsu
+      </artist>
+      <num>78
+      </num>
+      <text>Flying&lt;br&gt;Landfall- Whenever a land enters the battlefield under your control, Windrider Eel gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>191376
+      </id>
+      <name>World Queller
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Avatar
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>At the beginning of your upkeep, you may choose a card type. If you do, each player sacrifices a permanent of that type.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.39
+      </rating>
+      <artist>James Paick
+      </artist>
+      <num>39
+      </num>
+      <text>At the beginning of your upkeep, you may choose a card type. If you do, each player sacrifices a permanent of that type.
+      </text>
+    </mc>
+    <mc>
+      <id>183403
+      </id>
+      <name>Zektar Shrine Expedition
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Zektar Shrine Expedition.&lt;br&gt;Remove three quest counters from Zektar Shrine Expedition and sacrifice it: Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step.
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.264
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>155
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, you may put a quest counter on Zektar Shrine Expedition.&lt;br&gt;Remove three quest counters from Zektar Shrine Expedition and sacrifice it: Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>189620
+      </id>
+      <name>Zendikar Farguide
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Forestwalk
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.489
+      </rating>
+      <artist>Vincent Proce
+      </artist>
+      <num>194
+      </num>
+      <text>Forestwalk
+      </text>
+    </mc>
+    <mc>
+      <id>201959
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.929
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>246
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>195158
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.979
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>246
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>195192
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.382
+      </rating>
+      <artist>Jung Park
+      </artist>
+      <num>247
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>201960
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.808
+      </rating>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>248
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>195177
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.933
+      </rating>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>248
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>201961
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.353
+      </rating>
+      <artist>Vincent Proce
+      </artist>
+      <num>249
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>195183
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.727
+      </rating>
+      <artist>Vincent Proce
+      </artist>
+      <num>249
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>201966
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.893
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>234
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>195187
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.658
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>234
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>195165
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.614
+      </rating>
+      <artist>Jung Park
+      </artist>
+      <num>235
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>201963
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.862
+      </rating>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>236
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>195161
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.604
+      </rating>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>236
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>201965
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.56
+      </rating>
+      <artist>Vincent Proce
+      </artist>
+      <num>237
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>195170
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.86
+      </rating>
+      <artist>Vincent Proce
+      </artist>
+      <num>237
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>201968
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.778
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>242
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>195178
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.618
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>242
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>195171
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.357
+      </rating>
+      <artist>Jung Park
+      </artist>
+      <num>243
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>201969
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.797
+      </rating>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>244
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>195181
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.763
+      </rating>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>244
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>201970
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.724
+      </rating>
+      <artist>Vincent Proce
+      </artist>
+      <num>245
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>195184
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.425
+      </rating>
+      <artist>Vincent Proce
+      </artist>
+      <num>245
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>201973
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.625
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>230
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>195179
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.962
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>230
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>195173
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.75
+      </rating>
+      <artist>Jung Park
+      </artist>
+      <num>231
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>201974
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.635
+      </rating>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>232
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>195196
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.615
+      </rating>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>232
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>201971
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.917
+      </rating>
+      <artist>Vincent Proce
+      </artist>
+      <num>233
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>195163
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.638
+      </rating>
+      <artist>Vincent Proce
+      </artist>
+      <num>233
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>201977
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.935
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>238
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>195172
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.75
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>238
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>195194
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.769
+      </rating>
+      <artist>Jung Park
+      </artist>
+      <num>239
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>201976
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.808
+      </rating>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>240
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>195159
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.812
+      </rating>
+      <artist>Véronique Meignaud
+      </artist>
+      <num>240
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>201975
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.361
+      </rating>
+      <artist>Vincent Proce
+      </artist>
+      <num>241
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>195157
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Zendikar
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.868
+      </rating>
+      <artist>Vincent Proce
+      </artist>
+      <num>241
+      </num>
+      <text>B
+      </text>
+    </mc>
+  </list>
+</cards>

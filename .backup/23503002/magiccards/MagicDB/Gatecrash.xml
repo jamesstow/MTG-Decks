@@ -1,0 +1,5973 @@
+
+<cards>
+  <name>Gatecrash</name>
+  <key>Gatecrash</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>366305
+      </id>
+      <name>Act of Treason
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. &lt;i&gt;(It can attack and {T} this turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>85
+      </num>
+      <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. &lt;i&gt;(It can attack and {T} this turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366290
+      </id>
+      <name>Adaptive Snapjaw
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Lizard Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Tomasz Jedruszek
+      </artist>
+      <num>113
+      </num>
+      <text>Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366294
+      </id>
+      <name>Aerial Maneuver
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +1/+1 and gains flying and first strike until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Scott Chou
+      </artist>
+      <num>1
+      </num>
+      <text>Target creature gets +1/+1 and gains flying and first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366273
+      </id>
+      <name>Ætherize
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return all attacking creatures to their owner's hand.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>29
+      </num>
+      <text>Return all attacking creatures to their owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>366258
+      </id>
+      <name>Agoraphobia
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -5/-0.&lt;br&gt;{2}{U}: Return Agoraphobia to its owner's hand.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jim Murray
+      </artist>
+      <num>30
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -5/-0.&lt;br&gt;{2}{U}: Return Agoraphobia to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>366402
+      </id>
+      <name>Alms Beast
+      </name>
+      <cost>{2}{W}{B}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Creatures blocking or blocked by Alms Beast have lifelink.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>141
+      </num>
+      <text>Creatures blocking or blocked by Alms Beast have lifelink.
+      </text>
+    </mc>
+    <mc>
+      <id>366325
+      </id>
+      <name>Alpha Authority
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has hexproof and can't be blocked by more than one creature.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>114
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has hexproof and can't be blocked by more than one creature.
+      </text>
+    </mc>
+    <mc>
+      <id>366400
+      </id>
+      <name>Angelic Edict
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Exile target creature or enchantment.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Trevor Claxton
+      </artist>
+      <num>2
+      </num>
+      <text>Exile target creature or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>366395
+      </id>
+      <name>Angelic Skirmisher
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of each combat, choose first strike, vigilance, or lifelink. Creatures you control gain that ability until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>David Rapoza
+      </artist>
+      <num>3
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of each combat, choose first strike, vigilance, or lifelink. Creatures you control gain that ability until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366344
+      </id>
+      <name>Armored Transport
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Prevent all combat damage that would be dealt to Armored Transport by creatures blocking it.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Cliff Childs
+      </artist>
+      <num>226
+      </num>
+      <text>Prevent all combat damage that would be dealt to Armored Transport by creatures blocking it.
+      </text>
+    </mc>
+    <mc>
+      <id>366381
+      </id>
+      <name>Arrows of Justice
+      </name>
+      <cost>{2}{R/W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Arrows of Justice deals 4 damage to target attacking or blocking creature.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>211
+      </num>
+      <text>Arrows of Justice deals 4 damage to target attacking or blocking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>366337
+      </id>
+      <name>Assault Griffin
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Griffin
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Eric Velhagen
+      </artist>
+      <num>x
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>366470
+      </id>
+      <name>Assemble the Legion
+      </name>
+      <cost>{3}{R}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, put a muster counter on Assemble the Legion. Then put a 1/1 red and white Soldier creature token with haste onto the battlefield for each muster counter on Assemble the Legion.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>142
+      </num>
+      <text>At the beginning of your upkeep, put a muster counter on Assemble the Legion. Then put a 1/1 red and white Soldier creature token with haste onto the battlefield for each muster counter on Assemble the Legion.
+      </text>
+    </mc>
+    <mc>
+      <id>366448
+      </id>
+      <name>Aurelia, the Warleader
+      </name>
+      <cost>{2}{R}{R}{W}{W}
+      </cost>
+      <type>Legendary Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying, vigilance, haste&lt;br&gt;Whenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>143
+      </num>
+      <text>Flying, vigilance, haste&lt;br&gt;Whenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.
+      </text>
+    </mc>
+    <mc>
+      <id>366384
+      </id>
+      <name>Aurelia's Fury
+      </name>
+      <cost>{X}{R}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Aurelia's Fury deals X damage divided as you choose among any number of target creatures and/or players. Tap each creature dealt damage this way. Players dealt damage this way can't cast noncreature spells this turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>144
+      </num>
+      <text>Aurelia's Fury deals X damage divided as you choose among any number of target creatures and/or players. Tap each creature dealt damage this way. Players dealt damage this way can't cast noncreature spells this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366464
+      </id>
+      <name>Balustrade Spy
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Vampire Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Balustrade Spy enters the battlefield, target player reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>57
+      </num>
+      <text>Flying&lt;br&gt;When Balustrade Spy enters the battlefield, target player reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>366475
+      </id>
+      <name>Bane Alley Broker
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Draw a card, then exile a card from your hand face down.&lt;br&gt;You may look at cards exiled with Bane Alley Broker.&lt;br&gt;{U}{B}, {T}: Return a card exiled with Bane Alley Broker to its owner's hand.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>145
+      </num>
+      <text>{T}: Draw a card, then exile a card from your hand face down.&lt;br&gt;You may look at cards exiled with Bane Alley Broker.&lt;br&gt;{U}{B}, {T}: Return a card exiled with Bane Alley Broker to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>366347
+      </id>
+      <name>Basilica Guards
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender&lt;br&gt;Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>5
+      </num>
+      <text>Defender&lt;br&gt;Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366321
+      </id>
+      <name>Basilica Screecher
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Bat
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christine Choi
+      </artist>
+      <num>58
+      </num>
+      <text>Flying&lt;br&gt;Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366461
+      </id>
+      <name>Beckon Apparition
+      </name>
+      <cost>{W/B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target card from a graveyard. Put a 1/1 white and black Spirit creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Cliff Childs
+      </artist>
+      <num>212
+      </num>
+      <text>Exile target card from a graveyard. Put a 1/1 white and black Spirit creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>366312
+      </id>
+      <name>Biomass Mutation
+      </name>
+      <cost>{X}{G/U}{G/U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Creatures you control become X/X until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>213
+      </num>
+      <text>Creatures you control become X/X until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366299
+      </id>
+      <name>Bioshift
+      </name>
+      <cost>{G/U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Move any number of +1/+1 counters from target creature onto another target creature with the same controller.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Scott Chou
+      </artist>
+      <num>214
+      </num>
+      <text>Move any number of +1/+1 counters from target creature onto another target creature with the same controller.
+      </text>
+    </mc>
+    <mc>
+      <id>366414
+      </id>
+      <name>Biovisionary
+      </name>
+      <cost>{1}{G}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>At the beginning of the end step, if you control four or more creatures named Biovisionary, you win the game.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>146
+      </num>
+      <text>At the beginning of the end step, if you control four or more creatures named Biovisionary, you win the game.
+      </text>
+    </mc>
+    <mc>
+      <id>366465
+      </id>
+      <name>Blind Obedience
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;&lt;br&gt;Artifacts and creatures your opponents control enter the battlefield tapped.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>6
+      </num>
+      <text>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;&lt;br&gt;Artifacts and creatures your opponents control enter the battlefield tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>366370
+      </id>
+      <name>Bomber Corps
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Battalion- Whenever Bomber Corps and at least two other creatures attack, Bomber Corps deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>86
+      </num>
+      <text>Battalion- Whenever Bomber Corps and at least two other creatures attack, Bomber Corps deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>366283
+      </id>
+      <name>Borborygmos Enraged
+      </name>
+      <cost>{4}{R}{R}{G}{G}
+      </cost>
+      <type>Legendary Creature - Cyclops
+      </type>
+      <power>7
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Whenever Borborygmos Enraged deals combat damage to a player, reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.&lt;br&gt;Discard a land card: Borborygmos Enraged deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>147
+      </num>
+      <text>Trample&lt;br&gt;Whenever Borborygmos Enraged deals combat damage to a player, reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.&lt;br&gt;Discard a land card: Borborygmos Enraged deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>366435
+      </id>
+      <name>Boros Charm
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Boros Charm deals 4 damage to target player; or permanents you control gain indestructible until end of turn; or target creature gains double strike until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>148
+      </num>
+      <text>Choose one- Boros Charm deals 4 damage to target player; or permanents you control gain indestructible until end of turn; or target creature gains double strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366369
+      </id>
+      <name>Boros Elite
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Battalion- Whenever Boros Elite and at least two other creatures attack, Boros Elite gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>7
+      </num>
+      <text>Battalion- Whenever Boros Elite and at least two other creatures attack, Boros Elite gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366390
+      </id>
+      <name>Boros Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Boros Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {W} to your mana pool.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>239
+      </num>
+      <text>Boros Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>366413
+      </id>
+      <name>Boros Keyrune
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {R} or {W} to your mana pool.&lt;br&gt;{R}{W}: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature with double strike until end of turn. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>227
+      </num>
+      <text>{T}: Add {R} or {W} to your mana pool.&lt;br&gt;{R}{W}: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature with double strike until end of turn. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366385
+      </id>
+      <name>Boros Reckoner
+      </name>
+      <cost>{R/W}{R/W}{R/W}
+      </cost>
+      <type>Creature - Minotaur Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Boros Reckoner is dealt damage, it deals that much damage to target creature or player.&lt;br&gt;{R/W}: Boros Reckoner gains first strike until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Howard Lyon
+      </artist>
+      <num>215
+      </num>
+      <text>Whenever Boros Reckoner is dealt damage, it deals that much damage to target creature or player.&lt;br&gt;{R/W}: Boros Reckoner gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366291
+      </id>
+      <name>Breeding Pool
+      </name>
+      <type>Land - Forest Island
+      </type>
+      <oracleText>&lt;i&gt;({T}: Add {G} or {U} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, Breeding Pool enters the battlefield tapped.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>240
+      </num>
+      <text>&lt;i&gt;({T}: Add {G} or {U} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Breeding Pool enters the battlefield, you may pay 2 life. If you don't, Breeding Pool enters the battlefield tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>366467
+      </id>
+      <name>Burning-Tree Emissary
+      </name>
+      <cost>{R/G}{R/G}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Burning-Tree Emissary enters the battlefield, add {R}{G} to your mana pool.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Izzy
+      </artist>
+      <num>216
+      </num>
+      <text>When Burning-Tree Emissary enters the battlefield, add {R}{G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>366304
+      </id>
+      <name>Burst of Strength
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put a +1/+1 counter on target creature and untap it.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Marco Nelor
+      </artist>
+      <num>115
+      </num>
+      <text>Put a +1/+1 counter on target creature and untap it.
+      </text>
+    </mc>
+    <mc>
+      <id>366308
+      </id>
+      <name>Call of the Nightwing
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put a 1/1 blue and black Horror creature token with flying onto the battlefield.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>149
+      </num>
+      <text>Put a 1/1 blue and black Horror creature token with flying onto the battlefield.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366364
+      </id>
+      <name>Cartel Aristocrat
+      </name>
+      <cost>{W}{B}
+      </cost>
+      <type>Creature - Human Advisor
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacrifice another creature: Cartel Aristocrat gains protection from the color of your choice until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>150
+      </num>
+      <text>Sacrifice another creature: Cartel Aristocrat gains protection from the color of your choice until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366314
+      </id>
+      <name>Cinder Elemental
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{X}{R}, {T}, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to target creature or player.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>x
+      </num>
+      <text>{X}{R}, {T}, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>366468
+      </id>
+      <name>Clan Defiance
+      </name>
+      <cost>{X}{R}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose one or more- Clan Defiance deals X damage to target creature with flying; Clan Defiance deals X damage to target creature without flying; and/or Clan Defiance deals X damage to target player.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>151
+      </num>
+      <text>Choose one or more- Clan Defiance deals X damage to target creature with flying; Clan Defiance deals X damage to target creature without flying; and/or Clan Defiance deals X damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>366363
+      </id>
+      <name>Clinging Anemones
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Jellyfish
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender&lt;br&gt;Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>31
+      </num>
+      <text>Defender&lt;br&gt;Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366403
+      </id>
+      <name>Cloudfin Raptor
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Bird Mutant
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>32
+      </num>
+      <text>Flying&lt;br&gt;Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366408
+      </id>
+      <name>Coerced Confession
+      </name>
+      <cost>{4}{U/B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player puts the top four cards of his or her library into his or her graveyard. You draw a card for each creature card put into that graveyard this way.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>217
+      </num>
+      <text>Target player puts the top four cards of his or her library into his or her graveyard. You draw a card for each creature card put into that graveyard this way.
+      </text>
+    </mc>
+    <mc>
+      <id>366391
+      </id>
+      <name>Consuming Aberration
+      </name>
+      <cost>{3}{U}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>Consuming Aberration's power and toughness are each equal to the number of cards in your opponents' graveyards.&lt;br&gt;Whenever you cast a spell, each opponent reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>152
+      </num>
+      <text>Consuming Aberration's power and toughness are each equal to the number of cards in your opponents' graveyards.&lt;br&gt;Whenever you cast a spell, each opponent reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>366420
+      </id>
+      <name>Contaminated Ground
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;Enchanted land is a Swamp.&lt;br&gt;Whenever enchanted land becomes tapped, its controller loses 2 life.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christine Choi
+      </artist>
+      <num>x
+      </num>
+      <text>Enchant land&lt;br&gt;Enchanted land is a Swamp.&lt;br&gt;Whenever enchanted land becomes tapped, its controller loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>366277
+      </id>
+      <name>Corpse Blockade
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender&lt;br&gt;Sacrifice another creature: Corpse Blockade gains deathtouch until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>60
+      </num>
+      <text>Defender&lt;br&gt;Sacrifice another creature: Corpse Blockade gains deathtouch until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366389
+      </id>
+      <name>Court Street Denizen
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever another white creature enters the battlefield under your control, tap target creature an opponent controls.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>8
+      </num>
+      <text>Whenever another white creature enters the battlefield under your control, tap target creature an opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>366255
+      </id>
+      <name>Crackling Perimeter
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Tap an untapped Gate you control: Crackling Perimeter deals 1 damage to each opponent.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>88
+      </num>
+      <text>Tap an untapped Gate you control: Crackling Perimeter deals 1 damage to each opponent.
+      </text>
+    </mc>
+    <mc>
+      <id>366319
+      </id>
+      <name>Crocanura
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Crocodile Frog
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jack Wang
+      </artist>
+      <num>116
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366256
+      </id>
+      <name>Crowned Ceratok
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Rhino
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Each creature you control with a +1/+1 counter on it has trample.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>117
+      </num>
+      <text>Trample&lt;br&gt;Each creature you control with a +1/+1 counter on it has trample.
+      </text>
+    </mc>
+    <mc>
+      <id>366452
+      </id>
+      <name>Crypt Ghast
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;&lt;br&gt;Whenever you tap a Swamp for mana, add {B} to your mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>61
+      </num>
+      <text>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;&lt;br&gt;Whenever you tap a Swamp for mana, add {B} to your mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </text>
+    </mc>
+    <mc>
+      <id>366251
+      </id>
+      <name>Daring Skyjek
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Battalion- Whenever Daring Skyjek and at least two other creatures attack, Daring Skyjek gains flying until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jason Chan
+      </artist>
+      <num>9
+      </num>
+      <text>Battalion- Whenever Daring Skyjek and at least two other creatures attack, Daring Skyjek gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366254
+      </id>
+      <name>Deathcult Rogue
+      </name>
+      <cost>{1}{U/B}{U/B}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Deathcult Rogue can't be blocked except by Rogues.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>218
+      </num>
+      <text>Deathcult Rogue can't be blocked except by Rogues.
+      </text>
+    </mc>
+    <mc>
+      <id>366278
+      </id>
+      <name>Deathpact Angel
+      </name>
+      <cost>{3}{W}{B}{B}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Deathpact Angel dies, put a 1/1 white and black Cleric creature token onto the battlefield. It has "{3}{W}{B}{B}, {T}, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield."
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Jason Chan
+      </artist>
+      <num>153
+      </num>
+      <text>Flying&lt;br&gt;When Deathpact Angel dies, put a 1/1 white and black Cleric creature token onto the battlefield. It has "{3}{W}{B}{B}, {T}, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield."
+      </text>
+    </mc>
+    <mc>
+      <id>366300
+      </id>
+      <name>Death's Approach
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -X/-X, where X is the number of creature cards in its controller's graveyard.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Terese Nielsen
+      </artist>
+      <num>62
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -X/-X, where X is the number of creature cards in its controller's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>366268
+      </id>
+      <name>Debtor's Pulpit
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;Enchanted land has "{T}: Tap target creature."
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>James Paick
+      </artist>
+      <num>10
+      </num>
+      <text>Enchant land&lt;br&gt;Enchanted land has "{T}: Tap target creature."
+      </text>
+    </mc>
+    <mc>
+      <id>366379
+      </id>
+      <name>Devour Flesh
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player sacrifices a creature, then gains life equal to that creature's toughness.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>63
+      </num>
+      <text>Target player sacrifices a creature, then gains life equal to that creature's toughness.
+      </text>
+    </mc>
+    <mc>
+      <id>366326
+      </id>
+      <name>Diluvian Primordial
+      </name>
+      <cost>{5}{U}{U}
+      </cost>
+      <type>Creature - Avatar
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Diluvian Primordial enters the battlefield, for each opponent, you may cast up to one target instant or sorcery card from that player's graveyard without paying its mana cost. If a card cast this way would be put into a graveyard this turn, exile it instead.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Stephan Martiniere
+      </artist>
+      <num>33
+      </num>
+      <text>Flying&lt;br&gt;When Diluvian Primordial enters the battlefield, for each opponent, you may cast up to one target instant or sorcery card from that player's graveyard without paying its mana cost. If a card cast this way would be put into a graveyard this turn, exile it instead.
+      </text>
+    </mc>
+    <mc>
+      <id>366473
+      </id>
+      <name>Dimir Charm
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Counter target sorcery spell; or destroy target creature with power 2 or less; or look at the top three cards of target player's library, then put one back and the rest into that player's graveyard.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>154
+      </num>
+      <text>Choose one- Counter target sorcery spell; or destroy target creature with power 2 or less; or look at the top three cards of target player's library, then put one back and the rest into that player's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>366313
+      </id>
+      <name>Dimir Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Dimir Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Cliff Childs
+      </artist>
+      <num>241
+      </num>
+      <text>Dimir Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>366270
+      </id>
+      <name>Dimir Keyrune
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {U} or {B} to your mana pool.&lt;br&gt;{U}{B}: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature until end of turn and can't be blocked this turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>228
+      </num>
+      <text>{T}: Add {U} or {B} to your mana pool.&lt;br&gt;{U}{B}: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature until end of turn and can't be blocked this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366453
+      </id>
+      <name>Dinrova Horror
+      </name>
+      <cost>{4}{U}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Dinrova Horror enters the battlefield, return target permanent to its owner's hand, then that player discards a card.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>155
+      </num>
+      <text>When Dinrova Horror enters the battlefield, return target permanent to its owner's hand, then that player discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>366447
+      </id>
+      <name>Disciple of the Old Ways
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}: Disciple of the Old Ways gains first strike until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Anthony Palumbo
+      </artist>
+      <num>118
+      </num>
+      <text>{R}: Disciple of the Old Ways gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366367
+      </id>
+      <name>Domri Rade
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Planeswalker - Domri
+      </type>
+      <toughness>3
+      </toughness>
+      <oracleText>+1: Look at the top card of your library. If it's a creature card, you may reveal it and put it into your hand.&lt;br&gt;-2: Target creature you control fights another target creature.&lt;br&gt;-7: You get an emblem with "Creatures you control have double strike, trample, hexproof, and haste."
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>156
+      </num>
+      <text>+1: Look at the top card of your library. If it's a creature card, you may reveal it and put it into your hand.&lt;br&gt;-2: Target creature you control fights another target creature.&lt;br&gt;-7: You get an emblem with "Creatures you control have double strike, trample, hexproof, and haste."
+      </text>
+    </mc>
+    <mc>
+      <id>366292
+      </id>
+      <name>Drakewing Krasis
+      </name>
+      <cost>{1}{G}{U}
+      </cost>
+      <type>Creature - Lizard Drake
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying, trample
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>157
+      </num>
+      <text>Flying, trample
+      </text>
+    </mc>
+    <mc>
+      <id>366328
+      </id>
+      <name>Duskmantle Guildmage
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{U}{B}: Whenever a card is put into an opponent's graveyard from anywhere this turn, that player loses 1 life.&lt;br&gt;{2}{U}{B}: Target player puts the top two cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>158
+      </num>
+      <text>{1}{U}{B}: Whenever a card is put into an opponent's graveyard from anywhere this turn, that player loses 1 life.&lt;br&gt;{2}{U}{B}: Target player puts the top two cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>366310
+      </id>
+      <name>Duskmantle Seer
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Creature - Vampire Wizard
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, each player reveals the top card of his or her library, loses life equal to that card's converted mana cost, then puts it into his or her hand.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>159
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, each player reveals the top card of his or her library, loses life equal to that card's converted mana cost, then puts it into his or her hand.
+      </text>
+    </mc>
+    <mc>
+      <id>366457
+      </id>
+      <name>Dutiful Thrull
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{B}: Regenerate Dutiful Thrull.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>11
+      </num>
+      <text>{B}: Regenerate Dutiful Thrull.
+      </text>
+    </mc>
+    <mc>
+      <id>366382
+      </id>
+      <name>Dying Wish
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature you control&lt;br&gt;When enchanted creature dies, target player loses X life and you gain X life, where X is its power.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Scott Chou
+      </artist>
+      <num>64
+      </num>
+      <text>Enchant creature you control&lt;br&gt;When enchanted creature dies, target player loses X life and you gain X life, where X is its power.
+      </text>
+    </mc>
+    <mc>
+      <id>366279
+      </id>
+      <name>Elusive Krasis
+      </name>
+      <cost>{1}{G}{U}
+      </cost>
+      <type>Creature - Fish Mutant
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Elusive Krasis can't be blocked.&lt;br&gt;Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Wesley Burt
+      </artist>
+      <num>160
+      </num>
+      <text>Elusive Krasis can't be blocked.&lt;br&gt;Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366306
+      </id>
+      <name>Ember Beast
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Ember Beast can't attack or block alone.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>David Rapoza
+      </artist>
+      <num>89
+      </num>
+      <text>Ember Beast can't attack or block alone.
+      </text>
+    </mc>
+    <mc>
+      <id>366411
+      </id>
+      <name>Enter the Infinite
+      </name>
+      <cost>{8}{U}{U}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw cards equal to the number of cards in your library, then put a card from your hand on top of your library. You have no maximum hand size until your next turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Terese Nielsen
+      </artist>
+      <num>34
+      </num>
+      <text>Draw cards equal to the number of cards in your library, then put a card from your hand on top of your library. You have no maximum hand size until your next turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366444
+      </id>
+      <name>Executioner's Swing
+      </name>
+      <cost>{W}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature that dealt damage this turn gets -5/-5 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>161
+      </num>
+      <text>Target creature that dealt damage this turn gets -5/-5 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366441
+      </id>
+      <name>Experiment One
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Human Ooze
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;&lt;br&gt;Remove two +1/+1 counters from Experiment One: Regenerate Experiment One.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>119
+      </num>
+      <text>Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;&lt;br&gt;Remove two +1/+1 counters from Experiment One: Regenerate Experiment One.
+      </text>
+    </mc>
+    <mc>
+      <id>366399
+      </id>
+      <name>Fathom Mage
+      </name>
+      <cost>{2}{G}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;&lt;br&gt;Whenever a +1/+1 counter is placed on Fathom Mage, you may draw a card.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>162
+      </num>
+      <text>Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;&lt;br&gt;Whenever a +1/+1 counter is placed on Fathom Mage, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>366311
+      </id>
+      <name>Firefist Striker
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Battalion- Whenever Firefist Striker and at least two other creatures attack, target creature can't block this turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>90
+      </num>
+      <text>Battalion- Whenever Firefist Striker and at least two other creatures attack, target creature can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366341
+      </id>
+      <name>Firemane Avenger
+      </name>
+      <cost>{2}{R}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Battalion- Whenever Firemane Avenger and at least two other creatures attack, Firemane Avenger deals 3 damage to target creature or player and you gain 3 life.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>163
+      </num>
+      <text>Flying&lt;br&gt;Battalion- Whenever Firemane Avenger and at least two other creatures attack, Firemane Avenger deals 3 damage to target creature or player and you gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>366386
+      </id>
+      <name>Five-Alarm Fire
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature you control deals combat damage, put a blaze counter on Five-Alarm Fire.&lt;br&gt;Remove five blaze counters from Five-Alarm Fire: Five-Alarm Fire deals 5 damage to target creature or player.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>91
+      </num>
+      <text>Whenever a creature you control deals combat damage, put a blaze counter on Five-Alarm Fire.&lt;br&gt;Remove five blaze counters from Five-Alarm Fire: Five-Alarm Fire deals 5 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>366336
+      </id>
+      <name>Forced Adaptation
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;At the beginning of your upkeep, put a +1/+1 counter on enchanted creature.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Trevor Claxton
+      </artist>
+      <num>120
+      </num>
+      <text>Enchant creature&lt;br&gt;At the beginning of your upkeep, put a +1/+1 counter on enchanted creature.
+      </text>
+    </mc>
+    <mc>
+      <id>366280
+      </id>
+      <name>Fortress Cyclops
+      </name>
+      <cost>{3}{R}{W}
+      </cost>
+      <type>Creature - Cyclops Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Fortress Cyclops attacks, it gets +3/+0 until end of turn.&lt;br&gt;Whenever Fortress Cyclops blocks, it gets +0/+3 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Maciej Kuciara
+      </artist>
+      <num>164
+      </num>
+      <text>Whenever Fortress Cyclops attacks, it gets +3/+0 until end of turn.&lt;br&gt;Whenever Fortress Cyclops blocks, it gets +0/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366431
+      </id>
+      <name>Foundry Champion
+      </name>
+      <cost>{4}{R}{W}
+      </cost>
+      <type>Creature - Elemental Soldier
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Foundry Champion enters the battlefield, it deals damage to target creature or player equal to the number of creatures you control.&lt;br&gt;{R}: Foundry Champion gets +1/+0 until end of turn.&lt;br&gt;{W}: Foundry Champion gets +0/+1 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Todd Lockwood
+      </artist>
+      <num>165
+      </num>
+      <text>When Foundry Champion enters the battlefield, it deals damage to target creature or player equal to the number of creatures you control.&lt;br&gt;{R}: Foundry Champion gets +1/+0 until end of turn.&lt;br&gt;{W}: Foundry Champion gets +0/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366472
+      </id>
+      <name>Foundry Street Denizen
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raoul Vitale
+      </artist>
+      <num>92
+      </num>
+      <text>Whenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366295
+      </id>
+      <name>Frenzied Tilling
+      </name>
+      <cost>{3}{R}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target land. Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>x
+      </num>
+      <text>Destroy target land. Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>366298
+      </id>
+      <name>Frilled Oculus
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Homunculus
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{1}{G}: Frilled Oculus gets +2/+2 until end of turn. Activate this ability only once each turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Marco Nelor
+      </artist>
+      <num>35
+      </num>
+      <text>{1}{G}: Frilled Oculus gets +2/+2 until end of turn. Activate this ability only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366460
+      </id>
+      <name>Frontline Medic
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Battalion- Whenever Frontline Medic and at least two other creatures attack, creatures you control gain indestructible until end of turn.&lt;br&gt;Sacrifice Frontline Medic: Counter target spell with {X} in its mana cost unless its controller pays {3}.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>12
+      </num>
+      <text>Battalion- Whenever Frontline Medic and at least two other creatures attack, creatures you control gain indestructible until end of turn.&lt;br&gt;Sacrifice Frontline Medic: Counter target spell with {X} in its mana cost unless its controller pays {3}.
+      </text>
+    </mc>
+    <mc>
+      <id>366309
+      </id>
+      <name>Furious Resistance
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target blocking creature gets +3/+0 and gains first strike until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>93
+      </num>
+      <text>Target blocking creature gets +3/+0 and gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366438
+      </id>
+      <name>Gateway Shade
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Shade
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{B}: Gateway Shade gets +1/+1 until end of turn.&lt;br&gt;Tap an untapped Gate you control: Gateway Shade gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Yee
+      </artist>
+      <num>65
+      </num>
+      <text>{B}: Gateway Shade gets +1/+1 until end of turn.&lt;br&gt;Tap an untapped Gate you control: Gateway Shade gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366287
+      </id>
+      <name>Ghor-Clan Rampager
+      </name>
+      <cost>{2}{R}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Bloodrush- {R}{G}, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Charles Urbach
+      </artist>
+      <num>167
+      </num>
+      <text>Trample&lt;br&gt;Bloodrush- {R}{G}, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366394
+      </id>
+      <name>Giant Adephage
+      </name>
+      <cost>{5}{G}{G}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Whenever Giant Adephage deals combat damage to a player, put a token onto the battlefield that's a copy of Giant Adephage.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Christine Choi
+      </artist>
+      <num>121
+      </num>
+      <text>Trample&lt;br&gt;Whenever Giant Adephage deals combat damage to a player, put a token onto the battlefield that's a copy of Giant Adephage.
+      </text>
+    </mc>
+    <mc>
+      <id>366345
+      </id>
+      <name>Gideon, Champion of Justice
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Planeswalker - Gideon
+      </type>
+      <toughness>4
+      </toughness>
+      <oracleText>+1: Put a loyalty counter on Gideon, Champion of Justice for each creature target opponent controls.&lt;br&gt;0: Until end of turn, Gideon, Champion of Justice becomes a Human Soldier creature with power and toughness each equal to the number of loyalty counters on him and gains indestructible. He's still a planeswalker. Prevent all damage that would be dealt to him this turn.&lt;br&gt;-15: Exile all other permanents.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>David Rapoza
+      </artist>
+      <num>13
+      </num>
+      <text>+1: Put a loyalty counter on Gideon, Champion of Justice for each creature target opponent controls.&lt;br&gt;0: Until end of turn, Gideon, Champion of Justice becomes a Human Soldier creature with power and toughness each equal to the number of loyalty counters on him and gains indestructible. He's still a planeswalker. Prevent all damage that would be dealt to him this turn.&lt;br&gt;-15: Exile all other permanents.
+      </text>
+    </mc>
+    <mc>
+      <id>366339
+      </id>
+      <name>Gift of Orzhova
+      </name>
+      <cost>{1}{W/B}{W/B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has flying and lifelink.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Johannes Voss
+      </artist>
+      <num>219
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has flying and lifelink.
+      </text>
+    </mc>
+    <mc>
+      <id>366334
+      </id>
+      <name>Glaring Spotlight
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Creatures your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.&lt;br&gt;{3}, Sacrifice Glaring Spotlight: Creatures you control gain hexproof until end of turn and can't be blocked this turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>229
+      </num>
+      <text>Creatures your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.&lt;br&gt;{3}, Sacrifice Glaring Spotlight: Creatures you control gain hexproof until end of turn and can't be blocked this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366302
+      </id>
+      <name>Godless Shrine
+      </name>
+      <type>Land - Plains Swamp
+      </type>
+      <oracleText>&lt;i&gt;({T}: Add {W} or {B} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Cliff Childs
+      </artist>
+      <num>242
+      </num>
+      <text>&lt;i&gt;({T}: Add {W} or {B} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>366440
+      </id>
+      <name>Greenside Watcher
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Untap target Gate.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>122
+      </num>
+      <text>{T}: Untap target Gate.
+      </text>
+    </mc>
+    <mc>
+      <id>366330
+      </id>
+      <name>Gridlock
+      </name>
+      <cost>{X}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Tap X target nonland permanents.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>36
+      </num>
+      <text>Tap X target nonland permanents.
+      </text>
+    </mc>
+    <mc>
+      <id>366396
+      </id>
+      <name>Grisly Spectacle
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonartifact creature. Its controller puts a number of cards equal to that creature's power from the top of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>66
+      </num>
+      <text>Destroy target nonartifact creature. Its controller puts a number of cards equal to that creature's power from the top of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>366428
+      </id>
+      <name>Ground Assault
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Ground Assault deals damage to target creature equal to the number of lands you control.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>168
+      </num>
+      <text>Ground Assault deals damage to target creature equal to the number of lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>366360
+      </id>
+      <name>Gruul Charm
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Creatures without flying can't block this turn; or gain control of all permanents you own; or Gruul Charm deals 3 damage to each creature with flying.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>169
+      </num>
+      <text>Choose one- Creatures without flying can't block this turn; or gain control of all permanents you own; or Gruul Charm deals 3 damage to each creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>366253
+      </id>
+      <name>Gruul Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Gruul Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Randy Gallegos
+      </artist>
+      <num>243
+      </num>
+      <text>Gruul Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>366443
+      </id>
+      <name>Gruul Keyrune
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {R} or {G} to your mana pool.&lt;br&gt;{R}{G}: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature with trample until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>230
+      </num>
+      <text>{T}: Add {R} or {G} to your mana pool.&lt;br&gt;{R}{G}: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature with trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366398
+      </id>
+      <name>Gruul Ragebeast
+      </name>
+      <cost>{5}{R}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Whenever Gruul Ragebeast or another creature enters the battlefield under your control, that creature fights target creature an opponent controls.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>170
+      </num>
+      <text>Whenever Gruul Ragebeast or another creature enters the battlefield under your control, that creature fights target creature an opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>366260
+      </id>
+      <name>Guardian of the Gateless
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Guardian of the Gateless can block any number of creatures.&lt;br&gt;Whenever Guardian of the Gateless blocks, it gets +1/+1 until end of turn for each creature it's blocking.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Wesley Burt
+      </artist>
+      <num>14
+      </num>
+      <text>Flying&lt;br&gt;Guardian of the Gateless can block any number of creatures.&lt;br&gt;Whenever Guardian of the Gateless blocks, it gets +1/+1 until end of turn for each creature it's blocking.
+      </text>
+    </mc>
+    <mc>
+      <id>366392
+      </id>
+      <name>Guildscorn Ward
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has protection from multicolored.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>15
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has protection from multicolored.
+      </text>
+    </mc>
+    <mc>
+      <id>366234
+      </id>
+      <name>Gutter Skulk
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie Rat
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Winters
+      </artist>
+      <num>67
+      </num>
+    </mc>
+    <mc>
+      <id>366289
+      </id>
+      <name>Gyre Sage
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;&lt;br&gt;{T}: Add {G} to your mana pool for each +1/+1 counter on Gyre Sage.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>123
+      </num>
+      <text>Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;&lt;br&gt;{T}: Add {G} to your mana pool for each +1/+1 counter on Gyre Sage.
+      </text>
+    </mc>
+    <mc>
+      <id>366445
+      </id>
+      <name>Hands of Binding
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>37
+      </num>
+      <text>Tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366244
+      </id>
+      <name>Hellkite Tyrant
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying, trample&lt;br&gt;Whenever Hellkite Tyrant deals combat damage to a player, gain control of all artifacts that player controls.&lt;br&gt;At the beginning of your upkeep, if you control twenty or more artifacts, you win the game.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>94
+      </num>
+      <text>Flying, trample&lt;br&gt;Whenever Hellkite Tyrant deals combat damage to a player, gain control of all artifacts that player controls.&lt;br&gt;At the beginning of your upkeep, if you control twenty or more artifacts, you win the game.
+      </text>
+    </mc>
+    <mc>
+      <id>366342
+      </id>
+      <name>Hellraiser Goblin
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin Berserker
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Creatures you control have haste and attack each combat if able.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>95
+      </num>
+      <text>Creatures you control have haste and attack each combat if able.
+      </text>
+    </mc>
+    <mc>
+      <id>366266
+      </id>
+      <name>High Priest of Penance
+      </name>
+      <cost>{W}{B}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever High Priest of Penance is dealt damage, you may destroy target nonland permanent.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>171
+      </num>
+      <text>Whenever High Priest of Penance is dealt damage, you may destroy target nonland permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>366459
+      </id>
+      <name>Hindervines
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all combat damage that would be dealt this turn by creatures with no +1/+1 counters on them.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>124
+      </num>
+      <text>Prevent all combat damage that would be dealt this turn by creatures with no +1/+1 counters on them.
+      </text>
+    </mc>
+    <mc>
+      <id>366276
+      </id>
+      <name>Hold the Gates
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures you control get +0/+1 for each Gate you control and have vigilance.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>16
+      </num>
+      <text>Creatures you control get +0/+1 for each Gate you control and have vigilance.
+      </text>
+    </mc>
+    <mc>
+      <id>366368
+      </id>
+      <name>Holy Mantle
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has protection from creatures.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Maciej Kuciara
+      </artist>
+      <num>17
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has protection from creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>366297
+      </id>
+      <name>Homing Lightning
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Homing Lightning deals 4 damage to target creature and each other creature with the same name as that creature.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>96
+      </num>
+      <text>Homing Lightning deals 4 damage to target creature and each other creature with the same name as that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>366397
+      </id>
+      <name>Horror of the Dim
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{U}: Horror of the Dim gains hexproof until end of turn. &lt;i&gt;(It can't be the target of spells or abilities your opponents control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jack Wang
+      </artist>
+      <num>68
+      </num>
+      <text>{U}: Horror of the Dim gains hexproof until end of turn. &lt;i&gt;(It can't be the target of spells or abilities your opponents control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366423
+      </id>
+      <name>Hydroform
+      </name>
+      <cost>{G}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target land becomes a 3/3 Elemental creature with flying until end of turn. It's still a land.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Howard Lyon
+      </artist>
+      <num>172
+      </num>
+      <text>Target land becomes a 3/3 Elemental creature with flying until end of turn. It's still a land.
+      </text>
+    </mc>
+    <mc>
+      <id>366354
+      </id>
+      <name>Illness in the Ranks
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creature tokens get -1/-1.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>69
+      </num>
+      <text>Creature tokens get -1/-1.
+      </text>
+    </mc>
+    <mc>
+      <id>366426
+      </id>
+      <name>Illusionist's Bracers
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Whenever an ability of equipped creature is activated, if it isn't a mana ability, copy that ability. You may choose new targets for the copy.&lt;br&gt;Equip {3}
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>231
+      </num>
+      <text>Whenever an ability of equipped creature is activated, if it isn't a mana ability, copy that ability. You may choose new targets for the copy.&lt;br&gt;Equip {3}
+      </text>
+    </mc>
+    <mc>
+      <id>366247
+      </id>
+      <name>Immortal Servitude
+      </name>
+      <cost>{X}{W/B}{W/B}{W/B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return each creature card with converted mana cost X from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>220
+      </num>
+      <text>Return each creature card with converted mana cost X from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>366301
+      </id>
+      <name>Incursion Specialist
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever you cast your second spell each turn, Incursion Specialist gets +2/+0 until end of turn and can't be blocked this turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>38
+      </num>
+      <text>Whenever you cast your second spell each turn, Incursion Specialist gets +2/+0 until end of turn and can't be blocked this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366317
+      </id>
+      <name>Ivy Lane Denizen
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elf Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever another green creature enters the battlefield under your control, put a +1/+1 counter on target creature.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>125
+      </num>
+      <text>Whenever another green creature enters the battlefield under your control, put a +1/+1 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>366380
+      </id>
+      <name>Keymaster Rogue
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Keymaster Rogue can't be blocked.&lt;br&gt;When Keymaster Rogue enters the battlefield, return a creature you control to its owner's hand.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>39
+      </num>
+      <text>Keymaster Rogue can't be blocked.&lt;br&gt;When Keymaster Rogue enters the battlefield, return a creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>366466
+      </id>
+      <name>Killing Glare
+      </name>
+      <cost>{X}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature with power X or less.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>70
+      </num>
+      <text>Destroy target creature with power X or less.
+      </text>
+    </mc>
+    <mc>
+      <id>366361
+      </id>
+      <name>Kingpin's Pet
+      </name>
+      <cost>{1}{W}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>173
+      </num>
+      <text>Flying&lt;br&gt;Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366237
+      </id>
+      <name>Knight of Obligation
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>18
+      </num>
+      <text>Vigilance&lt;br&gt;Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366477
+      </id>
+      <name>Knight Watch
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put two 2/2 white Knight creature tokens with vigilance onto the battlefield.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>19
+      </num>
+      <text>Put two 2/2 white Knight creature tokens with vigilance onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>366407
+      </id>
+      <name>Last Thoughts
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw a card.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>40
+      </num>
+      <text>Draw a card.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366469
+      </id>
+      <name>Lazav, Dimir Mastermind
+      </name>
+      <cost>{U}{U}{B}{B}
+      </cost>
+      <type>Legendary Creature - Shapeshifter
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Hexproof&lt;br&gt;Whenever a creature card is put into an opponent's graveyard from anywhere, you may have Lazav, Dimir Mastermind become a copy of that card except its name is still Lazav, Dimir Mastermind, it's legendary in addition to its other types, and it gains hexproof and this ability.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>David Rapoza
+      </artist>
+      <num>174
+      </num>
+      <text>Hexproof&lt;br&gt;Whenever a creature card is put into an opponent's graveyard from anywhere, you may have Lazav, Dimir Mastermind become a copy of that card except its name is still Lazav, Dimir Mastermind, it's legendary in addition to its other types, and it gains hexproof and this ability.
+      </text>
+    </mc>
+    <mc>
+      <id>366348
+      </id>
+      <name>Legion Loyalist
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Battalion- Whenever Legion Loyalist and at least two other creatures attack, creatures you control gain first strike and trample until end of turn and can't be blocked by creature tokens this turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>97
+      </num>
+      <text>Haste&lt;br&gt;Battalion- Whenever Legion Loyalist and at least two other creatures attack, creatures you control gain first strike and trample until end of turn and can't be blocked by creature tokens this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366329
+      </id>
+      <name>Leyline Phantom
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>When Leyline Phantom deals combat damage, return it to its owner's hand. &lt;i&gt;(Return it only if it survived combat.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Yee
+      </artist>
+      <num>41
+      </num>
+      <text>When Leyline Phantom deals combat damage, return it to its owner's hand. &lt;i&gt;(Return it only if it survived combat.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366412
+      </id>
+      <name>Lord of the Void
+      </name>
+      <cost>{4}{B}{B}{B}
+      </cost>
+      <type>Creature - Demon
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Lord of the Void deals combat damage to a player, exile the top seven cards of that player's library, then put a creature card from among them onto the battlefield under your control.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>71
+      </num>
+      <text>Flying&lt;br&gt;Whenever Lord of the Void deals combat damage to a player, exile the top seven cards of that player's library, then put a creature card from among them onto the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>366240
+      </id>
+      <name>Luminate Primordial
+      </name>
+      <cost>{5}{W}{W}
+      </cost>
+      <type>Creature - Avatar
+      </type>
+      <power>4
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;When Luminate Primordial enters the battlefield, for each opponent, exile up to one target creature that player controls and that player gains life equal to its power.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Stephan Martiniere
+      </artist>
+      <num>20
+      </num>
+      <text>Vigilance&lt;br&gt;When Luminate Primordial enters the battlefield, for each opponent, exile up to one target creature that player controls and that player gains life equal to its power.
+      </text>
+    </mc>
+    <mc>
+      <id>366377
+      </id>
+      <name>Madcap Skills
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+0 and can't be blocked except by two or more creatures.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Anthony Palumbo
+      </artist>
+      <num>98
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+0 and can't be blocked except by two or more creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>366286
+      </id>
+      <name>Mark for Death
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature an opponent controls blocks this turn if able. Untap that creature. Other creatures that player controls can't block this turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>99
+      </num>
+      <text>Target creature an opponent controls blocks this turn if able. Untap that creature. Other creatures that player controls can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366358
+      </id>
+      <name>Martial Glory
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +3/+0 until end of turn.&lt;br&gt;Target creature gets +0/+3 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>175
+      </num>
+      <text>Target creature gets +3/+0 until end of turn.&lt;br&gt;Target creature gets +0/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366320
+      </id>
+      <name>Massive Raid
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Massive Raid deals damage to target creature or player equal to the number of creatures you control.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>100
+      </num>
+      <text>Massive Raid deals damage to target creature or player equal to the number of creatures you control.
+      </text>
+    </mc>
+    <mc>
+      <id>366352
+      </id>
+      <name>Master Biomancer
+      </name>
+      <cost>{2}{G}{U}
+      </cost>
+      <type>Creature - Elf Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Each other creature you control enters the battlefield with a number of additional +1/+1 counters on it equal to Master Biomancer's power and as a Mutant in addition to its other types.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>176
+      </num>
+      <text>Each other creature you control enters the battlefield with a number of additional +1/+1 counters on it equal to Master Biomancer's power and as a Mutant in addition to its other types.
+      </text>
+    </mc>
+    <mc>
+      <id>366373
+      </id>
+      <name>Mental Vapors
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards a card.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mark Winters
+      </artist>
+      <num>72
+      </num>
+      <text>Target player discards a card.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366316
+      </id>
+      <name>Merciless Eviction
+      </name>
+      <cost>{4}{W}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose one- Exile all artifacts; or exile all creatures; or exile all enchantments; or exile all planeswalkers.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Richard Wright
+      </artist>
+      <num>177
+      </num>
+      <text>Choose one- Exile all artifacts; or exile all creatures; or exile all enchantments; or exile all planeswalkers.
+      </text>
+    </mc>
+    <mc>
+      <id>366442
+      </id>
+      <name>Merfolk of the Depths
+      </name>
+      <cost>{4}{G/U}{G/U}
+      </cost>
+      <type>Creature - Merfolk Soldier
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Scott Chou
+      </artist>
+      <num>221
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366293
+      </id>
+      <name>Metropolis Sprite
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Faerie Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{U}: Metropolis Sprite gets +1/-1 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Scott Chou
+      </artist>
+      <num>42
+      </num>
+      <text>Flying&lt;br&gt;{U}: Metropolis Sprite gets +1/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366476
+      </id>
+      <name>Midnight Recovery
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target creature card from your graveyard to your hand.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>73
+      </num>
+      <text>Return target creature card from your graveyard to your hand.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366451
+      </id>
+      <name>Millennial Gargoyle
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Gargoyle
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>232
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>366340
+      </id>
+      <name>Miming Slime
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put an X/X green Ooze creature token onto the battlefield, where X is the greatest power among creatures you control.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>126
+      </num>
+      <text>Put an X/X green Ooze creature token onto the battlefield, where X is the greatest power among creatures you control.
+      </text>
+    </mc>
+    <mc>
+      <id>366418
+      </id>
+      <name>Mind Grind
+      </name>
+      <cost>{X}{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each opponent reveals cards from the top of his or her library until he or she reveals X land cards, then puts all cards revealed this way into his or her graveyard. X can't be 0.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>178
+      </num>
+      <text>Each opponent reveals cards from the top of his or her library until he or she reveals X land cards, then puts all cards revealed this way into his or her graveyard. X can't be 0.
+      </text>
+    </mc>
+    <mc>
+      <id>366284
+      </id>
+      <name>Mindeye Drake
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Mindeye Drake dies, target player puts the top five cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Lars Grant-West
+      </artist>
+      <num>43
+      </num>
+      <text>Flying&lt;br&gt;When Mindeye Drake dies, target player puts the top five cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>366356
+      </id>
+      <name>Molten Primordial
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Creature - Avatar
+      </type>
+      <power>6
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Haste&lt;br&gt;When Molten Primordial enters the battlefield, for each opponent, gain control of up to one target creature that player controls until end of turn. Untap those creatures. They gain haste until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Stephan Martiniere
+      </artist>
+      <num>101
+      </num>
+      <text>Haste&lt;br&gt;When Molten Primordial enters the battlefield, for each opponent, gain control of up to one target creature that player controls until end of turn. Untap those creatures. They gain haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366449
+      </id>
+      <name>Mortus Strider
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Creature - Skeleton
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Mortus Strider dies, return it to its owner's hand.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Tomasz Jedruszek
+      </artist>
+      <num>179
+      </num>
+      <text>When Mortus Strider dies, return it to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>366430
+      </id>
+      <name>Mugging
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Mugging deals 2 damage to target creature. That creature can't block this turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>102
+      </num>
+      <text>Mugging deals 2 damage to target creature. That creature can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366327
+      </id>
+      <name>Murder Investigation
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature you control&lt;br&gt;When enchanted creature dies, put X 1/1 white Soldier creature tokens onto the battlefield, where X is its power.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>21
+      </num>
+      <text>Enchant creature you control&lt;br&gt;When enchanted creature dies, put X 1/1 white Soldier creature tokens onto the battlefield, where X is its power.
+      </text>
+    </mc>
+    <mc>
+      <id>366401
+      </id>
+      <name>Mystic Genesis
+      </name>
+      <cost>{2}{G}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell. Put an X/X green Ooze creature token onto the battlefield, where X is that spell's converted mana cost.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>180
+      </num>
+      <text>Counter target spell. Put an X/X green Ooze creature token onto the battlefield, where X is that spell's converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>366303
+      </id>
+      <name>Naturalize
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>x
+      </num>
+      <text>Destroy target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>366378
+      </id>
+      <name>Nav Squad Commandos
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Battalion- Whenever Nav Squad Commandos and at least two other creatures attack, Nav Squad Commandos gets +1/+1 until end of turn. Untap it.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>22
+      </num>
+      <text>Battalion- Whenever Nav Squad Commandos and at least two other creatures attack, Nav Squad Commandos gets +1/+1 until end of turn. Untap it.
+      </text>
+    </mc>
+    <mc>
+      <id>366242
+      </id>
+      <name>Nightveil Specter
+      </name>
+      <cost>{U/B}{U/B}{U/B}
+      </cost>
+      <type>Creature - Specter
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Nightveil Specter deals combat damage to a player, that player exiles the top card of his or her library.&lt;br&gt;You may play cards exiled with Nightveil Specter.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Min Yum
+      </artist>
+      <num>222
+      </num>
+      <text>Flying&lt;br&gt;Whenever Nightveil Specter deals combat damage to a player, that player exiles the top card of his or her library.&lt;br&gt;You may play cards exiled with Nightveil Specter.
+      </text>
+    </mc>
+    <mc>
+      <id>366275
+      </id>
+      <name>Nimbus Swimmer
+      </name>
+      <cost>{X}{G}{U}
+      </cost>
+      <type>Creature - Leviathan
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Nimbus Swimmer enters the battlefield with X +1/+1 counters on it.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Howard Lyon
+      </artist>
+      <num>181
+      </num>
+      <text>Flying&lt;br&gt;Nimbus Swimmer enters the battlefield with X +1/+1 counters on it.
+      </text>
+    </mc>
+    <mc>
+      <id>366246
+      </id>
+      <name>Obzedat, Ghost Council
+      </name>
+      <cost>{1}{W}{W}{B}{B}
+      </cost>
+      <type>Legendary Creature - Spirit Advisor
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>When Obzedat, Ghost Council enters the battlefield, target opponent loses 2 life and you gain 2 life.&lt;br&gt;At the beginning of your end step, you may exile Obzedat. If you do, return it to the battlefield under its owner's control at the beginning of your next upkeep. It gains haste.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>182
+      </num>
+      <text>When Obzedat, Ghost Council enters the battlefield, target opponent loses 2 life and you gain 2 life.&lt;br&gt;At the beginning of your end step, you may exile Obzedat. If you do, return it to the battlefield under its owner's control at the beginning of your next upkeep. It gains haste.
+      </text>
+    </mc>
+    <mc>
+      <id>366432
+      </id>
+      <name>Ogre Slumlord
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Ogre Rogue
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever another nontoken creature dies, you may put a 1/1 black Rat creature token onto the battlefield.&lt;br&gt;Rats you control have deathtouch.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Trevor Claxton
+      </artist>
+      <num>74
+      </num>
+      <text>Whenever another nontoken creature dies, you may put a 1/1 black Rat creature token onto the battlefield.&lt;br&gt;Rats you control have deathtouch.
+      </text>
+    </mc>
+    <mc>
+      <id>366261
+      </id>
+      <name>One Thousand Lashes
+      </name>
+      <cost>{2}{W}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block, and its activated abilities can't be activated.&lt;br&gt;At the beginning of the upkeep of enchanted creature's controller, that player loses 1 life.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>183
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't attack or block, and its activated abilities can't be activated.&lt;br&gt;At the beginning of the upkeep of enchanted creature's controller, that player loses 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>366375
+      </id>
+      <name>Ooze Flux
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{G}, Remove one or more +1/+1 counters from among creatures you control: Put an X/X green Ooze creature token onto the battlefield, where X is the number of +1/+1 counters removed this way.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>128
+      </num>
+      <text>{1}{G}, Remove one or more +1/+1 counters from among creatures you control: Put an X/X green Ooze creature token onto the battlefield, where X is the number of +1/+1 counters removed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>366259
+      </id>
+      <name>Ordruun Veteran
+      </name>
+      <cost>{2}{R}{W}
+      </cost>
+      <type>Creature - Minotaur Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Battalion- Whenever Ordruun Veteran and at least two other creatures attack, Ordruun Veteran gains double strike until end of turn. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>184
+      </num>
+      <text>Battalion- Whenever Ordruun Veteran and at least two other creatures attack, Ordruun Veteran gains double strike until end of turn. &lt;i&gt;(It deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366436
+      </id>
+      <name>Orzhov Charm
+      </name>
+      <cost>{W}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Return target creature you control and all Auras you control attached to it to their owner's hand; or destroy target creature and you lose life equal to its toughness; or return target creature card with converted mana cost 1 or less from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>185
+      </num>
+      <text>Choose one- Return target creature you control and all Auras you control attached to it to their owner's hand; or destroy target creature and you lose life equal to its toughness; or return target creature card with converted mana cost 1 or less from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>366374
+      </id>
+      <name>Orzhov Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Orzhov Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {W} or {B} to your mana pool.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>244
+      </num>
+      <text>Orzhov Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {W} or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>366479
+      </id>
+      <name>Orzhov Keyrune
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {W} or {B} to your mana pool.&lt;br&gt;{W}{B}: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact creature with lifelink until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>233
+      </num>
+      <text>{T}: Add {W} or {B} to your mana pool.&lt;br&gt;{W}{B}: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact creature with lifelink until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366324
+      </id>
+      <name>Paranoid Delusions
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player puts the top three cards of his or her library into his or her graveyard.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>186
+      </num>
+      <text>Target player puts the top three cards of his or her library into his or her graveyard.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366450
+      </id>
+      <name>Pit Fight
+      </name>
+      <cost>{1}{R/G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature you control fights another target creature. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>223
+      </num>
+      <text>Target creature you control fights another target creature. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366233
+      </id>
+      <name>Predator's Rapport
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose target creature you control. You gain life equal to that creature's power plus its toughness.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>129
+      </num>
+      <text>Choose target creature you control. You gain life equal to that creature's power plus its toughness.
+      </text>
+    </mc>
+    <mc>
+      <id>366250
+      </id>
+      <name>Primal Visitation
+      </name>
+      <cost>{3}{R}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3 and has haste.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>187
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3 and has haste.
+      </text>
+    </mc>
+    <mc>
+      <id>366416
+      </id>
+      <name>Prime Speaker Zegana
+      </name>
+      <cost>{2}{G}{G}{U}{U}
+      </cost>
+      <type>Legendary Creature - Merfolk Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Prime Speaker Zegana enters the battlefield with X +1/+1 counters on it, where X is the greatest power among other creatures you control.&lt;br&gt;When Prime Speaker Zegana enters the battlefield, draw cards equal to its power.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>188
+      </num>
+      <text>Prime Speaker Zegana enters the battlefield with X +1/+1 counters on it, where X is the greatest power among other creatures you control.&lt;br&gt;When Prime Speaker Zegana enters the battlefield, draw cards equal to its power.
+      </text>
+    </mc>
+    <mc>
+      <id>366262
+      </id>
+      <name>Prophetic Prism
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>When Prophetic Prism enters the battlefield, draw a card.&lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>234
+      </num>
+      <text>When Prophetic Prism enters the battlefield, draw a card.&lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>366296
+      </id>
+      <name>Psychic Strike
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell. Its controller puts the top two cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>189
+      </num>
+      <text>Counter target spell. Its controller puts the top two cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>366393
+      </id>
+      <name>Purge the Profane
+      </name>
+      <cost>{2}{W}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent discards two cards and you gain 2 life.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Michael C. Hayes
+      </artist>
+      <num>190
+      </num>
+      <text>Target opponent discards two cards and you gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>366388
+      </id>
+      <name>Rapid Hybridization
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature. It can't be regenerated. That creature's controller puts a 3/3 green Frog Lizard creature token onto the battlefield.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jack Wang
+      </artist>
+      <num>44
+      </num>
+      <text>Destroy target creature. It can't be regenerated. That creature's controller puts a 3/3 green Frog Lizard creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>366405
+      </id>
+      <name>Razortip Whip
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}: Razortip Whip deals 1 damage to target opponent.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>James Paick
+      </artist>
+      <num>235
+      </num>
+      <text>{1}, {T}: Razortip Whip deals 1 damage to target opponent.
+      </text>
+    </mc>
+    <mc>
+      <id>366315
+      </id>
+      <name>Realmwright
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Vedalken Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>As Realmwright enters the battlefield, choose a basic land type.&lt;br&gt;Lands you control are the chosen type in addition to their other types.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>45
+      </num>
+      <text>As Realmwright enters the battlefield, choose a basic land type.&lt;br&gt;Lands you control are the chosen type in addition to their other types.
+      </text>
+    </mc>
+    <mc>
+      <id>366288
+      </id>
+      <name>Righteous Charge
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Creatures you control get +2/+2 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>23
+      </num>
+      <text>Creatures you control get +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366349
+      </id>
+      <name>Riot Gear
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +1/+2.&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jack Wang
+      </artist>
+      <num>236
+      </num>
+      <text>Equipped creature gets +1/+2.&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366362
+      </id>
+      <name>Ripscale Predator
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Ripscale Predator can't be blocked except by two or more creatures.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>103
+      </num>
+      <text>Ripscale Predator can't be blocked except by two or more creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>366462
+      </id>
+      <name>Rubblebelt Raiders
+      </name>
+      <cost>{1}{R/G}{R/G}{R/G}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Rubblebelt Raiders attacks, put a +1/+1 counter on it for each attacking creature you control.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Chippy
+      </artist>
+      <num>224
+      </num>
+      <text>Whenever Rubblebelt Raiders attacks, put a +1/+1 counter on it for each attacking creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>366424
+      </id>
+      <name>Rubblehulk
+      </name>
+      <cost>{4}{R}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>Rubblehulk's power and toughness are each equal to the number of lands you control.&lt;br&gt;Bloodrush- {1}{R}{G}, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>191
+      </num>
+      <text>Rubblehulk's power and toughness are each equal to the number of lands you control.&lt;br&gt;Bloodrush- {1}{R}{G}, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>366235
+      </id>
+      <name>Ruination Wurm
+      </name>
+      <cost>{4}{R}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>7
+      </power>
+      <toughness>6
+      </toughness>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>192
+      </num>
+    </mc>
+    <mc>
+      <id>366245
+      </id>
+      <name>Rust Scarab
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Whenever Rust Scarab becomes blocked, you may destroy target artifact or enchantment defending player controls.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>130
+      </num>
+      <text>Whenever Rust Scarab becomes blocked, you may destroy target artifact or enchantment defending player controls.
+      </text>
+    </mc>
+    <mc>
+      <id>366439
+      </id>
+      <name>Sacred Foundry
+      </name>
+      <type>Land - Mountain Plains
+      </type>
+      <oracleText>&lt;i&gt;({T}: Add {R} or {W} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, Sacred Foundry enters the battlefield tapped.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Sam Burley
+      </artist>
+      <num>245
+      </num>
+      <text>&lt;i&gt;({T}: Add {R} or {W} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, Sacred Foundry enters the battlefield tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>366406
+      </id>
+      <name>Sage's Row Denizen
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Vedalken Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever another blue creature enters the battlefield under your control, target player puts the top two cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>46
+      </num>
+      <text>Whenever another blue creature enters the battlefield under your control, target player puts the top two cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>366421
+      </id>
+      <name>Sapphire Drake
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Each creature you control with a +1/+1 counter on it has flying.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>47
+      </num>
+      <text>Flying&lt;br&gt;Each creature you control with a +1/+1 counter on it has flying.
+      </text>
+    </mc>
+    <mc>
+      <id>366410
+      </id>
+      <name>Scab-Clan Charger
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Centaur Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Bloodrush- {1}{G}, Discard Scab-Clan Charger: Target attacking creature gets +2/+4 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>131
+      </num>
+      <text>Bloodrush- {1}{G}, Discard Scab-Clan Charger: Target attacking creature gets +2/+4 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366241
+      </id>
+      <name>Scatter Arc
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target noncreature spell.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>48
+      </num>
+      <text>Counter target noncreature spell.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>366409
+      </id>
+      <name>Scorchwalker
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>5
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Bloodrush- {1}{R}{R}, Discard Scorchwalker: Target attacking creature gets +5/+1 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Anthony Palumbo
+      </artist>
+      <num>104
+      </num>
+      <text>Bloodrush- {1}{R}{R}, Discard Scorchwalker: Target attacking creature gets +5/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366285
+      </id>
+      <name>Sepulchral Primordial
+      </name>
+      <cost>{5}{B}{B}
+      </cost>
+      <type>Creature - Avatar
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Intimidate&lt;br&gt;When Sepulchral Primordial enters the battlefield, for each opponent, you may put up to one target creature card from that player's graveyard onto the battlefield under your control.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Stephan Martiniere
+      </artist>
+      <num>75
+      </num>
+      <text>Intimidate&lt;br&gt;When Sepulchral Primordial enters the battlefield, for each opponent, you may put up to one target creature card from that player's graveyard onto the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>366269
+      </id>
+      <name>Serene Remembrance
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Shuffle Serene Remembrance and up to three target cards from a single graveyard into their owners' libraries.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>132
+      </num>
+      <text>Shuffle Serene Remembrance and up to three target cards from a single graveyard into their owners' libraries.
+      </text>
+    </mc>
+    <mc>
+      <id>366307
+      </id>
+      <name>Shadow Alley Denizen
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Vampire Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever another black creature enters the battlefield under your control, target creature gains intimidate until end of turn. &lt;i&gt;(It can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Cynthia Sheppard
+      </artist>
+      <num>76
+      </num>
+      <text>Whenever another black creature enters the battlefield under your control, target creature gains intimidate until end of turn. &lt;i&gt;(It can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366455
+      </id>
+      <name>Shadow Slice
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent loses 3 life.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>77
+      </num>
+      <text>Target opponent loses 3 life.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366478
+      </id>
+      <name>Shambleshark
+      </name>
+      <cost>{G}{U}
+      </cost>
+      <type>Creature - Fish Crab
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Wesley Burt
+      </artist>
+      <num>193
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366331
+      </id>
+      <name>Shattering Blow
+      </name>
+      <cost>{1}{R/W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target artifact.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>225
+      </num>
+      <text>Exile target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>366332
+      </id>
+      <name>Shielded Passage
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all damage that would be dealt to target creature this turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>24
+      </num>
+      <text>Prevent all damage that would be dealt to target creature this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366365
+      </id>
+      <name>Signal the Clans
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Search your library for three creature cards and reveal them. If you reveal three cards with different names, choose one of them at random and put that card into your hand. Shuffle the rest into your library.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>194
+      </num>
+      <text>Search your library for three creature cards and reveal them. If you reveal three cards with different names, choose one of them at random and put that card into your hand. Shuffle the rest into your library.
+      </text>
+    </mc>
+    <mc>
+      <id>366463
+      </id>
+      <name>Simic Charm
+      </name>
+      <cost>{G}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Target creature gets +3/+3 until end of turn; or permanents you control gain hexproof until end of turn; or return target creature to its owner's hand.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>195
+      </num>
+      <text>Choose one- Target creature gets +3/+3 until end of turn; or permanents you control gain hexproof until end of turn; or return target creature to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>366274
+      </id>
+      <name>Simic Fluxmage
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Merfolk Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;&lt;br&gt;{1}{U}, {T}: Move a +1/+1 counter from Simic Fluxmage onto target creature.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>49
+      </num>
+      <text>Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;&lt;br&gt;{1}{U}, {T}: Move a +1/+1 counter from Simic Fluxmage onto target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>366383
+      </id>
+      <name>Simic Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Simic Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {G} or {U} to your mana pool.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>246
+      </num>
+      <text>Simic Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {G} or {U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>366357
+      </id>
+      <name>Simic Keyrune
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {G} or {U} to your mana pool.&lt;br&gt;{G}{U}: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature with hexproof until end of turn. &lt;i&gt;(It can't be the target of spells or abilities your opponents control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>237
+      </num>
+      <text>{T}: Add {G} or {U} to your mana pool.&lt;br&gt;{G}{U}: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature with hexproof until end of turn. &lt;i&gt;(It can't be the target of spells or abilities your opponents control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366343
+      </id>
+      <name>Simic Manipulator
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Mutant Wizard
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;&lt;br&gt;{T}, Remove one or more +1/+1 counters from Simic Manipulator: Gain control of target creature with power less than or equal to the number of +1/+1 counters removed this way.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Maciej Kuciara
+      </artist>
+      <num>50
+      </num>
+      <text>Evolve &lt;i&gt;(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)&lt;/i&gt;&lt;br&gt;{T}, Remove one or more +1/+1 counters from Simic Manipulator: Gain control of target creature with power less than or equal to the number of +1/+1 counters removed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>366458
+      </id>
+      <name>Skarrg Goliath
+      </name>
+      <cost>{6}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>9
+      </power>
+      <toughness>9
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Bloodrush- {5}{G}{G}, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Scott Chou
+      </artist>
+      <num>133
+      </num>
+      <text>Trample&lt;br&gt;Bloodrush- {5}{G}{G}, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366350
+      </id>
+      <name>Skarrg Guildmage
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}{G}: Creatures you control gain trample until end of turn.&lt;br&gt;{1}{R}{G}: Target land you control becomes a 4/4 Elemental creature until end of turn. It's still a land.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>196
+      </num>
+      <text>{R}{G}: Creatures you control gain trample until end of turn.&lt;br&gt;{1}{R}{G}: Target land you control becomes a 4/4 Elemental creature until end of turn. It's still a land.
+      </text>
+    </mc>
+    <mc>
+      <id>366434
+      </id>
+      <name>Skinbrand Goblin
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Bloodrush- {R}, Discard Skinbrand Goblin: Target attacking creature gets +2/+1 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Marco Nelor
+      </artist>
+      <num>105
+      </num>
+      <text>Bloodrush- {R}, Discard Skinbrand Goblin: Target attacking creature gets +2/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366238
+      </id>
+      <name>Skullcrack
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Players can't gain life this turn. Damage can't be prevented this turn. Skullcrack deals 3 damage to target player.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>106
+      </num>
+      <text>Players can't gain life this turn. Damage can't be prevented this turn. Skullcrack deals 3 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>366346
+      </id>
+      <name>Skyblinder Staff
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +1/+0 and can't be blocked by creatures with flying.&lt;br&gt;Equip {3} &lt;i&gt;({3}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Winters
+      </artist>
+      <num>238
+      </num>
+      <text>Equipped creature gets +1/+0 and can't be blocked by creatures with flying.&lt;br&gt;Equip {3} &lt;i&gt;({3}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366323
+      </id>
+      <name>Skygames
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;Enchanted land has "{T}: Target creature gains flying until end of turn. Activate this ability only any time you could cast a sorcery."
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Sam Burley
+      </artist>
+      <num>51
+      </num>
+      <text>Enchant land&lt;br&gt;Enchanted land has "{T}: Target creature gains flying until end of turn. Activate this ability only any time you could cast a sorcery."
+      </text>
+    </mc>
+    <mc>
+      <id>366338
+      </id>
+      <name>Skyknight Legionnaire
+      </name>
+      <cost>{1}{R}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying, haste
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Anthony Palumbo
+      </artist>
+      <num>197
+      </num>
+      <text>Flying, haste
+      </text>
+    </mc>
+    <mc>
+      <id>366366
+      </id>
+      <name>Slate Street Ruffian
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Slate Street Ruffian becomes blocked, defending player discards a card.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jim Murray
+      </artist>
+      <num>78
+      </num>
+      <text>Whenever Slate Street Ruffian becomes blocked, defending player discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>366281
+      </id>
+      <name>Slaughterhorn
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Bloodrush- {G}, Discard Slaughterhorn: Target attacking creature gets +3/+2 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>134
+      </num>
+      <text>Bloodrush- {G}, Discard Slaughterhorn: Target attacking creature gets +3/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366456
+      </id>
+      <name>Smite
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target blocked creature.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daren Bader
+      </artist>
+      <num>x
+      </num>
+      <text>Destroy target blocked creature.
+      </text>
+    </mc>
+    <mc>
+      <id>366257
+      </id>
+      <name>Smog Elemental
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Creatures with flying your opponents control get -1/-1.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>79
+      </num>
+      <text>Flying&lt;br&gt;Creatures with flying your opponents control get -1/-1.
+      </text>
+    </mc>
+    <mc>
+      <id>366351
+      </id>
+      <name>Soul Ransom
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;You control enchanted creature.&lt;br&gt;Discard two cards: Soul Ransom's controller sacrifices it, then draws two cards. Only any opponent may activate this ability.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Steve Argyle
+      </artist>
+      <num>198
+      </num>
+      <text>Enchant creature&lt;br&gt;You control enchanted creature.&lt;br&gt;Discard two cards: Soul Ransom's controller sacrifices it, then draws two cards. Only any opponent may activate this ability.
+      </text>
+    </mc>
+    <mc>
+      <id>366422
+      </id>
+      <name>Spark Trooper
+      </name>
+      <cost>{1}{R}{R}{W}
+      </cost>
+      <type>Creature - Elemental Soldier
+      </type>
+      <power>6
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Trample, lifelink, haste&lt;br&gt;At the beginning of the end step, sacrifice Spark Trooper.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>199
+      </num>
+      <text>Trample, lifelink, haste&lt;br&gt;At the beginning of the end step, sacrifice Spark Trooper.
+      </text>
+    </mc>
+    <mc>
+      <id>366372
+      </id>
+      <name>Spell Rupture
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell unless its controller pays {X}, where X is the greatest power among creatures you control.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>52
+      </num>
+      <text>Counter target spell unless its controller pays {X}, where X is the greatest power among creatures you control.
+      </text>
+    </mc>
+    <mc>
+      <id>366236
+      </id>
+      <name>Spire Tracer
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Spire Tracer can't be blocked except by creatures with flying or reach.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>135
+      </num>
+      <text>Spire Tracer can't be blocked except by creatures with flying or reach.
+      </text>
+    </mc>
+    <mc>
+      <id>366427
+      </id>
+      <name>Stolen Identity
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put a token onto the battlefield that's a copy of target artifact or creature.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>53
+      </num>
+      <text>Put a token onto the battlefield that's a copy of target artifact or creature.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366232
+      </id>
+      <name>Stomping Ground
+      </name>
+      <type>Land - Mountain Forest
+      </type>
+      <oracleText>&lt;i&gt;({T}: Add {R} or {G} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Rob Alexander
+      </artist>
+      <num>x
+      </num>
+      <text>&lt;i&gt;({T}: Add {R} or {G} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>366376
+      </id>
+      <name>Structural Collapse
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player sacrifices an artifact and a land. Structural Collapse deals 2 damage to that player.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Sam Burley
+      </artist>
+      <num>107
+      </num>
+      <text>Target player sacrifices an artifact and a land. Structural Collapse deals 2 damage to that player.
+      </text>
+    </mc>
+    <mc>
+      <id>366429
+      </id>
+      <name>Sunhome Guildmage
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{R}{W}: Creatures you control get +1/+0 until end of turn.&lt;br&gt;{2}{R}{W}: Put a 1/1 red and white Soldier creature token with haste onto the battlefield.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>200
+      </num>
+      <text>{1}{R}{W}: Creatures you control get +1/+0 until end of turn.&lt;br&gt;{2}{R}{W}: Put a 1/1 red and white Soldier creature token with haste onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>366282
+      </id>
+      <name>Sylvan Primordial
+      </name>
+      <cost>{5}{G}{G}
+      </cost>
+      <type>Creature - Avatar
+      </type>
+      <power>6
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>Reach&lt;br&gt;When Sylvan Primordial enters the battlefield, for each opponent, destroy target noncreature permanent that player controls. For each permanent destroyed this way, search your library for a Forest card and put that card onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Stephan Martiniere
+      </artist>
+      <num>136
+      </num>
+      <text>Reach&lt;br&gt;When Sylvan Primordial enters the battlefield, for each opponent, destroy target noncreature permanent that player controls. For each permanent destroyed this way, search your library for a Forest card and put that card onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>366387
+      </id>
+      <name>Syndic of Tithes
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>26
+      </num>
+      <text>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366243
+      </id>
+      <name>Syndicate Enforcer
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>80
+      </num>
+      <text>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366353
+      </id>
+      <name>Thespian's Stage
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}: Thespian's Stage becomes a copy of target land and gains this ability.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>248
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}: Thespian's Stage becomes a copy of target land and gains this ability.
+      </text>
+    </mc>
+    <mc>
+      <id>366437
+      </id>
+      <name>Thrull Parasite
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;&lt;br&gt;{T}, Pay 2 life: Remove a counter from target nonland permanent.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>81
+      </num>
+      <text>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;&lt;br&gt;{T}, Pay 2 life: Remove a counter from target nonland permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>366318
+      </id>
+      <name>Tin Street Market
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;Enchanted land has "{T}, Discard a card: Draw a card."
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>108
+      </num>
+      <text>Enchant land&lt;br&gt;Enchanted land has "{T}, Discard a card: Draw a card."
+      </text>
+    </mc>
+    <mc>
+      <id>366433
+      </id>
+      <name>Totally Lost
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put target nonland permanent on top of its owner's library.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>54
+      </num>
+      <text>Put target nonland permanent on top of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>366404
+      </id>
+      <name>Tower Defense
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Creatures you control get +0/+5 and gain reach until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>137
+      </num>
+      <text>Creatures you control get +0/+5 and gain reach until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366355
+      </id>
+      <name>Towering Thunderfist
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Giant Soldier
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{W}: Towering Thunderfist gains vigilance until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>109
+      </num>
+      <text>{W}: Towering Thunderfist gains vigilance until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366359
+      </id>
+      <name>Treasury Thrull
+      </name>
+      <cost>{4}{W}{B}
+      </cost>
+      <type>Creature - Thrull
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;&lt;br&gt;Whenever Treasury Thrull attacks, you may return target artifact, creature, or enchantment card from your graveyard to your hand.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>201
+      </num>
+      <text>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;&lt;br&gt;Whenever Treasury Thrull attacks, you may return target artifact, creature, or enchantment card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>366322
+      </id>
+      <name>Truefire Paladin
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;{R}{W}: Truefire Paladin gets +2/+0 until end of turn.&lt;br&gt;{R}{W}: Truefire Paladin gains first strike until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Michael C. Hayes
+      </artist>
+      <num>202
+      </num>
+      <text>Vigilance&lt;br&gt;{R}{W}: Truefire Paladin gets +2/+0 until end of turn.&lt;br&gt;{R}{W}: Truefire Paladin gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366271
+      </id>
+      <name>Undercity Informer
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{1}, Sacrifice a creature: Target player reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>82
+      </num>
+      <text>{1}, Sacrifice a creature: Target player reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>366231
+      </id>
+      <name>Undercity Plague
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player loses 1 life, discards a card, then sacrifices a permanent.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Vincent Proce
+      </artist>
+      <num>83
+      </num>
+      <text>Target player loses 1 life, discards a card, then sacrifices a permanent.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366248
+      </id>
+      <name>Unexpected Results
+      </name>
+      <cost>{2}{G}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Shuffle your library, then reveal the top card. If it's a nonland card, you may cast it without paying its mana cost. If it's a land card, you may put it onto the battlefield and return Unexpected Results to its owner's hand.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>203
+      </num>
+      <text>Shuffle your library, then reveal the top card. If it's a nonland card, you may cast it without paying its mana cost. If it's a land card, you may put it onto the battlefield and return Unexpected Results to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>366419
+      </id>
+      <name>Urban Evolution
+      </name>
+      <cost>{3}{G}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw three cards. You may play an additional land this turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Eytan Zana
+      </artist>
+      <num>204
+      </num>
+      <text>Draw three cards. You may play an additional land this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366415
+      </id>
+      <name>Urbis Protector
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Urbis Protector enters the battlefield, put a 4/4 white Angel creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Steve Argyle
+      </artist>
+      <num>27
+      </num>
+      <text>When Urbis Protector enters the battlefield, put a 4/4 white Angel creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>366471
+      </id>
+      <name>Verdant Haven
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;When Verdant Haven enters the battlefield, you gain 2 life.&lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>138
+      </num>
+      <text>Enchant land&lt;br&gt;When Verdant Haven enters the battlefield, you gain 2 life.&lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </text>
+    </mc>
+    <mc>
+      <id>366264
+      </id>
+      <name>Viashino Shanktail
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Viashino Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Bloodrush- {2}{R}, Discard Viashino Shanktail: Target attacking creature gets +3/+1 and gains first strike until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>110
+      </num>
+      <text>First strike&lt;br&gt;Bloodrush- {2}{R}, Discard Viashino Shanktail: Target attacking creature gets +3/+1 and gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366267
+      </id>
+      <name>Vizkopa Confessor
+      </name>
+      <cost>{3}{W}{B}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;&lt;br&gt;When Vizkopa Confessor enters the battlefield, pay any amount of life. Target opponent reveals that many cards from his or her hand. You choose one of them and exile it.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>205
+      </num>
+      <text>Extort &lt;i&gt;(Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)&lt;/i&gt;&lt;br&gt;When Vizkopa Confessor enters the battlefield, pay any amount of life. Target opponent reveals that many cards from his or her hand. You choose one of them and exile it.
+      </text>
+    </mc>
+    <mc>
+      <id>366371
+      </id>
+      <name>Vizkopa Guildmage
+      </name>
+      <cost>{W}{B}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{W}{B}: Target creature gains lifelink until end of turn.&lt;br&gt;{1}{W}{B}: Whenever you gain life this turn, each opponent loses that much life.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>206
+      </num>
+      <text>{1}{W}{B}: Target creature gains lifelink until end of turn.&lt;br&gt;{1}{W}{B}: Whenever you gain life this turn, each opponent loses that much life.
+      </text>
+    </mc>
+    <mc>
+      <id>366474
+      </id>
+      <name>Voidwalk
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Exile target creature. Return it to the battlefield under its owner's control at the beginning of the next end step.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>55
+      </num>
+      <text>Exile target creature. Return it to the battlefield under its owner's control at the beginning of the next end step.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366272
+      </id>
+      <name>Warmind Infantry
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Elemental Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Battalion- Whenever Warmind Infantry and at least two other creatures attack, Warmind Infantry gets +2/+0 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>111
+      </num>
+      <text>Battalion- Whenever Warmind Infantry and at least two other creatures attack, Warmind Infantry gets +2/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366417
+      </id>
+      <name>Wasteland Viper
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Deathtouch&lt;br&gt;Bloodrush- {G}, Discard Wasteland Viper: Target attacking creature gets +1/+2 and gains deathtouch until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>139
+      </num>
+      <text>Deathtouch&lt;br&gt;Bloodrush- {G}, Discard Wasteland Viper: Target attacking creature gets +1/+2 and gains deathtouch until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366335
+      </id>
+      <name>Watery Grave
+      </name>
+      <type>Land - Island Swamp
+      </type>
+      <oracleText>&lt;i&gt;({T}: Add {U} or {B} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>x
+      </num>
+      <text>&lt;i&gt;({T}: Add {U} or {B} to your mana pool.)&lt;/i&gt;&lt;br&gt;As Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>366333
+      </id>
+      <name>Way of the Thief
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.&lt;br&gt;Enchanted creature can't be blocked as long as you control a Gate.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>56
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.&lt;br&gt;Enchanted creature can't be blocked as long as you control a Gate.
+      </text>
+    </mc>
+    <mc>
+      <id>366263
+      </id>
+      <name>Whispering Madness
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>207
+      </num>
+      <text>Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.&lt;br&gt;Cipher &lt;i&gt;(Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>366239
+      </id>
+      <name>Wight of Precinct Six
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Wight of Precinct Six gets +1/+1 for each creature card in your opponents' graveyards.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>84
+      </num>
+      <text>Wight of Precinct Six gets +1/+1 for each creature card in your opponents' graveyards.
+      </text>
+    </mc>
+    <mc>
+      <id>366425
+      </id>
+      <name>Wildwood Rebirth
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target creature card from your graveyard to your hand.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>140
+      </num>
+      <text>Return target creature card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>366265
+      </id>
+      <name>Wojek Halberdiers
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Battalion- Whenever Wojek Halberdiers and at least two other creatures attack, Wojek Halberdiers gains first strike until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Nic Klein
+      </artist>
+      <num>208
+      </num>
+      <text>Battalion- Whenever Wojek Halberdiers and at least two other creatures attack, Wojek Halberdiers gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366446
+      </id>
+      <name>Wrecking Ogre
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Ogre Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Double strike&lt;br&gt;Bloodrush- {3}{R}{R}, Discard Wrecking Ogre: Target attacking creature gets +3/+3 and gains double strike until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>112
+      </num>
+      <text>Double strike&lt;br&gt;Bloodrush- {3}{R}{R}, Discard Wrecking Ogre: Target attacking creature gets +3/+3 and gains double strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>366454
+      </id>
+      <name>Zameck Guildmage
+      </name>
+      <cost>{G}{U}
+      </cost>
+      <type>Creature - Elf Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{G}{U}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.&lt;br&gt;{G}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>209
+      </num>
+      <text>{G}{U}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.&lt;br&gt;{G}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>366249
+      </id>
+      <name>Zarichi Tiger
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{1}{W}, {T}: You gain 2 life.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Nic Klein
+      </artist>
+      <num>28
+      </num>
+      <text>{1}{W}, {T}: You gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>366252
+      </id>
+      <name>Zhur-Taa Swine
+      </name>
+      <cost>{3}{R}{G}
+      </cost>
+      <type>Creature - Boar
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Bloodrush- {1}{R}{G}, Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn.
+      </oracleText>
+      <edition>Gatecrash
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>210
+      </num>
+      <text>Bloodrush- {1}{R}{G}, Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn.
+      </text>
+    </mc>
+  </list>
+</cards>

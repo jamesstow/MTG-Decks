@@ -1,0 +1,4329 @@
+
+<cards>
+  <name>Weatherlight</name>
+  <key>Weatherlight</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>4429
+      </id>
+      <name>Bösium Strip
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}, {T}: Until end of turn, if the top card of your graveyard is an instant or sorcery card, you may cast that card. If a card cast this way would be put into a graveyard this turn, exile it instead.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.98
+      </rating>
+      <artist>Steve Luke
+      </artist>
+      <num>1
+      </num>
+      <text>{3}, {T}: Until end of turn, if the top card of your graveyard is an instant or sorcery card, you may cast that card. If a card cast this way would be put into a graveyard this turn, exile it instead.
+      </text>
+    </mc>
+    <mc>
+      <id>4430
+      </id>
+      <name>Bubble Matrix
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Prevent all damage that would be dealt to creatures.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.268
+      </rating>
+      <artist>Brom
+      </artist>
+      <num>2
+      </num>
+      <text>Prevent all damage that would be dealt to creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>4431
+      </id>
+      <name>Chimeric Sphere
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}: Until end of turn, Chimeric Sphere becomes a 2/1 Construct artifact creature with flying.&lt;br&gt;{2}: Until end of turn, Chimeric Sphere becomes a 3/2 Construct artifact creature without flying.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.706
+      </rating>
+      <artist>Colin MacNeil
+      </artist>
+      <num>3
+      </num>
+      <text>{2}: Until end of turn, Chimeric Sphere becomes a 2/1 Construct artifact creature with flying.&lt;br&gt;{2}: Until end of turn, Chimeric Sphere becomes a 3/2 Construct artifact creature without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>4432
+      </id>
+      <name>Dingus Staff
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Whenever a creature dies, Dingus Staff deals 2 damage to that creature's controller.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.34
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>4
+      </num>
+      <text>Whenever a creature dies, Dingus Staff deals 2 damage to that creature's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>4433
+      </id>
+      <name>Jabari's Banner
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}: Target creature gains flanking until end of turn. &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.738
+      </rating>
+      <artist>Mark Harrison
+      </artist>
+      <num>5
+      </num>
+      <text>{1}, {T}: Target creature gains flanking until end of turn. &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4434
+      </id>
+      <name>Jangling Automaton
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Jangling Automaton attacks, untap all creatures defending player controls.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.52
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>6
+      </num>
+      <text>Whenever Jangling Automaton attacks, untap all creatures defending player controls.
+      </text>
+    </mc>
+    <mc>
+      <id>4435
+      </id>
+      <name>Mana Web
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Whenever a land an opponent controls is tapped for mana, tap all lands that player controls that could produce any type of mana that land could produce.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.431
+      </rating>
+      <artist>Hannibal King
+      </artist>
+      <num>7
+      </num>
+      <text>Whenever a land an opponent controls is tapped for mana, tap all lands that player controls that could produce any type of mana that land could produce.
+      </text>
+    </mc>
+    <mc>
+      <id>4437
+      </id>
+      <name>Null Rod
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Activated abilities of artifacts can't be activated.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.573
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>8
+      </num>
+      <text>Activated abilities of artifacts can't be activated.
+      </text>
+    </mc>
+    <mc>
+      <id>4438
+      </id>
+      <name>Phyrexian Furnace
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Exile the bottom card of target player's graveyard.&lt;br&gt;{1}, Sacrifice Phyrexian Furnace: Exile target card from a graveyard. Draw a card.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.633
+      </rating>
+      <artist>George Pratt
+      </artist>
+      <num>9
+      </num>
+      <text>{T}: Exile the bottom card of target player's graveyard.&lt;br&gt;{1}, Sacrifice Phyrexian Furnace: Exile target card from a graveyard. Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4439
+      </id>
+      <name>Serrated Biskelion
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Put a -1/-1 counter on Serrated Biskelion and a -1/-1 counter on target creature.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.571
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>10
+      </num>
+      <text>{T}: Put a -1/-1 counter on Serrated Biskelion and a -1/-1 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4441
+      </id>
+      <name>Straw Golem
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When an opponent casts a creature spell, sacrifice Straw Golem.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.75
+      </rating>
+      <artist>Bryan Talbot
+      </artist>
+      <num>11
+      </num>
+      <text>When an opponent casts a creature spell, sacrifice Straw Golem.
+      </text>
+    </mc>
+    <mc>
+      <id>4442
+      </id>
+      <name>Thran Forge
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}: Until end of turn, target nonartifact creature gets +1/+0 and becomes an artifact in addition to its other types.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.029
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>12
+      </num>
+      <text>{2}: Until end of turn, target nonartifact creature gets +1/+0 and becomes an artifact in addition to its other types.
+      </text>
+    </mc>
+    <mc>
+      <id>4443
+      </id>
+      <name>Thran Tome
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{5}, {T}: Reveal the top three cards of your library. Target opponent chooses one of those cards. Put that card into your graveyard, then draw two cards.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.071
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>13
+      </num>
+      <text>{5}, {T}: Reveal the top three cards of your library. Target opponent chooses one of those cards. Put that card into your graveyard, then draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>4444
+      </id>
+      <name>Touchstone
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Tap target artifact you don't control.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.675
+      </rating>
+      <artist>George Pratt
+      </artist>
+      <num>14
+      </num>
+      <text>{T}: Tap target artifact you don't control.
+      </text>
+    </mc>
+    <mc>
+      <id>4445
+      </id>
+      <name>Well of Knowledge
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}: Draw a card. Any player may activate this ability but only during his or her draw step.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.7
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>15
+      </num>
+      <text>{2}: Draw a card. Any player may activate this ability but only during his or her draw step.
+      </text>
+    </mc>
+    <mc>
+      <id>4446
+      </id>
+      <name>Xanthic Statue
+      </name>
+      <cost>{8}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{5}: Until end of turn, Xanthic Statue becomes an 8/8 Golem artifact creature with trample.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.469
+      </rating>
+      <artist>Hannibal King
+      </artist>
+      <num>16
+      </num>
+      <text>{5}: Until end of turn, Xanthic Statue becomes an 8/8 Golem artifact creature with trample.
+      </text>
+    </mc>
+    <mc>
+      <id>4447
+      </id>
+      <name>Abyssal Gatekeeper
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Abyssal Gatekeeper dies, each player sacrifices a creature.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.485
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>17
+      </num>
+      <text>When Abyssal Gatekeeper dies, each player sacrifices a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4449
+      </id>
+      <name>Barrow Ghoul
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>At the beginning of your upkeep, sacrifice Barrow Ghoul unless you exile the top creature card of your graveyard.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.233
+      </rating>
+      <artist>Bryan Talbot
+      </artist>
+      <num>18
+      </num>
+      <text>At the beginning of your upkeep, sacrifice Barrow Ghoul unless you exile the top creature card of your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>4450
+      </id>
+      <name>Bone Dancer
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Bone Dancer attacks and isn't blocked, you may put the top creature card of defending player's graveyard onto the battlefield under your control. If you do, Bone Dancer assigns no combat damage this turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.27
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>19
+      </num>
+      <text>Whenever Bone Dancer attacks and isn't blocked, you may put the top creature card of defending player's graveyard onto the battlefield under your control. If you do, Bone Dancer assigns no combat damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4452
+      </id>
+      <name>Circling Vultures
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;You may discard Circling Vultures any time you could cast an instant.&lt;br&gt;At the beginning of your upkeep, sacrifice Circling Vultures unless you exile the top creature card of your graveyard.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.667
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>20
+      </num>
+      <text>Flying&lt;br&gt;You may discard Circling Vultures any time you could cast an instant.&lt;br&gt;At the beginning of your upkeep, sacrifice Circling Vultures unless you exile the top creature card of your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>4453
+      </id>
+      <name>Coils of the Medusa
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/-1.&lt;br&gt;Sacrifice Coils of the Medusa: Destroy all non-Wall creatures blocking enchanted creature.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.8
+      </rating>
+      <artist>Darbury Stenderu
+      </artist>
+      <num>21
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/-1.&lt;br&gt;Sacrifice Coils of the Medusa: Destroy all non-Wall creatures blocking enchanted creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4456
+      </id>
+      <name>Festering Evil
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, Festering Evil deals 1 damage to each creature and each player.&lt;br&gt;&lt;br&gt;{B}{B}, Sacrifice Festering Evil: Festering Evil deals 3 damage to each creature and each player.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.095
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>22
+      </num>
+      <text>At the beginning of your upkeep, Festering Evil deals 1 damage to each creature and each player.&lt;br&gt;&lt;br&gt;{B}{B}, Sacrifice Festering Evil: Festering Evil deals 3 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>4457
+      </id>
+      <name>Fledgling Djinn
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Djinn
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, Fledgling Djinn deals 1 damage to you.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.81
+      </rating>
+      <artist>Thomas Gianni
+      </artist>
+      <num>23
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, Fledgling Djinn deals 1 damage to you.
+      </text>
+    </mc>
+    <mc>
+      <id>4458
+      </id>
+      <name>Gallowbraid
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Legendary Creature - Horror
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Cumulative upkeep—Pay 1 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.224
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>24
+      </num>
+      <text>Trample&lt;br&gt;Cumulative upkeep—Pay 1 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4459
+      </id>
+      <name>Haunting Misery
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Haunting Misery, exile X creature cards from your graveyard.&lt;br&gt;Haunting Misery deals X damage to target player.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.733
+      </rating>
+      <artist>Gary Leach
+      </artist>
+      <num>25
+      </num>
+      <text>As an additional cost to cast Haunting Misery, exile X creature cards from your graveyard.&lt;br&gt;Haunting Misery deals X damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>4461
+      </id>
+      <name>Infernal Tribute
+      </name>
+      <cost>{B}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{2}, Sacrifice a nontoken permanent: Draw a card.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.795
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>26
+      </num>
+      <text>{2}, Sacrifice a nontoken permanent: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4463
+      </id>
+      <name>Morinfen
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Legendary Creature - Horror
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Cumulative upkeep—Pay 1 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>27
+      </num>
+      <text>Flying&lt;br&gt;Cumulative upkeep—Pay 1 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4464
+      </id>
+      <name>Necratog
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Atog
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Exile the top creature card of your graveyard: Necratog gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.519
+      </rating>
+      <artist>Bryan Talbot
+      </artist>
+      <num>28
+      </num>
+      <text>Exile the top creature card of your graveyard: Necratog gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4465
+      </id>
+      <name>Odylic Wraith
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Wraith
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Swampwalk&lt;br&gt;Whenever Odylic Wraith deals damage to a player, that player discards a card.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.412
+      </rating>
+      <artist>Ian Miller
+      </artist>
+      <num>29
+      </num>
+      <text>Swampwalk&lt;br&gt;Whenever Odylic Wraith deals damage to a player, that player discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4467
+      </id>
+      <name>Shadow Rider
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Zombie Knight
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flanking &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.944
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>30
+      </num>
+      <text>Flanking &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4468
+      </id>
+      <name>Shattered Crypt
+      </name>
+      <cost>{X}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return X target creature cards from your graveyard to your hand. You lose X life.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.5
+      </rating>
+      <artist>Gary Leach
+      </artist>
+      <num>31
+      </num>
+      <text>Return X target creature cards from your graveyard to your hand. You lose X life.
+      </text>
+    </mc>
+    <mc>
+      <id>4469
+      </id>
+      <name>Spinning Darkness
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You may exile the top three black cards of your graveyard rather than pay Spinning Darkness's mana cost.&lt;br&gt;Spinning Darkness deals 3 damage to target nonblack creature. You gain 3 life.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.891
+      </rating>
+      <artist>John Coulthart
+      </artist>
+      <num>32
+      </num>
+      <text>You may exile the top three black cards of your graveyard rather than pay Spinning Darkness's mana cost.&lt;br&gt;Spinning Darkness deals 3 damage to target nonblack creature. You gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4471
+      </id>
+      <name>Tendrils of Despair
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Tendrils of Despair, sacrifice a creature.&lt;br&gt;Target opponent discards two cards.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.635
+      </rating>
+      <artist>John Coulthart
+      </artist>
+      <num>33
+      </num>
+      <text>As an additional cost to cast Tendrils of Despair, sacrifice a creature.&lt;br&gt;Target opponent discards two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>4472
+      </id>
+      <name>Urborg Justice
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target opponent sacrifices a creature for each creature put into your graveyard from the battlefield this turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.8
+      </rating>
+      <artist>Gary Leach
+      </artist>
+      <num>34
+      </num>
+      <text>Target opponent sacrifices a creature for each creature put into your graveyard from the battlefield this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4473
+      </id>
+      <name>Urborg Stalker
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>At the beginning of each player's upkeep, if that player controls a nonblack, nonland permanent, Urborg Stalker deals 1 damage to that player.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.083
+      </rating>
+      <artist>Cliff Nielsen
+      </artist>
+      <num>35
+      </num>
+      <text>At the beginning of each player's upkeep, if that player controls a nonblack, nonland permanent, Urborg Stalker deals 1 damage to that player.
+      </text>
+    </mc>
+    <mc>
+      <id>4474
+      </id>
+      <name>Wave of Terror
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;At the beginning of your draw step, destroy each creature with converted mana cost equal to the number of age counters on Wave of Terror. They can't be regenerated.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.417
+      </rating>
+      <artist>Adrian Smith
+      </artist>
+      <num>36
+      </num>
+      <text>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;At the beginning of your draw step, destroy each creature with converted mana cost equal to the number of age counters on Wave of Terror. They can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>4475
+      </id>
+      <name>Zombie Scavengers
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Exile the top creature card of your graveyard: Regenerate Zombie Scavengers.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.577
+      </rating>
+      <artist>Patrick Kochakji
+      </artist>
+      <num>37
+      </num>
+      <text>Exile the top creature card of your graveyard: Regenerate Zombie Scavengers.
+      </text>
+    </mc>
+    <mc>
+      <id>4477
+      </id>
+      <name>Abjure
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Abjure, sacrifice a blue permanent.&lt;br&gt;Counter target spell.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.42
+      </rating>
+      <artist>Ted Naifeh
+      </artist>
+      <num>38
+      </num>
+      <text>As an additional cost to cast Abjure, sacrifice a blue permanent.&lt;br&gt;Counter target spell.
+      </text>
+    </mc>
+    <mc>
+      <id>4478
+      </id>
+      <name>Ancestral Knowledge
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When Ancestral Knowledge enters the battlefield, look at the top ten cards of your library, then exile any number of them and put the rest back on top of your library in any order.&lt;br&gt;When Ancestral Knowledge leaves the battlefield, shuffle your library.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.717
+      </rating>
+      <artist>Colin MacNeil
+      </artist>
+      <num>39
+      </num>
+      <text>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When Ancestral Knowledge enters the battlefield, look at the top ten cards of your library, then exile any number of them and put the rest back on top of your library in any order.&lt;br&gt;When Ancestral Knowledge leaves the battlefield, shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>4479
+      </id>
+      <name>Apathy
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.&lt;br&gt;At the beginning of the upkeep of enchanted creature's controller, that player may discard a card at random. If he or she does, untap that creature.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.354
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>40
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.&lt;br&gt;At the beginning of the upkeep of enchanted creature's controller, that player may discard a card at random. If he or she does, untap that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4480
+      </id>
+      <name>Argivian Restoration
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target artifact card from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.424
+      </rating>
+      <artist>Roger Raupp
+      </artist>
+      <num>41
+      </num>
+      <text>Return target artifact card from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>4481
+      </id>
+      <name>Avizoa
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Jellyfish
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{0}: Avizoa gets +2/+2 until end of turn. You skip your next untap step. Activate this ability only once each turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.788
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>42
+      </num>
+      <text>Flying&lt;br&gt;{0}: Avizoa gets +2/+2 until end of turn. You skip your next untap step. Activate this ability only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4484
+      </id>
+      <name>Ertai's Familiar
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Phasing &lt;i&gt;(This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)&lt;/i&gt;&lt;br&gt;When Ertai's Familiar phases out or leaves the battlefield, put the top three cards of your library into your graveyard.&lt;br&gt;{U}: Until your next upkeep, Ertai's Familiar can't phase out.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.942
+      </rating>
+      <artist>Kipling West
+      </artist>
+      <num>43
+      </num>
+      <text>Phasing &lt;i&gt;(This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)&lt;/i&gt;&lt;br&gt;When Ertai's Familiar phases out or leaves the battlefield, put the top three cards of your library into your graveyard.&lt;br&gt;{U}: Until your next upkeep, Ertai's Familiar can't phase out.
+      </text>
+    </mc>
+    <mc>
+      <id>4487
+      </id>
+      <name>Mana Chains
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has "Cumulative upkeep {1}." &lt;i&gt;(At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.773
+      </rating>
+      <artist>Bryan Talbot
+      </artist>
+      <num>44
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has "Cumulative upkeep {1}." &lt;i&gt;(At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4488
+      </id>
+      <name>Manta Ray
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Fish
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Manta Ray can't attack unless defending player controls an Island.&lt;br&gt;Manta Ray can't be blocked except by blue creatures.&lt;br&gt;When you control no Islands, sacrifice Manta Ray.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.7
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>45
+      </num>
+      <text>Manta Ray can't attack unless defending player controls an Island.&lt;br&gt;Manta Ray can't be blocked except by blue creatures.&lt;br&gt;When you control no Islands, sacrifice Manta Ray.
+      </text>
+    </mc>
+    <mc>
+      <id>4489
+      </id>
+      <name>Merfolk Traders
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Merfolk
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Merfolk Traders enters the battlefield, draw a card, then discard a card.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.594
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>46
+      </num>
+      <text>When Merfolk Traders enters the battlefield, draw a card, then discard a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4490
+      </id>
+      <name>Noble Benefactor
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Noble Benefactor dies, each player may search his or her library for a card and put that card into his or her hand. Then each player who searched his or her library this way shuffles it.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>47
+      </num>
+      <text>When Noble Benefactor dies, each player may search his or her library for a card and put that card into his or her hand. Then each player who searched his or her library this way shuffles it.
+      </text>
+    </mc>
+    <mc>
+      <id>4491
+      </id>
+      <name>Ophidian
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Ophidian attacks and isn't blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.3
+      </rating>
+      <artist>Cliff Nielsen
+      </artist>
+      <num>48
+      </num>
+      <text>Whenever Ophidian attacks and isn't blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4492
+      </id>
+      <name>Paradigm Shift
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Exile all cards from your library. Then shuffle your graveyard into your library.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.8
+      </rating>
+      <artist>Cliff Nielsen
+      </artist>
+      <num>49
+      </num>
+      <text>Exile all cards from your library. Then shuffle your graveyard into your library.
+      </text>
+    </mc>
+    <mc>
+      <id>4493
+      </id>
+      <name>Pendrell Mists
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>All creatures have "At the beginning of your upkeep, sacrifice this creature unless you pay {1}."
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.921
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>50
+      </num>
+      <text>All creatures have "At the beginning of your upkeep, sacrifice this creature unless you pay {1}."
+      </text>
+    </mc>
+    <mc>
+      <id>4496
+      </id>
+      <name>Psychic Vortex
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep—Draw a card. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;At the beginning of your end step, sacrifice a land and discard your hand.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.519
+      </rating>
+      <artist>Steve Luke
+      </artist>
+      <num>51
+      </num>
+      <text>Cumulative upkeep—Draw a card. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;At the beginning of your end step, sacrifice a land and discard your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4499
+      </id>
+      <name>Teferi's Veil
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature you control attacks, it phases out at end of combat. &lt;i&gt;(While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.121
+      </rating>
+      <artist>Brom
+      </artist>
+      <num>52
+      </num>
+      <text>Whenever a creature you control attacks, it phases out at end of combat. &lt;i&gt;(While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4500
+      </id>
+      <name>Timid Drake
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When another creature enters the battlefield, return Timid Drake to its owner's hand.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.45
+      </rating>
+      <artist>Mike Dringenberg
+      </artist>
+      <num>53
+      </num>
+      <text>Flying&lt;br&gt;When another creature enters the battlefield, return Timid Drake to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4501
+      </id>
+      <name>Tolarian Drake
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Phasing &lt;i&gt;(This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.0
+      </rating>
+      <artist>Mark Harrison
+      </artist>
+      <num>54
+      </num>
+      <text>Flying&lt;br&gt;Phasing &lt;i&gt;(This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4502
+      </id>
+      <name>Tolarian Entrancer
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Tolarian Entrancer becomes blocked by a creature, gain control of that creature at end of combat.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.288
+      </rating>
+      <artist>Bryan Talbot
+      </artist>
+      <num>55
+      </num>
+      <text>Whenever Tolarian Entrancer becomes blocked by a creature, gain control of that creature at end of combat.
+      </text>
+    </mc>
+    <mc>
+      <id>4503
+      </id>
+      <name>Tolarian Serpent
+      </name>
+      <cost>{5}{U}{U}
+      </cost>
+      <type>Creature - Serpent
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put the top seven cards of your library into your graveyard.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.344
+      </rating>
+      <artist>Stuart Griffin
+      </artist>
+      <num>56
+      </num>
+      <text>At the beginning of your upkeep, put the top seven cards of your library into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>4504
+      </id>
+      <name>Vodalian Illusionist
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Merfolk Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{U}{U}, {T}: Target creature phases out. &lt;i&gt;(While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.595
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>57
+      </num>
+      <text>{U}{U}, {T}: Target creature phases out. &lt;i&gt;(While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4505
+      </id>
+      <name>Aboroth
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>9
+      </power>
+      <toughness>9
+      </toughness>
+      <oracleText>Cumulative upkeep—Put a -1/-1 counter on Aboroth. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.278
+      </rating>
+      <artist>Brom
+      </artist>
+      <num>58
+      </num>
+      <text>Cumulative upkeep—Put a -1/-1 counter on Aboroth. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4506
+      </id>
+      <name>Arctic Wolves
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Wolf
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When Arctic Wolves enters the battlefield, draw a card.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.857
+      </rating>
+      <artist>Steve White
+      </artist>
+      <num>59
+      </num>
+      <text>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When Arctic Wolves enters the battlefield, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4507
+      </id>
+      <name>Barishi
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Barishi dies, exile Barishi, then shuffle all creature cards from your graveyard into your library.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.786
+      </rating>
+      <artist>Ted Naifeh
+      </artist>
+      <num>60
+      </num>
+      <text>When Barishi dies, exile Barishi, then shuffle all creature cards from your graveyard into your library.
+      </text>
+    </mc>
+    <mc>
+      <id>4508
+      </id>
+      <name>Blossoming Wreath
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You gain life equal to the number of creature cards in your graveyard.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.727
+      </rating>
+      <artist>Brian Durfee
+      </artist>
+      <num>61
+      </num>
+      <text>You gain life equal to the number of creature cards in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>4509
+      </id>
+      <name>Briar Shield
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1.&lt;br&gt;Sacrifice Briar Shield: Enchanted creature gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.974
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>62
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1.&lt;br&gt;Sacrifice Briar Shield: Enchanted creature gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4511
+      </id>
+      <name>Choking Vines
+      </name>
+      <cost>{X}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Choking Vines only during the declare blockers step.&lt;br&gt;X target attacking creatures become blocked. Choking Vines deals 1 damage to each of those creatures. &lt;i&gt;(This spell works on unblockable creatures.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.479
+      </rating>
+      <artist>Ted Naifeh
+      </artist>
+      <num>63
+      </num>
+      <text>Cast Choking Vines only during the declare blockers step.&lt;br&gt;X target attacking creatures become blocked. Choking Vines deals 1 damage to each of those creatures. &lt;i&gt;(This spell works on unblockable creatures.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4513
+      </id>
+      <name>Downdraft
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{G}: Target creature loses flying until end of turn.&lt;br&gt;&lt;br&gt;Sacrifice Downdraft: Downdraft deals 2 damage to each creature with flying.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.964
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>64
+      </num>
+      <text>{G}: Target creature loses flying until end of turn.&lt;br&gt;&lt;br&gt;Sacrifice Downdraft: Downdraft deals 2 damage to each creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>4514
+      </id>
+      <name>Fallow Wurm
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Fallow Wurm enters the battlefield, sacrifice it unless you discard a land card.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.619
+      </rating>
+      <artist>Stephen L. Walsh
+      </artist>
+      <num>65
+      </num>
+      <text>When Fallow Wurm enters the battlefield, sacrifice it unless you discard a land card.
+      </text>
+    </mc>
+    <mc>
+      <id>4516
+      </id>
+      <name>Fungus Elemental
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Fungus Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{G}, Sacrifice a Forest: Put a +2/+2 counter on Fungus Elemental. Activate this ability only if Fungus Elemental entered the battlefield this turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.604
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>66
+      </num>
+      <text>{G}, Sacrifice a Forest: Put a +2/+2 counter on Fungus Elemental. Activate this ability only if Fungus Elemental entered the battlefield this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4517
+      </id>
+      <name>Gaea's Blessing
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player shuffles up to three target cards from his or her graveyard into his or her library.&lt;br&gt;Draw a card.&lt;br&gt;When Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.13
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>67
+      </num>
+      <text>Target player shuffles up to three target cards from his or her graveyard into his or her library.&lt;br&gt;Draw a card.&lt;br&gt;When Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library.
+      </text>
+    </mc>
+    <mc>
+      <id>4518
+      </id>
+      <name>Harvest Wurm
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Harvest Wurm enters the battlefield, sacrifice it unless you return a basic land card from your graveyard to your hand.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.764
+      </rating>
+      <artist>Stephen L. Walsh
+      </artist>
+      <num>68
+      </num>
+      <text>When Harvest Wurm enters the battlefield, sacrifice it unless you return a basic land card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4519
+      </id>
+      <name>Liege of the Hollows
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Liege of the Hollows dies, each player may pay any amount of mana. Then each player who paid mana this way puts that many 1/1 green Squirrel creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.542
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>69
+      </num>
+      <text>When Liege of the Hollows dies, each player may pay any amount of mana. Then each player who paid mana this way puts that many 1/1 green Squirrel creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>4521
+      </id>
+      <name>Llanowar Druid
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Sacrifice Llanowar Druid: Untap all Forests.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.904
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>70
+      </num>
+      <text>{T}, Sacrifice Llanowar Druid: Untap all Forests.
+      </text>
+    </mc>
+    <mc>
+      <id>4523
+      </id>
+      <name>Mwonvuli Ooze
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Ooze
+      </type>
+      <power>1+*
+      </power>
+      <toughness>1+*
+      </toughness>
+      <oracleText>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay {2} for each age counter on it.)&lt;/i&gt;&lt;br&gt;Mwonvuli Ooze's power and toughness are each equal to 1 plus twice the number of age counters on it.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.0
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>71
+      </num>
+      <text>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay {2} for each age counter on it.)&lt;/i&gt;&lt;br&gt;Mwonvuli Ooze's power and toughness are each equal to 1 plus twice the number of age counters on it.
+      </text>
+    </mc>
+    <mc>
+      <id>4524
+      </id>
+      <name>Nature's Kiss
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;{1}, Exile the top card of your graveyard: Enchanted creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.139
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>72
+      </num>
+      <text>Enchant creature&lt;br&gt;{1}, Exile the top card of your graveyard: Enchanted creature gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4527
+      </id>
+      <name>Rogue Elephant
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elephant
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Rogue Elephant enters the battlefield, sacrifice it unless you sacrifice a Forest.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.114
+      </rating>
+      <artist>Steve White
+      </artist>
+      <num>73
+      </num>
+      <text>When Rogue Elephant enters the battlefield, sacrifice it unless you sacrifice a Forest.
+      </text>
+    </mc>
+    <mc>
+      <id>4528
+      </id>
+      <name>Striped Bears
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Bear
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Striped Bears enters the battlefield, draw a card.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.739
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>74
+      </num>
+      <text>When Striped Bears enters the battlefield, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4529
+      </id>
+      <name>Sylvan Hierophant
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Sylvan Hierophant dies, exile Sylvan Hierophant, then return another target creature card from your graveyard to your hand.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.238
+      </rating>
+      <artist>Brian Durfee
+      </artist>
+      <num>75
+      </num>
+      <text>When Sylvan Hierophant dies, exile Sylvan Hierophant, then return another target creature card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4531
+      </id>
+      <name>Uktabi Efreet
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Efreet
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Cumulative upkeep {G} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.024
+      </rating>
+      <artist>Alan Rabinowitz
+      </artist>
+      <num>76
+      </num>
+      <text>Cumulative upkeep {G} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4532
+      </id>
+      <name>Veteran Explorer
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Human Soldier Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Veteran Explorer dies, each player may search his or her library for up to two basic land cards and put them onto the battlefield. Then each player who searched his or her library this way shuffles it.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.224
+      </rating>
+      <artist>David A. Cherry
+      </artist>
+      <num>77
+      </num>
+      <text>When Veteran Explorer dies, each player may search his or her library for up to two basic land cards and put them onto the battlefield. Then each player who searched his or her library this way shuffles it.
+      </text>
+    </mc>
+    <mc>
+      <id>4535
+      </id>
+      <name>Betrothed of Fire
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Sacrifice an untapped creature: Enchanted creature gets +2/+0 until end of turn.&lt;br&gt;Sacrifice enchanted creature: Creatures you control get +2/+0 until end of turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.469
+      </rating>
+      <artist>Clint Langley
+      </artist>
+      <num>78
+      </num>
+      <text>Enchant creature&lt;br&gt;Sacrifice an untapped creature: Enchanted creature gets +2/+0 until end of turn.&lt;br&gt;Sacrifice enchanted creature: Creatures you control get +2/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4538
+      </id>
+      <name>Boiling Blood
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature attacks this turn if able.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.824
+      </rating>
+      <artist>Cliff Nielsen
+      </artist>
+      <num>79
+      </num>
+      <text>Target creature attacks this turn if able.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4539
+      </id>
+      <name>Cinder Giant
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>At the beginning of your upkeep, Cinder Giant deals 2 damage to each other creature you control.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.346
+      </rating>
+      <artist>Rogério Vilela
+      </artist>
+      <num>80
+      </num>
+      <text>At the beginning of your upkeep, Cinder Giant deals 2 damage to each other creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>4542
+      </id>
+      <name>Desperate Gambit
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose a source you control and flip a coin. If you win the flip, the next time that source would deal damage this turn, it deals double that damage instead. If you lose the flip, the next time it would deal damage this turn, prevent that damage.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.688
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>81
+      </num>
+      <text>Choose a source you control and flip a coin. If you win the flip, the next time that source would deal damage this turn, it deals double that damage instead. If you lose the flip, the next time it would deal damage this turn, prevent that damage.
+      </text>
+    </mc>
+    <mc>
+      <id>4543
+      </id>
+      <name>Dwarven Berserker
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Dwarf Berserker
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Dwarven Berserker becomes blocked, it gets +3/+0 and gains trample until end of turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.446
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>82
+      </num>
+      <text>Whenever Dwarven Berserker becomes blocked, it gets +3/+0 and gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4544
+      </id>
+      <name>Dwarven Thaumaturgist
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Dwarf Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Switch target creature's power and toughness until end of turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.864
+      </rating>
+      <artist>Kipling West
+      </artist>
+      <num>83
+      </num>
+      <text>{T}: Switch target creature's power and toughness until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4547
+      </id>
+      <name>Firestorm
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Firestorm, discard X cards.&lt;br&gt;Firestorm deals X damage to each of X target creatures and/or players.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.287
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>84
+      </num>
+      <text>As an additional cost to cast Firestorm, discard X cards.&lt;br&gt;Firestorm deals X damage to each of X target creatures and/or players.
+      </text>
+    </mc>
+    <mc>
+      <id>4549
+      </id>
+      <name>Goblin Bomb
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, you may flip a coin. If you win the flip, put a fuse counter on Goblin Bomb. If you lose the flip, remove a fuse counter from Goblin Bomb.&lt;br&gt;Remove five fuse counters from Goblin Bomb, Sacrifice Goblin Bomb: Goblin Bomb deals 20 damage to target player.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>85
+      </num>
+      <text>At the beginning of your upkeep, you may flip a coin. If you win the flip, put a fuse counter on Goblin Bomb. If you lose the flip, remove a fuse counter from Goblin Bomb.&lt;br&gt;Remove five fuse counters from Goblin Bomb, Sacrifice Goblin Bomb: Goblin Bomb deals 20 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>4550
+      </id>
+      <name>Goblin Grenadiers
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Goblin Grenadiers attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature and target land.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.324
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>86
+      </num>
+      <text>Whenever Goblin Grenadiers attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature and target land.
+      </text>
+    </mc>
+    <mc>
+      <id>4551
+      </id>
+      <name>Goblin Vandal
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Goblin Vandal attacks and isn't blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.4
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>87
+      </num>
+      <text>Whenever Goblin Vandal attacks and isn't blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4552
+      </id>
+      <name>Heart of Bogardan
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When a player doesn't pay Heart of Bogardan's cumulative upkeep, Heart of Bogardan deals X damage to target player and each creature he or she controls, where X is twice the number of age counters on Heart of Bogardan minus 2.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.932
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>88
+      </num>
+      <text>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When a player doesn't pay Heart of Bogardan's cumulative upkeep, Heart of Bogardan deals X damage to target player and each creature he or she controls, where X is twice the number of age counters on Heart of Bogardan minus 2.
+      </text>
+    </mc>
+    <mc>
+      <id>4553
+      </id>
+      <name>Heat Stroke
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At end of combat, destroy each creature that blocked or was blocked this turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.194
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>89
+      </num>
+      <text>At end of combat, destroy each creature that blocked or was blocked this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4554
+      </id>
+      <name>Hurloon Shaman
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Minotaur Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Hurloon Shaman dies, each player sacrifices a land.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.912
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>90
+      </num>
+      <text>When Hurloon Shaman dies, each player sacrifices a land.
+      </text>
+    </mc>
+    <mc>
+      <id>4556
+      </id>
+      <name>Lava Storm
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Lava Storm deals 2 damage to each attacking creature or Lava Storm deals 2 damage to each blocking creature.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.75
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>91
+      </num>
+      <text>Lava Storm deals 2 damage to each attacking creature or Lava Storm deals 2 damage to each blocking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4557
+      </id>
+      <name>Maraxus of Keld
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Legendary Creature - Human Warrior
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>Maraxus of Keld's power and toughness are each equal to the number of untapped artifacts, creatures, and lands you control.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.917
+      </rating>
+      <artist>Adrian Smith
+      </artist>
+      <num>92
+      </num>
+      <text>Maraxus of Keld's power and toughness are each equal to the number of untapped artifacts, creatures, and lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>4558
+      </id>
+      <name>Orcish Settlers
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{X}{X}{R}, {T}, Sacrifice Orcish Settlers: Destroy X target lands.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.198
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>93
+      </num>
+      <text>{X}{X}{R}, {T}, Sacrifice Orcish Settlers: Destroy X target lands.
+      </text>
+    </mc>
+    <mc>
+      <id>4559
+      </id>
+      <name>Roc Hatchling
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Roc Hatchling enters the battlefield with four shell counters on it.&lt;br&gt;At the beginning of your upkeep, remove a shell counter from Roc Hatchling.&lt;br&gt;As long as Roc Hatchling has no shell counters on it, it gets +3/+2 and has flying.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.326
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>94
+      </num>
+      <text>Roc Hatchling enters the battlefield with four shell counters on it.&lt;br&gt;At the beginning of your upkeep, remove a shell counter from Roc Hatchling.&lt;br&gt;As long as Roc Hatchling has no shell counters on it, it gets +3/+2 and has flying.
+      </text>
+    </mc>
+    <mc>
+      <id>4560
+      </id>
+      <name>Sawtooth Ogre
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Ogre
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Sawtooth Ogre blocks or becomes blocked by a creature, Sawtooth Ogre deals 1 damage to that creature at end of combat.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.917
+      </rating>
+      <artist>Brom
+      </artist>
+      <num>95
+      </num>
+      <text>Whenever Sawtooth Ogre blocks or becomes blocked by a creature, Sawtooth Ogre deals 1 damage to that creature at end of combat.
+      </text>
+    </mc>
+    <mc>
+      <id>4563
+      </id>
+      <name>Abeyance
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, target player can't cast instant or sorcery spells, and that player can't activate abilities that aren't mana abilities.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.22
+      </rating>
+      <artist>Thomas Gianni
+      </artist>
+      <num>96
+      </num>
+      <text>Until end of turn, target player can't cast instant or sorcery spells, and that player can't activate abilities that aren't mana abilities.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4565
+      </id>
+      <name>Alms
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}, Exile the top card of your graveyard: Prevent the next 1 damage that would be dealt to target creature this turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.705
+      </rating>
+      <artist>Rogério Vilela
+      </artist>
+      <num>97
+      </num>
+      <text>{1}, Exile the top card of your graveyard: Prevent the next 1 damage that would be dealt to target creature this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4566
+      </id>
+      <name>Angelic Renewal
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature is put into your graveyard from the battlefield, you may sacrifice Angelic Renewal. If you do, return that card to the battlefield.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.41
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>98
+      </num>
+      <text>Whenever a creature is put into your graveyard from the battlefield, you may sacrifice Angelic Renewal. If you do, return that card to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>4568
+      </id>
+      <name>Argivian Find
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target artifact or enchantment card from your graveyard to your hand.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.696
+      </rating>
+      <artist>Roger Raupp
+      </artist>
+      <num>99
+      </num>
+      <text>Return target artifact or enchantment card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4570
+      </id>
+      <name>Benalish Infantry
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.237
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>100
+      </num>
+      <text>Banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4572
+      </id>
+      <name>Benalish Missionary
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{W}, {T}: Prevent all combat damage that would be dealt by target blocked creature this turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.583
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>101
+      </num>
+      <text>{1}{W}, {T}: Prevent all combat damage that would be dealt by target blocked creature this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4573
+      </id>
+      <name>Debt of Loyalty
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Regenerate target creature. You gain control of that creature if it regenerates this way.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.566
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>102
+      </num>
+      <text>Regenerate target creature. You gain control of that creature if it regenerates this way.
+      </text>
+    </mc>
+    <mc>
+      <id>4574
+      </id>
+      <name>Duskrider Falcon
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying, protection from black
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.72
+      </rating>
+      <artist>Cecil Fernando
+      </artist>
+      <num>103
+      </num>
+      <text>Flying, protection from black
+      </text>
+    </mc>
+    <mc>
+      <id>4575
+      </id>
+      <name>Empyrial Armor
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 for each card in your hand.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.838
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>104
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 for each card in your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4576
+      </id>
+      <name>Foriysian Brigade
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Foriysian Brigade can block an additional creature.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.357
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>105
+      </num>
+      <text>Foriysian Brigade can block an additional creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4580
+      </id>
+      <name>Inner Sanctum
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep—Pay 2 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Prevent all damage that would be dealt to creatures you control.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.528
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>106
+      </num>
+      <text>Cumulative upkeep—Pay 2 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Prevent all damage that would be dealt to creatures you control.
+      </text>
+    </mc>
+    <mc>
+      <id>4581
+      </id>
+      <name>Kithkin Armor
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't be blocked by creatures with power 3 or greater.&lt;br&gt;Sacrifice Kithkin Armor: The next time a source of your choice would deal damage to enchanted creature this turn, prevent that damage.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.147
+      </rating>
+      <artist>Charles Gillespie
+      </artist>
+      <num>107
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't be blocked by creatures with power 3 or greater.&lt;br&gt;Sacrifice Kithkin Armor: The next time a source of your choice would deal damage to enchanted creature this turn, prevent that damage.
+      </text>
+    </mc>
+    <mc>
+      <id>4582
+      </id>
+      <name>Master of Arms
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike&lt;br&gt;{1}{W}: Tap target creature blocking Master of Arms.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.13
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>108
+      </num>
+      <text>First strike&lt;br&gt;{1}{W}: Tap target creature blocking Master of Arms.
+      </text>
+    </mc>
+    <mc>
+      <id>4583
+      </id>
+      <name>Mistmoon Griffin
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Griffin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Mistmoon Griffin dies, exile Mistmoon Griffin, then return the top creature card of your graveyard to the battlefield.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.63
+      </rating>
+      <artist>David A. Cherry
+      </artist>
+      <num>109
+      </num>
+      <text>Flying&lt;br&gt;When Mistmoon Griffin dies, exile Mistmoon Griffin, then return the top creature card of your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>4584
+      </id>
+      <name>Peacekeeper
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, sacrifice Peacekeeper unless you pay {1}{W}.&lt;br&gt;Creatures can't attack.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.361
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>110
+      </num>
+      <text>At the beginning of your upkeep, sacrifice Peacekeeper unless you pay {1}{W}.&lt;br&gt;Creatures can't attack.
+      </text>
+    </mc>
+    <mc>
+      <id>4585
+      </id>
+      <name>Revered Unicorn
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Unicorn
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When Revered Unicorn leaves the battlefield, you gain life equal to the number of age counters on it.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.406
+      </rating>
+      <artist>David A. Cherry
+      </artist>
+      <num>111
+      </num>
+      <text>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When Revered Unicorn leaves the battlefield, you gain life equal to the number of age counters on it.
+      </text>
+    </mc>
+    <mc>
+      <id>4588
+      </id>
+      <name>Soul Shepherd
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{W}, Exile a creature card from your graveyard: You gain 1 life.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.675
+      </rating>
+      <artist>John Coulthart
+      </artist>
+      <num>112
+      </num>
+      <text>{W}, Exile a creature card from your graveyard: You gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>4591
+      </id>
+      <name>Volunteer Reserves
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;&lt;br&gt;Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.239
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>113
+      </num>
+      <text>Banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;&lt;br&gt;Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4593
+      </id>
+      <name>Lotus Vale
+      </name>
+      <type>Land
+      </type>
+      <oracleText>If Lotus Vale would enter the battlefield, sacrifice two untapped lands instead. If you do, put Lotus Vale onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add three mana of any one color to your mana pool.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.522
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>114
+      </num>
+      <text>If Lotus Vale would enter the battlefield, sacrifice two untapped lands instead. If you do, put Lotus Vale onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add three mana of any one color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>4594
+      </id>
+      <name>Scorched Ruins
+      </name>
+      <type>Land
+      </type>
+      <oracleText>If Scorched Ruins would enter the battlefield, sacrifice two untapped lands instead. If you do, put Scorched Ruins onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add {4} to your mana pool.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.512
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>115
+      </num>
+      <text>If Scorched Ruins would enter the battlefield, sacrifice two untapped lands instead. If you do, put Scorched Ruins onto the battlefield. If you don't, put it into its owner's graveyard.&lt;br&gt;{T}: Add {4} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>4595
+      </id>
+      <name>Winding Canyons
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}: Until end of turn, you may play creature cards as though they had flash.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.288
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>116
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}: Until end of turn, you may play creature cards as though they had flash.
+      </text>
+    </mc>
+    <mc>
+      <id>4476
+      </id>
+      <name>Abduction
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Abduction enters the battlefield, untap enchanted creature.&lt;br&gt;You control enchanted creature.&lt;br&gt;When enchanted creature dies, return that card to the battlefield under its owner's control.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.059
+      </rating>
+      <artist>Colin MacNeil
+      </artist>
+      <num>117
+      </num>
+      <text>Enchant creature&lt;br&gt;When Abduction enters the battlefield, untap enchanted creature.&lt;br&gt;You control enchanted creature.&lt;br&gt;When enchanted creature dies, return that card to the battlefield under its owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>4534
+      </id>
+      <name>Æther Flash
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature enters the battlefield, Æther Flash deals 2 damage to it.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.304
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>118
+      </num>
+      <text>Whenever a creature enters the battlefield, Æther Flash deals 2 damage to it.
+      </text>
+    </mc>
+    <mc>
+      <id>4448
+      </id>
+      <name>Agonizing Memories
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at target player's hand and choose two cards from it. Put them on top of that player's library in any order.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.867
+      </rating>
+      <artist>Mike Dringenberg
+      </artist>
+      <num>119
+      </num>
+      <text>Look at target player's hand and choose two cards from it. Put them on top of that player's library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>4564
+      </id>
+      <name>Alabaster Dragon
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Alabaster Dragon dies, shuffle it into its owner's library.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.2
+      </rating>
+      <artist>Bob Eggleton
+      </artist>
+      <num>120
+      </num>
+      <text>Flying&lt;br&gt;When Alabaster Dragon dies, shuffle it into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>4567
+      </id>
+      <name>Ardent Militia
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Vigilance
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.8
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>121
+      </num>
+      <text>Vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>4569
+      </id>
+      <name>Aura of Silence
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Artifact and enchantment spells your opponents cast cost {2} more to cast.&lt;br&gt;Sacrifice Aura of Silence: Destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.208
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>122
+      </num>
+      <text>Artifact and enchantment spells your opponents cast cost {2} more to cast.&lt;br&gt;Sacrifice Aura of Silence: Destroy target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>4571
+      </id>
+      <name>Benalish Knight
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.444
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>123
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4536
+      </id>
+      <name>Bloodrock Cyclops
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Cyclops
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Bloodrock Cyclops attacks each turn if able.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.438
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>124
+      </num>
+      <text>Bloodrock Cyclops attacks each turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>4537
+      </id>
+      <name>Bogardan Firefiend
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Elemental Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Bogardan Firefiend dies, it deals 2 damage to target creature.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.619
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>125
+      </num>
+      <text>When Bogardan Firefiend dies, it deals 2 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4451
+      </id>
+      <name>Buried Alive
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.283
+      </rating>
+      <artist>Brian Horton
+      </artist>
+      <num>126
+      </num>
+      <text>Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>4510
+      </id>
+      <name>Call of the Wild
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{2}{G}{G}: Reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, put it into your graveyard.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.825
+      </rating>
+      <artist>Brom
+      </artist>
+      <num>127
+      </num>
+      <text>{2}{G}{G}: Reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, put it into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>4540
+      </id>
+      <name>Cinder Wall
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;When Cinder Wall blocks, destroy it at end of combat.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.523
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>128
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;When Cinder Wall blocks, destroy it at end of combat.
+      </text>
+    </mc>
+    <mc>
+      <id>4482
+      </id>
+      <name>Cloud Djinn
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Djinn
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Cloud Djinn can block only creatures with flying.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.474
+      </rating>
+      <artist>Mike Dringenberg
+      </artist>
+      <num>129
+      </num>
+      <text>Flying&lt;br&gt;Cloud Djinn can block only creatures with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>4541
+      </id>
+      <name>Cone of Flame
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.326
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>130
+      </num>
+      <text>Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>4512
+      </id>
+      <name>Dense Foliage
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures can't be the targets of spells.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.926
+      </rating>
+      <artist>Alan Rabinowitz
+      </artist>
+      <num>131
+      </num>
+      <text>Creatures can't be the targets of spells.
+      </text>
+    </mc>
+    <mc>
+      <id>4483
+      </id>
+      <name>Disrupt
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target instant or sorcery spell unless its controller pays {1}.&lt;br&gt;&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.708
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>132
+      </num>
+      <text>Counter target instant or sorcery spell unless its controller pays {1}.&lt;br&gt;&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4454
+      </id>
+      <name>Doomsday
+      </name>
+      <cost>{B}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library and graveyard for five cards and exile the rest. Put the chosen cards on top of your library in any order. You lose half your life, rounded up.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.088
+      </rating>
+      <artist>Adrian Smith
+      </artist>
+      <num>133
+      </num>
+      <text>Search your library and graveyard for five cards and exile the rest. Put the chosen cards on top of your library in any order. You lose half your life, rounded up.
+      </text>
+    </mc>
+    <mc>
+      <id>4515
+      </id>
+      <name>Familiar Ground
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Each creature you control can't be blocked by more than one creature.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.594
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>134
+      </num>
+      <text>Each creature you control can't be blocked by more than one creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4455
+      </id>
+      <name>Fatal Blow
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature that was dealt damage this turn. It can't be regenerated.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.364
+      </rating>
+      <artist>George Pratt
+      </artist>
+      <num>135
+      </num>
+      <text>Destroy target creature that was dealt damage this turn. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>4545
+      </id>
+      <name>Fervor
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures you control have haste.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.929
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>136
+      </num>
+      <text>Creatures you control have haste.
+      </text>
+    </mc>
+    <mc>
+      <id>4546
+      </id>
+      <name>Fire Whip
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature you control&lt;br&gt;Enchanted creature has "{T}: This creature deals 1 damage to target creature or player."&lt;br&gt;Sacrifice Fire Whip: Fire Whip deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.762
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>137
+      </num>
+      <text>Enchant creature you control&lt;br&gt;Enchanted creature has "{T}: This creature deals 1 damage to target creature or player."&lt;br&gt;Sacrifice Fire Whip: Fire Whip deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>4548
+      </id>
+      <name>Fit of Rage
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +3/+3 and gains first strike until end of turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.225
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>138
+      </num>
+      <text>Target creature gets +3/+3 and gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4485
+      </id>
+      <name>Flux
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player discards any number of cards, then draws that many cards.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.533
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>139
+      </num>
+      <text>Each player discards any number of cards, then draws that many cards.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4486
+      </id>
+      <name>Fog Elemental
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;&lt;br&gt;When Fog Elemental attacks or blocks, sacrifice it at end of combat.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.467
+      </rating>
+      <artist>Jon J Muth
+      </artist>
+      <num>140
+      </num>
+      <text>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;&lt;br&gt;When Fog Elemental attacks or blocks, sacrifice it at end of combat.
+      </text>
+    </mc>
+    <mc>
+      <id>4592
+      </id>
+      <name>Gemstone Mine
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Gemstone Mine enters the battlefield with three mining counters on it.&lt;br&gt;{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color to your mana pool. If there are no mining counters on Gemstone Mine, sacrifice it.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.464
+      </rating>
+      <artist>Brom
+      </artist>
+      <num>141
+      </num>
+      <text>Gemstone Mine enters the battlefield with three mining counters on it.&lt;br&gt;{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color to your mana pool. If there are no mining counters on Gemstone Mine, sacrifice it.
+      </text>
+    </mc>
+    <mc>
+      <id>4577
+      </id>
+      <name>Gerrard's Wisdom
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You gain 2 life for each card in your hand.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>142
+      </num>
+      <text>You gain 2 life for each card in your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4578
+      </id>
+      <name>Guided Strike
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +1/+0 and gains first strike until end of turn.&lt;br&gt;&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.111
+      </rating>
+      <artist>Gary Leach
+      </artist>
+      <num>143
+      </num>
+      <text>Target creature gets +1/+0 and gains first strike until end of turn.&lt;br&gt;&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4579
+      </id>
+      <name>Heavy Ballista
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Heavy Ballista deals 2 damage to target attacking or blocking creature.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.222
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>144
+      </num>
+      <text>{T}: Heavy Ballista deals 2 damage to target attacking or blocking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>4460
+      </id>
+      <name>Hidden Horror
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.586
+      </rating>
+      <artist>Clint Langley
+      </artist>
+      <num>145
+      </num>
+      <text>When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.
+      </text>
+    </mc>
+    <mc>
+      <id>4555
+      </id>
+      <name>Lava Hounds
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Hound
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Haste&lt;br&gt;When Lava Hounds enters the battlefield, it deals 4 damage to you.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.333
+      </rating>
+      <artist>Steve White
+      </artist>
+      <num>146
+      </num>
+      <text>Haste&lt;br&gt;When Lava Hounds enters the battlefield, it deals 4 damage to you.
+      </text>
+    </mc>
+    <mc>
+      <id>4520
+      </id>
+      <name>Llanowar Behemoth
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Tap an untapped creature you control: Llanowar Behemoth gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Hannibal King
+      </artist>
+      <num>147
+      </num>
+      <text>Tap an untapped creature you control: Llanowar Behemoth gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>4522
+      </id>
+      <name>Llanowar Sentinel
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Llanowar Sentinel enters the battlefield, you may pay {1}{G}. If you do, search your library for a card named Llanowar Sentinel and put that card onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.528
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>148
+      </num>
+      <text>When Llanowar Sentinel enters the battlefield, you may pay {1}{G}. If you do, search your library for a card named Llanowar Sentinel and put that card onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>4436
+      </id>
+      <name>Mind Stone
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}, Sacrifice Mind Stone: Draw a card.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.917
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>149
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}, Sacrifice Mind Stone: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>4462
+      </id>
+      <name>Mischievous Poltergeist
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Pay 1 life: Regenerate Mischievous Poltergeist.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.071
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>150
+      </num>
+      <text>Flying&lt;br&gt;Pay 1 life: Regenerate Mischievous Poltergeist.
+      </text>
+    </mc>
+    <mc>
+      <id>4525
+      </id>
+      <name>Nature's Resurgence
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player draws a card for each creature card in his or her graveyard.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.05
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>151
+      </num>
+      <text>Each player draws a card for each creature card in his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>4494
+      </id>
+      <name>Phantom Warrior
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Illusion Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Phantom Warrior is unblockable.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>152
+      </num>
+      <text>Phantom Warrior is unblockable.
+      </text>
+    </mc>
+    <mc>
+      <id>4495
+      </id>
+      <name>Phantom Wings
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has flying.&lt;br&gt;Sacrifice Phantom Wings: Return enchanted creature to its owner's hand.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.656
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>153
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has flying.&lt;br&gt;Sacrifice Phantom Wings: Return enchanted creature to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4466
+      </id>
+      <name>Razortooth Rats
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Rat
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.438
+      </rating>
+      <artist>Brian Horton
+      </artist>
+      <num>154
+      </num>
+      <text>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4526
+      </id>
+      <name>Redwood Treefolk
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Treefolk
+      </type>
+      <power>3
+      </power>
+      <toughness>6
+      </toughness>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.026
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>155
+      </num>
+    </mc>
+    <mc>
+      <id>4497
+      </id>
+      <name>Relearn
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target instant or sorcery card from your graveyard to your hand.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>156
+      </num>
+      <text>Return target instant or sorcery card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>4498
+      </id>
+      <name>Sage Owl
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Sage Owl enters the battlefield, look at the top four cards of your library, then put them back in any order.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.316
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>157
+      </num>
+      <text>Flying&lt;br&gt;When Sage Owl enters the battlefield, look at the top four cards of your library, then put them back in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>4586
+      </id>
+      <name>Serenity
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, destroy all artifacts and enchantments. They can't be regenerated.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.639
+      </rating>
+      <artist>Cliff Nielsen
+      </artist>
+      <num>158
+      </num>
+      <text>At the beginning of your upkeep, destroy all artifacts and enchantments. They can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>4587
+      </id>
+      <name>Serra's Blessing
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures you control have vigilance. &lt;i&gt;(Attacking doesn't cause them to tap.)&lt;/i&gt;
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.136
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>159
+      </num>
+      <text>Creatures you control have vigilance. &lt;i&gt;(Attacking doesn't cause them to tap.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>4589
+      </id>
+      <name>Southern Paladin
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{W}{W}, {T}: Destroy target red permanent.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.729
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>160
+      </num>
+      <text>{W}{W}, {T}: Destroy target red permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>4440
+      </id>
+      <name>Steel Golem
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>You can't cast creature spells.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.0
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>161
+      </num>
+      <text>You can't cast creature spells.
+      </text>
+    </mc>
+    <mc>
+      <id>4470
+      </id>
+      <name>Strands of Night
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{B}{B}, Pay 2 life, Sacrifice a Swamp: Return target creature card from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Patrick Kochakji
+      </artist>
+      <num>162
+      </num>
+      <text>{B}{B}, Pay 2 life, Sacrifice a Swamp: Return target creature card from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>4590
+      </id>
+      <name>Tariff
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player sacrifices the creature he or she controls with the highest converted mana cost unless he or she pays that creature's mana cost. If two or more creatures a player controls are tied for highest cost, that player chooses one.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.647
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>163
+      </num>
+      <text>Each player sacrifices the creature he or she controls with the highest converted mana cost unless he or she pays that creature's mana cost. If two or more creatures a player controls are tied for highest cost, that player chooses one.
+      </text>
+    </mc>
+    <mc>
+      <id>4561
+      </id>
+      <name>Thunderbolt
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.286
+      </rating>
+      <artist>Dylan Martens
+      </artist>
+      <num>164
+      </num>
+      <text>Choose one- Thunderbolt deals 3 damage to target player; or Thunderbolt deals 4 damage to target creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>4562
+      </id>
+      <name>Thundermare
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Elemental Horse
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Haste &lt;i&gt;(This creature can attack the turn it comes under your control.)&lt;/i&gt;&lt;br&gt;When Thundermare enters the battlefield, tap all other creatures.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.9
+      </rating>
+      <artist>Bob Eggleton
+      </artist>
+      <num>165
+      </num>
+      <text>Haste &lt;i&gt;(This creature can attack the turn it comes under your control.)&lt;/i&gt;&lt;br&gt;When Thundermare enters the battlefield, tap all other creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>4530
+      </id>
+      <name>Tranquil Grove
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{G}{G}: Destroy all other enchantments.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.3
+      </rating>
+      <artist>Dylan Martens
+      </artist>
+      <num>166
+      </num>
+      <text>{1}{G}{G}: Destroy all other enchantments.
+      </text>
+    </mc>
+    <mc>
+      <id>4533
+      </id>
+      <name>Vitalize
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Untap all creatures you control.
+      </oracleText>
+      <edition>Weatherlight
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.145
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>167
+      </num>
+      <text>Untap all creatures you control.
+      </text>
+    </mc>
+  </list>
+</cards>
