@@ -1,0 +1,3821 @@
+
+<cards>
+  <name>Alara_Reborn</name>
+  <key>Alara_Reborn</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>179538
+      </id>
+      <name>Anathemancer
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Creature - Zombie Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Anathemancer enters the battlefield, it deals damage to target player equal to the number of nonbasic lands that player controls.&lt;br&gt;Unearth {5}{B}{R} &lt;i&gt;({5}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.784
+      </rating>
+      <artist>Richard Whitters
+      </artist>
+      <num>33
+      </num>
+      <text>When Anathemancer enters the battlefield, it deals damage to target player equal to the number of nonbasic lands that player controls.&lt;br&gt;Unearth {5}{B}{R} &lt;i&gt;({5}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179597
+      </id>
+      <name>Architects of Will
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Artifact Creature - Human Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Architects of Will enters the battlefield, look at the top three cards of target player's library, then put them back in any order.&lt;br&gt;Cycling {U/B} &lt;i&gt;({U/B}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.837
+      </rating>
+      <artist>Matt Stewart
+      </artist>
+      <num>17
+      </num>
+      <text>When Architects of Will enters the battlefield, look at the top three cards of target player's library, then put them back in any order.&lt;br&gt;Cycling {U/B} &lt;i&gt;({U/B}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>185054
+      </id>
+      <name>Ardent Plea
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.902
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>1
+      </num>
+      <text>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189652
+      </id>
+      <name>Arsenal Thresher
+      </name>
+      <cost>{2}{W/B}{U}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>As Arsenal Thresher enters the battlefield, you may reveal any number of other artifact cards from your hand. Arsenal Thresher enters the battlefield with a +1/+1 counter on it for each card revealed this way.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.266
+      </rating>
+      <artist>Ralph Horsley
+      </artist>
+      <num>131
+      </num>
+      <text>As Arsenal Thresher enters the battlefield, you may reveal any number of other artifact cards from your hand. Arsenal Thresher enters the battlefield with a +1/+1 counter on it for each card revealed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>180608
+      </id>
+      <name>Aven Mimeomancer
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Creature - Bird Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, you may put a feather counter on target creature. If you do, that creature is 3/1 and has flying for as long as it has a feather counter on it.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.968
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>2
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, you may put a feather counter on target creature. If you do, that creature is 3/1 and has flying for as long as it has a feather counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>188963
+      </id>
+      <name>Bant Sojourners
+      </name>
+      <cost>{1}{G}{W}{U}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When you cycle Bant Sojourners or it dies, you may put a 1/1 white Soldier creature token onto the battlefield.&lt;br&gt;Cycling {2}{W} &lt;i&gt;({2}{W}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.159
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>125
+      </num>
+      <text>When you cycle Bant Sojourners or it dies, you may put a 1/1 white Soldier creature token onto the battlefield.&lt;br&gt;Cycling {2}{W} &lt;i&gt;({2}{W}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>188975
+      </id>
+      <name>Bant Sureblade
+      </name>
+      <cost>{G/U}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>As long as you control another multicolored permanent, Bant Sureblade gets +1/+1 and has first strike.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.354
+      </rating>
+      <artist>Michael Komarck
+      </artist>
+      <num>143
+      </num>
+      <text>As long as you control another multicolored permanent, Bant Sureblade gets +1/+1 and has first strike.
+      </text>
+    </mc>
+    <mc>
+      <id>179545
+      </id>
+      <name>Behemoth Sledge
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +2/+2 and has lifelink and trample.&lt;br&gt;Equip {3}
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.496
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>65
+      </num>
+      <text>Equipped creature gets +2/+2 and has lifelink and trample.&lt;br&gt;Equip {3}
+      </text>
+    </mc>
+    <mc>
+      <id>185057
+      </id>
+      <name>Bituminous Blast
+      </name>
+      <cost>{3}{B}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;Bituminous Blast deals 4 damage to target creature.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.229
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>34
+      </num>
+      <text>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;Bituminous Blast deals 4 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>179406
+      </id>
+      <name>Blitz Hellion
+      </name>
+      <cost>{3}{R}{G}
+      </cost>
+      <type>Creature - Hellion
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Trample, haste&lt;br&gt;At the beginning of the end step, Blitz Hellion's owner shuffles it into his or her library.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.773
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>49
+      </num>
+      <text>Trample, haste&lt;br&gt;At the beginning of the end step, Blitz Hellion's owner shuffles it into his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>185053
+      </id>
+      <name>Bloodbraid Elf
+      </name>
+      <cost>{2}{R}{G}
+      </cost>
+      <type>Creature - Elf Berserker
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.598
+      </rating>
+      <artist>Dominick Domingo
+      </artist>
+      <num>50
+      </num>
+      <text>Haste&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179607
+      </id>
+      <name>Brainbite
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals his or her hand. You choose a card from it. That player discards that card.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.056
+      </rating>
+      <artist>Mark Hyzer
+      </artist>
+      <num>18
+      </num>
+      <text>Target opponent reveals his or her hand. You choose a card from it. That player discards that card.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>161291
+      </id>
+      <name>Breath of Malfegor
+      </name>
+      <cost>{3}{B}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Breath of Malfegor deals 5 damage to each opponent.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.594
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>35
+      </num>
+      <text>Breath of Malfegor deals 5 damage to each opponent.
+      </text>
+    </mc>
+    <mc>
+      <id>185064
+      </id>
+      <name>Captured Sunlight
+      </name>
+      <cost>{2}{G}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;You gain 4 life.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.951
+      </rating>
+      <artist>Nils Hamm
+      </artist>
+      <num>66
+      </num>
+      <text>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;You gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>180604
+      </id>
+      <name>Cerodon Yearling
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Vigilance, haste
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.375
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>96
+      </num>
+      <text>Vigilance, haste
+      </text>
+    </mc>
+    <mc>
+      <id>189653
+      </id>
+      <name>Cloven Casting
+      </name>
+      <cost>{5}{U}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever you cast a multicolored instant or sorcery spell, you may pay {1}. If you do, copy that spell. You may choose new targets for the copy.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.704
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>86
+      </num>
+      <text>Whenever you cast a multicolored instant or sorcery spell, you may pay {1}. If you do, copy that spell. You may choose new targets for the copy.
+      </text>
+    </mc>
+    <mc>
+      <id>179624
+      </id>
+      <name>Colossal Might
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +4/+2 and gains trample until end of turn.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.316
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>51
+      </num>
+      <text>Target creature gets +4/+2 and gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>179621
+      </id>
+      <name>Crystallization
+      </name>
+      <cost>{G/U}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.&lt;br&gt;When enchanted creature becomes the target of a spell or ability, exile that creature.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.082
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>144
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.&lt;br&gt;When enchanted creature becomes the target of a spell or ability, exile that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>180614
+      </id>
+      <name>Dauntless Escort
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Creature - Rhino Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Sacrifice Dauntless Escort: Creatures you control are indestructible this turn.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.458
+      </rating>
+      <artist>Volkan Baga
+      </artist>
+      <num>67
+      </num>
+      <text>Sacrifice Dauntless Escort: Creatures you control are indestructible this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>179543
+      </id>
+      <name>Deadshot Minotaur
+      </name>
+      <cost>{3}{R}{G}
+      </cost>
+      <type>Creature - Minotaur
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Deadshot Minotaur enters the battlefield, it deals 3 damage to target creature with flying.&lt;br&gt;Cycling {R/G} &lt;i&gt;({R/G}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.263
+      </rating>
+      <artist>Jason Chan
+      </artist>
+      <num>52
+      </num>
+      <text>When Deadshot Minotaur enters the battlefield, it deals 3 damage to target creature with flying.&lt;br&gt;Cycling {R/G} &lt;i&gt;({R/G}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>180622
+      </id>
+      <name>Deathbringer Thoctar
+      </name>
+      <cost>{4}{B}{R}
+      </cost>
+      <type>Creature - Zombie Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever another creature dies, you may put a +1/+1 counter on Deathbringer Thoctar.&lt;br&gt;Remove a +1/+1 counter from Deathbringer Thoctar: Deathbringer Thoctar deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.267
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>36
+      </num>
+      <text>Whenever another creature dies, you may put a +1/+1 counter on Deathbringer Thoctar.&lt;br&gt;Remove a +1/+1 counter from Deathbringer Thoctar: Deathbringer Thoctar deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>189646
+      </id>
+      <name>Defiler of Souls
+      </name>
+      <cost>{3}{B}{B}{R}
+      </cost>
+      <type>Creature - Demon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of each player's upkeep, that player sacrifices a monocolored creature.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.178
+      </rating>
+      <artist>Paul Bonner
+      </artist>
+      <num>37
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of each player's upkeep, that player sacrifices a monocolored creature.
+      </text>
+    </mc>
+    <mc>
+      <id>185062
+      </id>
+      <name>Demonic Dread
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;Target creature can't block this turn.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.897
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>38
+      </num>
+      <text>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;Target creature can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>180311
+      </id>
+      <name>Demonspine Whip
+      </name>
+      <cost>{B}{R}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>{X}: Equipped creature gets +X/+0 until end of turn.&lt;br&gt;Equip {1}
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.57
+      </rating>
+      <artist>Mark Hyzer
+      </artist>
+      <num>39
+      </num>
+      <text>{X}: Equipped creature gets +X/+0 until end of turn.&lt;br&gt;Equip {1}
+      </text>
+    </mc>
+    <mc>
+      <id>185045
+      </id>
+      <name>Deny Reality
+      </name>
+      <cost>{3}{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;Return target permanent to its owner's hand.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.156
+      </rating>
+      <artist>Jean-Sébastien Rossbach
+      </artist>
+      <num>19
+      </num>
+      <text>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;Return target permanent to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>179544
+      </id>
+      <name>Double Negative
+      </name>
+      <cost>{U}{U}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter up to two target spells.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.818
+      </rating>
+      <artist>Parente
+      </artist>
+      <num>87
+      </num>
+      <text>Counter up to two target spells.
+      </text>
+    </mc>
+    <mc>
+      <id>180616
+      </id>
+      <name>Dragon Appeasement
+      </name>
+      <cost>{3}{B}{R}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Skip your draw step.&lt;br&gt;Whenever you sacrifice a creature, you may draw a card.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.351
+      </rating>
+      <artist>Paul Bonner
+      </artist>
+      <num>115
+      </num>
+      <text>Skip your draw step.&lt;br&gt;Whenever you sacrifice a creature, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>189648
+      </id>
+      <name>Dragon Broodmother
+      </name>
+      <cost>{2}{R}{R}{R}{G}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of each upkeep, put a 1/1 red and green Dragon creature token with flying and devour 2 onto the battlefield. &lt;i&gt;(As the token enters the battlefield, you may sacrifice any number of creatures. It enters the battlefield with twice that many +1/+1 counters on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.579
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>53
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of each upkeep, put a 1/1 red and green Dragon creature token with flying and devour 2 onto the battlefield. &lt;i&gt;(As the token enters the battlefield, you may sacrifice any number of creatures. It enters the battlefield with twice that many +1/+1 counters on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179587
+      </id>
+      <name>Drastic Revelation
+      </name>
+      <cost>{2}{U}{B}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Discard your hand. Draw seven cards, then discard three cards at random.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.163
+      </rating>
+      <artist>Trevor Claxton
+      </artist>
+      <num>111
+      </num>
+      <text>Discard your hand. Draw seven cards, then discard three cards at random.
+      </text>
+    </mc>
+    <mc>
+      <id>180597
+      </id>
+      <name>Enigma Sphinx
+      </name>
+      <cost>{4}{W}{U}{B}
+      </cost>
+      <type>Artifact Creature - Sphinx
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Enigma Sphinx is put into your graveyard from the battlefield, put it into your library third from the top.&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.986
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>106
+      </num>
+      <text>Flying&lt;br&gt;When Enigma Sphinx is put into your graveyard from the battlefield, put it into your library third from the top.&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>185047
+      </id>
+      <name>Enlisted Wurm
+      </name>
+      <cost>{4}{G}{W}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.21
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>68
+      </num>
+      <text>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>188967
+      </id>
+      <name>Esper Sojourners
+      </name>
+      <cost>{W}{U}{B}
+      </cost>
+      <type>Artifact Creature - Vedalken Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When you cycle Esper Sojourners or it dies, you may tap or untap target permanent.&lt;br&gt;Cycling {2}{U} &lt;i&gt;({2}{U}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.129
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>107
+      </num>
+      <text>When you cycle Esper Sojourners or it dies, you may tap or untap target permanent.&lt;br&gt;Cycling {2}{U} &lt;i&gt;({2}{U}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>188968
+      </id>
+      <name>Esper Stormblade
+      </name>
+      <cost>{W/B}{U}
+      </cost>
+      <type>Artifact Creature - Vedalken Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>As long as you control another multicolored permanent, Esper Stormblade gets +1/+1 and has flying.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.255
+      </rating>
+      <artist>Matt Stewart
+      </artist>
+      <num>132
+      </num>
+      <text>As long as you control another multicolored permanent, Esper Stormblade gets +1/+1 and has flying.
+      </text>
+    </mc>
+    <mc>
+      <id>179542
+      </id>
+      <name>Ethercaste Knight
+      </name>
+      <cost>{W}{U}
+      </cost>
+      <type>Artifact Creature - Human Knight
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.585
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>3
+      </num>
+      <text>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179573
+      </id>
+      <name>Etherium Abomination
+      </name>
+      <cost>{3}{U}{B}
+      </cost>
+      <type>Artifact Creature - Horror
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Unearth {1}{U}{B} &lt;i&gt;({1}{U}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.267
+      </rating>
+      <artist>Mitch Cotie
+      </artist>
+      <num>20
+      </num>
+      <text>Unearth {1}{U}{B} &lt;i&gt;({1}{U}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179578
+      </id>
+      <name>Ethersworn Shieldmage
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Artifact Creature - Vedalken Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash&lt;br&gt;When Ethersworn Shieldmage enters the battlefield, prevent all damage that would be dealt to artifact creatures this turn.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.591
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>4
+      </num>
+      <text>Flash&lt;br&gt;When Ethersworn Shieldmage enters the battlefield, prevent all damage that would be dealt to artifact creatures this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>179618
+      </id>
+      <name>Etherwrought Page
+      </name>
+      <cost>{1}{W}{U}{B}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>At the beginning of your upkeep, choose one- You gain 2 life; or look at the top card of your library, then you may put that card into your graveyard; or each opponent loses 1 life.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.342
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>108
+      </num>
+      <text>At the beginning of your upkeep, choose one- You gain 2 life; or look at the top card of your library, then you may put that card into your graveyard; or each opponent loses 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>183005
+      </id>
+      <name>Fieldmist Borderpost
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may pay {1} and return a basic land you control to its owner's hand rather than pay Fieldmist Borderpost's mana cost.&lt;br&gt;Fieldmist Borderpost enters the battlefield tapped.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.643
+      </rating>
+      <artist>Michael Bruinsma
+      </artist>
+      <num>5
+      </num>
+      <text>You may pay {1} and return a basic land you control to its owner's hand rather than pay Fieldmist Borderpost's mana cost.&lt;br&gt;Fieldmist Borderpost enters the battlefield tapped.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>179562
+      </id>
+      <name>Fight to the Death
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy all blocking creatures and all blocked creatures.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.144
+      </rating>
+      <artist>Michael Komarck
+      </artist>
+      <num>97
+      </num>
+      <text>Destroy all blocking creatures and all blocked creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>188965
+      </id>
+      <name>Filigree Angel
+      </name>
+      <cost>{5}{W}{W}{U}
+      </cost>
+      <type>Artifact Creature - Angel
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Filigree Angel enters the battlefield, you gain 3 life for each artifact you control.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.646
+      </rating>
+      <artist>Richard Whitters
+      </artist>
+      <num>6
+      </num>
+      <text>Flying&lt;br&gt;When Filigree Angel enters the battlefield, you gain 3 life for each artifact you control.
+      </text>
+    </mc>
+    <mc>
+      <id>180609
+      </id>
+      <name>Finest Hour
+      </name>
+      <cost>{2}{G}{W}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever a creature you control attacks alone, if it's the first combat phase of the turn, untap that creature. After this phase, there is an additional combat phase.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.576
+      </rating>
+      <artist>Michael Komarck
+      </artist>
+      <num>126
+      </num>
+      <text>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever a creature you control attacks alone, if it's the first combat phase of the turn, untap that creature. After this phase, there is an additional combat phase.
+      </text>
+    </mc>
+    <mc>
+      <id>188974
+      </id>
+      <name>Firewild Borderpost
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may pay {1} and return a basic land you control to its owner's hand rather than pay Firewild Borderpost's mana cost.&lt;br&gt;Firewild Borderpost enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.449
+      </rating>
+      <artist>Jean-Sébastien Rossbach
+      </artist>
+      <num>54
+      </num>
+      <text>You may pay {1} and return a basic land you control to its owner's hand rather than pay Firewild Borderpost's mana cost.&lt;br&gt;Firewild Borderpost enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>179605
+      </id>
+      <name>Flurry of Wings
+      </name>
+      <cost>{G}{W}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put X 1/1 white Bird Soldier creature tokens with flying onto the battlefield, where X is the number of attacking creatures.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.111
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>127
+      </num>
+      <text>Put X 1/1 white Bird Soldier creature tokens with flying onto the battlefield, where X is the number of attacking creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>179598
+      </id>
+      <name>Giant Ambush Beetle
+      </name>
+      <cost>{3}{B/G}{R}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Haste&lt;br&gt;When Giant Ambush Beetle enters the battlefield, you may have target creature block it this turn if able.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.512
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>137
+      </num>
+      <text>Haste&lt;br&gt;When Giant Ambush Beetle enters the battlefield, you may have target creature block it this turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>179576
+      </id>
+      <name>Glassdust Hulk
+      </name>
+      <cost>{3}{W}{U}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever another artifact enters the battlefield under your control, Glassdust Hulk gets +1/+1 until end of turn and is unblockable this turn.&lt;br&gt;Cycling {W/U} &lt;i&gt;({W/U}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.86
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>7
+      </num>
+      <text>Whenever another artifact enters the battlefield under your control, Glassdust Hulk gets +1/+1 until end of turn and is unblockable this turn.&lt;br&gt;Cycling {W/U} &lt;i&gt;({W/U}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179611
+      </id>
+      <name>Glory of Warfare
+      </name>
+      <cost>{2}{R}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>As long as it's your turn, creatures you control get +2/+0.&lt;br&gt;As long as it's not your turn, creatures you control get +0/+2.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.278
+      </rating>
+      <artist>Parente
+      </artist>
+      <num>98
+      </num>
+      <text>As long as it's your turn, creatures you control get +2/+0.&lt;br&gt;As long as it's not your turn, creatures you control get +0/+2.
+      </text>
+    </mc>
+    <mc>
+      <id>189654
+      </id>
+      <name>Gloryscale Viashino
+      </name>
+      <cost>{1}{R}{G}{W}
+      </cost>
+      <type>Creature - Viashino Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever you cast a multicolored spell, Gloryscale Viashino gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.842
+      </rating>
+      <artist>Volkan Baga
+      </artist>
+      <num>120
+      </num>
+      <text>Whenever you cast a multicolored spell, Gloryscale Viashino gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>183994
+      </id>
+      <name>Godtracker of Jund
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Creature - Elf Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever a creature with power 5 or greater enters the battlefield under your control, you may put a +1/+1 counter on Godtracker of Jund.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.279
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>55
+      </num>
+      <text>Whenever a creature with power 5 or greater enters the battlefield under your control, you may put a +1/+1 counter on Godtracker of Jund.
+      </text>
+    </mc>
+    <mc>
+      <id>179561
+      </id>
+      <name>Gorger Wurm
+      </name>
+      <cost>{3}{R}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Devour 1 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.25
+      </rating>
+      <artist>Parente
+      </artist>
+      <num>56
+      </num>
+      <text>Devour 1 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>188976
+      </id>
+      <name>Grixis Grimblade
+      </name>
+      <cost>{U/R}{B}
+      </cost>
+      <type>Creature - Zombie Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>As long as you control another multicolored permanent, Grixis Grimblade gets +1/+1 and has deathtouch. &lt;i&gt;(Any amount of damage it deals to a creature is enough to destroy that creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.281
+      </rating>
+      <artist>Trevor Claxton
+      </artist>
+      <num>134
+      </num>
+      <text>As long as you control another multicolored permanent, Grixis Grimblade gets +1/+1 and has deathtouch. &lt;i&gt;(Any amount of damage it deals to a creature is enough to destroy that creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>188972
+      </id>
+      <name>Grixis Sojourners
+      </name>
+      <cost>{1}{U}{B}{R}
+      </cost>
+      <type>Creature - Zombie Ogre
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When you cycle Grixis Sojourners or it dies, you may exile target card from a graveyard.&lt;br&gt;Cycling {2}{B} &lt;i&gt;({2}{B}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.561
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>112
+      </num>
+      <text>When you cycle Grixis Sojourners or it dies, you may exile target card from a graveyard.&lt;br&gt;Cycling {2}{B} &lt;i&gt;({2}{B}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189647
+      </id>
+      <name>Grizzled Leotau
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>1
+      </power>
+      <toughness>5
+      </toughness>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.693
+      </rating>
+      <artist>Lars Grant-West
+      </artist>
+      <num>69
+      </num>
+    </mc>
+    <mc>
+      <id>175109
+      </id>
+      <name>Identity Crisis
+      </name>
+      <cost>{2}{W}{W}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Exile all cards from target player's hand and graveyard.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.93
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>81
+      </num>
+      <text>Exile all cards from target player's hand and graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>144276
+      </id>
+      <name>Igneous Pouncer
+      </name>
+      <cost>{4}{B}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>5
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Swampcycling {2}, mountaincycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.429
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>40
+      </num>
+      <text>Haste&lt;br&gt;Swampcycling {2}, mountaincycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179596
+      </id>
+      <name>Illusory Demon
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Creature - Demon Illusion
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When you cast a spell, sacrifice Illusory Demon.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.552
+      </rating>
+      <artist>Nils Hamm
+      </artist>
+      <num>21
+      </num>
+      <text>Flying&lt;br&gt;When you cast a spell, sacrifice Illusory Demon.
+      </text>
+    </mc>
+    <mc>
+      <id>179568
+      </id>
+      <name>Intimidation Bolt
+      </name>
+      <cost>{1}{R}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Intimidation Bolt deals 3 damage to target creature. Other creatures can't attack this turn.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.231
+      </rating>
+      <artist>Michael Bruinsma
+      </artist>
+      <num>99
+      </num>
+      <text>Intimidation Bolt deals 3 damage to target creature. Other creatures can't attack this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>180605
+      </id>
+      <name>Jenara, Asura of War
+      </name>
+      <cost>{G}{W}{U}
+      </cost>
+      <type>Legendary Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{1}{W}: Put a +1/+1 counter on Jenara, Asura of War.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.492
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>128
+      </num>
+      <text>Flying&lt;br&gt;{1}{W}: Put a +1/+1 counter on Jenara, Asura of War.
+      </text>
+    </mc>
+    <mc>
+      <id>144286
+      </id>
+      <name>Jhessian Zombies
+      </name>
+      <cost>{4}{U}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;Islandcycling {2}, swampcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.824
+      </rating>
+      <artist>Ash Wood
+      </artist>
+      <num>22
+      </num>
+      <text>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;Islandcycling {2}, swampcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>188973
+      </id>
+      <name>Jund Hackblade
+      </name>
+      <cost>{B/G}{R}
+      </cost>
+      <type>Creature - Goblin Berserker
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>As long as you control another multicolored permanent, Jund Hackblade gets +1/+1 and has haste.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.96
+      </rating>
+      <artist>Dan Dos Santos
+      </artist>
+      <num>138
+      </num>
+      <text>As long as you control another multicolored permanent, Jund Hackblade gets +1/+1 and has haste.
+      </text>
+    </mc>
+    <mc>
+      <id>188966
+      </id>
+      <name>Jund Sojourners
+      </name>
+      <cost>{B}{R}{G}
+      </cost>
+      <type>Creature - Viashino Shaman
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When you cycle Jund Sojourners or it dies, you may have it deal 1 damage to target creature or player.&lt;br&gt;Cycling {2}{R} &lt;i&gt;({2}{R}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.686
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>116
+      </num>
+      <text>When you cycle Jund Sojourners or it dies, you may have it deal 1 damage to target creature or player.&lt;br&gt;Cycling {2}{R} &lt;i&gt;({2}{R}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>180587
+      </id>
+      <name>Karrthus, Tyrant of Jund
+      </name>
+      <cost>{4}{B}{R}{G}
+      </cost>
+      <type>Legendary Creature - Dragon
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Flying, haste&lt;br&gt;When Karrthus, Tyrant of Jund enters the battlefield, gain control of all Dragons, then untap all Dragons.&lt;br&gt;Other Dragon creatures you control have haste.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.2
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>117
+      </num>
+      <text>Flying, haste&lt;br&gt;When Karrthus, Tyrant of Jund enters the battlefield, gain control of all Dragons, then untap all Dragons.&lt;br&gt;Other Dragon creatures you control have haste.
+      </text>
+    </mc>
+    <mc>
+      <id>179602
+      </id>
+      <name>Kathari Bomber
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Creature - Bird Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Kathari Bomber deals combat damage to a player, put two 1/1 red Goblin creature tokens onto the battlefield and sacrifice Kathari Bomber.&lt;br&gt;Unearth {3}{B}{R} &lt;i&gt;({3}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.273
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>41
+      </num>
+      <text>Flying&lt;br&gt;When Kathari Bomber deals combat damage to a player, put two 1/1 red Goblin creature tokens onto the battlefield and sacrifice Kathari Bomber.&lt;br&gt;Unearth {3}{B}{R} &lt;i&gt;({3}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>185060
+      </id>
+      <name>Kathari Remnant
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Creature - Bird Skeleton
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{B}: Regenerate Kathari Remnant.&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.619
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>23
+      </num>
+      <text>Flying&lt;br&gt;{B}: Regenerate Kathari Remnant.&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>189642
+      </id>
+      <name>Knight of New Alara
+      </name>
+      <cost>{2}{G}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Each other multicolored creature you control gets +1/+1 for each of its colors.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.519
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>70
+      </num>
+      <text>Each other multicolored creature you control gets +1/+1 for each of its colors.
+      </text>
+    </mc>
+    <mc>
+      <id>180624
+      </id>
+      <name>Knotvine Paladin
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.196
+      </rating>
+      <artist>Matt Stewart
+      </artist>
+      <num>71
+      </num>
+      <text>Whenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>180612
+      </id>
+      <name>Lavalanche
+      </name>
+      <cost>{X}{B}{R}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Lavalanche deals X damage to target player and each creature he or she controls.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.157
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>118
+      </num>
+      <text>Lavalanche deals X damage to target player and each creature he or she controls.
+      </text>
+    </mc>
+    <mc>
+      <id>180606
+      </id>
+      <name>Leonin Armorguard
+      </name>
+      <cost>{2}{G}{W}
+      </cost>
+      <type>Creature - Cat Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Leonin Armorguard enters the battlefield, creatures you control get +1/+1 until end of turn.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.974
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>72
+      </num>
+      <text>When Leonin Armorguard enters the battlefield, creatures you control get +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>179555
+      </id>
+      <name>Lich Lord of Unx
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Creature - Zombie Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{U}{B}, {T}: Put a 1/1 blue and black Zombie Wizard creature token onto the battlefield.&lt;br&gt;{U}{U}{B}{B}: Target player loses X life and puts the top X cards of his or her library into his or her graveyard, where X is the number of Zombies you control.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.19
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>24
+      </num>
+      <text>{U}{B}, {T}: Put a 1/1 blue and black Zombie Wizard creature token onto the battlefield.&lt;br&gt;{U}{U}{B}{B}: Target player loses X life and puts the top X cards of his or her library into his or her graveyard, where X is the number of Zombies you control.
+      </text>
+    </mc>
+    <mc>
+      <id>180617
+      </id>
+      <name>Lightning Reaver
+      </name>
+      <cost>{3}{B}{R}
+      </cost>
+      <type>Creature - Zombie Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Haste; fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;Whenever Lightning Reaver deals combat damage to a player, put a charge counter on it.&lt;br&gt;At the beginning of your end step, Lightning Reaver deals damage equal to the number of charge counters on it to each opponent.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.349
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>42
+      </num>
+      <text>Haste; fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;Whenever Lightning Reaver deals combat damage to a player, put a charge counter on it.&lt;br&gt;At the beginning of your end step, Lightning Reaver deals damage equal to the number of charge counters on it to each opponent.
+      </text>
+    </mc>
+    <mc>
+      <id>177922
+      </id>
+      <name>Lord of Extinction
+      </name>
+      <cost>{3}{B}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <oracleText>Lord of Extinction's power and toughness are each equal to the number of cards in all graveyards.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.528
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>91
+      </num>
+      <text>Lord of Extinction's power and toughness are each equal to the number of cards in all graveyards.
+      </text>
+    </mc>
+    <mc>
+      <id>179633
+      </id>
+      <name>Lorescale Coatl
+      </name>
+      <cost>{1}{G}{U}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.709
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>101
+      </num>
+      <text>Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.
+      </text>
+    </mc>
+    <mc>
+      <id>180625
+      </id>
+      <name>Madrush Cyclops
+      </name>
+      <cost>{1}{B}{R}{G}
+      </cost>
+      <type>Creature - Cyclops Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Creatures you control have haste.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.914
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>119
+      </num>
+      <text>Creatures you control have haste.
+      </text>
+    </mc>
+    <mc>
+      <id>179540
+      </id>
+      <name>Maelstrom Nexus
+      </name>
+      <cost>{W}{U}{B}{R}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>The first spell you cast each turn has cascade. &lt;i&gt;(When you cast your first spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.275
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>130
+      </num>
+      <text>The first spell you cast each turn has cascade. &lt;i&gt;(When you cast your first spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>180613
+      </id>
+      <name>Maelstrom Pulse
+      </name>
+      <cost>{1}{B}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target nonland permanent and all other permanents with the same name as that permanent.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.794
+      </rating>
+      <artist>Anthony Francisco
+      </artist>
+      <num>92
+      </num>
+      <text>Destroy target nonland permanent and all other permanents with the same name as that permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>179567
+      </id>
+      <name>Mage Slayer
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Whenever equipped creature attacks, it deals damage equal to its power to defending player.&lt;br&gt;Equip {3}
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.361
+      </rating>
+      <artist>Lars Grant-West
+      </artist>
+      <num>57
+      </num>
+      <text>Whenever equipped creature attacks, it deals damage equal to its power to defending player.&lt;br&gt;Equip {3}
+      </text>
+    </mc>
+    <mc>
+      <id>179591
+      </id>
+      <name>Magefire Wings
+      </name>
+      <cost>{U}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+0 and has flying.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.564
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>88
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+0 and has flying.
+      </text>
+    </mc>
+    <mc>
+      <id>179585
+      </id>
+      <name>Marisi's Twinclaws
+      </name>
+      <cost>{2}{R/W}{G}
+      </cost>
+      <type>Creature - Cat Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Double strike
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.094
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>140
+      </num>
+      <text>Double strike
+      </text>
+    </mc>
+    <mc>
+      <id>183014
+      </id>
+      <name>Marrow Chomper
+      </name>
+      <cost>{3}{B}{G}
+      </cost>
+      <type>Creature - Zombie Lizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Devour 2 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;When Marrow Chomper enters the battlefield, you gain 2 life for each creature it devoured.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.63
+      </rating>
+      <artist>Lars Grant-West
+      </artist>
+      <num>93
+      </num>
+      <text>Devour 2 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;When Marrow Chomper enters the battlefield, you gain 2 life for each creature it devoured.
+      </text>
+    </mc>
+    <mc>
+      <id>179584
+      </id>
+      <name>Mask of Riddles
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has fear. &lt;i&gt;(It can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;Whenever equipped creature deals combat damage to a player, you may draw a card.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.333
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>25
+      </num>
+      <text>Equipped creature has fear. &lt;i&gt;(It can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;Whenever equipped creature deals combat damage to a player, you may draw a card.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>180620
+      </id>
+      <name>Mayael's Aria
+      </name>
+      <cost>{R}{G}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, put a +1/+1 counter on each creature you control if you control a creature with power 5 or greater. Then you gain 10 life if you control a creature with power 10 or greater. Then you win the game if you control a creature with power 20 or greater.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.359
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>121
+      </num>
+      <text>At the beginning of your upkeep, put a +1/+1 counter on each creature you control if you control a creature with power 5 or greater. Then you gain 10 life if you control a creature with power 10 or greater. Then you win the game if you control a creature with power 20 or greater.
+      </text>
+    </mc>
+    <mc>
+      <id>179547
+      </id>
+      <name>Meddling Mage
+      </name>
+      <cost>{W}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>As Meddling Mage enters the battlefield, name a nonland card.&lt;br&gt;The named card can't be cast.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.706
+      </rating>
+      <artist>Todd Lockwood
+      </artist>
+      <num>8
+      </num>
+      <text>As Meddling Mage enters the battlefield, name a nonland card.&lt;br&gt;The named card can't be cast.
+      </text>
+    </mc>
+    <mc>
+      <id>189644
+      </id>
+      <name>Messenger Falcons
+      </name>
+      <cost>{2}{G/U}{W}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Messenger Falcons enters the battlefield, draw a card.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.974
+      </rating>
+      <artist>David Palumbo
+      </artist>
+      <num>145
+      </num>
+      <text>Flying&lt;br&gt;When Messenger Falcons enters the battlefield, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>179599
+      </id>
+      <name>Mind Funeral
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals cards from the top of his or her library until four land cards are revealed. That player puts all cards revealed this way into his or her graveyard.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.663
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>26
+      </num>
+      <text>Target opponent reveals cards from the top of his or her library until four land cards are revealed. That player puts all cards revealed this way into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>161276
+      </id>
+      <name>Mistvein Borderpost
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may pay {1} and return a basic land you control to its owner's hand rather than pay Mistvein Borderpost's mana cost.&lt;br&gt;Mistvein Borderpost enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.667
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>27
+      </num>
+      <text>You may pay {1} and return a basic land you control to its owner's hand rather than pay Mistvein Borderpost's mana cost.&lt;br&gt;Mistvein Borderpost enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>185051
+      </id>
+      <name>Monstrous Carabid
+      </name>
+      <cost>{3}{B}{R}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Monstrous Carabid attacks each turn if able.&lt;br&gt;Cycling {B/R} &lt;i&gt;({B/R}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.216
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>43
+      </num>
+      <text>Monstrous Carabid attacks each turn if able.&lt;br&gt;Cycling {B/R} &lt;i&gt;({B/R}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179614
+      </id>
+      <name>Morbid Bloom
+      </name>
+      <cost>{4}{B}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Exile target creature card from a graveyard, then put X 1/1 green Saproling creature tokens onto the battlefield, where X is the exiled card's toughness.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.153
+      </rating>
+      <artist>Trevor Claxton
+      </artist>
+      <num>94
+      </num>
+      <text>Exile target creature card from a graveyard, then put X 1/1 green Saproling creature tokens onto the battlefield, where X is the exiled card's toughness.
+      </text>
+    </mc>
+    <mc>
+      <id>179548
+      </id>
+      <name>Mycoid Shepherd
+      </name>
+      <cost>{1}{G}{G}{W}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever Mycoid Shepherd or another creature you control with power 5 or greater dies, you may gain 5 life.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.364
+      </rating>
+      <artist>Trevor Claxton
+      </artist>
+      <num>73
+      </num>
+      <text>Whenever Mycoid Shepherd or another creature you control with power 5 or greater dies, you may gain 5 life.
+      </text>
+    </mc>
+    <mc>
+      <id>188969
+      </id>
+      <name>Naya Hushblade
+      </name>
+      <cost>{R/W}{G}
+      </cost>
+      <type>Creature - Elf Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>As long as you control another multicolored permanent, Naya Hushblade gets +1/+1 and has shroud. &lt;i&gt;(It can't be the target of spells or abilities.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.957
+      </rating>
+      <artist>Jason Chan
+      </artist>
+      <num>141
+      </num>
+      <text>As long as you control another multicolored permanent, Naya Hushblade gets +1/+1 and has shroud. &lt;i&gt;(It can't be the target of spells or abilities.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>188970
+      </id>
+      <name>Naya Sojourners
+      </name>
+      <cost>{2}{R}{G}{W}
+      </cost>
+      <type>Creature - Elf Shaman
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When you cycle Naya Sojourners or it dies, you may put a +1/+1 counter on target creature.&lt;br&gt;Cycling {2}{G} &lt;i&gt;({2}{G}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.125
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>122
+      </num>
+      <text>When you cycle Naya Sojourners or it dies, you may put a +1/+1 counter on target creature.&lt;br&gt;Cycling {2}{G} &lt;i&gt;({2}{G}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>183011
+      </id>
+      <name>Necromancer's Covenant
+      </name>
+      <cost>{3}{W}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Necromancer's Covenant enters the battlefield, exile all creature cards from target player's graveyard, then put a 2/2 black Zombie creature token onto the battlefield for each card exiled this way.&lt;br&gt;Zombies you control have lifelink.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.351
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>82
+      </num>
+      <text>When Necromancer's Covenant enters the battlefield, exile all creature cards from target player's graveyard, then put a 2/2 black Zombie creature token onto the battlefield for each card exiled this way.&lt;br&gt;Zombies you control have lifelink.
+      </text>
+    </mc>
+    <mc>
+      <id>188962
+      </id>
+      <name>Nemesis of Reason
+      </name>
+      <cost>{3}{U}{B}
+      </cost>
+      <type>Creature - Leviathan Horror
+      </type>
+      <power>3
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Whenever Nemesis of Reason attacks, defending player puts the top ten cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.594
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>28
+      </num>
+      <text>Whenever Nemesis of Reason attacks, defending player puts the top ten cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>179580
+      </id>
+      <name>Nulltread Gargantuan
+      </name>
+      <cost>{1}{G}{U}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>When Nulltread Gargantuan enters the battlefield, put a creature you control on top of its owner's library.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.289
+      </rating>
+      <artist>Anthony Francisco
+      </artist>
+      <num>102
+      </num>
+      <text>When Nulltread Gargantuan enters the battlefield, put a creature you control on top of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>183007
+      </id>
+      <name>Offering to Asha
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell unless its controller pays {4}. You gain 4 life.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.31
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>9
+      </num>
+      <text>Counter target spell unless its controller pays {4}. You gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>144249
+      </id>
+      <name>Pale Recluse
+      </name>
+      <cost>{4}{G}{W}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Forestcycling {2}, plainscycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.5
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>74
+      </num>
+      <text>Reach &lt;i&gt;(This can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Forestcycling {2}, plainscycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>180602
+      </id>
+      <name>Predatory Advantage
+      </name>
+      <cost>{3}{R}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of each opponent's end step, if that player didn't cast a creature spell this turn, put a 2/2 green Lizard creature token onto the battlefield.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.933
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>58
+      </num>
+      <text>At the beginning of each opponent's end step, if that player didn't cast a creature spell this turn, put a 2/2 green Lizard creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>179612
+      </id>
+      <name>Putrid Leech
+      </name>
+      <cost>{B}{G}
+      </cost>
+      <type>Creature - Zombie Leech
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate this ability only once each turn.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.365
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>95
+      </num>
+      <text>Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate this ability only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>179556
+      </id>
+      <name>Qasali Pridemage
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Creature - Cat Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;{1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.638
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>75
+      </num>
+      <text>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;{1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>175256
+      </id>
+      <name>Reborn Hope
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target multicolored card from your graveyard to your hand.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.098
+      </rating>
+      <artist>Warren Mahy
+      </artist>
+      <num>76
+      </num>
+      <text>Return target multicolored card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>147530
+      </id>
+      <name>Retaliator Griffin
+      </name>
+      <cost>{1}{R}{G}{W}
+      </cost>
+      <type>Creature - Griffin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a source an opponent controls deals damage to you, you may put that many +1/+1 counters on Retaliator Griffin.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.218
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>123
+      </num>
+      <text>Flying&lt;br&gt;Whenever a source an opponent controls deals damage to you, you may put that many +1/+1 counters on Retaliator Griffin.
+      </text>
+    </mc>
+    <mc>
+      <id>189650
+      </id>
+      <name>Rhox Brute
+      </name>
+      <cost>{2}{R}{G}
+      </cost>
+      <type>Creature - Rhino Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.72
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>59
+      </num>
+    </mc>
+    <mc>
+      <id>180601
+      </id>
+      <name>Sages of the Anima
+      </name>
+      <cost>{3}{G}{U}
+      </cost>
+      <type>Creature - Elf Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>If you would draw a card, instead reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.736
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>103
+      </num>
+      <text>If you would draw a card, instead reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>144282
+      </id>
+      <name>Sanctum Plowbeast
+      </name>
+      <cost>{4}{W}{U}
+      </cost>
+      <type>Artifact Creature - Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Defender&lt;br&gt;Plainscycling {2}, islandcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Plains or Island card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.742
+      </rating>
+      <artist>Anthony Francisco
+      </artist>
+      <num>10
+      </num>
+      <text>Defender&lt;br&gt;Plainscycling {2}, islandcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Plains or Island card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179553
+      </id>
+      <name>Sangrite Backlash
+      </name>
+      <cost>{B/G}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/-3.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.078
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>139
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/-3.
+      </text>
+    </mc>
+    <mc>
+      <id>179623
+      </id>
+      <name>Sanity Gnawers
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Creature - Rat
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Sanity Gnawers enters the battlefield, target player discards a card at random.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.778
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>44
+      </num>
+      <text>When Sanity Gnawers enters the battlefield, target player discards a card at random.
+      </text>
+    </mc>
+    <mc>
+      <id>180607
+      </id>
+      <name>Sen Triplets
+      </name>
+      <cost>{2}{W}{U}{B}
+      </cost>
+      <type>Legendary Artifact Creature - Human Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>At the beginning of your upkeep, choose target opponent. This turn, that player can't cast spells or activate abilities and plays with his or her hand revealed. You may play cards from that player's hand this turn.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.576
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>109
+      </num>
+      <text>At the beginning of your upkeep, choose target opponent. This turn, that player can't cast spells or activate abilities and plays with his or her hand revealed. You may play cards from that player's hand this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>179594
+      </id>
+      <name>Sewn-Eye Drake
+      </name>
+      <cost>{2}{U/R}{B}
+      </cost>
+      <type>Creature - Zombie Drake
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying, haste
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.298
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>135
+      </num>
+      <text>Flying, haste
+      </text>
+    </mc>
+    <mc>
+      <id>185063
+      </id>
+      <name>Shield of the Righteous
+      </name>
+      <cost>{W}{U}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +0/+2 and has vigilance.&lt;br&gt;Whenever equipped creature blocks a creature, that creature doesn't untap during its controller's next untap step.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.36
+      </rating>
+      <artist>David Palumbo
+      </artist>
+      <num>11
+      </num>
+      <text>Equipped creature gets +0/+2 and has vigilance.&lt;br&gt;Whenever equipped creature blocks a creature, that creature doesn't untap during its controller's next untap step.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>179560
+      </id>
+      <name>Sigil Captain
+      </name>
+      <cost>{1}{G}{W}{W}
+      </cost>
+      <type>Creature - Rhino Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever a creature enters the battlefield under your control, if that creature is 1/1, put two +1/+1 counters on it.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.266
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>77
+      </num>
+      <text>Whenever a creature enters the battlefield under your control, if that creature is 1/1, put two +1/+1 counters on it.
+      </text>
+    </mc>
+    <mc>
+      <id>179630
+      </id>
+      <name>Sigil of the Nayan Gods
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 for each creature you control.&lt;br&gt;Cycling {G/W} &lt;i&gt;({G/W}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.744
+      </rating>
+      <artist>Warren Mahy
+      </artist>
+      <num>78
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 for each creature you control.&lt;br&gt;Cycling {G/W} &lt;i&gt;({G/W}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>159688
+      </id>
+      <name>Sigiled Behemoth
+      </name>
+      <cost>{4}{G}{W}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.22
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>79
+      </num>
+      <text>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179574
+      </id>
+      <name>Singe-Mind Ogre
+      </name>
+      <cost>{2}{B}{R}
+      </cost>
+      <type>Creature - Ogre Mutant
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Singe-Mind Ogre enters the battlefield, target player reveals a card at random from his or her hand, then loses life equal to that card's converted mana cost.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.629
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>45
+      </num>
+      <text>When Singe-Mind Ogre enters the battlefield, target player reveals a card at random from his or her hand, then loses life equal to that card's converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>179569
+      </id>
+      <name>Skyclaw Thrash
+      </name>
+      <cost>{3}{U}{R}
+      </cost>
+      <type>Artifact Creature - Viashino Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever Skyclaw Thrash attacks, flip a coin. If you win the flip, Skyclaw Thrash gets +1/+1 and gains flying until end of turn.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.895
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>89
+      </num>
+      <text>Whenever Skyclaw Thrash attacks, flip a coin. If you win the flip, Skyclaw Thrash gets +1/+1 and gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>188971
+      </id>
+      <name>Slave of Bolas
+      </name>
+      <cost>{3}{U/R}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.393
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>136
+      </num>
+      <text>Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>183008
+      </id>
+      <name>Soul Manipulation
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one or both- Counter target creature spell; and/or return target creature card from your graveyard to your hand.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.346
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>29
+      </num>
+      <text>Choose one or both- Counter target creature spell; and/or return target creature card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>179409
+      </id>
+      <name>Soulquake
+      </name>
+      <cost>{3}{U}{U}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return all creatures on the battlefield and all creature cards in graveyards to their owners' hands.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.393
+      </rating>
+      <artist>Warren Mahy
+      </artist>
+      <num>30
+      </num>
+      <text>Return all creatures on the battlefield and all creature cards in graveyards to their owners' hands.
+      </text>
+    </mc>
+    <mc>
+      <id>180600
+      </id>
+      <name>Sovereigns of Lost Alara
+      </name>
+      <cost>{4}{W}{U}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever a creature you control attacks alone, you may search your library for an Aura card that could enchant that creature, put it onto the battlefield attached to that creature, then shuffle your library.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.372
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>12
+      </num>
+      <text>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever a creature you control attacks alone, you may search your library for an Aura card that could enchant that creature, put it onto the battlefield attached to that creature, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>180611
+      </id>
+      <name>Spellbound Dragon
+      </name>
+      <cost>{3}{U}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's converted mana cost.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.421
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>90
+      </num>
+      <text>Flying&lt;br&gt;Whenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>179551
+      </id>
+      <name>Spellbreaker Behemoth
+      </name>
+      <cost>{1}{R}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Spellbreaker Behemoth can't be countered.&lt;br&gt;Creature spells you control with power 5 or greater can't be countered.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.571
+      </rating>
+      <artist>Jason Chan
+      </artist>
+      <num>60
+      </num>
+      <text>Spellbreaker Behemoth can't be countered.&lt;br&gt;Creature spells you control with power 5 or greater can't be countered.
+      </text>
+    </mc>
+    <mc>
+      <id>189641
+      </id>
+      <name>Sphinx of the Steel Wind
+      </name>
+      <cost>{5}{W}{U}{B}
+      </cost>
+      <type>Artifact Creature - Sphinx
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying, first strike, vigilance, lifelink, protection from red and from green
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.655
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>110
+      </num>
+      <text>Flying, first strike, vigilance, lifelink, protection from red and from green
+      </text>
+    </mc>
+    <mc>
+      <id>179534
+      </id>
+      <name>Stormcaller's Boon
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Sacrifice Stormcaller's Boon: Creatures you control gain flying until end of turn.&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.776
+      </rating>
+      <artist>Brandon Kitkouski
+      </artist>
+      <num>13
+      </num>
+      <text>Sacrifice Stormcaller's Boon: Creatures you control gain flying until end of turn.&lt;br&gt;Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179589
+      </id>
+      <name>Stun Sniper
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Creature - Human Archer
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}, {T}: Stun Sniper deals 1 damage to target creature. Tap that creature.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.09
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>100
+      </num>
+      <text>{1}, {T}: Stun Sniper deals 1 damage to target creature. Tap that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>180618
+      </id>
+      <name>Tainted Sigil
+      </name>
+      <cost>{1}{W}{B}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}, Sacrifice Tainted Sigil: You gain life equal to the total life lost by all players this turn. &lt;i&gt;(Damage causes loss of life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.847
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>83
+      </num>
+      <text>{T}, Sacrifice Tainted Sigil: You gain life equal to the total life lost by all players this turn. &lt;i&gt;(Damage causes loss of life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179537
+      </id>
+      <name>Talon Trooper
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Creature - Bird Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.718
+      </rating>
+      <artist>Matt Stewart
+      </artist>
+      <num>14
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>176449
+      </id>
+      <name>Terminate
+      </name>
+      <cost>{B}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature. It can't be regenerated.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.758
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>46
+      </num>
+      <text>Destroy target creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>183017
+      </id>
+      <name>Thopter Foundry
+      </name>
+      <cost>{W/B}{U}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, Sacrifice a nontoken artifact: Put a 1/1 blue Thopter artifact creature token with flying onto the battlefield. You gain 1 life.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.93
+      </rating>
+      <artist>Ralph Horsley
+      </artist>
+      <num>133
+      </num>
+      <text>{1}, Sacrifice a nontoken artifact: Put a 1/1 blue Thopter artifact creature token with flying onto the battlefield. You gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>180596
+      </id>
+      <name>Thought Hemorrhage
+      </name>
+      <cost>{2}{B}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Name a nonland card. Target player reveals his or her hand. Thought Hemorrhage deals 3 damage to that player for each card with that name revealed this way. Search that player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles his or her library.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.436
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>47
+      </num>
+      <text>Name a nonland card. Target player reveals his or her hand. Thought Hemorrhage deals 3 damage to that player for each card with that name revealed this way. Search that player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>180595
+      </id>
+      <name>Thraximundar
+      </name>
+      <cost>{4}{U}{B}{R}
+      </cost>
+      <type>Legendary Creature - Zombie Assassin
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Whenever Thraximundar attacks, defending player sacrifices a creature.&lt;br&gt;Whenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.643
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>113
+      </num>
+      <text>Haste&lt;br&gt;Whenever Thraximundar attacks, defending player sacrifices a creature.&lt;br&gt;Whenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar.
+      </text>
+    </mc>
+    <mc>
+      <id>189649
+      </id>
+      <name>Time Sieve
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}, Sacrifice five artifacts: Take an extra turn after this one.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.006
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>31
+      </num>
+      <text>{T}, Sacrifice five artifacts: Take an extra turn after this one.
+      </text>
+    </mc>
+    <mc>
+      <id>161292
+      </id>
+      <name>Trace of Abundance
+      </name>
+      <cost>{R/W}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;Enchanted land has shroud. &lt;i&gt;(It can't be the target of spells or abilities.)&lt;/i&gt;&lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.132
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>142
+      </num>
+      <text>Enchant land&lt;br&gt;Enchanted land has shroud. &lt;i&gt;(It can't be the target of spells or abilities.)&lt;/i&gt;&lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </text>
+    </mc>
+    <mc>
+      <id>138217
+      </id>
+      <name>Unbender Tine
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Untap another target permanent.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.479
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>15
+      </num>
+      <text>{T}: Untap another target permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>189651
+      </id>
+      <name>Unscythe, Killer of Kings
+      </name>
+      <cost>{U}{B}{B}{R}
+      </cost>
+      <type>Legendary Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +3/+3 and has first strike.&lt;br&gt;Whenever a creature dealt damage by equipped creature this turn dies, you may exile that card. If you do, put a 2/2 black Zombie creature token onto the battlefield.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.305
+      </rating>
+      <artist>Karl Kopinski
+      </artist>
+      <num>114
+      </num>
+      <text>Equipped creature gets +3/+3 and has first strike.&lt;br&gt;Whenever a creature dealt damage by equipped creature this turn dies, you may exile that card. If you do, put a 2/2 black Zombie creature token onto the battlefield.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>189645
+      </id>
+      <name>Uril, the Miststalker
+      </name>
+      <cost>{2}{R}{G}{W}
+      </cost>
+      <type>Legendary Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Uril, the Miststalker gets +2/+2 for each Aura attached to it.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.596
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>124
+      </num>
+      <text>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;Uril, the Miststalker gets +2/+2 for each Aura attached to it.
+      </text>
+    </mc>
+    <mc>
+      <id>144260
+      </id>
+      <name>Valley Rannet
+      </name>
+      <cost>{4}{R}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Mountaincycling {2}, forestcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.088
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>61
+      </num>
+      <text>Mountaincycling {2}, forestcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179592
+      </id>
+      <name>Vectis Dominator
+      </name>
+      <cost>{1}{W}{B}
+      </cost>
+      <type>Artifact Creature - Human Wizard
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Tap target creature unless its controller pays 2 life.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.314
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>84
+      </num>
+      <text>{T}: Tap target creature unless its controller pays 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>183010
+      </id>
+      <name>Vedalken Ghoul
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Creature - Vedalken Zombie
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Vedalken Ghoul becomes blocked, defending player loses 4 life.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.342
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>32
+      </num>
+      <text>Whenever Vedalken Ghoul becomes blocked, defending player loses 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>180619
+      </id>
+      <name>Vedalken Heretic
+      </name>
+      <cost>{G}{U}
+      </cost>
+      <type>Creature - Vedalken Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Vedalken Heretic deals damage to an opponent, you may draw a card.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.054
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>104
+      </num>
+      <text>Whenever Vedalken Heretic deals damage to an opponent, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>189640
+      </id>
+      <name>Veinfire Borderpost
+      </name>
+      <cost>{1}{B}{R}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may pay {1} and return a basic land you control to its owner's hand rather than pay Veinfire Borderpost's mana cost.&lt;br&gt;Veinfire Borderpost enters the battlefield tapped.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.359
+      </rating>
+      <artist>Ralph Horsley
+      </artist>
+      <num>48
+      </num>
+      <text>You may pay {1} and return a basic land you control to its owner's hand rather than pay Veinfire Borderpost's mana cost.&lt;br&gt;Veinfire Borderpost enters the battlefield tapped.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>179628
+      </id>
+      <name>Vengeful Rebirth
+      </name>
+      <cost>{4}{R}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to target creature or player.&lt;br&gt;Exile Vengeful Rebirth.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.429
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>62
+      </num>
+      <text>Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to target creature or player.&lt;br&gt;Exile Vengeful Rebirth.
+      </text>
+    </mc>
+    <mc>
+      <id>185056
+      </id>
+      <name>Violent Outburst
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;Creatures you control get +1/+0 until end of turn.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.256
+      </rating>
+      <artist>Richard Whitters
+      </artist>
+      <num>63
+      </num>
+      <text>Cascade &lt;i&gt;(When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)&lt;/i&gt;&lt;br&gt;Creatures you control get +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>179535
+      </id>
+      <name>Vithian Renegades
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Vithian Renegades enters the battlefield, destroy target artifact.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.878
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>64
+      </num>
+      <text>When Vithian Renegades enters the battlefield, destroy target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>179601
+      </id>
+      <name>Wall of Denial
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>Defender, flying&lt;br&gt;Shroud &lt;i&gt;(This creature can't be the target of spells or abilities.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.687
+      </rating>
+      <artist>Howard Lyon
+      </artist>
+      <num>16
+      </num>
+      <text>Defender, flying&lt;br&gt;Shroud &lt;i&gt;(This creature can't be the target of spells or abilities.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>180592
+      </id>
+      <name>Wargate
+      </name>
+      <cost>{X}{G}{W}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a permanent card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.734
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>129
+      </num>
+      <text>Search your library for a permanent card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>179590
+      </id>
+      <name>Wildfield Borderpost
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may pay {1} and return a basic land you control to its owner's hand rather than pay Wildfield Borderpost's mana cost.&lt;br&gt;Wildfield Borderpost enters the battlefield tapped.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.533
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>80
+      </num>
+      <text>You may pay {1} and return a basic land you control to its owner's hand rather than pay Wildfield Borderpost's mana cost.&lt;br&gt;Wildfield Borderpost enters the battlefield tapped.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>179603
+      </id>
+      <name>Winged Coatl
+      </name>
+      <cost>{1}{G}{U}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flash&lt;br&gt;Flying&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.326
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>105
+      </num>
+      <text>Flash&lt;br&gt;Flying&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>179575
+      </id>
+      <name>Zealous Persecution
+      </name>
+      <cost>{W}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.
+      </oracleText>
+      <edition>Alara Reborn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.392
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>85
+      </num>
+      <text>Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.
+      </text>
+    </mc>
+  </list>
+</cards>

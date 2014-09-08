@@ -1,0 +1,1625 @@
+
+<cards>
+  <name>Duel_Decks__Heroes_vs__Monsters</name>
+  <key>Duel_Decks__Heroes_vs__Monsters</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>373396
+      </id>
+      <name>Anax and Cymede
+      </name>
+      <cost>{1}{R}{W}
+      </cost>
+      <type>Legendary Creature - Human Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike, vigilance&lt;br&gt;Heroic- Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>11
+      </num>
+      <text>First strike, vigilance&lt;br&gt;Heroic- Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373415
+      </id>
+      <name>Armory Guard
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Giant Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Armory Guard has vigilance as long as you control a Gate.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>12
+      </num>
+      <text>Armory Guard has vigilance as long as you control a Gate.
+      </text>
+    </mc>
+    <mc>
+      <id>373402
+      </id>
+      <name>Auramancer
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Rebecca Guay
+      </artist>
+      <num>9
+      </num>
+      <text>When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>373358
+      </id>
+      <name>Battle Mastery
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has double strike.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>27
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has double strike.
+      </text>
+    </mc>
+    <mc>
+      <id>373352
+      </id>
+      <name>Beast Within
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target permanent. Its controller puts a 3/3 green Beast creature token onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>69
+      </num>
+      <text>Destroy target permanent. Its controller puts a 3/3 green Beast creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>373383
+      </id>
+      <name>Blood Ogre
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Ogre Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>49
+      </num>
+      <text>Bloodthirst 1 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)&lt;/i&gt;&lt;br&gt;First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373354
+      </id>
+      <name>Bonds of Faith
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Argyle
+      </artist>
+      <num>24
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block.
+      </text>
+    </mc>
+    <mc>
+      <id>373389
+      </id>
+      <name>Boros Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Boros Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {W} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>33
+      </num>
+      <text>Boros Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373353
+      </id>
+      <name>Cavalry Pegasus
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Pegasus
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Cavalry Pegasus attacks, each attacking Human gains flying until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>4
+      </num>
+      <text>Flying&lt;br&gt;Whenever Cavalry Pegasus attacks, each attacking Human gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373407
+      </id>
+      <name>Condemn
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daren Bader
+      </artist>
+      <num>17
+      </num>
+      <text>Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.
+      </text>
+    </mc>
+    <mc>
+      <id>373366
+      </id>
+      <name>Conquering Manticore
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Manticore
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Conquering Manticore enters the battlefield, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>55
+      </num>
+      <text>Flying&lt;br&gt;When Conquering Manticore enters the battlefield, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373345
+      </id>
+      <name>Crater Hellion
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Hellion Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Echo {4}{R}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;When Crater Hellion enters the battlefield, it deals 4 damage to each other creature.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Daren Bader
+      </artist>
+      <num>56
+      </num>
+      <text>Echo {4}{R}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;When Crater Hellion enters the battlefield, it deals 4 damage to each other creature.
+      </text>
+    </mc>
+    <mc>
+      <id>373409
+      </id>
+      <name>Crowned Ceratok
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Rhino
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Each creature you control with a +1/+1 counter on it has trample.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>51
+      </num>
+      <text>Trample&lt;br&gt;Each creature you control with a +1/+1 counter on it has trample.
+      </text>
+    </mc>
+    <mc>
+      <id>373360
+      </id>
+      <name>Daily Regimen
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;{1}{W}: Put a +1/+1 counter on enchanted creature.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Warren Mahy
+      </artist>
+      <num>18
+      </num>
+      <text>Enchant creature&lt;br&gt;{1}{W}: Put a +1/+1 counter on enchanted creature.
+      </text>
+    </mc>
+    <mc>
+      <id>373371
+      </id>
+      <name>Dawnstrike Paladin
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Vigilance &lt;i&gt;(Attacking doesn't cause this creature to tap.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>14
+      </num>
+      <text>Vigilance &lt;i&gt;(Attacking doesn't cause this creature to tap.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373350
+      </id>
+      <name>Deadly Recluse
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Warren Mahy
+      </artist>
+      <num>45
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373351
+      </id>
+      <name>Destructive Revelry
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>66
+      </num>
+      <text>Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>373363
+      </id>
+      <name>Deus of Calamity
+      </name>
+      <cost>{R/G}{R/G}{R/G}{R/G}{R/G}
+      </cost>
+      <type>Creature - Spirit Avatar
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Whenever Deus of Calamity deals 6 or more damage to an opponent, destroy target land that player controls.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Todd Lockwood
+      </artist>
+      <num>54
+      </num>
+      <text>Trample&lt;br&gt;Whenever Deus of Calamity deals 6 or more damage to an opponent, destroy target land that player controls.
+      </text>
+    </mc>
+    <mc>
+      <id>373362
+      </id>
+      <name>Dragon Blood
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}, {T}: Put a +1/+1 counter on target creature.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ron Spencer
+      </artist>
+      <num>67
+      </num>
+      <text>{3}, {T}: Put a +1/+1 counter on target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>373367
+      </id>
+      <name>Fencing Ace
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Double strike &lt;i&gt;(This creature deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>David Rapoza
+      </artist>
+      <num>5
+      </num>
+      <text>Double strike &lt;i&gt;(This creature deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373388
+      </id>
+      <name>Figure of Destiny
+      </name>
+      <cost>{R/W}
+      </cost>
+      <type>Creature - Kithkin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{R/W}: Figure of Destiny becomes a 2/2 Kithkin Spirit.&lt;br&gt;{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior.&lt;br&gt;{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>3
+      </num>
+      <text>{R/W}: Figure of Destiny becomes a 2/2 Kithkin Spirit.&lt;br&gt;{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior.&lt;br&gt;{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.
+      </text>
+    </mc>
+    <mc>
+      <id>373397
+      </id>
+      <name>Fires of Yavimaya
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures you control have haste.&lt;br&gt;Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Izzy
+      </artist>
+      <num>70
+      </num>
+      <text>Creatures you control have haste.&lt;br&gt;Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373375
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Chippy
+      </artist>
+      <num>79
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>373376
+      </id>
+      <name>Freewind Equenaut
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Archer
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;As long as Freewind Equenaut is enchanted, it has "{T}: Freewind Equenaut deals 2 damage to target attacking or blocking creature."
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Rebecca Guay
+      </artist>
+      <num>10
+      </num>
+      <text>Flying&lt;br&gt;As long as Freewind Equenaut is enchanted, it has "{T}: Freewind Equenaut deals 2 damage to target attacking or blocking creature."
+      </text>
+    </mc>
+    <mc>
+      <id>373373
+      </id>
+      <name>Ghor-Clan Savage
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Centaur Berserker
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Bloodthirst 3 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>53
+      </num>
+      <text>Bloodthirst 3 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373398
+      </id>
+      <name>Gorehorn Minotaurs
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Minotaur Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Bloodthirst 2 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>52
+      </num>
+      <text>Bloodthirst 2 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373337
+      </id>
+      <name>Griffin Guide
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has flying.&lt;br&gt;When enchanted creature dies, put a 2/2 white Griffin creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>28
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has flying.&lt;br&gt;When enchanted creature dies, put a 2/2 white Griffin creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>373364
+      </id>
+      <name>Gustcloak Sentinel
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>13
+      </num>
+      <text>Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat.
+      </text>
+    </mc>
+    <mc>
+      <id>373338
+      </id>
+      <name>Kamahl, Pit Fighter
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Legendary Creature - Human Barbarian
+      </type>
+      <power>6
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;&lt;br&gt;{T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>16
+      </num>
+      <text>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;&lt;br&gt;{T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>373377
+      </id>
+      <name>Kavu Predator
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Whenever an opponent gains life, put that many +1/+1 counters on Kavu Predator.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>46
+      </num>
+      <text>Trample&lt;br&gt;Whenever an opponent gains life, put that many +1/+1 counters on Kavu Predator.
+      </text>
+    </mc>
+    <mc>
+      <id>373412
+      </id>
+      <name>Kazandu Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Kazandu Refuge enters the battlefield tapped.&lt;br&gt;When Kazandu Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>71
+      </num>
+      <text>Kazandu Refuge enters the battlefield tapped.&lt;br&gt;When Kazandu Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373394
+      </id>
+      <name>Krosan Tusker
+      </name>
+      <cost>{5}{G}{G}
+      </cost>
+      <type>Creature - Boar Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Cycling {2}{G} &lt;i&gt;({2}{G}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>59
+      </num>
+      <text>Cycling {2}{G} &lt;i&gt;({2}{G}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>373368
+      </id>
+      <name>Llanowar Reborn
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Llanowar Reborn enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Graft 1 &lt;i&gt;(This land enters the battlefield with a +1/+1 counter on it. Whenever a creature enters the battlefield, you may move a +1/+1 counter from this land onto it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Philip Straub
+      </artist>
+      <num>72
+      </num>
+      <text>Llanowar Reborn enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Graft 1 &lt;i&gt;(This land enters the battlefield with a +1/+1 counter on it. Whenever a creature enters the battlefield, you may move a +1/+1 counter from this land onto it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373400
+      </id>
+      <name>Magma Jet
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Magma Jet deals 2 damage to target creature or player. Scry 2. &lt;i&gt;(Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Justin Sweet
+      </artist>
+      <num>22
+      </num>
+      <text>Magma Jet deals 2 damage to target creature or player. Scry 2. &lt;i&gt;(Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373370
+      </id>
+      <name>Miraculous Recovery
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target creature card from your graveyard to the battlefield. Put a +1/+1 counter on it.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mark Winters
+      </artist>
+      <num>30
+      </num>
+      <text>Return target creature card from your graveyard to the battlefield. Put a +1/+1 counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>373344
+      </id>
+      <name>Moment of Heroism
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +2/+2 and gains lifelink until end of turn. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>25
+      </num>
+      <text>Target creature gets +2/+2 and gains lifelink until end of turn. &lt;i&gt;(Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373346
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>37
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>373401
+      </id>
+      <name>New Benalia
+      </name>
+      <type>Land
+      </type>
+      <oracleText>New Benalia enters the battlefield tapped.&lt;br&gt;When New Benalia enters the battlefield, scry 1. &lt;i&gt;(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {W} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Richard Wright
+      </artist>
+      <num>34
+      </num>
+      <text>New Benalia enters the battlefield tapped.&lt;br&gt;When New Benalia enters the battlefield, scry 1. &lt;i&gt;(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373336
+      </id>
+      <name>Nobilis of War
+      </name>
+      <cost>{R/W}{R/W}{R/W}{R/W}{R/W}
+      </cost>
+      <type>Creature - Spirit Avatar
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Attacking creatures you control get +2/+0.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>15
+      </num>
+      <text>Flying&lt;br&gt;Attacking creatures you control get +2/+0.
+      </text>
+    </mc>
+    <mc>
+      <id>373399
+      </id>
+      <name>Orcish Lumberjack
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Orc
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>44
+      </num>
+      <text>{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373406
+      </id>
+      <name>Ordeal of Purphoros
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros.&lt;br&gt;When you sacrifice Ordeal of Purphoros, it deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Maciej Kuciara
+      </artist>
+      <num>23
+      </num>
+      <text>Enchant creature&lt;br&gt;Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros.&lt;br&gt;When you sacrifice Ordeal of Purphoros, it deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>373405
+      </id>
+      <name>Pay No Heed
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all damage a source of your choice would deal this turn.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Adam Rex
+      </artist>
+      <num>19
+      </num>
+      <text>Prevent all damage a source of your choice would deal this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373369
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>40
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>373384
+      </id>
+      <name>Polukranos, World Eater
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Legendary Creature - Hydra
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>{X}{X}{G}: Monstrosity X. &lt;i&gt;(If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Polukranos, World Eater becomes monstrous, it deals X damage divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to Polukranos.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>43
+      </num>
+      <text>{X}{X}{G}: Monstrosity X. &lt;i&gt;(If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Polukranos, World Eater becomes monstrous, it deals X damage divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to Polukranos.
+      </text>
+    </mc>
+    <mc>
+      <id>373348
+      </id>
+      <name>Prey Upon
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature you control fights target creature you don't control. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>62
+      </num>
+      <text>Target creature you control fights target creature you don't control. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373365
+      </id>
+      <name>Pyroclasm
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Pyroclasm deals 2 damage to each creature.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>63
+      </num>
+      <text>Pyroclasm deals 2 damage to each creature.
+      </text>
+    </mc>
+    <mc>
+      <id>373356
+      </id>
+      <name>Pyrokinesis
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You may exile a red card from your hand rather than pay Pyrokinesis's mana cost.&lt;br&gt;Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>32
+      </num>
+      <text>You may exile a red card from your hand rather than pay Pyrokinesis's mana cost.&lt;br&gt;Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>373408
+      </id>
+      <name>Regrowth
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target card from your graveyard to your hand.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>64
+      </num>
+      <text>Return target card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>373381
+      </id>
+      <name>Righteousness
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target blocking creature gets +7/+7 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Wayne England
+      </artist>
+      <num>20
+      </num>
+      <text>Target blocking creature gets +7/+7 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373340
+      </id>
+      <name>Satyr Hedonist
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Satyr
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{R}, Sacrifice Satyr Hedonist: Add {R}{R}{R} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>47
+      </num>
+      <text>{R}, Sacrifice Satyr Hedonist: Add {R}{R}{R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373355
+      </id>
+      <name>Shower of Sparks
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Shower of Sparks deals 1 damage to target creature and 1 damage to target player.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>61
+      </num>
+      <text>Shower of Sparks deals 1 damage to target creature and 1 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>373357
+      </id>
+      <name>Skarrg, the Rage Pits
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{R}{G}, {T}: Target creature gets +1/+1 and gains trample until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>73
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{R}{G}, {T}: Target creature gets +1/+1 and gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373393
+      </id>
+      <name>Skarrgan Firebird
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Phoenix
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Bloodthirst 3 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;{R}{R}{R}: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>57
+      </num>
+      <text>Bloodthirst 3 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;{R}{R}{R}: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373413
+      </id>
+      <name>Skarrgan Skybreaker
+      </name>
+      <cost>{4}{R}{R}{G}
+      </cost>
+      <type>Creature - Giant Shaman
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Bloodthirst 3 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;{1}, Sacrifice Skarrgan Skybreaker: Skarrgan Skybreaker deals damage equal to its power to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>60
+      </num>
+      <text>Bloodthirst 3 &lt;i&gt;(If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;{1}, Sacrifice Skarrgan Skybreaker: Skarrgan Skybreaker deals damage equal to its power to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>373372
+      </id>
+      <name>Smite the Monstrous
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature with power 4 or greater.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jason Felix
+      </artist>
+      <num>29
+      </num>
+      <text>Destroy target creature with power 4 or greater.
+      </text>
+    </mc>
+    <mc>
+      <id>373385
+      </id>
+      <name>Somberwald Vigilante
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Somberwald Vigilante becomes blocked by a creature, Somberwald Vigilante deals 1 damage to that creature.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>John Stanko
+      </artist>
+      <num>2
+      </num>
+      <text>Whenever Somberwald Vigilante becomes blocked by a creature, Somberwald Vigilante deals 1 damage to that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>373343
+      </id>
+      <name>Stand Firm
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +1/+1 until end of turn.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Matt Cavotta
+      </artist>
+      <num>21
+      </num>
+      <text>Target creature gets +1/+1 until end of turn.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373391
+      </id>
+      <name>Stun Sniper
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Creature - Human Archer
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}, {T}: Stun Sniper deals 1 damage to target creature. Tap that creature.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>7
+      </num>
+      <text>{1}, {T}: Stun Sniper deals 1 damage to target creature. Tap that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>373379
+      </id>
+      <name>Sun Titan
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>1
+      </num>
+      <text>Vigilance&lt;br&gt;Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>373380
+      </id>
+      <name>Terrifying Presence
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all combat damage that would be dealt by creatures other than target creature this turn.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>65
+      </num>
+      <text>Prevent all combat damage that would be dealt by creatures other than target creature this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373342
+      </id>
+      <name>Thraben Valiant
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Vigilance
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jason Chan
+      </artist>
+      <num>6
+      </num>
+      <text>Vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>373416
+      </id>
+      <name>Troll Ascetic
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Troll Shaman
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;{1}{G}: Regenerate Troll Ascetic.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Puddnhead
+      </artist>
+      <num>50
+      </num>
+      <text>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;&lt;br&gt;{1}{G}: Regenerate Troll Ascetic.
+      </text>
+    </mc>
+    <mc>
+      <id>373395
+      </id>
+      <name>Truefire Paladin
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;{R}{W}: Truefire Paladin gets +2/+0 until end of turn.&lt;br&gt;{R}{W}: Truefire Paladin gains first strike until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Michael C. Hayes
+      </artist>
+      <num>8
+      </num>
+      <text>Vigilance&lt;br&gt;{R}{W}: Truefire Paladin gets +2/+0 until end of turn.&lt;br&gt;{R}{W}: Truefire Paladin gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373347
+      </id>
+      <name>Undying Rage
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and can't block.&lt;br&gt;When Undying Rage is put into a graveyard from the battlefield, return Undying Rage to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>26
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and can't block.&lt;br&gt;When Undying Rage is put into a graveyard from the battlefield, return Undying Rage to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>373390
+      </id>
+      <name>Valley Rannet
+      </name>
+      <cost>{4}{R}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Mountaincycling {2}, forestcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dave Allsop
+      </artist>
+      <num>58
+      </num>
+      <text>Mountaincycling {2}, forestcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373414
+      </id>
+      <name>Volt Charge
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Volt Charge deals 3 damage to target creature or player. Proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jana Schirmer &amp; Johannes Voss
+      </artist>
+      <num>68
+      </num>
+      <text>Volt Charge deals 3 damage to target creature or player. Proliferate. &lt;i&gt;(You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373410
+      </id>
+      <name>Winds of Rath
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all creatures that aren't enchanted. They can't be regenerated.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Drew Tucker
+      </artist>
+      <num>31
+      </num>
+      <text>Destroy all creatures that aren't enchanted. They can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>373339
+      </id>
+      <name>Zhur-Taa Druid
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Creature - Human Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Add {G} to your mana pool.&lt;br&gt;Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent.
+      </oracleText>
+      <edition>Duel Decks: Heroes vs. Monsters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Winters
+      </artist>
+      <num>48
+      </num>
+      <text>{T}: Add {G} to your mana pool.&lt;br&gt;Whenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent.
+      </text>
+    </mc>
+  </list>
+</cards>

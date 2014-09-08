@@ -1,0 +1,1691 @@
+
+<cards>
+  <name>Duel_Decks__Elves_vs__Goblins</name>
+  <key>Duel_Decks__Elves_vs__Goblins</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>159328
+      </id>
+      <name>Akki Coalflinger
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike&lt;br&gt;{R}, {T}: Attacking creatures gain first strike until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.354
+      </rating>
+      <artist>Nottsuo
+      </artist>
+      <num>33
+      </num>
+      <text>First strike&lt;br&gt;{R}, {T}: Attacking creatures gain first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>158100
+      </id>
+      <name>Allosaurus Rider
+      </name>
+      <cost>{5}{G}{G}
+      </cost>
+      <type>Creature - Elf Warrior
+      </type>
+      <oracleText>You may exile two green cards from your hand rather than pay Allosaurus Rider's mana cost.&lt;br&gt;Allosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.333
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>2
+      </num>
+      <text>You may exile two green cards from your hand rather than pay Allosaurus Rider's mana cost.&lt;br&gt;Allosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>157950
+      </id>
+      <name>Ambush Commander
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Forests you control are 1/1 green Elf creatures that are still lands.&lt;br&gt;{1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.397
+      </rating>
+      <artist>Lucio Parrillo
+      </artist>
+      <num>1
+      </num>
+      <text>Forests you control are 1/1 green Elf creatures that are still lands.&lt;br&gt;{1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>157915
+      </id>
+      <name>Boggart Shenanigans
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Tribal Enchantment - Goblin
+      </type>
+      <oracleText>Whenever another Goblin you control dies, you may have Boggart Shenanigans deal 1 damage to target player.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.047
+      </rating>
+      <artist>Warren Mahy
+      </artist>
+      <num>54
+      </num>
+      <text>Whenever another Goblin you control dies, you may have Boggart Shenanigans deal 1 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>157928
+      </id>
+      <name>Clickslither
+      </name>
+      <cost>{1}{R}{R}{R}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Sacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.383
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>34
+      </num>
+      <text>Haste&lt;br&gt;Sacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>159048
+      </id>
+      <name>Elemental
+      </name>
+      <type>Creature- Elemental
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Trample
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.219
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>1
+      </num>
+      <text>Trample
+      </text>
+    </mc>
+    <mc>
+      <id>159047
+      </id>
+      <name>Elf Warrior
+      </name>
+      <type>Creature- Elf Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.152
+      </rating>
+      <artist>Dominick Domingo
+      </artist>
+      <num>2
+      </num>
+    </mc>
+    <mc>
+      <id>158120
+      </id>
+      <name>Elvish Eulogist
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.125
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>3
+      </num>
+      <text>Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>158121
+      </id>
+      <name>Elvish Harbinger
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.162
+      </rating>
+      <artist>Larry MacDougall
+      </artist>
+      <num>4
+      </num>
+      <text>When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>159030
+      </id>
+      <name>Elvish Promenade
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Tribal Sorcery - Elf
+      </type>
+      <oracleText>Put a 1/1 green Elf Warrior creature token onto the battlefield for each Elf you control.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.378
+      </rating>
+      <artist>Steve Ellis
+      </artist>
+      <num>20
+      </num>
+      <text>Put a 1/1 green Elf Warrior creature token onto the battlefield for each Elf you control.
+      </text>
+    </mc>
+    <mc>
+      <id>158136
+      </id>
+      <name>Elvish Warrior
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Creature - Elf Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>5
+      </num>
+    </mc>
+    <mc>
+      <id>157932
+      </id>
+      <name>Emberwilde Augur
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice Emberwilde Augur: Emberwilde Augur deals 3 damage to target player. Activate this ability only during your upkeep.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.117
+      </rating>
+      <artist>Brandon Kitkouski
+      </artist>
+      <num>35
+      </num>
+      <text>Sacrifice Emberwilde Augur: Emberwilde Augur deals 3 damage to target player. Activate this ability only during your upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>159053
+      </id>
+      <name>Flamewave Invoker
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin Mutant
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{7}{R}: Flamewave Invoker deals 5 damage to target player.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.219
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>36
+      </num>
+      <text>{7}{R}: Flamewave Invoker deals 5 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>157946
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.775
+      </rating>
+      <artist>Glen Angus
+      </artist>
+      <num>28
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>157948
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.895
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>29
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>159042
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>30
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>159041
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.806
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>31
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>159327
+      </id>
+      <name>Forgotten Cave
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Forgotten Cave enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;Cycling {R} &lt;i&gt;({R}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.974
+      </rating>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>57
+      </num>
+      <text>Forgotten Cave enters the battlefield tapped.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;Cycling {R} &lt;i&gt;({R}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>157929
+      </id>
+      <name>Gempalm Incinerator
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Cycling {1}{R} &lt;i&gt;({1}{R}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.304
+      </rating>
+      <artist>Luca Zontini
+      </artist>
+      <num>37
+      </num>
+      <text>Cycling {1}{R} &lt;i&gt;({1}{R}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>158117
+      </id>
+      <name>Gempalm Strider
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Cycling {2}{G}{G} &lt;i&gt;({2}{G}{G}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Gempalm Strider, Elf creatures get +2/+2 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.633
+      </rating>
+      <artist>Tim Hildebrandt
+      </artist>
+      <num>6
+      </num>
+      <text>Cycling {2}{G}{G} &lt;i&gt;({2}{G}{G}, Discard this card: Draw a card.)&lt;/i&gt;&lt;br&gt;When you cycle Gempalm Strider, Elf creatures get +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>159037
+      </id>
+      <name>Giant Growth
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.283
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>21
+      </num>
+      <text>Target creature gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>159056
+      </id>
+      <name>Goblin
+      </name>
+      <type>Creature- Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.281
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>3
+      </num>
+    </mc>
+    <mc>
+      <id>157935
+      </id>
+      <name>Goblin Burrows
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.136
+      </rating>
+      <artist>David Martin
+      </artist>
+      <num>58
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>157922
+      </id>
+      <name>Goblin Cohort
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Goblin Cohort can't attack unless you've cast a creature spell this turn.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.405
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>38
+      </num>
+      <text>Goblin Cohort can't attack unless you've cast a creature spell this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>157933
+      </id>
+      <name>Goblin Matron
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.562
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>39
+      </num>
+      <text>When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>157937
+      </id>
+      <name>Goblin Ringleader
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste&lt;br&gt;When Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.214
+      </rating>
+      <artist>Mark Romanoski
+      </artist>
+      <num>40
+      </num>
+      <text>Haste&lt;br&gt;When Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>159049
+      </id>
+      <name>Goblin Sledder
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.118
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>41
+      </num>
+      <text>Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>157934
+      </id>
+      <name>Goblin Warchief
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Goblin spells you cast cost {1} less to cast.&lt;br&gt;Goblin creatures you control have haste.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.699
+      </rating>
+      <artist>Greg &amp; Tim Hildebrandt
+      </artist>
+      <num>42
+      </num>
+      <text>Goblin spells you cast cost {1} less to cast.&lt;br&gt;Goblin creatures you control have haste.
+      </text>
+    </mc>
+    <mc>
+      <id>159033
+      </id>
+      <name>Harmonize
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw three cards.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.097
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>22
+      </num>
+      <text>Draw three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>158113
+      </id>
+      <name>Heedless One
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elf Avatar
+      </type>
+      <oracleText>Trample&lt;br&gt;Heedless One's power and toughness are each equal to the number of Elves on the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.703
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>7
+      </num>
+      <text>Trample&lt;br&gt;Heedless One's power and toughness are each equal to the number of Elves on the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>157923
+      </id>
+      <name>Ib Halfheart, Goblin Tactician
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Legendary Creature - Goblin Advisor
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever another Goblin you control becomes blocked, sacrifice it. If you do, it deals 4 damage to each creature blocking it.&lt;br&gt;Sacrifice two Mountains: Put two 1/1 red Goblin creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.3
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>43
+      </num>
+      <text>Whenever another Goblin you control becomes blocked, sacrifice it. If you do, it deals 4 damage to each creature blocking it.&lt;br&gt;Sacrifice two Mountains: Put two 1/1 red Goblin creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>158123
+      </id>
+      <name>Imperious Perfect
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Other Elf creatures you control get +1/+1.&lt;br&gt;{G}, {T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.699
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>8
+      </num>
+      <text>Other Elf creatures you control get +1/+1.&lt;br&gt;{G}, {T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>158112
+      </id>
+      <name>Llanowar Elves
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Add {G} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.815
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>9
+      </num>
+      <text>{T}: Add {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>158125
+      </id>
+      <name>Lys Alana Huntmaster
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Elf Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever you cast an Elf spell, you may put a 1/1 green Elf Warrior creature token onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.561
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>10
+      </num>
+      <text>Whenever you cast an Elf spell, you may put a 1/1 green Elf Warrior creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>157925
+      </id>
+      <name>Mogg Fanatic
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.3
+      </rating>
+      <artist>Brom
+      </artist>
+      <num>44
+      </num>
+      <text>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>157924
+      </id>
+      <name>Mogg War Marshal
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Echo {1}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;When Mogg War Marshal enters the battlefield or dies, put a 1/1 red Goblin creature token onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.533
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>45
+      </num>
+      <text>Echo {1}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;When Mogg War Marshal enters the battlefield or dies, put a 1/1 red Goblin creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>159032
+      </id>
+      <name>Moonglove Extract
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Sacrifice Moonglove Extract: Moonglove Extract deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.845
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>24
+      </num>
+      <text>Sacrifice Moonglove Extract: Moonglove Extract deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>157940
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.875
+      </rating>
+      <artist>David Day
+      </artist>
+      <num>59
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>159061
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.263
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>60
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>157939
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.567
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>61
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>157941
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.974
+      </rating>
+      <artist>Sam Wood
+      </artist>
+      <num>62
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>157919
+      </id>
+      <name>Mudbutton Torchrunner
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.3
+      </rating>
+      <artist>Steve Ellis
+      </artist>
+      <num>46
+      </num>
+      <text>When Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>159326
+      </id>
+      <name>Raging Goblin
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Berserker
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.986
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>47
+      </num>
+      <text>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>159050
+      </id>
+      <name>Reckless One
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Goblin Avatar
+      </type>
+      <oracleText>Haste&lt;br&gt;Reckless One's power and toughness are each equal to the number of Goblins on the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.172
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>48
+      </num>
+      <text>Haste&lt;br&gt;Reckless One's power and toughness are each equal to the number of Goblins on the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>157926
+      </id>
+      <name>Siege-Gang Commander
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Siege-Gang Commander enters the battlefield, put three 1/1 red Goblin creature tokens onto the battlefield.&lt;br&gt;{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.672
+      </rating>
+      <artist>Lucio Parrillo
+      </artist>
+      <num>32
+      </num>
+      <text>When Siege-Gang Commander enters the battlefield, put three 1/1 red Goblin creature tokens onto the battlefield.&lt;br&gt;{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>157931
+      </id>
+      <name>Skirk Drill Sergeant
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Skirk Drill Sergeant or another Goblin dies, you may pay {2}{R}. If you do, reveal the top card of your library. If it's a Goblin permanent card, put it onto the battlefield. Otherwise, put it into your graveyard.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.188
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>49
+      </num>
+      <text>Whenever Skirk Drill Sergeant or another Goblin dies, you may pay {2}{R}. If you do, reveal the top card of your library. If it's a Goblin permanent card, put it onto the battlefield. Otherwise, put it into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>157936
+      </id>
+      <name>Skirk Fire Marshal
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Protection from red&lt;br&gt;Tap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.079
+      </rating>
+      <artist>Greg &amp; Tim Hildebrandt
+      </artist>
+      <num>50
+      </num>
+      <text>Protection from red&lt;br&gt;Tap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>159051
+      </id>
+      <name>Skirk Prospector
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice a Goblin: Add {R} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.152
+      </rating>
+      <artist>Doug Chaffee
+      </artist>
+      <num>51
+      </num>
+      <text>Sacrifice a Goblin: Add {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>159055
+      </id>
+      <name>Skirk Shaman
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Skirk Shaman can't be blocked except by artifact creatures and/or red creatures.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.763
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>52
+      </num>
+      <text>Skirk Shaman can't be blocked except by artifact creatures and/or red creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>159501
+      </id>
+      <name>Slate of Ancestry
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{4}, {T}, Discard your hand: Draw a card for each creature you control.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.958
+      </rating>
+      <artist>Corey D. Macourek
+      </artist>
+      <num>25
+      </num>
+      <text>{4}, {T}, Discard your hand: Draw a card for each creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>159054
+      </id>
+      <name>Spitting Earth
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Spitting Earth deals damage to target creature equal to the number of Mountains you control.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.382
+      </rating>
+      <artist>Michael Koelsch
+      </artist>
+      <num>55
+      </num>
+      <text>Spitting Earth deals damage to target creature equal to the number of Mountains you control.
+      </text>
+    </mc>
+    <mc>
+      <id>159324
+      </id>
+      <name>Stonewood Invoker
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Mutant
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.409
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>11
+      </num>
+      <text>{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>159035
+      </id>
+      <name>Sylvan Messenger
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Trample&lt;br&gt;When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.289
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>12
+      </num>
+      <text>Trample&lt;br&gt;When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>157920
+      </id>
+      <name>Tar Pitcher
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Sacrifice a Goblin: Tar Pitcher deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.333
+      </rating>
+      <artist>Omar Rayyan
+      </artist>
+      <num>53
+      </num>
+      <text>{T}, Sacrifice a Goblin: Tar Pitcher deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>157921
+      </id>
+      <name>Tarfire
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Tribal Instant - Goblin
+      </type>
+      <oracleText>Tarfire deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.292
+      </rating>
+      <artist>Omar Rayyan
+      </artist>
+      <num>56
+      </num>
+      <text>Tarfire deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>158118
+      </id>
+      <name>Timberwatch Elf
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.423
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>13
+      </num>
+      <text>{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>159325
+      </id>
+      <name>Tranquil Thicket
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Tranquil Thicket enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Cycling {G} &lt;i&gt;({G}, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.889
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>27
+      </num>
+      <text>Tranquil Thicket enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;Cycling {G} &lt;i&gt;({G}, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>159029
+      </id>
+      <name>Voice of the Woods
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Tap five untapped Elves you control: Put a 7/7 green Elemental creature token with trample onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.958
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>14
+      </num>
+      <text>Tap five untapped Elves you control: Put a 7/7 green Elemental creature token with trample onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>158109
+      </id>
+      <name>Wellwisher
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: You gain 1 life for each Elf on the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.542
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>15
+      </num>
+      <text>{T}: You gain 1 life for each Elf on the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>159036
+      </id>
+      <name>Wildsize
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +2/+2 and gains trample until end of turn.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.907
+      </rating>
+      <artist>Jim Murray
+      </artist>
+      <num>23
+      </num>
+      <text>Target creature gets +2/+2 and gains trample until end of turn.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>158110
+      </id>
+      <name>Wirewood Herald
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Wirewood Herald dies, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.352
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>16
+      </num>
+      <text>When Wirewood Herald dies, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>158111
+      </id>
+      <name>Wirewood Lodge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{G}, {T}: Untap target Elf.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.473
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>26
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{G}, {T}: Untap target Elf.
+      </text>
+    </mc>
+    <mc>
+      <id>159322
+      </id>
+      <name>Wirewood Symbiote
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Return an Elf you control to its owner's hand: Untap target creature. Activate this ability only once each turn.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>17
+      </num>
+      <text>Return an Elf you control to its owner's hand: Untap target creature. Activate this ability only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>159038
+      </id>
+      <name>Wood Elves
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.016
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>18
+      </num>
+      <text>When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>158129
+      </id>
+      <name>Wren's Run Vanquisher
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>As an additional cost to cast Wren's Run Vanquisher, reveal an Elf card from your hand or pay {3}.&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Elves vs. Goblins
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.76
+      </rating>
+      <artist>Parente
+      </artist>
+      <num>19
+      </num>
+      <text>As an additional cost to cast Wren's Run Vanquisher, reveal an Elf card from your hand or pay {3}.&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </text>
+    </mc>
+  </list>
+</cards>

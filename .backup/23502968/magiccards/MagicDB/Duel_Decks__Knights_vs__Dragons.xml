@@ -1,0 +1,2071 @@
+
+<cards>
+  <name>Duel_Decks__Knights_vs__Dragons</name>
+  <key>Duel_Decks__Knights_vs__Dragons</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>243435
+      </id>
+      <name>Alaborn Cavalier
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Alaborn Cavalier attacks, you may tap target creature.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.233
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>18
+      </num>
+      <text>Whenever Alaborn Cavalier attacks, you may tap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>243480
+      </id>
+      <name>Armillary Sphere
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.875
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>62
+      </num>
+      <text>{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>243429
+      </id>
+      <name>Benalish Lancer
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Kicker {2}{W} &lt;i&gt;(You may pay an additional {2}{W} as you cast this spell.)&lt;/i&gt;&lt;br&gt;If Benalish Lancer was kicked, it enters the battlefield with two +1/+1 counters on it and with first strike.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.132
+      </rating>
+      <artist>Parente
+      </artist>
+      <num>12
+      </num>
+      <text>Kicker {2}{W} &lt;i&gt;(You may pay an additional {2}{W} as you cast this spell.)&lt;/i&gt;&lt;br&gt;If Benalish Lancer was kicked, it enters the battlefield with two +1/+1 counters on it and with first strike.
+      </text>
+    </mc>
+    <mc>
+      <id>243467
+      </id>
+      <name>Bloodmark Mentor
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Red creatures you control have first strike.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.848
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>50
+      </num>
+      <text>Red creatures you control have first strike.
+      </text>
+    </mc>
+    <mc>
+      <id>243464
+      </id>
+      <name>Bogardan Hellkite
+      </name>
+      <cost>{6}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.341
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>47
+      </num>
+      <rulings>The number of targets chosen for the enters-the-battlefield ability must be at least 1 and at most 5. You divide the damage as you put the ability on the stack, not as it resolves. Each target must be assigned at least 1 damage.
+      </rulings>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;When Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.
+      </text>
+    </mc>
+    <mc>
+      <id>243475
+      </id>
+      <name>Bogardan Rager
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Bogardan Rager enters the battlefield, target creature gets +4/+0 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.312
+      </rating>
+      <artist>Clint Langley
+      </artist>
+      <num>57
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Bogardan Rager enters the battlefield, target creature gets +4/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>243482
+      </id>
+      <name>Breath of Darigaaz
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kicker {2} &lt;i&gt;(You may pay an additional {2} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Breath of Darigaaz deals 1 damage to each creature without flying and each player. If Breath of Darigaaz was kicked, it deals 4 damage to each creature without flying and each player instead.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.2
+      </rating>
+      <artist>Greg &amp; Tim Hildebrandt
+      </artist>
+      <num>64
+      </num>
+      <text>Kicker {2} &lt;i&gt;(You may pay an additional {2} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Breath of Darigaaz deals 1 damage to each creature without flying and each player. If Breath of Darigaaz was kicked, it deals 4 damage to each creature without flying and each player instead.
+      </text>
+    </mc>
+    <mc>
+      <id>243485
+      </id>
+      <name>Captive Flame
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{R}: Target creature gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.471
+      </rating>
+      <artist>Keith Garletts
+      </artist>
+      <num>68
+      </num>
+      <text>{R}: Target creature gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>243418
+      </id>
+      <name>Caravan Escort
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Level up {2} &lt;i&gt;({2}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-4&lt;br&gt;2/2&lt;br&gt;&lt;br&gt;LEVEL 5+&lt;br&gt;5/5&lt;br&gt;First strike
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.375
+      </rating>
+      <artist>Goran Josic
+      </artist>
+      <num>2
+      </num>
+      <text>Level up {2} &lt;i&gt;({2}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-4&lt;br&gt;2/2&lt;br&gt;&lt;br&gt;LEVEL 5+&lt;br&gt;5/5&lt;br&gt;First strike
+      </text>
+    </mc>
+    <mc>
+      <id>243466
+      </id>
+      <name>Cinder Wall
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;When Cinder Wall blocks, destroy it at end of combat.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.95
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>48
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;When Cinder Wall blocks, destroy it at end of combat.
+      </text>
+    </mc>
+    <mc>
+      <id>243489
+      </id>
+      <name>Claws of Valakut
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+0 for each Mountain you control and has first strike.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.054
+      </rating>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>72
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+0 for each Mountain you control and has first strike.
+      </text>
+    </mc>
+    <mc>
+      <id>243492
+      </id>
+      <name>Cone of Flame
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.767
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>75
+      </num>
+      <text>Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>243468
+      </id>
+      <name>Dragon Fodder
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put two 1/1 red Goblin creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.062
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>65
+      </num>
+      <text>Put two 1/1 red Goblin creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>243472
+      </id>
+      <name>Dragon Whelp
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.458
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>54
+      </num>
+      <text>Flying&lt;br&gt;{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>243481
+      </id>
+      <name>Dragon's Claw
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Whenever a player casts a red spell, you may gain 1 life.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.125
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>63
+      </num>
+      <text>Whenever a player casts a red spell, you may gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>243471
+      </id>
+      <name>Dragonspeaker Shaman
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Human Barbarian Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Dragon spells you cast cost {2} less to cast.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.414
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>53
+      </num>
+      <text>Dragon spells you cast cost {2} less to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>243442
+      </id>
+      <name>Edge of Autumn
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>If you control four or fewer lands, search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.&lt;br&gt;Cycling—Sacrifice a land. &lt;i&gt;(Sacrifice a land, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.333
+      </rating>
+      <artist>Jean-Sébastien Rossbach
+      </artist>
+      <num>25
+      </num>
+      <text>If you control four or fewer lands, search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.&lt;br&gt;Cycling—Sacrifice a land. &lt;i&gt;(Sacrifice a land, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>243493
+      </id>
+      <name>Fiery Fall
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Fiery Fall deals 5 damage to target creature.&lt;br&gt;Basic landcycling {1}{R} &lt;i&gt;({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.9
+      </rating>
+      <artist>Daarken
+      </artist>
+      <num>76
+      </num>
+      <text>Fiery Fall deals 5 damage to target creature.&lt;br&gt;Basic landcycling {1}{R} &lt;i&gt;({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>243469
+      </id>
+      <name>Fire-Belly Changeling
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;{R}: Fire-Belly Changeling gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.214
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>51
+      </num>
+      <text>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;{R}: Fire-Belly Changeling gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>243460
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.333
+      </rating>
+      <artist>Scott Bailey
+      </artist>
+      <num>43
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>243461
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.786
+      </rating>
+      <artist>Mike Ploog
+      </artist>
+      <num>44
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>243462
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.571
+      </rating>
+      <artist>Larry Elmore
+      </artist>
+      <num>45
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>243463
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Michael Komarck
+      </artist>
+      <num>46
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>243486
+      </id>
+      <name>Ghostfire
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Ghostfire is colorless.&lt;br&gt;Ghostfire deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.107
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>69
+      </num>
+      <text>Ghostfire is colorless.&lt;br&gt;Ghostfire deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>243452
+      </id>
+      <name>Grasslands
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Grasslands enters the battlefield tapped.&lt;br&gt;{T}, Sacrifice Grasslands: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.524
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>35
+      </num>
+      <text>Grasslands enters the battlefield tapped.&lt;br&gt;{T}, Sacrifice Grasslands: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>243450
+      </id>
+      <name>Griffin Guide
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has flying.&lt;br&gt;When enchanted creature dies, put a 2/2 white Griffin creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.119
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>33
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has flying.&lt;br&gt;When enchanted creature dies, put a 2/2 white Griffin creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>243440
+      </id>
+      <name>Harm's Way
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>The next 2 damage that a source of your choice would deal to you and/or permanents you control this turn is dealt to target creature or player instead.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.225
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>23
+      </num>
+      <text>The next 2 damage that a source of your choice would deal to you and/or permanents you control this turn is dealt to target creature or player instead.
+      </text>
+    </mc>
+    <mc>
+      <id>243473
+      </id>
+      <name>Henge Guardian
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact Creature - Dragon Wurm
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{2}: Henge Guardian gains trample until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.594
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>55
+      </num>
+      <text>{2}: Henge Guardian gains trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>243446
+      </id>
+      <name>Heroes' Reunion
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player gains 7 life.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.8
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>29
+      </num>
+      <text>Target player gains 7 life.
+      </text>
+    </mc>
+    <mc>
+      <id>243494
+      </id>
+      <name>Jaws of Stone
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Jaws of Stone deals X damage divided as you choose among any number of target creatures and/or players, where X is the number of Mountains you control as you cast Jaws of Stone.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.357
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>77
+      </num>
+      <text>Jaws of Stone deals X damage divided as you choose among any number of target creatures and/or players, where X is the number of Mountains you control as you cast Jaws of Stone.
+      </text>
+    </mc>
+    <mc>
+      <id>243438
+      </id>
+      <name>Juniper Order Ranger
+      </name>
+      <cost>{3}{G}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.22
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>21
+      </num>
+      <text>Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.
+      </text>
+    </mc>
+    <mc>
+      <id>243433
+      </id>
+      <name>Kabira Vindicator
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Level up {2}{W} &lt;i&gt;({2}{W}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 2-4&lt;br&gt;3/6&lt;br&gt;Other creatures you control get +1/+1.&lt;br&gt;LEVEL 5+&lt;br&gt;4/8&lt;br&gt;Other creatures you control get +2/+2.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.583
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>16
+      </num>
+      <text>Level up {2}{W} &lt;i&gt;({2}{W}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 2-4&lt;br&gt;3/6&lt;br&gt;Other creatures you control get +1/+1.&lt;br&gt;LEVEL 5+&lt;br&gt;4/8&lt;br&gt;Other creatures you control get +2/+2.
+      </text>
+    </mc>
+    <mc>
+      <id>243477
+      </id>
+      <name>Kilnmouth Dragon
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Amplify 3 &lt;i&gt;(As this creature enters the battlefield, put three +1/+1 counters on it for each Dragon card you reveal in your hand.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;{T}: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.442
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>59
+      </num>
+      <text>Amplify 3 &lt;i&gt;(As this creature enters the battlefield, put three +1/+1 counters on it for each Dragon card you reveal in your hand.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;{T}: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>243434
+      </id>
+      <name>Kinsbaile Cavalier
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Kithkin Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Knight creatures you control have double strike.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.435
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>17
+      </num>
+      <text>Knight creatures you control have double strike.
+      </text>
+    </mc>
+    <mc>
+      <id>243431
+      </id>
+      <name>Knight Exemplar
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;Other Knight creatures you control get +1/+1 and are indestructible. &lt;i&gt;(Lethal damage and effects that say "destroy" don't destroy them.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.52
+      </rating>
+      <artist>Jason Chan
+      </artist>
+      <num>14
+      </num>
+      <text>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;Other Knight creatures you control get +1/+1 and are indestructible. &lt;i&gt;(Lethal damage and effects that say "destroy" don't destroy them.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>243421
+      </id>
+      <name>Knight of Cliffhaven
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Kor Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Level up {3} &lt;i&gt;({3}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-3&lt;br&gt;2/3&lt;br&gt;Flying&lt;br&gt;LEVEL 4+&lt;br&gt;4/4&lt;br&gt;Flying, vigilance
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.406
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>4
+      </num>
+      <text>Level up {3} &lt;i&gt;({3}: Put a level counter on this. Level up only as a sorcery.)&lt;/i&gt;&lt;br&gt;LEVEL 1-3&lt;br&gt;2/3&lt;br&gt;Flying&lt;br&gt;LEVEL 4+&lt;br&gt;4/4&lt;br&gt;Flying, vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>243422
+      </id>
+      <name>Knight of Meadowgrain
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Kithkin Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.308
+      </rating>
+      <artist>Larry MacDougall
+      </artist>
+      <num>5
+      </num>
+      <text>First strike&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>243416
+      </id>
+      <name>Knight of the Reliquary
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Knight of the Reliquary gets +1/+1 for each land card in your graveyard.&lt;br&gt;{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.648
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>1
+      </num>
+      <text>Knight of the Reliquary gets +1/+1 for each land card in your graveyard.&lt;br&gt;{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>243423
+      </id>
+      <name>Knight of the White Orchid
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike&lt;br&gt;When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.367
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>6
+      </num>
+      <text>First strike&lt;br&gt;When Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>243427
+      </id>
+      <name>Knotvine Paladin
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.18
+      </rating>
+      <artist>Matt Stewart
+      </artist>
+      <num>10
+      </num>
+      <text>Whenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>243424
+      </id>
+      <name>Leonin Skyhunter
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Cat Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.233
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>7
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>243420
+      </id>
+      <name>Lionheart Maverick
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;{4}{W}: Lionheart Maverick gets +1/+2 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.2
+      </rating>
+      <artist>Hideaki Takamura
+      </artist>
+      <num>3
+      </num>
+      <text>Vigilance&lt;br&gt;{4}{W}: Lionheart Maverick gets +1/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>243448
+      </id>
+      <name>Loxodon Warhammer
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +3/+0 and has trample and lifelink. &lt;i&gt;(If the creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;&lt;br&gt;Equip {3} &lt;i&gt;({3}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.531
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>31
+      </num>
+      <text>Equipped creature gets +3/+0 and has trample and lifelink. &lt;i&gt;(If the creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. Damage dealt by the creature also causes its controller to gain that much life.)&lt;/i&gt;&lt;br&gt;Equip {3} &lt;i&gt;({3}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>243443
+      </id>
+      <name>Mighty Leap
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +2/+2 and gains flying until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.45
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>26
+      </num>
+      <text>Target creature gets +2/+2 and gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>243476
+      </id>
+      <name>Mordant Dragon
+      </name>
+      <cost>{3}{R}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{1}{R}: Mordant Dragon gets +1/+0 until end of turn.&lt;br&gt;Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Scott Chou
+      </artist>
+      <num>58
+      </num>
+      <text>Flying&lt;br&gt;{1}{R}: Mordant Dragon gets +1/+0 until end of turn.&lt;br&gt;Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.
+      </text>
+    </mc>
+    <mc>
+      <id>243495
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.571
+      </rating>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>78
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>243496
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.45
+      </rating>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>79
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>243497
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.667
+      </rating>
+      <artist>Glen Angus
+      </artist>
+      <num>80
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>243498
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.625
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>81
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>243470
+      </id>
+      <name>Mudbutton Torchrunner
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.083
+      </rating>
+      <artist>Steve Ellis
+      </artist>
+      <num>52
+      </num>
+      <text>When Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>243451
+      </id>
+      <name>Oblivion Ring
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Oblivion Ring enters the battlefield, exile another target nonland permanent.&lt;br&gt;When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.559
+      </rating>
+      <artist>Chuck Lukacs
+      </artist>
+      <num>34
+      </num>
+      <text>When Oblivion Ring enters the battlefield, exile another target nonland permanent.&lt;br&gt;When Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>243439
+      </id>
+      <name>Paladin of Prahv
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever Paladin of Prahv deals damage, you gain that much life.&lt;br&gt;Forecast- {1}{W}, Reveal Paladin of Prahv from your hand: Whenever target creature deals damage this turn, you gain that much life. &lt;i&gt;(Activate this ability only during your upkeep and only once each turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.3
+      </rating>
+      <artist>William Simpson
+      </artist>
+      <num>22
+      </num>
+      <text>Whenever Paladin of Prahv deals damage, you gain that much life.&lt;br&gt;Forecast- {1}{W}, Reveal Paladin of Prahv from your hand: Whenever target creature deals damage this turn, you gain that much life. &lt;i&gt;(Activate this ability only during your upkeep and only once each turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>243456
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Scott Bailey
+      </artist>
+      <num>39
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>243457
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.833
+      </rating>
+      <artist>Scott Bailey
+      </artist>
+      <num>40
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>243458
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.312
+      </rating>
+      <artist>Michael Komarck
+      </artist>
+      <num>41
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>243459
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.667
+      </rating>
+      <artist>Michael Komarck
+      </artist>
+      <num>42
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>243437
+      </id>
+      <name>Plover Knights
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Kithkin Knight
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying, first strike
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.179
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>20
+      </num>
+      <text>Flying, first strike
+      </text>
+    </mc>
+    <mc>
+      <id>243483
+      </id>
+      <name>Punishing Fire
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Punishing Fire deals 2 damage to target creature or player.&lt;br&gt;Whenever an opponent gains life, you may pay {R}. If you do, return Punishing Fire from your graveyard to your hand.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.111
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>66
+      </num>
+      <text>Punishing Fire deals 2 damage to target creature or player.&lt;br&gt;Whenever an opponent gains life, you may pay {R}. If you do, return Punishing Fire from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>243441
+      </id>
+      <name>Reciprocate
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature that dealt damage to you this turn.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.731
+      </rating>
+      <artist>Pat Lee
+      </artist>
+      <num>24
+      </num>
+      <text>Exile target creature that dealt damage to you this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>243444
+      </id>
+      <name>Reprisal
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature with power 4 or greater. It can't be regenerated.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.295
+      </rating>
+      <artist>Ciruelo
+      </artist>
+      <num>27
+      </num>
+      <text>Destroy target creature with power 4 or greater. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>243487
+      </id>
+      <name>Seething Song
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Add {R}{R}{R}{R}{R} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.49
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>70
+      </num>
+      <text>Add {R}{R}{R}{R}{R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>243488
+      </id>
+      <name>Seismic Strike
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Seismic Strike deals damage to target creature equal to the number of Mountains you control.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.562
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>71
+      </num>
+      <text>Seismic Strike deals damage to target creature equal to the number of Mountains you control.
+      </text>
+    </mc>
+    <mc>
+      <id>243453
+      </id>
+      <name>Sejiri Steppe
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Sejiri Steppe enters the battlefield tapped.&lt;br&gt;When Sejiri Steppe enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.&lt;br&gt;{T}: Add {W} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Anthony Francisco
+      </artist>
+      <num>36
+      </num>
+      <text>Sejiri Steppe enters the battlefield tapped.&lt;br&gt;When Sejiri Steppe enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.&lt;br&gt;{T}: Add {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>243454
+      </id>
+      <name>Selesnya Sanctuary
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Selesnya Sanctuary enters the battlefield tapped.&lt;br&gt;When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {G}{W} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.875
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>37
+      </num>
+      <text>Selesnya Sanctuary enters the battlefield tapped.&lt;br&gt;When Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.&lt;br&gt;{T}: Add {G}{W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>243478
+      </id>
+      <name>Shivan Hellkite
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;&lt;br&gt;{1}{R}: Shivan Hellkite deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.938
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>60
+      </num>
+      <text>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;&lt;br&gt;{1}{R}: Shivan Hellkite deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>243491
+      </id>
+      <name>Shiv's Embrace
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has flying.&lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.533
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>74
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has flying.&lt;br&gt;{R}: Enchanted creature gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>243447
+      </id>
+      <name>Sigil Blessing
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, target creature you control gets +3/+3 and other creatures you control get +1/+1.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.917
+      </rating>
+      <artist>Matt Stewart
+      </artist>
+      <num>30
+      </num>
+      <text>Until end of turn, target creature you control gets +3/+3 and other creatures you control get +1/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>243425
+      </id>
+      <name>Silver Knight
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike, protection from red
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.383
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>8
+      </num>
+      <text>First strike, protection from red
+      </text>
+    </mc>
+    <mc>
+      <id>243465
+      </id>
+      <name>Skirk Prospector
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice a Goblin: Add {R} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.111
+      </rating>
+      <artist>Doug Chaffee
+      </artist>
+      <num>49
+      </num>
+      <text>Sacrifice a Goblin: Add {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>243436
+      </id>
+      <name>Skyhunter Patrol
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Cat Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying, first strike &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.393
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>19
+      </num>
+      <text>Flying, first strike &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>243449
+      </id>
+      <name>Spidersilk Armor
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures you control get +0/+1 and have reach. &lt;i&gt;(They can block creatures with flying.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.105
+      </rating>
+      <artist>Scott Hampton
+      </artist>
+      <num>32
+      </num>
+      <text>Creatures you control get +0/+1 and have reach. &lt;i&gt;(They can block creatures with flying.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>243484
+      </id>
+      <name>Spitting Earth
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Spitting Earth deals damage to target creature equal to the number of Mountains you control.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.773
+      </rating>
+      <artist>Michael Koelsch
+      </artist>
+      <num>67
+      </num>
+      <text>Spitting Earth deals damage to target creature equal to the number of Mountains you control.
+      </text>
+    </mc>
+    <mc>
+      <id>243428
+      </id>
+      <name>Steward of Valeron
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Creature - Human Druid Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;{T}: Add {G} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.289
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>11
+      </num>
+      <text>Vigilance&lt;br&gt;{T}: Add {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>243490
+      </id>
+      <name>Temporary Insanity
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.139
+      </rating>
+      <artist>Mark Romanoski
+      </artist>
+      <num>73
+      </num>
+      <text>Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>243445
+      </id>
+      <name>Test of Faith
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent the next 3 damage that would be dealt to target creature this turn, and put a +1/+1 counter on that creature for each 1 damage prevented this way.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.944
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>28
+      </num>
+      <text>Prevent the next 3 damage that would be dealt to target creature this turn, and put a +1/+1 counter on that creature for each 1 damage prevented this way.
+      </text>
+    </mc>
+    <mc>
+      <id>243479
+      </id>
+      <name>Thunder Dragon
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.474
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>61
+      </num>
+      <text>Flying&lt;br&gt;When Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>243455
+      </id>
+      <name>Treetop Village
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Treetop Village enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. &lt;i&gt;(If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.906
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>38
+      </num>
+      <text>Treetop Village enters the battlefield tapped.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. &lt;i&gt;(If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>243474
+      </id>
+      <name>Voracious Dragon
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Devour 1 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;When Voracious Dragon enters the battlefield, it deals damage to target creature or player equal to twice the number of Goblins it devoured.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.24
+      </rating>
+      <artist>Dominick Domingo
+      </artist>
+      <num>56
+      </num>
+      <text>Flying&lt;br&gt;Devour 1 &lt;i&gt;(As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)&lt;/i&gt;&lt;br&gt;When Voracious Dragon enters the battlefield, it deals damage to target creature or player equal to twice the number of Goblins it devoured.
+      </text>
+    </mc>
+    <mc>
+      <id>243426
+      </id>
+      <name>White Knight
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;Protection from black &lt;i&gt;(This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.275
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>9
+      </num>
+      <text>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;Protection from black &lt;i&gt;(This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>243432
+      </id>
+      <name>Wilt-Leaf Cavaliers
+      </name>
+      <cost>{G/W}{G/W}{G/W}
+      </cost>
+      <type>Creature - Elf Knight
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Vigilance
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.345
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>15
+      </num>
+      <text>Vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>243430
+      </id>
+      <name>Zhalfirin Commander
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flanking &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt;&lt;br&gt;{1}{W}{W}: Target Knight creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Knights vs. Dragons
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.292
+      </rating>
+      <artist>Stuart Griffin
+      </artist>
+      <num>13
+      </num>
+      <text>Flanking &lt;i&gt;(Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)&lt;/i&gt;&lt;br&gt;{1}{W}{W}: Target Knight creature gets +1/+1 until end of turn.
+      </text>
+    </mc>
+  </list>
+</cards>

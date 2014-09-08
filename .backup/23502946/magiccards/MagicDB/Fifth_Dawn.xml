@@ -1,0 +1,4263 @@
+
+<cards>
+  <name>Fifth_Dawn</name>
+  <key>Fifth_Dawn</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>39667
+      </id>
+      <name>Avarice Totem
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{5}: Exchange control of Avarice Totem and target nonland permanent.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.604
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>104
+      </num>
+      <text>{5}: Exchange control of Avarice Totem and target nonland permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>43529
+      </id>
+      <name>Cosmic Larva
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>7
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Trample&lt;br&gt;At the beginning of your upkeep, sacrifice Cosmic Larva unless you sacrifice two lands.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.841
+      </rating>
+      <artist>Jeff Easley
+      </artist>
+      <num>63
+      </num>
+      <text>Trample&lt;br&gt;At the beginning of your upkeep, sacrifice Cosmic Larva unless you sacrifice two lands.
+      </text>
+    </mc>
+    <mc>
+      <id>43574
+      </id>
+      <name>Relic Barrier
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Tap target artifact.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.913
+      </rating>
+      <artist>Nottsuo
+      </artist>
+      <num>147
+      </num>
+      <text>{T}: Tap target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>44608
+      </id>
+      <name>Iron-Barb Hellion
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Hellion Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Iron-Barb Hellion can't block.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.833
+      </rating>
+      <artist>Doug Chaffee
+      </artist>
+      <num>69
+      </num>
+      <text>Haste&lt;br&gt;Iron-Barb Hellion can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>46108
+      </id>
+      <name>Feedback Bolt
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Feedback Bolt deals damage to target player equal to the number of artifacts you control.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.167
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>64
+      </num>
+      <text>Feedback Bolt deals damage to target player equal to the number of artifacts you control.
+      </text>
+    </mc>
+    <mc>
+      <id>46159
+      </id>
+      <name>Fill with Fright
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards two cards.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.344
+      </rating>
+      <artist>Luca Zontini
+      </artist>
+      <num>50
+      </num>
+      <text>Target player discards two cards.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>46175
+      </id>
+      <name>Auriok Windwalker
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{T}: Attach target Equipment you control to target creature you control.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.3
+      </rating>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>5
+      </num>
+      <text>Flying&lt;br&gt;{T}: Attach target Equipment you control to target creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>47438
+      </id>
+      <name>Energy Chamber
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>At the beginning of your upkeep, choose one- Put a +1/+1 counter on target artifact creature; or put a charge counter on target noncreature artifact.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.593
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>117
+      </num>
+      <text>At the beginning of your upkeep, choose one- Put a +1/+1 counter on target artifact creature; or put a charge counter on target noncreature artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>47449
+      </id>
+      <name>Helm of Kaldra
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Legendary Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has first strike, trample, and haste.&lt;br&gt;{1}: If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, put a legendary 4/4 colorless Avatar creature token named Kaldra onto the battlefield and attach those Equipment to it.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.171
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>131
+      </num>
+      <text>Equipped creature has first strike, trample, and haste.&lt;br&gt;{1}: If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, put a legendary 4/4 colorless Avatar creature token named Kaldra onto the battlefield and attach those Equipment to it.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>47800
+      </id>
+      <name>Qumulox
+      </name>
+      <cost>{6}{U}{U}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;&lt;br&gt;Flying
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.047
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>35
+      </num>
+      <text>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;&lt;br&gt;Flying
+      </text>
+    </mc>
+    <mc>
+      <id>48177
+      </id>
+      <name>Suncrusher
+      </name>
+      <cost>{9}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{4}, {T}, Remove a +1/+1 counter from Suncrusher: Destroy target creature.&lt;br&gt;{2}, Remove a +1/+1 counter from Suncrusher: Return Suncrusher to its owner's hand.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.341
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>159
+      </num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{4}, {T}, Remove a +1/+1 counter from Suncrusher: Destroy target creature.&lt;br&gt;{2}, Remove a +1/+1 counter from Suncrusher: Return Suncrusher to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>48215
+      </id>
+      <name>Goblin Cannon
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}: Goblin Cannon deals 1 damage to target creature or player. Sacrifice Goblin Cannon.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.372
+      </rating>
+      <artist>Doug Chaffee
+      </artist>
+      <num>125
+      </num>
+      <text>{2}: Goblin Cannon deals 1 damage to target creature or player. Sacrifice Goblin Cannon.
+      </text>
+    </mc>
+    <mc>
+      <id>50117
+      </id>
+      <name>Fist of Suns
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.35
+      </rating>
+      <artist>Arnie Swekel
+      </artist>
+      <num>123
+      </num>
+      <text>You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.
+      </text>
+    </mc>
+    <mc>
+      <id>50119
+      </id>
+      <name>Possessed Portal
+      </name>
+      <cost>{8}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>If a player would draw a card, that player skips that draw instead.&lt;br&gt;At the beginning of each end step, each player sacrifices a permanent unless he or she discards a card.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.955
+      </rating>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>144
+      </num>
+      <text>If a player would draw a card, that player skips that draw instead.&lt;br&gt;At the beginning of each end step, each player sacrifices a permanent unless he or she discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>50120
+      </id>
+      <name>Vedalken Shackles
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may choose not to untap Vedalken Shackles during your untap step.&lt;br&gt;{2}, {T}: Gain control of target creature with power less than or equal to the number of Islands you control for as long as Vedalken Shackles remains tapped.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.686
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>164
+      </num>
+      <text>You may choose not to untap Vedalken Shackles during your untap step.&lt;br&gt;{2}, {T}: Gain control of target creature with power less than or equal to the number of Islands you control for as long as Vedalken Shackles remains tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>50129
+      </id>
+      <name>Endless Whispers
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Each creature has "When this creature dies, choose target opponent. That player puts this card from its owner's graveyard onto the battlefield under his or her control at the beginning of the next end step."
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.086
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>49
+      </num>
+      <text>Each creature has "When this creature dies, choose target opponent. That player puts this card from its owner's graveyard onto the battlefield under his or her control at the beginning of the next end step."
+      </text>
+    </mc>
+    <mc>
+      <id>50134
+      </id>
+      <name>Vedalken Orrery
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may cast nonland cards as though they had flash.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.698
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>163
+      </num>
+      <text>You may cast nonland cards as though they had flash.
+      </text>
+    </mc>
+    <mc>
+      <id>50137
+      </id>
+      <name>Loxodon Anchorite
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Elephant Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.19
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>10
+      </num>
+      <text>{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>50138
+      </id>
+      <name>Stand Firm
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +1/+1 until end of turn.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.182
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>17
+      </num>
+      <text>Target creature gets +1/+1 until end of turn.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>50139
+      </id>
+      <name>Engineered Explosives
+      </name>
+      <cost>{X}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{2}, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.386
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>118
+      </num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{2}, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.
+      </text>
+    </mc>
+    <mc>
+      <id>50144
+      </id>
+      <name>Advanced Hoverguard
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Drone
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{U}: Advanced Hoverguard gains shroud until end of turn. &lt;i&gt;(It can't be the target of spells or abilities.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.462
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>22
+      </num>
+      <text>Flying&lt;br&gt;{U}: Advanced Hoverguard gains shroud until end of turn. &lt;i&gt;(It can't be the target of spells or abilities.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>50145
+      </id>
+      <name>Serum Visions
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw a card.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.829
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>36
+      </num>
+      <text>Draw a card.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>50147
+      </id>
+      <name>Into Thin Air
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;&lt;br&gt;Return target artifact to its owner's hand.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.605
+      </rating>
+      <artist>Ittoku
+      </artist>
+      <num>33
+      </num>
+      <text>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;&lt;br&gt;Return target artifact to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>50150
+      </id>
+      <name>Gemstone Array
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}: Put a charge counter on Gemstone Array.&lt;br&gt;Remove a charge counter from Gemstone Array: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.042
+      </rating>
+      <artist>Ittoku
+      </artist>
+      <num>124
+      </num>
+      <text>{2}: Put a charge counter on Gemstone Array.&lt;br&gt;Remove a charge counter from Gemstone Array: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>50155
+      </id>
+      <name>Razormane Masticore
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact Creature - Masticore
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, sacrifice Razormane Masticore unless you discard a card.&lt;br&gt;At the beginning of your draw step, you may have Razormane Masticore deal 3 damage to target creature.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.47
+      </rating>
+      <artist>Jim Murray
+      </artist>
+      <num>146
+      </num>
+      <text>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, sacrifice Razormane Masticore unless you discard a card.&lt;br&gt;At the beginning of your draw step, you may have Razormane Masticore deal 3 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>50156
+      </id>
+      <name>Chimeric Coils
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{X}{1}: Chimeric Coils becomes an X/X Construct artifact creature. Sacrifice it at the beginning of the next end step.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.605
+      </rating>
+      <artist>Michael Sutfin
+      </artist>
+      <num>108
+      </num>
+      <text>{X}{1}: Chimeric Coils becomes an X/X Construct artifact creature. Sacrifice it at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>50158
+      </id>
+      <name>Opaline Bracers
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +X/+X, where X is the number of charge counters on Opaline Bracers.&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.708
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>141
+      </num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +X/+X, where X is the number of charge counters on Opaline Bracers.&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>50159
+      </id>
+      <name>Conjurer's Bauble
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}, Sacrifice Conjurer's Bauble: Put up to one target card from your graveyard on the bottom of your library. Draw a card.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.7
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>112
+      </num>
+      <text>{T}, Sacrifice Conjurer's Bauble: Put up to one target card from your graveyard on the bottom of your library. Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>50162
+      </id>
+      <name>Staff of Domination
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}: Untap Staff of Domination.&lt;br&gt;{2}, {T}: You gain 1 life.&lt;br&gt;{3}, {T}: Untap target creature.&lt;br&gt;{4}, {T}: Tap target creature.&lt;br&gt;{5}, {T}: Draw a card.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.36
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>156
+      </num>
+      <text>{1}: Untap Staff of Domination.&lt;br&gt;{2}, {T}: You gain 1 life.&lt;br&gt;{3}, {T}: Untap target creature.&lt;br&gt;{4}, {T}: Tap target creature.&lt;br&gt;{5}, {T}: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>50163
+      </id>
+      <name>Trinket Mage
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Trinket Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.468
+      </rating>
+      <artist>Mark A. Nelson
+      </artist>
+      <num>39
+      </num>
+      <text>When Trinket Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>50164
+      </id>
+      <name>Abuna's Chant
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- You gain 5 life; or prevent the next 5 damage that would be dealt to target creature this turn.&lt;br&gt;Entwine {2} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.167
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>1
+      </num>
+      <text>Choose one- You gain 5 life; or prevent the next 5 damage that would be dealt to target creature this turn.&lt;br&gt;Entwine {2} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>50171
+      </id>
+      <name>Fangren Pathcutter
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Whenever Fangren Pathcutter attacks, attacking creatures gain trample until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.62
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>87
+      </num>
+      <text>Whenever Fangren Pathcutter attacks, attacking creatures gain trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>50172
+      </id>
+      <name>Artificer's Intuition
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{U}, Discard an artifact card: Search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.438
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>23
+      </num>
+      <text>{U}, Discard an artifact card: Search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>50176
+      </id>
+      <name>Myr Quadropod
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Myr
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{3}: Switch Myr Quadropod's power and toughness until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.286
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>138
+      </num>
+      <text>{3}: Switch Myr Quadropod's power and toughness until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>50177
+      </id>
+      <name>Thermal Navigator
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacrifice an artifact: Thermal Navigator gains flying until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.725
+      </rating>
+      <artist>Jim Murray
+      </artist>
+      <num>162
+      </num>
+      <text>Sacrifice an artifact: Thermal Navigator gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>50179
+      </id>
+      <name>Myr Servitor
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact Creature - Myr
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, if Myr Servitor is on the battlefield, each player returns all cards named Myr Servitor from his or her graveyard to the battlefield.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.259
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>139
+      </num>
+      <text>At the beginning of your upkeep, if Myr Servitor is on the battlefield, each player returns all cards named Myr Servitor from his or her graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>50188
+      </id>
+      <name>Viridian Lorebearers
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elf Shaman
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{3}{G}, {T}: Target creature gets +X/+X until end of turn, where X is the number of artifacts your opponents control.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.4
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>99
+      </num>
+      <text>{3}{G}, {T}: Target creature gets +X/+X until end of turn, where X is the number of artifacts your opponents control.
+      </text>
+    </mc>
+    <mc>
+      <id>50189
+      </id>
+      <name>Ouphe Vandals
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Ouphe Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{G}, Sacrifice Ouphe Vandals: Counter target activated ability from an artifact source and destroy that artifact if it's on the battlefield. &lt;i&gt;(Mana abilities can't be targeted.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.167
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>90
+      </num>
+      <text>{G}, Sacrifice Ouphe Vandals: Counter target activated ability from an artifact source and destroy that artifact if it's on the battlefield. &lt;i&gt;(Mana abilities can't be targeted.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>50190
+      </id>
+      <name>Tel-Jilad Justice
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.523
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>95
+      </num>
+      <text>Destroy target artifact.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>50191
+      </id>
+      <name>Tyrranax
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{1}{G}: Tyrranax gets -1/+1 until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.906
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>98
+      </num>
+      <text>{1}{G}: Tyrranax gets -1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>50192
+      </id>
+      <name>Heliophial
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{2}, Sacrifice Heliophial: Heliophial deals damage equal to the number of charge counters on it to target creature or player.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.325
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>130
+      </num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{2}, Sacrifice Heliophial: Heliophial deals damage equal to the number of charge counters on it to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>50198
+      </id>
+      <name>Clearwater Goblet
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, you may gain life equal to the number of charge counters on Clearwater Goblet.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.342
+      </rating>
+      <artist>Dany Orizio
+      </artist>
+      <num>109
+      </num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, you may gain life equal to the number of charge counters on Clearwater Goblet.
+      </text>
+    </mc>
+    <mc>
+      <id>50201
+      </id>
+      <name>Krark-Clan Engineers
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Goblin Artificer
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}, Sacrifice two artifacts: Destroy target artifact.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.211
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>70
+      </num>
+      <text>{R}, Sacrifice two artifacts: Destroy target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>50203
+      </id>
+      <name>Tangle Asp
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Tangle Asp blocks or becomes blocked by a creature, destroy that creature at end of combat.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.878
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>94
+      </num>
+      <text>Whenever Tangle Asp blocks or becomes blocked by a creature, destroy that creature at end of combat.
+      </text>
+    </mc>
+    <mc>
+      <id>50204
+      </id>
+      <name>Desecration Elemental
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>8
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;Whenever a player casts a spell, sacrifice a creature.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.441
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>45
+      </num>
+      <text>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;Whenever a player casts a spell, sacrifice a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>50207
+      </id>
+      <name>Lose Hope
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -1/-1 until end of turn.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.259
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>52
+      </num>
+      <text>Target creature gets -1/-1 until end of turn.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>50209
+      </id>
+      <name>Fleshgrafter
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Discard an artifact card: Fleshgrafter gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.708
+      </rating>
+      <artist>Jim Murray
+      </artist>
+      <num>51
+      </num>
+      <text>Discard an artifact card: Fleshgrafter gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>50210
+      </id>
+      <name>Devour in Shadow
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature. It can't be regenerated. You lose life equal to that creature's toughness.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.759
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>46
+      </num>
+      <text>Destroy target creature. It can't be regenerated. You lose life equal to that creature's toughness.
+      </text>
+    </mc>
+    <mc>
+      <id>50211
+      </id>
+      <name>Mephidross Vampire
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Each creature you control is a Vampire in addition to its other creature types and has "Whenever this creature deals damage to a creature, put a +1/+1 counter on this creature."
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.276
+      </rating>
+      <artist>Matthew D. Wilson
+      </artist>
+      <num>53
+      </num>
+      <text>Flying&lt;br&gt;Each creature you control is a Vampire in addition to its other creature types and has "Whenever this creature deals damage to a creature, put a +1/+1 counter on this creature."
+      </text>
+    </mc>
+    <mc>
+      <id>50212
+      </id>
+      <name>Blind Creeper
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever a player casts a spell, Blind Creeper gets -1/-1 until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>42
+      </num>
+      <text>Whenever a player casts a spell, Blind Creeper gets -1/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>50213
+      </id>
+      <name>Retaliate
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy all creatures that dealt damage to you this turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.292
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>13
+      </num>
+      <text>Destroy all creatures that dealt damage to you this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>50927
+      </id>
+      <name>Grafted Wargear
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +3/+2.&lt;br&gt;Whenever Grafted Wargear becomes unattached from a permanent, sacrifice that permanent.&lt;br&gt;Equip {0} &lt;i&gt;({0}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.429
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>126
+      </num>
+      <text>Equipped creature gets +3/+2.&lt;br&gt;Whenever Grafted Wargear becomes unattached from a permanent, sacrifice that permanent.&lt;br&gt;Equip {0} &lt;i&gt;({0}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51075
+      </id>
+      <name>Summoner's Egg
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Imprint- When Summoner's Egg enters the battlefield, you may exile a card from your hand face down.&lt;br&gt;When Summoner's Egg dies, turn the exiled card face up. If it's a creature card, put it onto the battlefield under your control.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.212
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>157
+      </num>
+      <text>Imprint- When Summoner's Egg enters the battlefield, you may exile a card from your hand face down.&lt;br&gt;When Summoner's Egg dies, turn the exiled card face up. If it's a creature card, put it onto the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>51078
+      </id>
+      <name>Steelshaper's Gift
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for an Equipment card, reveal that card, and put it into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.161
+      </rating>
+      <artist>Tim Hildebrandt
+      </artist>
+      <num>19
+      </num>
+      <text>Search your library for an Equipment card, reveal that card, and put it into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>51080
+      </id>
+      <name>Roar of Reclamation
+      </name>
+      <cost>{5}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player returns all artifact cards from his or her graveyard to the battlefield.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.733
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>14
+      </num>
+      <text>Each player returns all artifact cards from his or her graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>51086
+      </id>
+      <name>Hoverguard Sweepers
+      </name>
+      <cost>{6}{U}{U}
+      </cost>
+      <type>Creature - Drone
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Hoverguard Sweepers enters the battlefield, you may return up to two target creatures to their owners' hands.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.3
+      </rating>
+      <artist>Mark A. Nelson
+      </artist>
+      <num>32
+      </num>
+      <text>Flying&lt;br&gt;When Hoverguard Sweepers enters the battlefield, you may return up to two target creatures to their owners' hands.
+      </text>
+    </mc>
+    <mc>
+      <id>51088
+      </id>
+      <name>Acquire
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search target opponent's library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles his or her library.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.014
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>21
+      </num>
+      <text>Search target opponent's library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>51091
+      </id>
+      <name>Moriok Rigger
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Rogue Rigger
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever an artifact is put into a graveyard from the battlefield, you may put a +1/+1 counter on Moriok Rigger.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.732
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>54
+      </num>
+      <text>Whenever an artifact is put into a graveyard from the battlefield, you may put a +1/+1 counter on Moriok Rigger.
+      </text>
+    </mc>
+    <mc>
+      <id>51092
+      </id>
+      <name>Shattered Dreams
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals his or her hand. You choose an artifact card from it. That player discards that card.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.326
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>59
+      </num>
+      <text>Target opponent reveals his or her hand. You choose an artifact card from it. That player discards that card.
+      </text>
+    </mc>
+    <mc>
+      <id>51095
+      </id>
+      <name>Ebon Drake
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a player casts a spell, you lose 1 life.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.682
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>48
+      </num>
+      <text>Flying&lt;br&gt;Whenever a player casts a spell, you lose 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>51097
+      </id>
+      <name>Krark-Clan Ogre
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Ogre
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{R}, Sacrifice an artifact: Target creature can't block this turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.529
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>71
+      </num>
+      <text>{R}, Sacrifice an artifact: Target creature can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>51101
+      </id>
+      <name>Magnetic Theft
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Attach target Equipment to target creature. &lt;i&gt;(Control of the Equipment doesn't change.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.763
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>74
+      </num>
+      <text>Attach target Equipment to target creature. &lt;i&gt;(Control of the Equipment doesn't change.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51102
+      </id>
+      <name>Magma Giant
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>When Magma Giant enters the battlefield, it deals 2 damage to each creature and each player.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.591
+      </rating>
+      <artist>Nottsuo
+      </artist>
+      <num>72
+      </num>
+      <text>When Magma Giant enters the battlefield, it deals 2 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>51105
+      </id>
+      <name>Suntouched Myr
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Myr
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.211
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>160
+      </num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51110
+      </id>
+      <name>Wayfarer's Bauble
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.023
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>165
+      </num>
+      <text>{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>51113
+      </id>
+      <name>Ferropede
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Insect
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Ferropede is unblockable.&lt;br&gt;Whenever Ferropede deals combat damage to a player, you may remove a counter from target permanent.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.426
+      </rating>
+      <artist>Jeff Easley
+      </artist>
+      <num>122
+      </num>
+      <text>Ferropede is unblockable.&lt;br&gt;Whenever Ferropede deals combat damage to a player, you may remove a counter from target permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>51115
+      </id>
+      <name>Ensouled Scimitar
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>{3}: Ensouled Scimitar becomes a 1/5 Spirit artifact creature with flying until end of turn. &lt;i&gt;(Equipment that's a creature can't equip a creature.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +1/+5.&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.727
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>119
+      </num>
+      <text>{3}: Ensouled Scimitar becomes a 1/5 Spirit artifact creature with flying until end of turn. &lt;i&gt;(Equipment that's a creature can't equip a creature.)&lt;/i&gt;&lt;br&gt;Equipped creature gets +1/+5.&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51119
+      </id>
+      <name>Anodet Lurker
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Anodet Lurker dies, you gain 3 life.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.571
+      </rating>
+      <artist>Jeff Easley
+      </artist>
+      <num>101
+      </num>
+      <text>When Anodet Lurker dies, you gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>51125
+      </id>
+      <name>Sylvok Explorer
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Human Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.676
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>93
+      </num>
+      <text>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.
+      </text>
+    </mc>
+    <mc>
+      <id>51129
+      </id>
+      <name>Clock of Omens
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Tap two untapped artifacts you control: Untap target artifact.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.096
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>110
+      </num>
+      <text>Tap two untapped artifacts you control: Untap target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>51131
+      </id>
+      <name>Blasting Station
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}, Sacrifice a creature: Blasting Station deals 1 damage to target creature or player.&lt;br&gt;Whenever a creature enters the battlefield, you may untap Blasting Station.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.712
+      </rating>
+      <artist>Stephen Tappin
+      </artist>
+      <num>107
+      </num>
+      <text>{T}, Sacrifice a creature: Blasting Station deals 1 damage to target creature or player.&lt;br&gt;Whenever a creature enters the battlefield, you may untap Blasting Station.
+      </text>
+    </mc>
+    <mc>
+      <id>51132
+      </id>
+      <name>Salvaging Station
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Return target noncreature artifact card with converted mana cost 1 or less from your graveyard to the battlefield.&lt;br&gt;Whenever a creature dies, you may untap Salvaging Station.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>148
+      </num>
+      <text>{T}: Return target noncreature artifact card with converted mana cost 1 or less from your graveyard to the battlefield.&lt;br&gt;Whenever a creature dies, you may untap Salvaging Station.
+      </text>
+    </mc>
+    <mc>
+      <id>51133
+      </id>
+      <name>Crucible of Worlds
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may play land cards from your graveyard.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.683
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>114
+      </num>
+      <text>You may play land cards from your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>51135
+      </id>
+      <name>Doubling Cube
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}, {T}: Double the amount of each type of mana in your mana pool.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.88
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>116
+      </num>
+      <text>{3}, {T}: Double the amount of each type of mana in your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>51136
+      </id>
+      <name>Mycosynth Golem
+      </name>
+      <cost>{11}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;&lt;br&gt;Artifact creature spells you cast have affinity for artifacts. &lt;i&gt;(They cost {1} less to cast for each artifact you control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.681
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>137
+      </num>
+      <text>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;&lt;br&gt;Artifact creature spells you cast have affinity for artifacts. &lt;i&gt;(They cost {1} less to cast for each artifact you control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51138
+      </id>
+      <name>Guardian Idol
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Guardian Idol enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{2}: Guardian Idol becomes a 2/2 Golem artifact creature until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.036
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>128
+      </num>
+      <text>Guardian Idol enters the battlefield tapped.&lt;br&gt;{T}: Add {1} to your mana pool.&lt;br&gt;{2}: Guardian Idol becomes a 2/2 Golem artifact creature until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>51141
+      </id>
+      <name>Sawtooth Thresher
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Remove two +1/+1 counters from Sawtooth Thresher: Sawtooth Thresher gets +4/+4 until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.667
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>149
+      </num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Remove two +1/+1 counters from Sawtooth Thresher: Sawtooth Thresher gets +4/+4 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>51146
+      </id>
+      <name>Infused Arrows
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{T}, Remove X charge counters from Infused Arrows: Target creature gets -X/-X until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.8
+      </rating>
+      <artist>Stephen Tappin
+      </artist>
+      <num>133
+      </num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{T}, Remove X charge counters from Infused Arrows: Target creature gets -X/-X until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>51147
+      </id>
+      <name>Vanquish
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target blocking creature.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.033
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>20
+      </num>
+      <text>Destroy target blocking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>51148
+      </id>
+      <name>Screaming Fury
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +5/+0 and gains haste until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.559
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>78
+      </num>
+      <text>Target creature gets +5/+0 and gains haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>51160
+      </id>
+      <name>Eon Hub
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Players skip their upkeep steps.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.231
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>120
+      </num>
+      <text>Players skip their upkeep steps.
+      </text>
+    </mc>
+    <mc>
+      <id>51161
+      </id>
+      <name>Tornado Elemental
+      </name>
+      <cost>{5}{G}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>When Tornado Elemental enters the battlefield, it deals 6 damage to each creature with flying.&lt;br&gt;You may have Tornado Elemental assign its combat damage as though it weren't blocked.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.242
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>97
+      </num>
+      <text>When Tornado Elemental enters the battlefield, it deals 6 damage to each creature with flying.&lt;br&gt;You may have Tornado Elemental assign its combat damage as though it weren't blocked.
+      </text>
+    </mc>
+    <mc>
+      <id>51163
+      </id>
+      <name>Rite of Passage
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a creature you control is dealt damage, put a +1/+1 counter on it. &lt;i&gt;(The damage is dealt before the counter is put on.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.976
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>91
+      </num>
+      <text>Whenever a creature you control is dealt damage, put a +1/+1 counter on it. &lt;i&gt;(The damage is dealt before the counter is put on.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51166
+      </id>
+      <name>Auriok Salvagers
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{1}{W}: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.438
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>4
+      </num>
+      <text>{1}{W}: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>51170
+      </id>
+      <name>Goblin Brawler
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Goblin Brawler can't be equipped.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.853
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>66
+      </num>
+      <text>First strike&lt;br&gt;Goblin Brawler can't be equipped.
+      </text>
+    </mc>
+    <mc>
+      <id>51177
+      </id>
+      <name>Vulshok Sorcerer
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste&lt;br&gt;{T}: Vulshok Sorcerer deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.121
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>80
+      </num>
+      <text>Haste&lt;br&gt;{T}: Vulshok Sorcerer deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>51178
+      </id>
+      <name>Night's Whisper
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You draw two cards and you lose 2 life.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.194
+      </rating>
+      <artist>David Martin
+      </artist>
+      <num>55
+      </num>
+      <text>You draw two cards and you lose 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>51180
+      </id>
+      <name>Magma Jet
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Magma Jet deals 2 damage to target creature or player.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.184
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>73
+      </num>
+      <text>Magma Jet deals 2 damage to target creature or player.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51182
+      </id>
+      <name>Healer's Headdress
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +0/+2 and has "{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn."&lt;br&gt;{W}{W}: Attach Healer's Headdress to target creature you control.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.765
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>129
+      </num>
+      <text>Equipped creature gets +0/+2 and has "{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn."&lt;br&gt;{W}{W}: Attach Healer's Headdress to target creature you control.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51183
+      </id>
+      <name>Neurok Stealthsuit
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has shroud. &lt;i&gt;(It can't be the target of spells or abilities.)&lt;/i&gt;&lt;br&gt;{U}{U}: Attach Neurok Stealthsuit to target creature you control.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.886
+      </rating>
+      <artist>Francis Tsai
+      </artist>
+      <num>140
+      </num>
+      <text>Equipped creature has shroud. &lt;i&gt;(It can't be the target of spells or abilities.)&lt;/i&gt;&lt;br&gt;{U}{U}: Attach Neurok Stealthsuit to target creature you control.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51184
+      </id>
+      <name>Cranial Plating
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +1/+0 for each artifact you control.&lt;br&gt;{B}{B}: Attach Cranial Plating to target creature you control.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.795
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>113
+      </num>
+      <text>Equipped creature gets +1/+0 for each artifact you control.&lt;br&gt;{B}{B}: Attach Cranial Plating to target creature you control.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51185
+      </id>
+      <name>Sparring Collar
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has first strike.&lt;br&gt;{R}{R}: Attach Sparring Collar to target creature you control.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.875
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>154
+      </num>
+      <text>Equipped creature has first strike.&lt;br&gt;{R}{R}: Attach Sparring Collar to target creature you control.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51186
+      </id>
+      <name>Horned Helm
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +1/+1 and has trample.&lt;br&gt;{G}{G}: Attach Horned Helm to target creature you control.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.464
+      </rating>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>132
+      </num>
+      <text>Equipped creature gets +1/+1 and has trample.&lt;br&gt;{G}{G}: Attach Horned Helm to target creature you control.&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51189
+      </id>
+      <name>Dross Crocodile
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Zombie Crocodile
+      </type>
+      <power>5
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.821
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>47
+      </num>
+    </mc>
+    <mc>
+      <id>51190
+      </id>
+      <name>Rain of Rust
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Destroy target artifact; or destroy target land.&lt;br&gt;Entwine {3}{R} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>0.9
+      </rating>
+      <artist>Tim Hildebrandt
+      </artist>
+      <num>76
+      </num>
+      <text>Choose one- Destroy target artifact; or destroy target land.&lt;br&gt;Entwine {3}{R} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51220
+      </id>
+      <name>Skyhunter Skirmisher
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Cat Knight
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying, double strike &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach, and it deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.848
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>16
+      </num>
+      <text>Flying, double strike &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach, and it deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51221
+      </id>
+      <name>All Suns' Dawn
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>For each color, return up to one target card of that color from your graveyard to your hand. Exile All Suns' Dawn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.983
+      </rating>
+      <artist>Glen Angus
+      </artist>
+      <num>81
+      </num>
+      <text>For each color, return up to one target card of that color from your graveyard to your hand. Exile All Suns' Dawn.
+      </text>
+    </mc>
+    <mc>
+      <id>51222
+      </id>
+      <name>Dawn's Reflection
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds two mana in any combination of colors to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.591
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>85
+      </num>
+      <text>Enchant land&lt;br&gt;Whenever enchanted land is tapped for mana, its controller adds two mana in any combination of colors to his or her mana pool &lt;i&gt;(in addition to the mana the land produces)&lt;/i&gt;.
+      </text>
+    </mc>
+    <mc>
+      <id>51223
+      </id>
+      <name>Condescend
+      </name>
+      <cost>{X}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell unless its controller pays {X}.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.109
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>27
+      </num>
+      <text>Counter target spell unless its controller pays {X}.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51229
+      </id>
+      <name>Grinding Station
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}, Sacrifice an artifact: Target player puts the top three cards of his or her library into his or her graveyard.&lt;br&gt;Whenever an artifact enters the battlefield, you may untap Grinding Station.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.643
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>127
+      </num>
+      <text>{T}, Sacrifice an artifact: Target player puts the top three cards of his or her library into his or her graveyard.&lt;br&gt;Whenever an artifact enters the battlefield, you may untap Grinding Station.
+      </text>
+    </mc>
+    <mc>
+      <id>51230
+      </id>
+      <name>Arachnoid
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Spider
+      </type>
+      <power>2
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.256
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>102
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51374
+      </id>
+      <name>Skyreach Manta
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact Creature - Fish
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Flying
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.115
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>152
+      </num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Flying
+      </text>
+    </mc>
+    <mc>
+      <id>51375
+      </id>
+      <name>Baton of Courage
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Flash&lt;br&gt;Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Remove a charge counter from Baton of Courage: Target creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.464
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>105
+      </num>
+      <text>Flash&lt;br&gt;Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Remove a charge counter from Baton of Courage: Target creature gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>51607
+      </id>
+      <name>Stasis Cocoon
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant artifact&lt;br&gt;Enchanted artifact's activated abilities can't be activated. If enchanted artifact is a creature, it can't attack or block.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.977
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>18
+      </num>
+      <text>Enchant artifact&lt;br&gt;Enchanted artifact's activated abilities can't be activated. If enchanted artifact is a creature, it can't attack or block.
+      </text>
+    </mc>
+    <mc>
+      <id>51610
+      </id>
+      <name>Beacon of Tomorrows
+      </name>
+      <cost>{6}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player takes an extra turn after this one. Shuffle Beacon of Tomorrows into its owner's library.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.297
+      </rating>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>24
+      </num>
+      <text>Target player takes an extra turn after this one. Shuffle Beacon of Tomorrows into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>51613
+      </id>
+      <name>Beacon of Creation
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put a 1/1 green Insect creature token onto the battlefield for each Forest you control. Shuffle Beacon of Creation into its owner's library.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.513
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>82
+      </num>
+      <text>Put a 1/1 green Insect creature token onto the battlefield for each Forest you control. Shuffle Beacon of Creation into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>51617
+      </id>
+      <name>Ferocious Charge
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +4/+4 until end of turn.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>88
+      </num>
+      <text>Target creature gets +4/+4 until end of turn.&lt;br&gt;Scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>51628
+      </id>
+      <name>Eternal Witness
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.852
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>86
+      </num>
+      <text>When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>51629
+      </id>
+      <name>Solarion
+      </name>
+      <cost>{7}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{T}: Double the number of +1/+1 counters on Solarion.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Jim Murray
+      </artist>
+      <num>153
+      </num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{T}: Double the number of +1/+1 counters on Solarion.
+      </text>
+    </mc>
+    <mc>
+      <id>51631
+      </id>
+      <name>Fold into Æther
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell. If that spell is countered this way, its controller may put a creature card from his or her hand onto the battlefield.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.146
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>31
+      </num>
+      <text>Counter target spell. If that spell is countered this way, its controller may put a creature card from his or her hand onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>51633
+      </id>
+      <name>Krark-Clan Ironworks
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Sacrifice an artifact: Add {2} to your mana pool.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.262
+      </rating>
+      <artist>Tim Hildebrandt
+      </artist>
+      <num>134
+      </num>
+      <text>Sacrifice an artifact: Add {2} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>51634
+      </id>
+      <name>Blinkmoth Infusion
+      </name>
+      <cost>{12}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;&lt;br&gt;Untap all artifacts.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.727
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>25
+      </num>
+      <text>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;&lt;br&gt;Untap all artifacts.
+      </text>
+    </mc>
+    <mc>
+      <id>72681
+      </id>
+      <name>Plunge into Darkness
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Sacrifice any number of creatures, then you gain 3 life for each sacrificed creature; or pay X life, then look at the top X cards of your library, put one of those cards into your hand, and exile the rest.&lt;br&gt;Entwine {B} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.8
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>57
+      </num>
+      <text>Choose one- Sacrifice any number of creatures, then you gain 3 life for each sacrificed creature; or pay X life, then look at the top X cards of your library, put one of those cards into your hand, and exile the rest.&lt;br&gt;Entwine {B} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>72720
+      </id>
+      <name>Arcbound Wanderer
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Modular—Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it. When it dies, you may put its +1/+1 counters on target artifact creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.471
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>103
+      </num>
+      <rulings>This card has modular--sunburst, a combination of two keyword abilities. The sunburst ability sets the number for the modular ability. Basically, the number of +1/+1 counters the Wanderer gets as it enters the battlefield is equal to the number of colors of mana used to pay its cost.&lt;br&gt;For the leaves-the-battlefield ability, the number of counters on Arcbound Wanderer at the time it left the battlefield is what's relevant; the number of colors of mana used to pay its cost doesn't matter anymore.&lt;br&gt;When the Wanderer leaves the battlefield, you may put the counters onto a single target artifact creature. You can't split them among two or more artifact creatures.&lt;br&gt;If an Arcbound creature gets enough -1/-1 counters to make its toughness 0 or cause the damage on it to now be lethal, the Modular ability will still give another artifact creature a number of +1/+1 counters equal to the number the Arcbound creature had before it got -1/-1 counters.
+      </rulings>
+      <text>Modular—Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it. When it dies, you may put its +1/+1 counters on target artifact creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>72721
+      </id>
+      <name>Granulate
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy each nonland artifact with converted mana cost 4 or less.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.222
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>67
+      </num>
+      <text>Destroy each nonland artifact with converted mana cost 4 or less.
+      </text>
+    </mc>
+    <mc>
+      <id>72722
+      </id>
+      <name>Leonin Squire
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Cat Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Leonin Squire enters the battlefield, return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.2
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>9
+      </num>
+      <text>When Leonin Squire enters the battlefield, return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>72725
+      </id>
+      <name>Etched Oracle
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Wizard
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.885
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>121
+      </num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>72727
+      </id>
+      <name>Mana Geyser
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Add {R} to your mana pool for each tapped land your opponents control.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.023
+      </rating>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>75
+      </num>
+      <text>Add {R} to your mana pool for each tapped land your opponents control.
+      </text>
+    </mc>
+    <mc>
+      <id>72858
+      </id>
+      <name>Summoning Station
+      </name>
+      <cost>{7}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Put a 2/2 colorless Pincher creature token onto the battlefield.&lt;br&gt;Whenever an artifact is put into a graveyard from the battlefield, you may untap Summoning Station.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.125
+      </rating>
+      <artist>Stephen Tappin
+      </artist>
+      <num>158
+      </num>
+      <text>{T}: Put a 2/2 colorless Pincher creature token onto the battlefield.&lt;br&gt;Whenever an artifact is put into a graveyard from the battlefield, you may untap Summoning Station.
+      </text>
+    </mc>
+    <mc>
+      <id>72860
+      </id>
+      <name>Pentad Prism
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Remove a charge counter from Pentad Prism: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.161
+      </rating>
+      <artist>David Martin
+      </artist>
+      <num>143
+      </num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Remove a charge counter from Pentad Prism: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>72862
+      </id>
+      <name>Lunar Avenger
+      </name>
+      <cost>{7}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Remove a +1/+1 counter from Lunar Avenger: Lunar Avenger gains your choice of flying, first strike, or haste until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.865
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>136
+      </num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Remove a +1/+1 counter from Lunar Avenger: Lunar Avenger gains your choice of flying, first strike, or haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>72921
+      </id>
+      <name>Auriok Champion
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from black and from red&lt;br&gt;Whenever another creature enters the battlefield, you may gain 1 life.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.333
+      </rating>
+      <artist>Michael Sutfin
+      </artist>
+      <num>3
+      </num>
+      <text>Protection from black and from red&lt;br&gt;Whenever another creature enters the battlefield, you may gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>72925
+      </id>
+      <name>Ion Storm
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{R}, Remove a +1/+1 counter or a charge counter from a permanent you control: Ion Storm deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.1
+      </rating>
+      <artist>Michael Sutfin
+      </artist>
+      <num>68
+      </num>
+      <text>{1}{R}, Remove a +1/+1 counter or a charge counter from a permanent you control: Ion Storm deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>72999
+      </id>
+      <name>Razorgrass Screen
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact Creature - Wall
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Razorgrass Screen blocks each turn if able.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.833
+      </rating>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>145
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Razorgrass Screen blocks each turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>73552
+      </id>
+      <name>Bringer of the Green Dawn
+      </name>
+      <cost>{7}{G}{G}
+      </cost>
+      <type>Creature - Bringer
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Green Dawn's mana cost.&lt;br&gt;Trample&lt;br&gt;At the beginning of your upkeep, you may put a 3/3 green Beast creature token onto the battlefield.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.157
+      </rating>
+      <artist>Jim Murray
+      </artist>
+      <num>83
+      </num>
+      <text>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Green Dawn's mana cost.&lt;br&gt;Trample&lt;br&gt;At the beginning of your upkeep, you may put a 3/3 green Beast creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>73553
+      </id>
+      <name>Bringer of the Red Dawn
+      </name>
+      <cost>{7}{R}{R}
+      </cost>
+      <type>Creature - Bringer
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Red Dawn's mana cost.&lt;br&gt;Trample&lt;br&gt;At the beginning of your upkeep, you may untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.222
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>62
+      </num>
+      <text>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Red Dawn's mana cost.&lt;br&gt;Trample&lt;br&gt;At the beginning of your upkeep, you may untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>73554
+      </id>
+      <name>Bringer of the Blue Dawn
+      </name>
+      <cost>{7}{U}{U}
+      </cost>
+      <type>Creature - Bringer
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Blue Dawn's mana cost.&lt;br&gt;Trample&lt;br&gt;At the beginning of your upkeep, you may draw two cards.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>26
+      </num>
+      <text>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Blue Dawn's mana cost.&lt;br&gt;Trample&lt;br&gt;At the beginning of your upkeep, you may draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>73555
+      </id>
+      <name>Bringer of the Black Dawn
+      </name>
+      <cost>{7}{B}{B}
+      </cost>
+      <type>Creature - Bringer
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Black Dawn's mana cost.&lt;br&gt;Trample&lt;br&gt;At the beginning of your upkeep, you may pay 2 life. If you do, search your library for a card, then shuffle your library and put that card on top of it.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.237
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>43
+      </num>
+      <text>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Black Dawn's mana cost.&lt;br&gt;Trample&lt;br&gt;At the beginning of your upkeep, you may pay 2 life. If you do, search your library for a card, then shuffle your library and put that card on top of it.
+      </text>
+    </mc>
+    <mc>
+      <id>73556
+      </id>
+      <name>Bringer of the White Dawn
+      </name>
+      <cost>{7}{W}{W}
+      </cost>
+      <type>Creature - Bringer
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the White Dawn's mana cost.&lt;br&gt;Trample&lt;br&gt;At the beginning of your upkeep, you may return target artifact card from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.133
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>7
+      </num>
+      <text>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the White Dawn's mana cost.&lt;br&gt;Trample&lt;br&gt;At the beginning of your upkeep, you may return target artifact card from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>73557
+      </id>
+      <name>Composite Golem
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Sacrifice Composite Golem: Add {W}{U}{B}{R}{G} to your mana pool.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.682
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>111
+      </num>
+      <text>Sacrifice Composite Golem: Add {W}{U}{B}{R}{G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>73558
+      </id>
+      <name>Paradise Mantle
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has "{T}: Add one mana of any color to your mana pool."&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.623
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>142
+      </num>
+      <text>Equipped creature has "{T}: Add one mana of any color to your mana pool."&lt;br&gt;Equip {1} &lt;i&gt;({1}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>73559
+      </id>
+      <name>Door to Nothingness
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Door to Nothingness enters the battlefield tapped.&lt;br&gt;{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice Door to Nothingness: Target player loses the game.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.467
+      </rating>
+      <artist>Puddnhead
+      </artist>
+      <num>115
+      </num>
+      <text>Door to Nothingness enters the battlefield tapped.&lt;br&gt;{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice Door to Nothingness: Target player loses the game.
+      </text>
+    </mc>
+    <mc>
+      <id>73562
+      </id>
+      <name>Plasma Elemental
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Plasma Elemental is unblockable.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.034
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>34
+      </num>
+      <text>Plasma Elemental is unblockable.
+      </text>
+    </mc>
+    <mc>
+      <id>73564
+      </id>
+      <name>Reversal of Fortune
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals his or her hand. You may copy an instant or sorcery card in it. If you do, you may cast the copy without paying its mana cost.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.081
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>77
+      </num>
+      <text>Target opponent reveals his or her hand. You may copy an instant or sorcery card in it. If you do, you may cast the copy without paying its mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>73565
+      </id>
+      <name>Channel the Suns
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Add {W}{U}{B}{R}{G} to your mana pool.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.964
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>84
+      </num>
+      <text>Add {W}{U}{B}{R}{G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>73566
+      </id>
+      <name>Armed Response
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Armed Response deals damage to target attacking creature equal to the number of Equipment you control.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.536
+      </rating>
+      <artist>Doug Chaffee
+      </artist>
+      <num>2
+      </num>
+      <text>Armed Response deals damage to target attacking creature equal to the number of Equipment you control.
+      </text>
+    </mc>
+    <mc>
+      <id>73567
+      </id>
+      <name>Loxodon Stalwart
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Elephant Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;{W}: Loxodon Stalwart gets +0/+1 until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.923
+      </rating>
+      <artist>Paolo Parente
+      </artist>
+      <num>11
+      </num>
+      <text>Vigilance&lt;br&gt;{W}: Loxodon Stalwart gets +0/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>73569
+      </id>
+      <name>Raksha Golden Cub
+      </name>
+      <cost>{5}{W}{W}
+      </cost>
+      <type>Legendary Creature - Cat Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;As long as Raksha Golden Cub is equipped, Cat creatures you control get +2/+2 and have double strike.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.198
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>12
+      </num>
+      <text>Vigilance&lt;br&gt;As long as Raksha Golden Cub is equipped, Cat creatures you control get +2/+2 and have double strike.
+      </text>
+    </mc>
+    <mc>
+      <id>73570
+      </id>
+      <name>Thought Courier
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Draw a card, then discard a card.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.4
+      </rating>
+      <artist>Stephen Tappin
+      </artist>
+      <num>38
+      </num>
+      <text>{T}: Draw a card, then discard a card.
+      </text>
+    </mc>
+    <mc>
+      <id>73571
+      </id>
+      <name>Early Frost
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Tap up to three target lands.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.14
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>29
+      </num>
+      <text>Tap up to three target lands.
+      </text>
+    </mc>
+    <mc>
+      <id>73572
+      </id>
+      <name>Spectral Shift
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Change the text of target spell or permanent by replacing all instances of one basic land type with another; or change the text of target spell or permanent by replacing all instances of one color word with another. &lt;i&gt;(These effects last indefinitely.)&lt;/i&gt;&lt;br&gt;Entwine {2} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.69
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>37
+      </num>
+      <text>Choose one- Change the text of target spell or permanent by replacing all instances of one basic land type with another; or change the text of target spell or permanent by replacing all instances of one color word with another. &lt;i&gt;(These effects last indefinitely.)&lt;/i&gt;&lt;br&gt;Entwine {2} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>73574
+      </id>
+      <name>Nim Grotesque
+      </name>
+      <cost>{6}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>3
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Nim Grotesque gets +1/+0 for each artifact you control.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.045
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>56
+      </num>
+      <text>Nim Grotesque gets +1/+0 for each artifact you control.
+      </text>
+    </mc>
+    <mc>
+      <id>73575
+      </id>
+      <name>Vicious Betrayal
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Vicious Betrayal, sacrifice any number of creatures.&lt;br&gt;Target creature gets +2/+2 until end of turn for each creature sacrificed this way.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.26
+      </rating>
+      <artist>Tomas Giorello
+      </artist>
+      <num>60
+      </num>
+      <text>As an additional cost to cast Vicious Betrayal, sacrifice any number of creatures.&lt;br&gt;Target creature gets +2/+2 until end of turn for each creature sacrificed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>73582
+      </id>
+      <name>Tel-Jilad Lifebreather
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Troll Shaman
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{G}, {T}, Sacrifice a Forest: Regenerate target creature.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.152
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>96
+      </num>
+      <text>{G}, {T}, Sacrifice a Forest: Regenerate target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>73583
+      </id>
+      <name>Viridian Scout
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elf Warrior Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{2}{G}, Sacrifice Viridian Scout: Viridian Scout deals 2 damage to target creature with flying.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>0.75
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>100
+      </num>
+      <text>{2}{G}, Sacrifice Viridian Scout: Viridian Scout deals 2 damage to target creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>73587
+      </id>
+      <name>Rude Awakening
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose one- Untap all lands you control; or until end of turn, lands you control become 2/2 creatures that are still lands.&lt;br&gt;Entwine {2}{G} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.135
+      </rating>
+      <artist>Ittoku
+      </artist>
+      <num>92
+      </num>
+      <text>Choose one- Untap all lands you control; or until end of turn, lands you control become 2/2 creatures that are still lands.&lt;br&gt;Entwine {2}{G} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>73597
+      </id>
+      <name>Cackling Imp
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Imp
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{T}: Target player loses 1 life.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.353
+      </rating>
+      <artist>Matt Thompson
+      </artist>
+      <num>44
+      </num>
+      <text>Flying&lt;br&gt;{T}: Target player loses 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>73598
+      </id>
+      <name>Silent Arbiter
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>1
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>No more than one creature can attack each combat.&lt;br&gt;No more than one creature can block each combat.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.312
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>150
+      </num>
+      <text>No more than one creature can attack each combat.&lt;br&gt;No more than one creature can block each combat.
+      </text>
+    </mc>
+    <mc>
+      <id>73925
+      </id>
+      <name>Eyes of the Watcher
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever you cast an instant or sorcery spell, you may pay {1}. If you do, scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>30
+      </num>
+      <text>Whenever you cast an instant or sorcery spell, you may pay {1}. If you do, scry 2. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>73926
+      </id>
+      <name>Skullcage
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>At the beginning of each opponent's upkeep, Skullcage deals 2 damage to that player unless he or she has exactly three or exactly four cards in hand.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.196
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>151
+      </num>
+      <text>At the beginning of each opponent's upkeep, Skullcage deals 2 damage to that player unless he or she has exactly three or exactly four cards in hand.
+      </text>
+    </mc>
+    <mc>
+      <id>73927
+      </id>
+      <name>Lantern of Insight
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Each player plays with the top card of his or her library revealed.&lt;br&gt;{T}, Sacrifice Lantern of Insight: Target player shuffles his or her library.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.125
+      </rating>
+      <artist>Tim Hildebrandt
+      </artist>
+      <num>135
+      </num>
+      <text>Each player plays with the top card of his or her library revealed.&lt;br&gt;{T}, Sacrifice Lantern of Insight: Target player shuffles his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>73928
+      </id>
+      <name>Spinal Parasite
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact Creature - Insect
+      </type>
+      <power>-1
+      </power>
+      <toughness>-1
+      </toughness>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Remove two +1/+1 counters from Spinal Parasite: Remove a counter from target permanent.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.173
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>155
+      </num>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Remove two +1/+1 counters from Spinal Parasite: Remove a counter from target permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>73929
+      </id>
+      <name>Synod Centurion
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When you control no other artifacts, sacrifice Synod Centurion.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.083
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>161
+      </num>
+      <text>When you control no other artifacts, sacrifice Synod Centurion.
+      </text>
+    </mc>
+    <mc>
+      <id>73932
+      </id>
+      <name>Battered Golem
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Battered Golem doesn't untap during your untap step.&lt;br&gt;Whenever an artifact enters the battlefield, you may untap Battered Golem.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.846
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>106
+      </num>
+      <text>Battered Golem doesn't untap during your untap step.&lt;br&gt;Whenever an artifact enters the battlefield, you may untap Battered Golem.
+      </text>
+    </mc>
+    <mc>
+      <id>76971
+      </id>
+      <name>Disruption Aura
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant artifact&lt;br&gt;Enchanted artifact has "At the beginning of your upkeep, sacrifice this artifact unless you pay its mana cost."
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.75
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>28
+      </num>
+      <text>Enchant artifact&lt;br&gt;Enchanted artifact has "At the beginning of your upkeep, sacrifice this artifact unless you pay its mana cost."
+      </text>
+    </mc>
+    <mc>
+      <id>51612
+      </id>
+      <name>Beacon of Destruction
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Beacon of Destruction deals 5 damage to target creature or player. Shuffle Beacon of Destruction into its owner's library.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.132
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>61
+      </num>
+      <text>Beacon of Destruction deals 5 damage to target creature or player. Shuffle Beacon of Destruction into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>50141
+      </id>
+      <name>Beacon of Immortality
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Double target player's life total. Shuffle Beacon of Immortality into its owner's library.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.81
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>6
+      </num>
+      <text>Double target player's life total. Shuffle Beacon of Immortality into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>51611
+      </id>
+      <name>Beacon of Unrest
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put target artifact or creature card from a graveyard onto the battlefield under your control. Shuffle Beacon of Unrest into its owner's library.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.15
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>41
+      </num>
+      <text>Put target artifact or creature card from a graveyard onto the battlefield under your control. Shuffle Beacon of Unrest into its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>73561
+      </id>
+      <name>Circle of Protection: Artifacts
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.661
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>8
+      </num>
+      <text>{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.
+      </text>
+    </mc>
+    <mc>
+      <id>73578
+      </id>
+      <name>Furnace Whelp
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{R}: Furnace Whelp gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.967
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>65
+      </num>
+      <text>Flying&lt;br&gt;{R}: Furnace Whelp gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>72928
+      </id>
+      <name>Joiner Adept
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Lands you control have "{T}: Add one mana of any color to your mana pool."
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.219
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>89
+      </num>
+      <text>Lands you control have "{T}: Add one mana of any color to your mana pool."
+      </text>
+    </mc>
+    <mc>
+      <id>73573
+      </id>
+      <name>Relentless Rats
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Rat
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.&lt;br&gt;A deck can have any number of cards named Relentless Rats.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>58
+      </num>
+      <text>Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.&lt;br&gt;A deck can have any number of cards named Relentless Rats.
+      </text>
+    </mc>
+    <mc>
+      <id>50136
+      </id>
+      <name>Skyhunter Prowler
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Cat Knight
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying, vigilance &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach, and attacking doesn't cause this creature to tap.)&lt;/i&gt;
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.8
+      </rating>
+      <artist>Vance Kovacs
+      </artist>
+      <num>15
+      </num>
+      <text>Flying, vigilance &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach, and attacking doesn't cause this creature to tap.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>73579
+      </id>
+      <name>Spark Elemental
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Trample, haste &lt;i&gt;(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;&lt;br&gt;At the beginning of the end step, sacrifice Spark Elemental.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.059
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>79
+      </num>
+      <text>Trample, haste &lt;i&gt;(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;&lt;br&gt;At the beginning of the end step, sacrifice Spark Elemental.
+      </text>
+    </mc>
+    <mc>
+      <id>50834
+      </id>
+      <name>Vedalken Mastermind
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Creature - Vedalken Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{U}, {T}: Return target permanent you control to its owner's hand.
+      </oracleText>
+      <edition>Fifth Dawn
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.105
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>40
+      </num>
+      <text>{U}, {T}: Return target permanent you control to its owner's hand.
+      </text>
+    </mc>
+  </list>
+</cards>

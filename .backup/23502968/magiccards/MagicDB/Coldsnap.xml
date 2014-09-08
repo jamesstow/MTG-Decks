@@ -1,0 +1,4067 @@
+
+<cards>
+  <name>Coldsnap</name>
+  <key>Coldsnap</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>113542
+      </id>
+      <name>Lovisa Coldeyes
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Legendary Creature - Human Barbarian
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Warrior, Berserker, and/or other Barbarian creatures get +2/+2 and have haste.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.009
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>90
+      </num>
+      <text>Warrior, Berserker, and/or other Barbarian creatures get +2/+2 and have haste.
+      </text>
+    </mc>
+    <mc>
+      <id>121121
+      </id>
+      <name>Phyrexian Etchings
+      </name>
+      <cost>{B}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep {B} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;At the beginning of your end step, draw a card for each age counter on Phyrexian Etchings.&lt;br&gt;When Phyrexian Etchings is put into a graveyard from the battlefield, you lose 2 life for each age counter on it.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.333
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>67
+      </num>
+      <text>Cumulative upkeep {B} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;At the beginning of your end step, draw a card for each age counter on Phyrexian Etchings.&lt;br&gt;When Phyrexian Etchings is put into a graveyard from the battlefield, you lose 2 life for each age counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>121123
+      </id>
+      <name>Coldsteel Heart
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Snow Artifact
+      </type>
+      <oracleText>Coldsteel Heart enters the battlefield tapped.&lt;br&gt;As Coldsteel Heart enters the battlefield, choose a color.&lt;br&gt;{T}: Add one mana of the chosen color to your mana pool.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.161
+      </rating>
+      <artist>Mark Romanoski
+      </artist>
+      <num>136
+      </num>
+      <text>Coldsteel Heart enters the battlefield tapped.&lt;br&gt;As Coldsteel Heart enters the battlefield, choose a color.&lt;br&gt;{T}: Add one mana of the chosen color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>121125
+      </id>
+      <name>Tresserhorn Sinks
+      </name>
+      <type>Snow Land
+      </type>
+      <oracleText>Tresserhorn Sinks enters the battlefield tapped.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.543
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>150
+      </num>
+      <text>Tresserhorn Sinks enters the battlefield tapped.&lt;br&gt;{T}: Add {B} or {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>121126
+      </id>
+      <name>Garza Zol, Plague Queen
+      </name>
+      <cost>{4}{U}{B}{R}
+      </cost>
+      <type>Legendary Creature - Vampire
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying, haste&lt;br&gt;Whenever a creature dealt damage by Garza Zol, Plague Queen this turn dies, put a +1/+1 counter on Garza Zol.&lt;br&gt;Whenever Garza Zol deals combat damage to a player, you may draw a card.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.73
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>129
+      </num>
+      <text>Flying, haste&lt;br&gt;Whenever a creature dealt damage by Garza Zol, Plague Queen this turn dies, put a +1/+1 counter on Garza Zol.&lt;br&gt;Whenever Garza Zol deals combat damage to a player, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>121127
+      </id>
+      <name>Phyrexian Ironfoot
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Snow Artifact Creature - Construct
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Phyrexian Ironfoot doesn't untap during your untap step.&lt;br&gt;{1}{snow}: Untap Phyrexian Ironfoot. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.231
+      </rating>
+      <artist>Stephan Martiniere
+      </artist>
+      <num>139
+      </num>
+      <text>Phyrexian Ironfoot doesn't untap during your untap step.&lt;br&gt;{1}{snow}: Untap Phyrexian Ironfoot. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121129
+      </id>
+      <name>Void Maw
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Trample&lt;br&gt;If another creature would die, exile it instead.&lt;br&gt;Put a card exiled with Void Maw into its owner's graveyard: Void Maw gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.111
+      </rating>
+      <artist>E. M. Gist
+      </artist>
+      <num>74
+      </num>
+      <text>Trample&lt;br&gt;If another creature would die, exile it instead.&lt;br&gt;Put a card exiled with Void Maw into its owner's graveyard: Void Maw gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>121130
+      </id>
+      <name>Snow-Covered Island
+      </name>
+      <type>Basic Snow Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.568
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>152
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>121131
+      </id>
+      <name>Martyr of Bones
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}, Reveal X black cards from your hand, Sacrifice Martyr of Bones: Exile up to X target cards from a single graveyard.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.294
+      </rating>
+      <artist>E. M. Gist
+      </artist>
+      <num>65
+      </num>
+      <text>{1}, Reveal X black cards from your hand, Sacrifice Martyr of Bones: Exile up to X target cards from a single graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>121132
+      </id>
+      <name>Frost Raptor
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Snow Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{snow}{snow}: Frost Raptor gains shroud until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.308
+      </rating>
+      <artist>Lars Grant-West
+      </artist>
+      <num>34
+      </num>
+      <text>Flying&lt;br&gt;{snow}{snow}: Frost Raptor gains shroud until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121133
+      </id>
+      <name>Gristle Grinner
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever a creature dies, Gristle Grinner gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.125
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>59
+      </num>
+      <text>Whenever a creature dies, Gristle Grinner gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>121136
+      </id>
+      <name>Rimebound Dead
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Snow Creature - Skeleton
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{snow}: Regenerate Rimebound Dead. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.978
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>69
+      </num>
+      <text>{snow}: Regenerate Rimebound Dead. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121137
+      </id>
+      <name>Feast of Flesh
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Feast of Flesh deals X damage to target creature and you gain X life, where X is 1 plus the number of cards named Feast of Flesh in all graveyards.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.553
+      </rating>
+      <artist>Volkan Baga
+      </artist>
+      <num>56
+      </num>
+      <text>Feast of Flesh deals X damage to target creature and you gain X life, where X is 1 plus the number of cards named Feast of Flesh in all graveyards.
+      </text>
+    </mc>
+    <mc>
+      <id>121138
+      </id>
+      <name>Diamond Faerie
+      </name>
+      <cost>{2}{G}{W}{U}
+      </cost>
+      <type>Snow Creature - Faerie
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{1}{snow}: Snow creatures you control get +1/+1 until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.229
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>128
+      </num>
+      <text>Flying&lt;br&gt;{1}{snow}: Snow creatures you control get +1/+1 until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121139
+      </id>
+      <name>Hibernation's End
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Whenever you pay Hibernation's End's cumulative upkeep, you may search your library for a creature card with converted mana cost equal to the number of age counters on Hibernation's End and put it onto the battlefield. If you do, shuffle your library.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.118
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>110
+      </num>
+      <text>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Whenever you pay Hibernation's End's cumulative upkeep, you may search your library for a creature card with converted mana cost equal to the number of age counters on Hibernation's End and put it onto the battlefield. If you do, shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>121140
+      </id>
+      <name>Cover of Winter
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Snow Enchantment
+      </type>
+      <oracleText>Cumulative upkeep {snow} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. {snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;&lt;br&gt;If a creature would deal combat damage to you and/or one or more creatures you control, prevent X of that damage, where X is the number of age counters on Cover of Winter.&lt;br&gt;{snow}: Put an age counter on Cover of Winter.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.225
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>3
+      </num>
+      <text>Cumulative upkeep {snow} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. {snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;&lt;br&gt;If a creature would deal combat damage to you and/or one or more creatures you control, prevent X of that damage, where X is the number of age counters on Cover of Winter.&lt;br&gt;{snow}: Put an age counter on Cover of Winter.
+      </text>
+    </mc>
+    <mc>
+      <id>121141
+      </id>
+      <name>Mystic Melting
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or enchantment.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.75
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>114
+      </num>
+      <text>Destroy target artifact or enchantment.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>121142
+      </id>
+      <name>Phyrexian Snowcrusher
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Snow Artifact Creature - Juggernaut
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Phyrexian Snowcrusher attacks each turn if able.&lt;br&gt;{1}{snow}: Phyrexian Snowcrusher gets +1/+0 until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.8
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>140
+      </num>
+      <text>Phyrexian Snowcrusher attacks each turn if able.&lt;br&gt;{1}{snow}: Phyrexian Snowcrusher gets +1/+0 until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121143
+      </id>
+      <name>Icefall
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target artifact or land.&lt;br&gt;Recover {R}{R} &lt;i&gt;(When a creature is put into your graveyard from the battlefield, you may pay {R}{R}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.75
+      </rating>
+      <artist>Warren Mahy
+      </artist>
+      <num>85
+      </num>
+      <text>Destroy target artifact or land.&lt;br&gt;Recover {R}{R} &lt;i&gt;(When a creature is put into your graveyard from the battlefield, you may pay {R}{R}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121144
+      </id>
+      <name>Ohran Yeti
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Snow Creature - Yeti
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{2}{snow}: Target snow creature gains first strike until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>93
+      </num>
+      <text>{2}{snow}: Target snow creature gains first strike until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121145
+      </id>
+      <name>Martyr of Spores
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}, Reveal X green cards from your hand, Sacrifice Martyr of Spores: Target creature gets +X/+X until end of turn.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.042
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>113
+      </num>
+      <text>{1}, Reveal X green cards from your hand, Sacrifice Martyr of Spores: Target creature gets +X/+X until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>121146
+      </id>
+      <name>Phobian Phantasm
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying; fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;Cumulative upkeep {B} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.625
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>66
+      </num>
+      <text>Flying; fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;Cumulative upkeep {B} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121147
+      </id>
+      <name>Heidar, Rimewind Master
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Legendary Creature - Human Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{2}, {T}: Return target permanent to its owner's hand. Activate this ability only if you control four or more snow permanents.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.606
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>36
+      </num>
+      <text>{2}, {T}: Return target permanent to its owner's hand. Activate this ability only if you control four or more snow permanents.
+      </text>
+    </mc>
+    <mc>
+      <id>121148
+      </id>
+      <name>Kjeldoran War Cry
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Creatures you control get +X/+X until end of turn, where X is 1 plus the number of cards named Kjeldoran War Cry in all graveyards.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.083
+      </rating>
+      <artist>Michael Phillippi
+      </artist>
+      <num>13
+      </num>
+      <text>Creatures you control get +X/+X until end of turn, where X is 1 plus the number of cards named Kjeldoran War Cry in all graveyards.
+      </text>
+    </mc>
+    <mc>
+      <id>121150
+      </id>
+      <name>Ursine Fylgja
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Spirit Bear
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Ursine Fylgja enters the battlefield with four healing counters on it.&lt;br&gt;Remove a healing counter from Ursine Fylgja: Prevent the next 1 damage that would be dealt to Ursine Fylgja this turn.&lt;br&gt;{2}{W}: Put a healing counter on Ursine Fylgja.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.63
+      </rating>
+      <artist>Yokota Katsumi
+      </artist>
+      <num>22
+      </num>
+      <text>Ursine Fylgja enters the battlefield with four healing counters on it.&lt;br&gt;Remove a healing counter from Ursine Fylgja: Prevent the next 1 damage that would be dealt to Ursine Fylgja this turn.&lt;br&gt;{2}{W}: Put a healing counter on Ursine Fylgja.
+      </text>
+    </mc>
+    <mc>
+      <id>121151
+      </id>
+      <name>Blizzard Specter
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Snow Creature - Specter
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Blizzard Specter deals combat damage to a player, choose one- That player returns a permanent he or she controls to its owner's hand; or that player discards a card.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.273
+      </rating>
+      <artist>Hideaki Takamura
+      </artist>
+      <num>126
+      </num>
+      <text>Flying&lt;br&gt;Whenever Blizzard Specter deals combat damage to a player, choose one- That player returns a permanent he or she controls to its owner's hand; or that player discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>121152
+      </id>
+      <name>Bull Aurochs
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Aurochs
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Whenever Bull Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.688
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>107
+      </num>
+      <text>Trample&lt;br&gt;Whenever Bull Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.
+      </text>
+    </mc>
+    <mc>
+      <id>121154
+      </id>
+      <name>Zombie Musher
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Snow Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Snow landwalk&lt;br&gt;{snow}: Regenerate Zombie Musher. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.453
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>75
+      </num>
+      <text>Snow landwalk&lt;br&gt;{snow}: Regenerate Zombie Musher. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121155
+      </id>
+      <name>Dark Depths
+      </name>
+      <type>Legendary Snow Land
+      </type>
+      <oracleText>Dark Depths enters the battlefield with ten ice counters on it.&lt;br&gt;{3}: Remove an ice counter from Dark Depths.&lt;br&gt;When Dark Depths has no ice counters on it, sacrifice it. If you do, put a legendary 20/20 black Avatar creature token with flying and "This creature is indestructible" named Marit Lage onto the battlefield.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.57
+      </rating>
+      <artist>Stephan Martiniere
+      </artist>
+      <num>145
+      </num>
+      <text>Dark Depths enters the battlefield with ten ice counters on it.&lt;br&gt;{3}: Remove an ice counter from Dark Depths.&lt;br&gt;When Dark Depths has no ice counters on it, sacrifice it. If you do, put a legendary 20/20 black Avatar creature token with flying and "This creature is indestructible" named Marit Lage onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>121156
+      </id>
+      <name>Sound the Call
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put a 1/1 green Wolf creature token onto the battlefield. It has "This creature gets +1/+1 for each card named Sound the Call in each graveyard."
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.095
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>123
+      </num>
+      <text>Put a 1/1 green Wolf creature token onto the battlefield. It has "This creature gets +1/+1 for each card named Sound the Call in each graveyard."
+      </text>
+    </mc>
+    <mc>
+      <id>121157
+      </id>
+      <name>Allosaurus Rider
+      </name>
+      <cost>{5}{G}{G}
+      </cost>
+      <type>Creature - Elf Warrior
+      </type>
+      <power>1+*
+      </power>
+      <toughness>1+*
+      </toughness>
+      <oracleText>You may exile two green cards from your hand rather than pay Allosaurus Rider's mana cost.&lt;br&gt;Allosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.347
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>101
+      </num>
+      <text>You may exile two green cards from your hand rather than pay Allosaurus Rider's mana cost.&lt;br&gt;Allosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>121158
+      </id>
+      <name>Arctic Flats
+      </name>
+      <type>Snow Land
+      </type>
+      <oracleText>Arctic Flats enters the battlefield tapped.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.714
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>143
+      </num>
+      <text>Arctic Flats enters the battlefield tapped.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>121159
+      </id>
+      <name>Counterbalance
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same converted mana cost as the revealed card.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.651
+      </rating>
+      <artist>John Zeleznik
+      </artist>
+      <num>31
+      </num>
+      <text>Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same converted mana cost as the revealed card.
+      </text>
+    </mc>
+    <mc>
+      <id>121160
+      </id>
+      <name>Phyrexian Soulgorger
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Snow Artifact Creature - Construct
+      </type>
+      <power>8
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>Cumulative upkeep—Sacrifice a creature. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.189
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>141
+      </num>
+      <text>Cumulative upkeep—Sacrifice a creature. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121162
+      </id>
+      <name>Zur the Enchanter
+      </name>
+      <cost>{1}{W}{U}{B}
+      </cost>
+      <type>Legendary Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.705
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>135
+      </num>
+      <text>Flying&lt;br&gt;Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>121163
+      </id>
+      <name>Magmatic Core
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;At the beginning of your end step, Magmatic Core deals X damage divided as you choose among any number of target creatures, where X is the number of age counters on it.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.342
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>91
+      </num>
+      <text>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;At the beginning of your end step, Magmatic Core deals X damage divided as you choose among any number of target creatures, where X is the number of age counters on it.
+      </text>
+    </mc>
+    <mc>
+      <id>121164
+      </id>
+      <name>Martyr of Frost
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{2}, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays {X}.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.729
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>40
+      </num>
+      <text>{2}, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays {X}.
+      </text>
+    </mc>
+    <mc>
+      <id>121165
+      </id>
+      <name>Soul Spike
+      </name>
+      <cost>{5}{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You may exile two black cards from your hand rather than pay Soul Spike's mana cost.&lt;br&gt;Soul Spike deals 4 damage to target creature or player and you gain 4 life.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.444
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>70
+      </num>
+      <text>You may exile two black cards from your hand rather than pay Soul Spike's mana cost.&lt;br&gt;Soul Spike deals 4 damage to target creature or player and you gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>121170
+      </id>
+      <name>Martyr of Ashes
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{2}, Reveal X red cards from your hand, Sacrifice Martyr of Ashes: Martyr of Ashes deals X damage to each creature without flying.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.86
+      </rating>
+      <artist>Ralph Horsley
+      </artist>
+      <num>92
+      </num>
+      <text>{2}, Reveal X red cards from your hand, Sacrifice Martyr of Ashes: Martyr of Ashes deals X damage to each creature without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>121172
+      </id>
+      <name>Juniper Order Ranger
+      </name>
+      <cost>{3}{G}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.342
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>130
+      </num>
+      <text>Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.
+      </text>
+    </mc>
+    <mc>
+      <id>121173
+      </id>
+      <name>Thermopod
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Snow Creature - Slug
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{snow}: Thermopod gains haste until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;&lt;br&gt;Sacrifice a creature: Add {R} to your mana pool.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.583
+      </rating>
+      <artist>Dan Dos Santos
+      </artist>
+      <num>100
+      </num>
+      <text>{snow}: Thermopod gains haste until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;&lt;br&gt;Sacrifice a creature: Add {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>121174
+      </id>
+      <name>Drelnoch
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Yeti Mutant
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Drelnoch becomes blocked, you may draw two cards.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.862
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>32
+      </num>
+      <text>Whenever Drelnoch becomes blocked, you may draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>121175
+      </id>
+      <name>Balduvian Frostwaker
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{U}, {T}: Target snow land becomes a 2/2 blue Elemental creature with flying. It's still a land.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.74
+      </rating>
+      <artist>Stephen Tappin
+      </artist>
+      <num>28
+      </num>
+      <text>{U}, {T}: Target snow land becomes a 2/2 blue Elemental creature with flying. It's still a land.
+      </text>
+    </mc>
+    <mc>
+      <id>121176
+      </id>
+      <name>Ronom Serpent
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Snow Creature - Serpent
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Ronom Serpent can't attack unless defending player controls a snow land.&lt;br&gt;When you control no snow lands, sacrifice Ronom Serpent.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>0.984
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>45
+      </num>
+      <text>Ronom Serpent can't attack unless defending player controls a snow land.&lt;br&gt;When you control no snow lands, sacrifice Ronom Serpent.
+      </text>
+    </mc>
+    <mc>
+      <id>121179
+      </id>
+      <name>Karplusan Wolverine
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Snow Creature - Wolverine Beast
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Karplusan Wolverine becomes blocked, you may have it deal 1 damage to target creature or player.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.233
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>87
+      </num>
+      <text>Whenever Karplusan Wolverine becomes blocked, you may have it deal 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>121181
+      </id>
+      <name>Fury of the Horde
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You may exile two red cards from your hand rather than pay Fury of the Horde's mana cost.&lt;br&gt;Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.818
+      </rating>
+      <artist>Stephen Tappin
+      </artist>
+      <num>81
+      </num>
+      <text>You may exile two red cards from your hand rather than pay Fury of the Horde's mana cost.&lt;br&gt;Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+      </text>
+    </mc>
+    <mc>
+      <id>121183
+      </id>
+      <name>Simian Brawler
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Ape Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Discard a land card: Simian Brawler gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.727
+      </rating>
+      <artist>Warren Mahy
+      </artist>
+      <num>122
+      </num>
+      <text>Discard a land card: Simian Brawler gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>121184
+      </id>
+      <name>Rimescale Dragon
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Snow Creature - Dragon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{2}{snow}: Tap target creature and put an ice counter on it. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;&lt;br&gt;Creatures with ice counters on them don't untap during their controllers' untap steps.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.272
+      </rating>
+      <artist>Jeff Easley
+      </artist>
+      <num>95
+      </num>
+      <text>Flying&lt;br&gt;{2}{snow}: Tap target creature and put an ice counter on it. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;&lt;br&gt;Creatures with ice counters on them don't untap during their controllers' untap steps.
+      </text>
+    </mc>
+    <mc>
+      <id>121185
+      </id>
+      <name>Goblin Furrier
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Prevent all damage that Goblin Furrier would deal to snow creatures.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.939
+      </rating>
+      <artist>Warren Mahy
+      </artist>
+      <num>82
+      </num>
+      <text>Prevent all damage that Goblin Furrier would deal to snow creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>121187
+      </id>
+      <name>Vanish into Memory
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature. You draw cards equal to that creature's power. At the beginning of your next upkeep, return that card to the battlefield under its owner's control. If you do, discard cards equal to its toughness.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.797
+      </rating>
+      <artist>Rebekah Lynn
+      </artist>
+      <num>133
+      </num>
+      <text>Exile target creature. You draw cards equal to that creature's power. At the beginning of your next upkeep, return that card to the battlefield under its owner's control. If you do, discard cards equal to its toughness.
+      </text>
+    </mc>
+    <mc>
+      <id>121188
+      </id>
+      <name>Kjeldoran Outrider
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{W}: Kjeldoran Outrider gets +0/+1 until end of turn.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.096
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>12
+      </num>
+      <text>{W}: Kjeldoran Outrider gets +0/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>121189
+      </id>
+      <name>Boreal Shelf
+      </name>
+      <type>Snow Land
+      </type>
+      <oracleText>Boreal Shelf enters the battlefield tapped.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.36
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>144
+      </num>
+      <text>Boreal Shelf enters the battlefield tapped.&lt;br&gt;{T}: Add {W} or {U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>121190
+      </id>
+      <name>Chill to the Bone
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonsnow creature.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.63
+      </rating>
+      <artist>Jim Murray
+      </artist>
+      <num>52
+      </num>
+      <text>Destroy target nonsnow creature.
+      </text>
+    </mc>
+    <mc>
+      <id>121191
+      </id>
+      <name>Wilderness Elemental
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>*
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Wilderness Elemental's power is equal to the number of nonbasic lands your opponents control.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.696
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>134
+      </num>
+      <text>Trample&lt;br&gt;Wilderness Elemental's power is equal to the number of nonbasic lands your opponents control.
+      </text>
+    </mc>
+    <mc>
+      <id>121192
+      </id>
+      <name>Snow-Covered Forest
+      </name>
+      <type>Basic Snow Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>155
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>121193
+      </id>
+      <name>Boreal Druid
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Snow Creature - Elf Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Add {1} to your mana pool.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.205
+      </rating>
+      <artist>Dan Dos Santos
+      </artist>
+      <num>105
+      </num>
+      <text>{T}: Add {1} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>121194
+      </id>
+      <name>Gutless Ghoul
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Snow Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}, Sacrifice a creature: You gain 2 life.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.25
+      </rating>
+      <artist>Kensuke Okabayashi
+      </artist>
+      <num>60
+      </num>
+      <text>{1}, Sacrifice a creature: You gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>121195
+      </id>
+      <name>Tresserhorn Skyknight
+      </name>
+      <cost>{5}{B}{B}
+      </cost>
+      <type>Creature - Zombie Knight
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Prevent all damage that would be dealt to Tresserhorn Skyknight by creatures with first strike.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.333
+      </rating>
+      <artist>Dan Dos Santos
+      </artist>
+      <num>73
+      </num>
+      <text>Flying&lt;br&gt;Prevent all damage that would be dealt to Tresserhorn Skyknight by creatures with first strike.
+      </text>
+    </mc>
+    <mc>
+      <id>121196
+      </id>
+      <name>Adarkar Valkyrie
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Snow Creature - Angel
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying, vigilance&lt;br&gt;{T}: When target creature other than Adarkar Valkyrie dies this turn, return that card to the battlefield under your control.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.581
+      </rating>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>1
+      </num>
+      <text>Flying, vigilance&lt;br&gt;{T}: When target creature other than Adarkar Valkyrie dies this turn, return that card to the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>121197
+      </id>
+      <name>Frostweb Spider
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Snow Creature - Spider
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Whenever Frostweb Spider blocks a creature with flying, put a +1/+1 counter on Frostweb Spider at end of combat.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.048
+      </rating>
+      <artist>Greg Hildebrandt
+      </artist>
+      <num>109
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Whenever Frostweb Spider blocks a creature with flying, put a +1/+1 counter on Frostweb Spider at end of combat.
+      </text>
+    </mc>
+    <mc>
+      <id>121198
+      </id>
+      <name>Jokulmorder
+      </name>
+      <cost>{4}{U}{U}{U}
+      </cost>
+      <type>Creature - Leviathan
+      </type>
+      <power>12
+      </power>
+      <toughness>12
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Jokulmorder enters the battlefield tapped.&lt;br&gt;When Jokulmorder enters the battlefield, sacrifice it unless you sacrifice five lands.&lt;br&gt;Jokulmorder doesn't untap during your untap step.&lt;br&gt;Whenever you play an Island, you may untap Jokulmorder.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.738
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>37
+      </num>
+      <text>Trample&lt;br&gt;Jokulmorder enters the battlefield tapped.&lt;br&gt;When Jokulmorder enters the battlefield, sacrifice it unless you sacrifice five lands.&lt;br&gt;Jokulmorder doesn't untap during your untap step.&lt;br&gt;Whenever you play an Island, you may untap Jokulmorder.
+      </text>
+    </mc>
+    <mc>
+      <id>121199
+      </id>
+      <name>Into the North
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a snow land card and put it onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.773
+      </rating>
+      <artist>Richard Sardinha
+      </artist>
+      <num>111
+      </num>
+      <text>Search your library for a snow land card and put it onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>121200
+      </id>
+      <name>Boreal Centaur
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Snow Creature - Centaur Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{snow}: Boreal Centaur gets +1/+1 until end of turn. Activate this ability only once each turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.271
+      </rating>
+      <artist>Marcelo Vignali
+      </artist>
+      <num>104
+      </num>
+      <text>{snow}: Boreal Centaur gets +1/+1 until end of turn. Activate this ability only once each turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121204
+      </id>
+      <name>Scrying Sheets
+      </name>
+      <type>Snow Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}{snow}, {T}: Look at the top card of your library. If that card is snow, you may reveal it and put it into your hand. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.19
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>149
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}{snow}, {T}: Look at the top card of your library. If that card is snow, you may reveal it and put it into your hand. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121205
+      </id>
+      <name>Surging Might
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.&lt;br&gt;Ripple 4 &lt;i&gt;(When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.667
+      </rating>
+      <artist>Luca Zontini
+      </artist>
+      <num>125
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.&lt;br&gt;Ripple 4 &lt;i&gt;(When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121207
+      </id>
+      <name>Kjeldoran Gargoyle
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Creature - Gargoyle
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying, first strike&lt;br&gt;Whenever Kjeldoran Gargoyle deals damage, you gain that much life.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.841
+      </rating>
+      <artist>Marcelo Vignali
+      </artist>
+      <num>10
+      </num>
+      <text>Flying, first strike&lt;br&gt;Whenever Kjeldoran Gargoyle deals damage, you gain that much life.
+      </text>
+    </mc>
+    <mc>
+      <id>121208
+      </id>
+      <name>Greater Stone Spirit
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Elemental Spirit
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Greater Stone Spirit can't be blocked by creatures with flying.&lt;br&gt;{2}{R}: Until end of turn, target creature gets +0/+2 and gains "{R}: This creature gets +1/+0 until end of turn."
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.324
+      </rating>
+      <artist>Yokota Katsumi
+      </artist>
+      <num>84
+      </num>
+      <text>Greater Stone Spirit can't be blocked by creatures with flying.&lt;br&gt;{2}{R}: Until end of turn, target creature gets +0/+2 and gains "{R}: This creature gets +1/+0 until end of turn."
+      </text>
+    </mc>
+    <mc>
+      <id>121210
+      </id>
+      <name>Rimehorn Aurochs
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Snow Creature - Aurochs
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Whenever Rimehorn Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.&lt;br&gt;{2}{snow}: Target creature blocks target creature this turn if able. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.643
+      </rating>
+      <artist>Brian Despain
+      </artist>
+      <num>118
+      </num>
+      <text>Trample&lt;br&gt;Whenever Rimehorn Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.&lt;br&gt;{2}{snow}: Target creature blocks target creature this turn if able. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121211
+      </id>
+      <name>Glacial Plating
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Snow Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Cumulative upkeep {snow} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. {snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;&lt;br&gt;Enchanted creature gets +3/+3 for each age counter on Glacial Plating.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.275
+      </rating>
+      <artist>Brian Despain
+      </artist>
+      <num>7
+      </num>
+      <text>Enchant creature&lt;br&gt;Cumulative upkeep {snow} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. {snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;&lt;br&gt;Enchanted creature gets +3/+3 for each age counter on Glacial Plating.
+      </text>
+    </mc>
+    <mc>
+      <id>121212
+      </id>
+      <name>Frost Marsh
+      </name>
+      <type>Snow Land
+      </type>
+      <oracleText>Frost Marsh enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.804
+      </rating>
+      <artist>Jim Pavelec
+      </artist>
+      <num>146
+      </num>
+      <text>Frost Marsh enters the battlefield tapped.&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>121213
+      </id>
+      <name>Gelid Shackles
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Snow Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't block, and its activated abilities can't be activated.&lt;br&gt;{snow}: Enchanted creature gains defender until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.74
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>6
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't block, and its activated abilities can't be activated.&lt;br&gt;{snow}: Enchanted creature gains defender until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121215
+      </id>
+      <name>Rimewind Cryomancer
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{1}, {T}: Counter target activated ability. Activate this ability only if you control four or more snow permanents. &lt;i&gt;(Mana abilities can't be targeted.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.739
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>43
+      </num>
+      <text>{1}, {T}: Counter target activated ability. Activate this ability only if you control four or more snow permanents. &lt;i&gt;(Mana abilities can't be targeted.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121216
+      </id>
+      <name>White Shield Crusader
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from black&lt;br&gt;{W}: White Shield Crusader gains flying until end of turn.&lt;br&gt;{W}{W}: White Shield Crusader gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.204
+      </rating>
+      <artist>Jeff Easley
+      </artist>
+      <num>24
+      </num>
+      <text>Protection from black&lt;br&gt;{W}: White Shield Crusader gains flying until end of turn.&lt;br&gt;{W}{W}: White Shield Crusader gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>121217
+      </id>
+      <name>Rite of Flame
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Add {R}{R} to your mana pool, then add {R} to your mana pool for each card named Rite of Flame in each graveyard.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.312
+      </rating>
+      <artist>Dany Orizio
+      </artist>
+      <num>96
+      </num>
+      <text>Add {R}{R} to your mana pool, then add {R} to your mana pool for each card named Rite of Flame in each graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>121219
+      </id>
+      <name>Goblin Rimerunner
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Snow Creature - Goblin Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Target creature can't block this turn.&lt;br&gt;{snow}: Goblin Rimerunner gains haste until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.31
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>83
+      </num>
+      <text>{T}: Target creature can't block this turn.&lt;br&gt;{snow}: Goblin Rimerunner gains haste until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121220
+      </id>
+      <name>Lightning Serpent
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Creature - Elemental Serpent
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Trample, haste&lt;br&gt;Lightning Serpent enters the battlefield with X +1/+0 counters on it.&lt;br&gt;At the beginning of the end step, sacrifice Lightning Serpent.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.204
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>88
+      </num>
+      <text>Trample, haste&lt;br&gt;Lightning Serpent enters the battlefield with X +1/+0 counters on it.&lt;br&gt;At the beginning of the end step, sacrifice Lightning Serpent.
+      </text>
+    </mc>
+    <mc>
+      <id>121222
+      </id>
+      <name>Disciple of Tevesh Szat
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Target creature gets -1/-1 until end of turn.&lt;br&gt;{4}{B}{B}, {T}, Sacrifice Disciple of Tevesh Szat: Target creature gets -6/-6 until end of turn.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.204
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>55
+      </num>
+      <text>{T}: Target creature gets -1/-1 until end of turn.&lt;br&gt;{4}{B}{B}, {T}, Sacrifice Disciple of Tevesh Szat: Target creature gets -6/-6 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>121223
+      </id>
+      <name>Resize
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +3/+3 until end of turn.&lt;br&gt;Recover {1}{G} &lt;i&gt;(When a creature is put into your graveyard from the battlefield, you may pay {1}{G}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.196
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>117
+      </num>
+      <text>Target creature gets +3/+3 until end of turn.&lt;br&gt;Recover {1}{G} &lt;i&gt;(When a creature is put into your graveyard from the battlefield, you may pay {1}{G}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121224
+      </id>
+      <name>Survivor of the Unseen
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;{T}: Draw two cards, then put a card from your hand on top of your library.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.4
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>48
+      </num>
+      <text>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;{T}: Draw two cards, then put a card from your hand on top of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>121225
+      </id>
+      <name>Wall of Shards
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Snow Creature - Wall
+      </type>
+      <power>1
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>Defender, flying&lt;br&gt;Cumulative upkeep—An opponent gains 1 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.729
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>23
+      </num>
+      <text>Defender, flying&lt;br&gt;Cumulative upkeep—An opponent gains 1 life. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121226
+      </id>
+      <name>Krovikan Scoundrel
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.607
+      </rating>
+      <artist>Ralph Horsley
+      </artist>
+      <num>64
+      </num>
+    </mc>
+    <mc>
+      <id>121228
+      </id>
+      <name>Frozen Solid
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature &lt;br&gt;Enchanted creature doesn't untap during its controller's untap step. &lt;br&gt;When enchanted creature is dealt damage, destroy it.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.375
+      </rating>
+      <artist>Ralph Horsley
+      </artist>
+      <num>35
+      </num>
+      <text>Enchant creature &lt;br&gt;Enchanted creature doesn't untap during its controller's untap step. &lt;br&gt;When enchanted creature is dealt damage, destroy it.
+      </text>
+    </mc>
+    <mc>
+      <id>121229
+      </id>
+      <name>Arctic Nishoba
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Creature - Cat Warrior
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Cumulative upkeep {G} or {W} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When Arctic Nishoba dies, you gain 2 life for each age counter on it.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.779
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>102
+      </num>
+      <text>Trample&lt;br&gt;Cumulative upkeep {G} or {W} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When Arctic Nishoba dies, you gain 2 life for each age counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>121230
+      </id>
+      <name>Woolly Razorback
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Boar Beast
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Woolly Razorback enters the battlefield with three ice counters on it.&lt;br&gt;As long as Woolly Razorback has an ice counter on it, prevent all combat damage it would deal and it has defender.&lt;br&gt;Whenever Woolly Razorback blocks, remove an ice counter from it.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.967
+      </rating>
+      <artist>Richard Sardinha
+      </artist>
+      <num>25
+      </num>
+      <text>Woolly Razorback enters the battlefield with three ice counters on it.&lt;br&gt;As long as Woolly Razorback has an ice counter on it, prevent all combat damage it would deal and it has defender.&lt;br&gt;Whenever Woolly Razorback blocks, remove an ice counter from it.
+      </text>
+    </mc>
+    <mc>
+      <id>121232
+      </id>
+      <name>Orcish Bloodpainter
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Orc Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}, Sacrifice a creature: Orcish Bloodpainter deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.144
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>94
+      </num>
+      <text>{T}, Sacrifice a creature: Orcish Bloodpainter deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>121233
+      </id>
+      <name>Snow-Covered Mountain
+      </name>
+      <type>Basic Snow Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.629
+      </rating>
+      <artist>John Zeleznik
+      </artist>
+      <num>154
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>121234
+      </id>
+      <name>Mouth of Ronom
+      </name>
+      <type>Snow Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{4}{snow}, {T}, Sacrifice Mouth of Ronom: Mouth of Ronom deals 4 damage to target creature. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.13
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>148
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{4}{snow}, {T}, Sacrifice Mouth of Ronom: Mouth of Ronom deals 4 damage to target creature. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121235
+      </id>
+      <name>Kjeldoran Javelineer
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;{T}: Kjeldoran Javelineer deals damage equal to the number of age counters on it to target attacking or blocking creature.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.364
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>11
+      </num>
+      <text>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;{T}: Kjeldoran Javelineer deals damage equal to the number of age counters on it to target attacking or blocking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>121236
+      </id>
+      <name>Jötun Owl Keeper
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Cumulative upkeep {W} or {U} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When Jötun Owl Keeper dies, put a 1/1 white Bird creature token with flying onto the battlefield for each age counter on it.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.179
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>9
+      </num>
+      <text>Cumulative upkeep {W} or {U} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When Jötun Owl Keeper dies, put a 1/1 white Bird creature token with flying onto the battlefield for each age counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>121237
+      </id>
+      <name>Ronom Unicorn
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Unicorn
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacrifice Ronom Unicorn: Destroy target enchantment.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.143
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>16
+      </num>
+      <text>Sacrifice Ronom Unicorn: Destroy target enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>121238
+      </id>
+      <name>Perilous Research
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Draw two cards, then sacrifice a permanent.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.962
+      </rating>
+      <artist>Dany Orizio
+      </artist>
+      <num>41
+      </num>
+      <text>Draw two cards, then sacrifice a permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>121239
+      </id>
+      <name>Rimewind Taskmage
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}, {T}: You may tap or untap target permanent. Activate this ability only if you control four or more snow permanents.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.682
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>44
+      </num>
+      <text>{1}, {T}: You may tap or untap target permanent. Activate this ability only if you control four or more snow permanents.
+      </text>
+    </mc>
+    <mc>
+      <id>121240
+      </id>
+      <name>Steam Spitter
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>1
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;{R}: Steam Spitter gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.3
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>124
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;{R}: Steam Spitter gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>121243
+      </id>
+      <name>Commandeer
+      </name>
+      <cost>{5}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You may exile two blue cards from your hand rather than pay Commandeer's mana cost.&lt;br&gt;Gain control of target noncreature spell. You may choose new targets for it. &lt;i&gt;(If that spell is an artifact, enchantment, or planeswalker, the permanent enters the battlefield under your control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.357
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>29
+      </num>
+      <text>You may exile two blue cards from your hand rather than pay Commandeer's mana cost.&lt;br&gt;Gain control of target noncreature spell. You may choose new targets for it. &lt;i&gt;(If that spell is an artifact, enchantment, or planeswalker, the permanent enters the battlefield under your control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121244
+      </id>
+      <name>Boreal Griffin
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Snow Creature - Griffin
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{snow}: Boreal Griffin gains first strike until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.2
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>2
+      </num>
+      <text>Flying&lt;br&gt;{snow}: Boreal Griffin gains first strike until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121247
+      </id>
+      <name>Rune Snag
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell unless its controller pays {2} plus an additional {2} for each card named Rune Snag in each graveyard.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.522
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>46
+      </num>
+      <text>Counter target spell unless its controller pays {2} plus an additional {2} for each card named Rune Snag in each graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>121248
+      </id>
+      <name>Balduvian Rage
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target attacking creature gets +X/+0 until end of turn.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.518
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>76
+      </num>
+      <text>Target attacking creature gets +X/+0 until end of turn.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>121250
+      </id>
+      <name>Herald of Leshrac
+      </name>
+      <cost>{6}{B}
+      </cost>
+      <type>Creature - Avatar
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Cumulative upkeep—Gain control of a land you don't control. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Herald of Leshrac gets +1/+1 for each land you control but don't own.&lt;br&gt;When Herald of Leshrac leaves the battlefield, each player gains control of each land he or she owns that you control.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.833
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>62
+      </num>
+      <text>Flying&lt;br&gt;Cumulative upkeep—Gain control of a land you don't control. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Herald of Leshrac gets +1/+1 for each land you control but don't own.&lt;br&gt;When Herald of Leshrac leaves the battlefield, each player gains control of each land he or she owns that you control.
+      </text>
+    </mc>
+    <mc>
+      <id>121251
+      </id>
+      <name>Sunscour
+      </name>
+      <cost>{5}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You may exile two white cards from your hand rather than pay Sunscour's mana cost.&lt;br&gt;Destroy all creatures.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.294
+      </rating>
+      <artist>Jim Murray
+      </artist>
+      <num>19
+      </num>
+      <text>You may exile two white cards from your hand rather than pay Sunscour's mana cost.&lt;br&gt;Destroy all creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>121253
+      </id>
+      <name>Stromgald Crusader
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Zombie Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from white&lt;br&gt;{B}: Stromgald Crusader gains flying until end of turn.&lt;br&gt;{B}{B}: Stromgald Crusader gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.311
+      </rating>
+      <artist>Volkan Baga
+      </artist>
+      <num>71
+      </num>
+      <text>Protection from white&lt;br&gt;{B}: Stromgald Crusader gains flying until end of turn.&lt;br&gt;{B}{B}: Stromgald Crusader gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>121254
+      </id>
+      <name>Earthen Goo
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Ooze
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Cumulative upkeep {R} or {G} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Earthen Goo gets +1/+1 for each age counter on it.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.196
+      </rating>
+      <artist>Nick Percival
+      </artist>
+      <num>80
+      </num>
+      <text>Trample&lt;br&gt;Cumulative upkeep {R} or {G} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Earthen Goo gets +1/+1 for each age counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>121255
+      </id>
+      <name>Swift Maneuver
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent the next 2 damage that would be dealt to target creature or player this turn.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.444
+      </rating>
+      <artist>Michael Sutfin
+      </artist>
+      <num>21
+      </num>
+      <text>Prevent the next 2 damage that would be dealt to target creature or player this turn.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>121256
+      </id>
+      <name>Snow-Covered Swamp
+      </name>
+      <type>Basic Snow Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.448
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>153
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>121257
+      </id>
+      <name>Rime Transfusion
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Snow Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+1 and has "{snow}: This creature can't be blocked this turn except by snow creatures." &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.792
+      </rating>
+      <artist>Jeff Nentrup
+      </artist>
+      <num>68
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+1 and has "{snow}: This creature can't be blocked this turn except by snow creatures." &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121258
+      </id>
+      <name>Chilling Shade
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Snow Creature - Shade
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{snow}: Chilling Shade gets +1/+1 until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.195
+      </rating>
+      <artist>Jeff Nentrup
+      </artist>
+      <num>53
+      </num>
+      <text>Flying&lt;br&gt;{snow}: Chilling Shade gets +1/+1 until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121259
+      </id>
+      <name>Highland Weald
+      </name>
+      <type>Snow Land
+      </type>
+      <oracleText>Highland Weald enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.159
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>147
+      </num>
+      <text>Highland Weald enters the battlefield tapped.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>121260
+      </id>
+      <name>Aurochs Herd
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Creature - Aurochs
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Trample&lt;br&gt;When Aurochs Herd enters the battlefield, you may search your library for an Aurochs card, reveal it, and put it into your hand. If you do, shuffle your library.&lt;br&gt;Whenever Aurochs Herd attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.903
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>103
+      </num>
+      <text>Trample&lt;br&gt;When Aurochs Herd enters the battlefield, you may search your library for an Aurochs card, reveal it, and put it into your hand. If you do, shuffle your library.&lt;br&gt;Whenever Aurochs Herd attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.
+      </text>
+    </mc>
+    <mc>
+      <id>121261
+      </id>
+      <name>Sek'Kuar, Deathkeeper
+      </name>
+      <cost>{2}{B}{R}{G}
+      </cost>
+      <type>Legendary Creature - Orc Shaman
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever another nontoken creature you control dies, put a 3/1 black and red Graveborn creature token with haste onto the battlefield.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>131
+      </num>
+      <text>Whenever another nontoken creature you control dies, put a 3/1 black and red Graveborn creature token with haste onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>121262
+      </id>
+      <name>Tamanoa
+      </name>
+      <cost>{R}{G}{W}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever a noncreature source you control deals damage, you gain that much life.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>132
+      </num>
+      <text>Whenever a noncreature source you control deals damage, you gain that much life.
+      </text>
+    </mc>
+    <mc>
+      <id>121263
+      </id>
+      <name>Martyr of Sands
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}, Reveal X white cards from your hand, Sacrifice Martyr of Sands: You gain three times X life.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.377
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>15
+      </num>
+      <text>{1}, Reveal X white cards from your hand, Sacrifice Martyr of Sands: You gain three times X life.
+      </text>
+    </mc>
+    <mc>
+      <id>121264
+      </id>
+      <name>Panglacial Wurm
+      </name>
+      <cost>{5}{G}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>9
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Trample&lt;br&gt;While you're searching your library, you may cast Panglacial Wurm from your library.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Jim Pavelec
+      </artist>
+      <num>116
+      </num>
+      <text>Trample&lt;br&gt;While you're searching your library, you may cast Panglacial Wurm from your library.
+      </text>
+    </mc>
+    <mc>
+      <id>121266
+      </id>
+      <name>Ohran Viper
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Snow Creature - Snake
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Ohran Viper deals combat damage to a creature, destroy that creature at end of combat.&lt;br&gt;Whenever Ohran Viper deals combat damage to a player, you may draw a card.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.438
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>115
+      </num>
+      <text>Whenever Ohran Viper deals combat damage to a creature, destroy that creature at end of combat.&lt;br&gt;Whenever Ohran Viper deals combat damage to a player, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>121267
+      </id>
+      <name>Snow-Covered Plains
+      </name>
+      <type>Basic Snow Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.442
+      </rating>
+      <artist>Mark Romanoski
+      </artist>
+      <num>151
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>121268
+      </id>
+      <name>Adarkar Windform
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Snow Creature - Illusion
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{1}{snow}: Target creature loses flying until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.5
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>26
+      </num>
+      <text>Flying&lt;br&gt;{1}{snow}: Target creature loses flying until end of turn. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121269
+      </id>
+      <name>Surging Flame
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Ripple 4 &lt;i&gt;(When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)&lt;/i&gt;&lt;br&gt;Surging Flame deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.367
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>99
+      </num>
+      <text>Ripple 4 &lt;i&gt;(When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)&lt;/i&gt;&lt;br&gt;Surging Flame deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>121270
+      </id>
+      <name>Ronom Hulk
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Protection from snow&lt;br&gt;Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.816
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>119
+      </num>
+      <text>Protection from snow&lt;br&gt;Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121272
+      </id>
+      <name>Balduvian Fallen
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Whenever Balduvian Fallen's cumulative upkeep is paid, it gets +1/+0 until end of turn for each {B} or {R} spent this way.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.729
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>51
+      </num>
+      <text>Cumulative upkeep {1} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Whenever Balduvian Fallen's cumulative upkeep is paid, it gets +1/+0 until end of turn for each {B} or {R} spent this way.
+      </text>
+    </mc>
+    <mc>
+      <id>121273
+      </id>
+      <name>Squall Drifter
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Snow Creature - Elemental
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{W}, {T}: Tap target creature.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.773
+      </rating>
+      <artist>Joel Thomas
+      </artist>
+      <num>17
+      </num>
+      <text>Flying&lt;br&gt;{W}, {T}: Tap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>121493
+      </id>
+      <name>Krovikan Whispers
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Cumulative upkeep {U} or {B} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;You control enchanted creature.&lt;br&gt;When Krovikan Whispers is put into a graveyard from the battlefield, you lose 2 life for each age counter on it.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.674
+      </rating>
+      <artist>Nick Percival
+      </artist>
+      <num>39
+      </num>
+      <text>Enchant creature&lt;br&gt;Cumulative upkeep {U} or {B} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;You control enchanted creature.&lt;br&gt;When Krovikan Whispers is put into a graveyard from the battlefield, you lose 2 life for each age counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>121494
+      </id>
+      <name>Sun's Bounty
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You gain 4 life.&lt;br&gt;Recover {1}{W} &lt;i&gt;(When a creature is put into your graveyard from the battlefield, you may pay {1}{W}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.614
+      </rating>
+      <artist>Michael Sutfin
+      </artist>
+      <num>18
+      </num>
+      <text>You gain 4 life.&lt;br&gt;Recover {1}{W} &lt;i&gt;(When a creature is put into your graveyard from the battlefield, you may pay {1}{W}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121495
+      </id>
+      <name>Lightning Storm
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Lightning Storm deals X damage to target creature or player, where X is 3 plus the number of charge counters on it.&lt;br&gt;Discard a land card: Put two charge counters on Lightning Storm. You may choose a new target for it. Any player may activate this ability but only if Lightning Storm is on the stack.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.661
+      </rating>
+      <artist>Luca Zontini
+      </artist>
+      <num>89
+      </num>
+      <text>Lightning Storm deals X damage to target creature or player, where X is 3 plus the number of charge counters on it.&lt;br&gt;Discard a land card: Put two charge counters on Lightning Storm. You may choose a new target for it. Any player may activate this ability but only if Lightning Storm is on the stack.
+      </text>
+    </mc>
+    <mc>
+      <id>122045
+      </id>
+      <name>Haakon, Stromgald Scourge
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Legendary Creature - Zombie Knight
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>You may cast Haakon, Stromgald Scourge from your graveyard, but not from anywhere else.&lt;br&gt;As long as Haakon is on the battlefield, you may play Knight cards from your graveyard.&lt;br&gt;When Haakon dies, you lose 2 life.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.283
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>61
+      </num>
+      <text>You may cast Haakon, Stromgald Scourge from your graveyard, but not from anywhere else.&lt;br&gt;As long as Haakon is on the battlefield, you may play Knight cards from your graveyard.&lt;br&gt;When Haakon dies, you lose 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>122046
+      </id>
+      <name>Stalking Yeti
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Snow Creature - Yeti
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Stalking Yeti enters the battlefield, if it's on the battlefield, it deals damage equal to its power to target creature an opponent controls and that creature deals damage equal to its power to Stalking Yeti.&lt;br&gt;{2}{snow}: Return Stalking Yeti to its owner's hand. Activate this ability only any time you could cast a sorcery. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.182
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>98
+      </num>
+      <text>When Stalking Yeti enters the battlefield, if it's on the battlefield, it deals damage equal to its power to target creature an opponent controls and that creature deals damage equal to its power to Stalking Yeti.&lt;br&gt;{2}{snow}: Return Stalking Yeti to its owner's hand. Activate this ability only any time you could cast a sorcery. &lt;i&gt;({snow} can be paid with one mana from a snow permanent.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>122047
+      </id>
+      <name>Krovikan Mist
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Krovikan Mist's power and toughness are each equal to the number of Illusions on the battlefield.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.36
+      </rating>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>38
+      </num>
+      <text>Flying&lt;br&gt;Krovikan Mist's power and toughness are each equal to the number of Illusions on the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>122049
+      </id>
+      <name>Darien, King of Kjeldor
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Legendary Creature - Human Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever you're dealt damage, you may put that many 1/1 white Soldier creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.493
+      </rating>
+      <artist>Michael Phillippi
+      </artist>
+      <num>4
+      </num>
+      <text>Whenever you're dealt damage, you may put that many 1/1 white Soldier creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>122050
+      </id>
+      <name>Krovikan Rot
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature with power 2 or less.&lt;br&gt;Recover {1}{B}{B} &lt;i&gt;(When a creature is put into your graveyard from the battlefield, you may pay {1}{B}{B}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.3
+      </rating>
+      <artist>Michael Sutfin
+      </artist>
+      <num>63
+      </num>
+      <text>Destroy target creature with power 2 or less.&lt;br&gt;Recover {1}{B}{B} &lt;i&gt;(When a creature is put into your graveyard from the battlefield, you may pay {1}{B}{B}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>122051
+      </id>
+      <name>Garza's Assassin
+      </name>
+      <cost>{B}{B}{B}
+      </cost>
+      <type>Creature - Human Assassin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacrifice Garza's Assassin: Destroy target nonblack creature.&lt;br&gt;Recover—Pay half your life, rounded up. &lt;i&gt;(When another creature is put into your graveyard from the battlefield, you may pay half your life, rounded up. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.362
+      </rating>
+      <artist>Parente
+      </artist>
+      <num>57
+      </num>
+      <text>Sacrifice Garza's Assassin: Destroy target nonblack creature.&lt;br&gt;Recover—Pay half your life, rounded up. &lt;i&gt;(When another creature is put into your graveyard from the battlefield, you may pay half your life, rounded up. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>122052
+      </id>
+      <name>Surging Æther
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Ripple 4 &lt;i&gt;(When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)&lt;/i&gt;&lt;br&gt;Return target permanent to its owner's hand.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.667
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>47
+      </num>
+      <text>Ripple 4 &lt;i&gt;(When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)&lt;/i&gt;&lt;br&gt;Return target permanent to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>122053
+      </id>
+      <name>Surging Dementia
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Ripple 4 &lt;i&gt;(When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)&lt;/i&gt;&lt;br&gt;Target player discards a card.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.167
+      </rating>
+      <artist>Hideaki Takamura
+      </artist>
+      <num>72
+      </num>
+      <text>Ripple 4 &lt;i&gt;(When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)&lt;/i&gt;&lt;br&gt;Target player discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>122055
+      </id>
+      <name>Brooding Saurian
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>At the beginning of each end step, each player gains control of all nontoken permanents he or she owns.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>106
+      </num>
+      <text>At the beginning of each end step, each player gains control of all nontoken permanents he or she owns.
+      </text>
+    </mc>
+    <mc>
+      <id>122056
+      </id>
+      <name>Balduvian Warlord
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Human Barbarian
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Remove target blocking creature from combat. Creatures it was blocking that hadn't become blocked by another creature this combat become unblocked, then it blocks an attacking creature of your choice. Activate this ability only during the declare blockers step.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.143
+      </rating>
+      <artist>Parente
+      </artist>
+      <num>77
+      </num>
+      <text>{T}: Remove target blocking creature from combat. Creatures it was blocking that hadn't become blocked by another creature this combat become unblocked, then it blocks an attacking creature of your choice. Activate this ability only during the declare blockers step.
+      </text>
+    </mc>
+    <mc>
+      <id>122057
+      </id>
+      <name>Deepfire Elemental
+      </name>
+      <cost>{4}{B}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{X}{X}{1}: Destroy target artifact or creature with converted mana cost X.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.878
+      </rating>
+      <artist>Joel Thomas
+      </artist>
+      <num>127
+      </num>
+      <text>{X}{X}{1}: Destroy target artifact or creature with converted mana cost X.
+      </text>
+    </mc>
+    <mc>
+      <id>122059
+      </id>
+      <name>Freyalise's Radiance
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Snow permanents don't untap during their controllers' untap steps.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.0
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>108
+      </num>
+      <text>Cumulative upkeep {2} &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Snow permanents don't untap during their controllers' untap steps.
+      </text>
+    </mc>
+    <mc>
+      <id>122066
+      </id>
+      <name>Jester's Scepter
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>When Jester's Scepter enters the battlefield, exile the top five cards of target player's library face down. You may look at those cards for as long as they remain exiled.&lt;br&gt;{2}, {T}, Put a card exiled with Jester's Scepter into its owner's graveyard: Counter target spell if it has the same name as that card.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.729
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>137
+      </num>
+      <text>When Jester's Scepter enters the battlefield, exile the top five cards of target player's library face down. You may look at those cards for as long as they remain exiled.&lt;br&gt;{2}, {T}, Put a card exiled with Jester's Scepter into its owner's graveyard: Counter target spell if it has the same name as that card.
+      </text>
+    </mc>
+    <mc>
+      <id>122069
+      </id>
+      <name>Sheltering Ancient
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Treefolk
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Cumulative upkeep—Put a +1/+1 counter on a creature an opponent controls. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.691
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>121
+      </num>
+      <text>Trample&lt;br&gt;Cumulative upkeep—Put a +1/+1 counter on a creature an opponent controls. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>122070
+      </id>
+      <name>Karplusan Minotaur
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Minotaur Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Cumulative upkeep—Flip a coin. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Whenever you win a coin flip, Karplusan Minotaur deals 1 damage to target creature or player.&lt;br&gt;Whenever you lose a coin flip, Karplusan Minotaur deals 1 damage to target creature or player of an opponent's choice.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.607
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>86
+      </num>
+      <text>Cumulative upkeep—Flip a coin. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;Whenever you win a coin flip, Karplusan Minotaur deals 1 damage to target creature or player.&lt;br&gt;Whenever you lose a coin flip, Karplusan Minotaur deals 1 damage to target creature or player of an opponent's choice.
+      </text>
+    </mc>
+    <mc>
+      <id>122071
+      </id>
+      <name>Vexing Sphinx
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Sphinx
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Cumulative upkeep—Discard a card. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When Vexing Sphinx dies, draw a card for each age counter on it.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.226
+      </rating>
+      <artist>Lars Grant-West
+      </artist>
+      <num>50
+      </num>
+      <text>Flying&lt;br&gt;Cumulative upkeep—Discard a card. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;&lt;br&gt;When Vexing Sphinx dies, draw a card for each age counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>122073
+      </id>
+      <name>Shape of the Wiitigo
+      </name>
+      <cost>{3}{G}{G}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Shape of the Wiitigo enters the battlefield, put six +1/+1 counters on enchanted creature.&lt;br&gt;At the beginning of your upkeep, put a +1/+1 counter on enchanted creature if it attacked or blocked since your last upkeep. Otherwise, remove a +1/+1 counter from it.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.172
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>120
+      </num>
+      <text>Enchant creature&lt;br&gt;When Shape of the Wiitigo enters the battlefield, put six +1/+1 counters on enchanted creature.&lt;br&gt;At the beginning of your upkeep, put a +1/+1 counter on enchanted creature if it attacked or blocked since your last upkeep. Otherwise, remove a +1/+1 counter from it.
+      </text>
+    </mc>
+    <mc>
+      <id>122075
+      </id>
+      <name>Jötun Grunt
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Giant Soldier
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Cumulative upkeep—Put two cards from a single graveyard on the bottom of their owner's library. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.571
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>8
+      </num>
+      <text>Cumulative upkeep—Put two cards from a single graveyard on the bottom of their owner's library. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>122114
+      </id>
+      <name>Grim Harvest
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target creature card from your graveyard to your hand.&lt;br&gt;Recover {2}{B} &lt;i&gt;(When a creature is put into your graveyard from the battlefield, you may pay {2}{B}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.038
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>58
+      </num>
+      <text>Return target creature card from your graveyard to your hand.&lt;br&gt;Recover {2}{B} &lt;i&gt;(When a creature is put into your graveyard from the battlefield, you may pay {2}{B}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>122116
+      </id>
+      <name>Rimefeather Owl
+      </name>
+      <cost>{5}{U}{U}
+      </cost>
+      <type>Snow Creature - Bird
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Rimefeather Owl's power and toughness are each equal to the number of snow permanents on the battlefield.&lt;br&gt;{1}{snow}: Put an ice counter on target permanent.&lt;br&gt;Permanents with ice counters on them are snow.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.806
+      </rating>
+      <artist>Kensuke Okabayashi
+      </artist>
+      <num>42
+      </num>
+      <text>Flying&lt;br&gt;Rimefeather Owl's power and toughness are each equal to the number of snow permanents on the battlefield.&lt;br&gt;{1}{snow}: Put an ice counter on target permanent.&lt;br&gt;Permanents with ice counters on them are snow.
+      </text>
+    </mc>
+    <mc>
+      <id>122118
+      </id>
+      <name>Surging Sentinels
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Ripple 4 &lt;i&gt;(When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.312
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>20
+      </num>
+      <text>First strike&lt;br&gt;Ripple 4 &lt;i&gt;(When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>122119
+      </id>
+      <name>Thermal Flux
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Target nonsnow permanent becomes snow until end of turn; or target snow permanent isn't snow until end of turn.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.643
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>49
+      </num>
+      <text>Choose one- Target nonsnow permanent becomes snow until end of turn; or target snow permanent isn't snow until end of turn.&lt;br&gt;Draw a card at the beginning of the next turn's upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>122120
+      </id>
+      <name>Skred
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Skred deals damage to target creature equal to the number of snow permanents you control.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.318
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>97
+      </num>
+      <text>Skred deals damage to target creature equal to the number of snow permanents you control.
+      </text>
+    </mc>
+    <mc>
+      <id>122121
+      </id>
+      <name>Controvert
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell.&lt;br&gt;Recover {2}{U}{U} &lt;i&gt;(When a creature is put into your graveyard from the battlefield, you may pay {2}{U}{U}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.771
+      </rating>
+      <artist>Joel Thomas
+      </artist>
+      <num>30
+      </num>
+      <text>Counter target spell.&lt;br&gt;Recover {2}{U}{U} &lt;i&gt;(When a creature is put into your graveyard from the battlefield, you may pay {2}{U}{U}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>122122
+      </id>
+      <name>Mishra's Bauble
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}, Sacrifice Mishra's Bauble: Look at the top card of target player's library. Draw a card at the beginning of the next turn's upkeep.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.962
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>138
+      </num>
+      <text>{T}, Sacrifice Mishra's Bauble: Look at the top card of target player's library. Draw a card at the beginning of the next turn's upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>122123
+      </id>
+      <name>Braid of Fire
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Cumulative upkeep—Add {R} to your mana pool. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.712
+      </rating>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>78
+      </num>
+      <text>Cumulative upkeep—Add {R} to your mana pool. &lt;i&gt;(At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>122124
+      </id>
+      <name>Arcum Dagsson
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Legendary Creature - Human Artificer
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Target artifact creature's controller sacrifices it. That player may search his or her library for a noncreature artifact card, put it onto the battlefield, then shuffle his or her library.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.49
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>27
+      </num>
+      <text>{T}: Target artifact creature's controller sacrifices it. That player may search his or her library for a noncreature artifact card, put it onto the battlefield, then shuffle his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>124451
+      </id>
+      <name>Thrumming Stone
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Legendary Artifact
+      </type>
+      <oracleText>Spells you cast have ripple 4. &lt;i&gt;(Whenever you cast a spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as the spell without paying their mana costs. Put the rest on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.192
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>142
+      </num>
+      <text>Spells you cast have ripple 4. &lt;i&gt;(Whenever you cast a spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as the spell without paying their mana costs. Put the rest on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121169
+      </id>
+      <name>Cryoclasm
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target Plains or Island. Cryoclasm deals 3 damage to that land's controller.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.767
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>79
+      </num>
+      <text>Destroy target Plains or Island. Cryoclasm deals 3 damage to that land's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>121119
+      </id>
+      <name>Deathmark
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target green or white creature.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.227
+      </rating>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>54
+      </num>
+      <text>Destroy target green or white creature.
+      </text>
+    </mc>
+    <mc>
+      <id>121265
+      </id>
+      <name>Field Marshal
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Other Soldier creatures get +1/+1 and have first strike. &lt;i&gt;(They deal combat damage before creatures without first strike.)&lt;/i&gt;
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.341
+      </rating>
+      <artist>Stephen Tappin
+      </artist>
+      <num>5
+      </num>
+      <text>Other Soldier creatures get +1/+1 and have first strike. &lt;i&gt;(They deal combat damage before creatures without first strike.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>121218
+      </id>
+      <name>Flashfreeze
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target red or green spell.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.26
+      </rating>
+      <artist>Brian Despain
+      </artist>
+      <num>33
+      </num>
+      <text>Counter target red or green spell.
+      </text>
+    </mc>
+    <mc>
+      <id>121214
+      </id>
+      <name>Karplusan Strider
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Yeti
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Karplusan Strider can't be the target of blue or black spells.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.175
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>112
+      </num>
+      <text>Karplusan Strider can't be the target of blue or black spells.
+      </text>
+    </mc>
+    <mc>
+      <id>121153
+      </id>
+      <name>Luminesce
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all damage that black sources and red sources would deal this turn.
+      </oracleText>
+      <edition>Coldsnap
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.133
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>14
+      </num>
+      <text>Prevent all damage that black sources and red sources would deal this turn.
+      </text>
+    </mc>
+  </list>
+</cards>

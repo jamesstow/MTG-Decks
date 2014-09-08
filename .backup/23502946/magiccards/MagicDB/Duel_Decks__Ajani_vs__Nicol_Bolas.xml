@@ -1,0 +1,2167 @@
+
+<cards>
+  <name>Duel_Decks__Ajani_vs__Nicol_Bolas</name>
+  <key>Duel_Decks__Ajani_vs__Nicol_Bolas</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>249411
+      </id>
+      <name>Ageless Entity
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever you gain life, put that many +1/+1 counters on Ageless Entity.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.357
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>18
+      </num>
+      <text>Whenever you gain life, put that many +1/+1 counters on Ageless Entity.
+      </text>
+    </mc>
+    <mc>
+      <id>259268
+      </id>
+      <name>Agonizing Demise
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker {1}{R} &lt;i&gt;(You may pay an additional {1}{R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Destroy target nonblack creature. It can't be regenerated. If Agonizing Demise was kicked, it deals damage equal to that creature's power to the creature's controller.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.786
+      </rating>
+      <artist>Mark Brill
+      </artist>
+      <num>66
+      </num>
+      <text>Kicker {1}{R} &lt;i&gt;(You may pay an additional {1}{R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Destroy target nonblack creature. It can't be regenerated. If Agonizing Demise was kicked, it deals damage equal to that creature's power to the creature's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>266299
+      </id>
+      <name>Ajani Vengeant
+      </name>
+      <cost>{2}{R}{W}
+      </cost>
+      <type>Planeswalker - Ajani
+      </type>
+      <toughness>3
+      </toughness>
+      <oracleText>+1: Target permanent doesn't untap during its controller's next untap step.&lt;br&gt;-2: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life.&lt;br&gt;-7: Destroy all lands target player controls.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.031
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>1
+      </num>
+      <text>+1: Target permanent doesn't untap during its controller's next untap step.&lt;br&gt;-2: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life.&lt;br&gt;-7: Destroy all lands target player controls.
+      </text>
+    </mc>
+    <mc>
+      <id>249398
+      </id>
+      <name>Ajani's Mantra
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, you may gain 1 life.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>James Paick
+      </artist>
+      <num>22
+      </num>
+      <text>At the beginning of your upkeep, you may gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>249413
+      </id>
+      <name>Ajani's Pridemate
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Cat Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate. &lt;i&gt;(For example, if an effect causes you to gain 3 life, you may put one +1/+1 counter on this creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.286
+      </rating>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>9
+      </num>
+      <text>Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate. &lt;i&gt;(For example, if an effect causes you to gain 3 life, you may put one +1/+1 counter on this creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>249396
+      </id>
+      <name>Behemoth Sledge
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +2/+2 and has lifelink and trample.&lt;br&gt;Equip {3}
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.292
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>28
+      </num>
+      <text>Equipped creature gets +2/+2 and has lifelink and trample.&lt;br&gt;Equip {3}
+      </text>
+    </mc>
+    <mc>
+      <id>259274
+      </id>
+      <name>Blazing Specter
+      </name>
+      <cost>{2}{B}{R}
+      </cost>
+      <type>Creature - Specter
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying, haste&lt;br&gt;Whenever Blazing Specter deals combat damage to a player, that player discards a card.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.583
+      </rating>
+      <artist>Marc Fishman
+      </artist>
+      <num>52
+      </num>
+      <text>Flying, haste&lt;br&gt;Whenever Blazing Specter deals combat damage to a player, that player discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>249390
+      </id>
+      <name>Brackwater Elemental
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Brackwater Elemental attacks or blocks, sacrifice it at the beginning of the next end step.&lt;br&gt;Unearth {2}{U} &lt;i&gt;({2}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.929
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>46
+      </num>
+      <text>When Brackwater Elemental attacks or blocks, sacrifice it at the beginning of the next end step.&lt;br&gt;Unearth {2}{U} &lt;i&gt;({2}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>249383
+      </id>
+      <name>Briarhorn
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flash&lt;br&gt;When Briarhorn enters the battlefield, target creature gets +3/+3 until end of turn.&lt;br&gt;Evoke {1}{G} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Nils Hamm
+      </artist>
+      <num>14
+      </num>
+      <text>Flash&lt;br&gt;When Briarhorn enters the battlefield, target creature gets +3/+3 until end of turn.&lt;br&gt;Evoke {1}{G} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>249412
+      </id>
+      <name>Canyon Wildcat
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Mountainwalk
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.214
+      </rating>
+      <artist>Gary Leach
+      </artist>
+      <num>6
+      </num>
+      <text>Mountainwalk
+      </text>
+    </mc>
+    <mc>
+      <id>249406
+      </id>
+      <name>Countersquall
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target noncreature spell. Its controller loses 2 life.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Anthony Francisco
+      </artist>
+      <num>59
+      </num>
+      <text>Counter target noncreature spell. Its controller loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>259262
+      </id>
+      <name>Cruel Ultimatum
+      </name>
+      <cost>{U}{U}{B}{B}{B}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.143
+      </rating>
+      <artist>Ralph Horsley
+      </artist>
+      <num>69
+      </num>
+      <text>Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.
+      </text>
+    </mc>
+    <mc>
+      <id>259265
+      </id>
+      <name>Crumbling Necropolis
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Crumbling Necropolis enters the battlefield tapped.&lt;br&gt;{T}: Add {U}, {B}, or {R} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.643
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>74
+      </num>
+      <text>Crumbling Necropolis enters the battlefield tapped.&lt;br&gt;{T}: Add {U}, {B}, or {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>249365
+      </id>
+      <name>Deep Analysis
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player draws two cards.&lt;br&gt;Flashback—{1}{U}, Pay 3 life. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.071
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>65
+      </num>
+      <text>Target player draws two cards.&lt;br&gt;Flashback—{1}{U}, Pay 3 life. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>259269
+      </id>
+      <name>Dimir Cutpurse
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Dimir Cutpurse deals combat damage to a player, that player discards a card and you draw a card.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.667
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>49
+      </num>
+      <text>Whenever Dimir Cutpurse deals combat damage to a player, that player discards a card and you draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>249407
+      </id>
+      <name>Elder Mastery
+      </name>
+      <cost>{3}{U}{B}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3 and has flying.&lt;br&gt;Whenever enchanted creature deals damage to a player, that player discards two cards.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.938
+      </rating>
+      <artist>Dave Allsop
+      </artist>
+      <num>68
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3 and has flying.&lt;br&gt;Whenever enchanted creature deals damage to a player, that player discards two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>249374
+      </id>
+      <name>Essence Warden
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Shaman
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever another creature enters the battlefield, you gain 1 life.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.417
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>3
+      </num>
+      <text>Whenever another creature enters the battlefield, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>249395
+      </id>
+      <name>Evolving Wilds
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.6
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>32
+      </num>
+      <text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>-259266
+      </id>
+      <name>Rise // Fall (Fall)
+      </name>
+      <cost>{B}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player reveals two cards at random from his or her hand, then discards each nonland card revealed this way.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>73
+      </num>
+      <text>Target player reveals two cards at random from his or her hand, then discards each nonland card revealed this way.
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Fall</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Rise</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>259270
+      </id>
+      <name>Fire-Field Ogre
+      </name>
+      <cost>{1}{U}{B}{R}
+      </cost>
+      <type>Creature - Ogre Mutant
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Unearth {U}{B}{R} &lt;i&gt;({U}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.786
+      </rating>
+      <artist>Mitch Cotie
+      </artist>
+      <num>53
+      </num>
+      <text>First strike&lt;br&gt;Unearth {U}{B}{R} &lt;i&gt;({U}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>249366
+      </id>
+      <name>Firemane Angel
+      </name>
+      <cost>{3}{R}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying, first strike&lt;br&gt;At the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.&lt;br&gt;{6}{R}{R}{W}{W}: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.938
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>21
+      </num>
+      <text>Flying, first strike&lt;br&gt;At the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.&lt;br&gt;{6}{R}{R}{W}{W}: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>249391
+      </id>
+      <name>Fleetfoot Panther
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flash&lt;br&gt;When Fleetfoot Panther enters the battlefield, return a green or white creature you control to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Mark Brill
+      </artist>
+      <num>12
+      </num>
+      <text>Flash&lt;br&gt;When Fleetfoot Panther enters the battlefield, return a green or white creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>262651
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>38
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>259285
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.1
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>39
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>249379
+      </id>
+      <name>Graypelt Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Graypelt Refuge enters the battlefield tapped.&lt;br&gt;When Graypelt Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.333
+      </rating>
+      <artist>Philip Straub
+      </artist>
+      <num>33
+      </num>
+      <text>Graypelt Refuge enters the battlefield tapped.&lt;br&gt;When Graypelt Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {G} or {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>249378
+      </id>
+      <name>Grazing Gladehart
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Antelope
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Landfall- Whenever a land enters the battlefield under your control, you may gain 2 life.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.375
+      </rating>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>11
+      </num>
+      <text>Landfall- Whenever a land enters the battlefield under your control, you may gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>249372
+      </id>
+      <name>Griffin Guide
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has flying.&lt;br&gt;When enchanted creature dies, put a 2/2 white Griffin creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>25
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+2 and has flying.&lt;br&gt;When enchanted creature dies, put a 2/2 white Griffin creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>259271
+      </id>
+      <name>Grixis Charm
+      </name>
+      <cost>{U}{B}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Return target permanent to its owner's hand; or target creature gets -4/-4 until end of turn; or creatures you control get +2/+0 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.9
+      </rating>
+      <artist>Lars Grant-West
+      </artist>
+      <num>63
+      </num>
+      <text>Choose one- Return target permanent to its owner's hand; or target creature gets -4/-4 until end of turn; or creatures you control get +2/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>249408
+      </id>
+      <name>Hellfire Mongrel
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Elemental Hound
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Hellfire Mongrel deals 2 damage to him or her.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.8
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>48
+      </num>
+      <text>At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Hellfire Mongrel deals 2 damage to him or her.
+      </text>
+    </mc>
+    <mc>
+      <id>249384
+      </id>
+      <name>Icy Manipulator
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, {T}: Tap target artifact, creature, or land.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.3
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>64
+      </num>
+      <text>{1}, {T}: Tap target artifact, creature, or land.
+      </text>
+    </mc>
+    <mc>
+      <id>249410
+      </id>
+      <name>Igneous Pouncer
+      </name>
+      <cost>{4}{B}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>5
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Swampcycling {2}, mountaincycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.071
+      </rating>
+      <artist>Chippy
+      </artist>
+      <num>57
+      </num>
+      <text>Haste&lt;br&gt;Swampcycling {2}, mountaincycling {2} &lt;i&gt;({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>259287
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.667
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>79
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>249397
+      </id>
+      <name>Jade Mage
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{2}{G}: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>7
+      </num>
+      <text>{2}{G}: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>259277
+      </id>
+      <name>Jhessian Zombies
+      </name>
+      <cost>{4}{U}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;Islandcycling {2}, swampcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.65
+      </rating>
+      <artist>Ash Wood
+      </artist>
+      <num>56
+      </num>
+      <text>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;Islandcycling {2}, swampcycling {2} &lt;i&gt;({2}, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>249403
+      </id>
+      <name>Jungle Shrine
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Jungle Shrine enters the battlefield tapped.&lt;br&gt;{T}: Add {R}, {G}, or {W} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.6
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>34
+      </num>
+      <text>Jungle Shrine enters the battlefield tapped.&lt;br&gt;{T}: Add {R}, {G}, or {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>249402
+      </id>
+      <name>Kazandu Refuge
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Kazandu Refuge enters the battlefield tapped.&lt;br&gt;When Kazandu Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.375
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>35
+      </num>
+      <text>Kazandu Refuge enters the battlefield tapped.&lt;br&gt;When Kazandu Refuge enters the battlefield, you gain 1 life.&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>249382
+      </id>
+      <name>Kird Ape
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Ape
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Kird Ape gets +1/+2 as long as you control a Forest.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.409
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>2
+      </num>
+      <text>Kird Ape gets +1/+2 as long as you control a Forest.
+      </text>
+    </mc>
+    <mc>
+      <id>249369
+      </id>
+      <name>Lead the Stampede
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.429
+      </rating>
+      <artist>Efrem Palacios
+      </artist>
+      <num>24
+      </num>
+      <text>Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>249386
+      </id>
+      <name>Lightning Helix
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Lightning Helix deals 3 damage to target creature or player and you gain 3 life.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.611
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>23
+      </num>
+      <text>Lightning Helix deals 3 damage to target creature or player and you gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>249377
+      </id>
+      <name>Loam Lion
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Loam Lion gets +1/+2 as long as you control a Forest.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.714
+      </rating>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>5
+      </num>
+      <text>Loam Lion gets +1/+2 as long as you control a Forest.
+      </text>
+    </mc>
+    <mc>
+      <id>249414
+      </id>
+      <name>Loxodon Hierarch
+      </name>
+      <cost>{2}{G}{W}
+      </cost>
+      <type>Creature - Elephant Cleric
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Loxodon Hierarch enters the battlefield, you gain 4 life.&lt;br&gt;{G}{W}, Sacrifice Loxodon Hierarch: Regenerate each creature you control.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.625
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>15
+      </num>
+      <text>When Loxodon Hierarch enters the battlefield, you gain 4 life.&lt;br&gt;{G}{W}, Sacrifice Loxodon Hierarch: Regenerate each creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>-249394
+      </id>
+      <name>Spite // Malice (Malice)
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonblack creature. It can't be regenerated.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.833
+      </rating>
+      <artist>David Martin
+      </artist>
+      <num>71
+      </num>
+      <text>Destroy target nonblack creature. It can't be regenerated.
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Malice</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Spite</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>249375
+      </id>
+      <name>Marisi's Twinclaws
+      </name>
+      <cost>{2}{R/W}{G}
+      </cost>
+      <type>Creature - Cat Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Double strike
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.714
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>17
+      </num>
+      <text>Double strike
+      </text>
+    </mc>
+    <mc>
+      <id>259264
+      </id>
+      <name>Morgue Toad
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Frog
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Sacrifice Morgue Toad: Add {U}{R} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.583
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>47
+      </num>
+      <text>Sacrifice Morgue Toad: Add {U}{R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>249367
+      </id>
+      <name>Moroii
+      </name>
+      <cost>{2}{U}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, you lose 1 life.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.929
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>51
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, you lose 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>259284
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.875
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>41
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>259286
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.9
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>80
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>249409
+      </id>
+      <name>Nacatl Hunt-Pride
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Creature - Cat Warrior
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;{R}, {T}: Target creature can't block this turn.&lt;br&gt;{G}, {T}: Target creature blocks this turn if able.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.625
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>20
+      </num>
+      <text>Vigilance&lt;br&gt;{R}, {T}: Target creature can't block this turn.&lt;br&gt;{G}, {T}: Target creature blocks this turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>249385
+      </id>
+      <name>Naya Charm
+      </name>
+      <cost>{R}{G}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Naya Charm deals 3 damage to target creature; or return target card from a graveyard to its owner's hand; or tap all creatures target player controls.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Jesper Ejsing
+      </artist>
+      <num>29
+      </num>
+      <text>Choose one- Naya Charm deals 3 damage to target creature; or return target card from a graveyard to its owner's hand; or tap all creatures target player controls.
+      </text>
+    </mc>
+    <mc>
+      <id>266154
+      </id>
+      <name>Nicol Bolas, Planeswalker
+      </name>
+      <cost>{4}{U}{B}{B}{R}
+      </cost>
+      <type>Planeswalker - Bolas
+      </type>
+      <toughness>5
+      </toughness>
+      <oracleText>+3: Destroy target noncreature permanent.&lt;br&gt;-2: Gain control of target creature.&lt;br&gt;-9: Nicol Bolas, Planeswalker deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.463
+      </rating>
+      <artist>Izzy
+      </artist>
+      <num>42
+      </num>
+      <text>+3: Destroy target noncreature permanent.&lt;br&gt;-2: Gain control of target creature.&lt;br&gt;-9: Nicol Bolas, Planeswalker deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents.
+      </text>
+    </mc>
+    <mc>
+      <id>259263
+      </id>
+      <name>Nightscape Familiar
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Blue spells and red spells you cast cost {1} less to cast.&lt;br&gt;{1}{B}: Regenerate Nightscape Familiar.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.688
+      </rating>
+      <artist>Jeff Easley
+      </artist>
+      <num>44
+      </num>
+      <text>Blue spells and red spells you cast cost {1} less to cast.&lt;br&gt;{1}{B}: Regenerate Nightscape Familiar.
+      </text>
+    </mc>
+    <mc>
+      <id>259279
+      </id>
+      <name>Obelisk of Grixis
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Add {U}, {B}, or {R} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.833
+      </rating>
+      <artist>Nils Hamm
+      </artist>
+      <num>60
+      </num>
+      <text>{T}: Add {U}, {B}, or {R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>249387
+      </id>
+      <name>Ogre Savant
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Ogre Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Ogre Savant enters the battlefield, if {U} was spent to cast Ogre Savant, return target creature to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.375
+      </rating>
+      <artist>Parente
+      </artist>
+      <num>55
+      </num>
+      <text>When Ogre Savant enters the battlefield, if {U} was spent to cast Ogre Savant, return target creature to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>259281
+      </id>
+      <name>Pain // Suffering (Pain)
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards a card.&lt;br&gt;
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.875
+      </rating>
+      <artist>David Martin
+      </artist>
+      <num>72
+      </num>
+      <text>Target player discards a card.&lt;br&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Pain</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Suffering</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>249376
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.1
+      </rating>
+      <artist>Zoltan Boros &amp; Gabor Szikszai
+      </artist>
+      <num>40
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>249371
+      </id>
+      <name>Pride of Lions
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>You may have Pride of Lions assign its combat damage as though it weren't blocked.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>19
+      </num>
+      <text>You may have Pride of Lions assign its combat damage as though it weren't blocked.
+      </text>
+    </mc>
+    <mc>
+      <id>259275
+      </id>
+      <name>Profane Command
+      </name>
+      <cost>{X}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose two- Target player loses X life; or return target creature card with converted mana cost X or less from your graveyard to the battlefield; or target creature gets -X/-X until end of turn; or up to X target creatures gain fear until end of turn. &lt;i&gt;(They can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.667
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>70
+      </num>
+      <text>Choose two- Target player loses X life; or return target creature card with converted mana cost X or less from your graveyard to the battlefield; or target creature gets -X/-X until end of turn; or up to X target creatures gain fear until end of turn. &lt;i&gt;(They can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>249405
+      </id>
+      <name>Qasali Pridemage
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Creature - Cat Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;{1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.6
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>10
+      </num>
+      <text>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;{1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>266305
+      </id>
+      <name>Recoil
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target permanent to its owner's hand. Then that player discards a card.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.667
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>61
+      </num>
+      <text>Return target permanent to its owner's hand. Then that player discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>249400
+      </id>
+      <name>Recumbent Bliss
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.&lt;br&gt;At the beginning of your upkeep, you may gain 1 life.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.833
+      </rating>
+      <artist>Todd Lockwood
+      </artist>
+      <num>26
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.&lt;br&gt;At the beginning of your upkeep, you may gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>259282
+      </id>
+      <name>Rupture Spire
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Rupture Spire enters the battlefield tapped.&lt;br&gt;When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.75
+      </rating>
+      <artist>Jaime Jones
+      </artist>
+      <num>75
+      </num>
+      <text>Rupture Spire enters the battlefield tapped.&lt;br&gt;When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>249389
+      </id>
+      <name>Sapseep Forest
+      </name>
+      <type>Land - Forest
+      </type>
+      <oracleText>&lt;i&gt;({T}: Add {G} to your mana pool.)&lt;/i&gt;&lt;br&gt;Sapseep Forest enters the battlefield tapped.&lt;br&gt;{G}, {T}: You gain 1 life. Activate this ability only if you control two or more green permanents.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.3
+      </rating>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>36
+      </num>
+      <text>&lt;i&gt;({T}: Add {G} to your mana pool.)&lt;/i&gt;&lt;br&gt;Sapseep Forest enters the battlefield tapped.&lt;br&gt;{G}, {T}: You gain 1 life. Activate this ability only if you control two or more green permanents.
+      </text>
+    </mc>
+    <mc>
+      <id>249380
+      </id>
+      <name>Searing Meditation
+      </name>
+      <cost>{1}{R}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever you gain life, you may pay {2}. If you do, Searing Meditation deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.214
+      </rating>
+      <artist>Dave Dorman
+      </artist>
+      <num>27
+      </num>
+      <text>Whenever you gain life, you may pay {2}. If you do, Searing Meditation deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>259272
+      </id>
+      <name>Shriekmaw
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.&lt;br&gt;Evoke {1}{B} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.625
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>54
+      </num>
+      <text>Fear &lt;i&gt;(This creature can't be blocked except by artifact creatures and/or black creatures.)&lt;/i&gt;&lt;br&gt;When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.&lt;br&gt;Evoke {1}{B} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>259276
+      </id>
+      <name>Slave of Bolas
+      </name>
+      <cost>{3}{U/R}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.417
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>67
+      </num>
+      <text>Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>249404
+      </id>
+      <name>Slavering Nulls
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Slavering Nulls deals combat damage to a player, if you control a Swamp, you may have that player discard a card.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Dave Kendall
+      </artist>
+      <num>45
+      </num>
+      <text>Whenever Slavering Nulls deals combat damage to a player, if you control a Swamp, you may have that player discard a card.
+      </text>
+    </mc>
+    <mc>
+      <id>249388
+      </id>
+      <name>Spitemare
+      </name>
+      <cost>{2}{R/W}{R/W}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Spitemare is dealt damage, it deals that much damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.125
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>16
+      </num>
+      <text>Whenever Spitemare is dealt damage, it deals that much damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>259273
+      </id>
+      <name>Steamcore Weird
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Weird
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Steamcore Weird enters the battlefield, if {R} was spent to cast Steamcore Weird, it deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.25
+      </rating>
+      <artist>Justin Norman
+      </artist>
+      <num>50
+      </num>
+      <text>When Steamcore Weird enters the battlefield, if {R} was spent to cast Steamcore Weird, it deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>259267
+      </id>
+      <name>Surveilling Sprite
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Faerie Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Surveilling Sprite dies, you may draw a card.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.357
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>43
+      </num>
+      <text>Flying&lt;br&gt;When Surveilling Sprite dies, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>262652
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>77
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>259283
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.7
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>78
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>249392
+      </id>
+      <name>Sylvan Bounty
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player gains 8 life.&lt;br&gt;Basic landcycling {1}{G} &lt;i&gt;({1}{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.944
+      </rating>
+      <artist>Chris Rahn
+      </artist>
+      <num>30
+      </num>
+      <text>Target player gains 8 life.&lt;br&gt;Basic landcycling {1}{G} &lt;i&gt;({1}{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>249399
+      </id>
+      <name>Sylvan Ranger
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.1
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>8
+      </num>
+      <text>When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>249381
+      </id>
+      <name>Terramorphic Expanse
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.625
+      </rating>
+      <artist>Dan Scott
+      </artist>
+      <num>76
+      </num>
+      <text>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>249370
+      </id>
+      <name>Titanic Ultimatum
+      </name>
+      <cost>{R}{R}{G}{G}{G}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Until end of turn, creatures you control get +5/+5 and gain first strike, lifelink, and trample.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.429
+      </rating>
+      <artist>Steve Prescott
+      </artist>
+      <num>31
+      </num>
+      <text>Until end of turn, creatures you control get +5/+5 and gain first strike, lifelink, and trample.
+      </text>
+    </mc>
+    <mc>
+      <id>259278
+      </id>
+      <name>Undermine
+      </name>
+      <cost>{U}{U}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell. Its controller loses 3 life.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.786
+      </rating>
+      <artist>Massimilano Frezzato
+      </artist>
+      <num>62
+      </num>
+      <text>Counter target spell. Its controller loses 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>249373
+      </id>
+      <name>Vapor Snag
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target creature to its owner's hand. Its controller loses 1 life.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.429
+      </rating>
+      <artist>Raymond Swanland
+      </artist>
+      <num>58
+      </num>
+      <text>Return target creature to its owner's hand. Its controller loses 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>249393
+      </id>
+      <name>Vitu-Ghazi, the City-Tree
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{2}{G}{W}, {T}: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Martina Pilcerova
+      </artist>
+      <num>37
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{2}{G}{W}, {T}: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>249401
+      </id>
+      <name>Wild Nacatl
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Cat Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Wild Nacatl gets +1/+1 as long as you control a Mountain.&lt;br&gt;Wild Nacatl gets +1/+1 as long as you control a Plains.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.65
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>4
+      </num>
+      <text>Wild Nacatl gets +1/+1 as long as you control a Mountain.&lt;br&gt;Wild Nacatl gets +1/+1 as long as you control a Plains.
+      </text>
+    </mc>
+    <mc>
+      <id>249368
+      </id>
+      <name>Woolly Thoctar
+      </name>
+      <cost>{R}{G}{W}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.6
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>13
+      </num>
+    </mc>
+    <mc>
+      <id>259266
+      </id>
+      <name>Rise // Fall (Rise)
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target creature card from a graveyard and target creature on the battlefield to their owners' hands.&lt;br&gt;
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>73
+      </num>
+      <text>Return target creature card from a graveyard and target creature on the battlefield to their owners' hands.&lt;br&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Rise</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Fall</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>249394
+      </id>
+      <name>Spite // Malice (Spite)
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target noncreature spell.&lt;br&gt;
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.833
+      </rating>
+      <artist>David Martin
+      </artist>
+      <num>71
+      </num>
+      <text>Counter target noncreature spell.&lt;br&gt;
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Spite</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Malice</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-259281
+      </id>
+      <name>Pain // Suffering (Suffering)
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>&lt;br&gt;Destroy target land.
+      </oracleText>
+      <edition>Duel Decks: Ajani vs. Nicol Bolas
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.875
+      </rating>
+      <artist>David Martin
+      </artist>
+      <num>72
+      </num>
+      <text>&lt;br&gt;Destroy target land.
+      </text>
+      <properties>
+        <entry>
+          <string>PART</string>
+          <string>Suffering</string>
+        </entry>
+        <entry>
+          <string>OTHER_PART</string>
+          <string>Pain</string>
+        </entry>
+      </properties>
+    </mc>
+  </list>
+</cards>

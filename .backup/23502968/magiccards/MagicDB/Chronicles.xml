@@ -1,0 +1,3229 @@
+
+<cards>
+  <name>Chronicles</name>
+  <key>Chronicles</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>2780
+      </id>
+      <name>Bronze Horse
+      </name>
+      <cost>{7}
+      </cost>
+      <type>Artifact Creature - Horse
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Trample&lt;br&gt;As long as you control another creature, prevent all damage that would be dealt to Bronze Horse by spells that target it.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.182
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>1
+      </num>
+      <text>Trample&lt;br&gt;As long as you control another creature, prevent all damage that would be dealt to Bronze Horse by spells that target it.
+      </text>
+    </mc>
+    <mc>
+      <id>2784
+      </id>
+      <name>Horn of Deafening
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}: Prevent all combat damage that would be dealt by target creature this turn.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.615
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>2
+      </num>
+      <text>{2}, {T}: Prevent all combat damage that would be dealt by target creature this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2790
+      </id>
+      <name>Runesword
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}, {T}: Target attacking creature gets +2/+0 until end of turn. When that creature leaves the battlefield this turn, sacrifice Runesword. If the creature deals damage to a creature this turn, the creature dealt damage can't be regenerated this turn. If a creature dealt damage by the targeted creature would die this turn, exile that creature instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>0.951
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>3
+      </num>
+      <text>{3}, {T}: Target attacking creature gets +2/+0 until end of turn. When that creature leaves the battlefield this turn, sacrifice Runesword. If the creature deals damage to a creature this turn, the creature dealt damage can't be regenerated this turn. If a creature dealt damage by the targeted creature would die this turn, exile that creature instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2791
+      </id>
+      <name>Sentinel
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Shapeshifter
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{0}: Sentinel's toughness becomes 1 plus the power of target creature blocking or blocked by Sentinel. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.114
+      </rating>
+      <artist>Randy Asplund-Faith
+      </artist>
+      <num>4
+      </num>
+      <text>{0}: Sentinel's toughness becomes 1 plus the power of target creature blocking or blocked by Sentinel. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>2795
+      </id>
+      <name>Voodoo Doll
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>At the beginning of your upkeep, put a pin counter on Voodoo Doll.&lt;br&gt;At the beginning of your end step, if Voodoo Doll is untapped, destroy Voodoo Doll and it deals damage to you equal to the number of pin counters on it.&lt;br&gt;{X}{X}, {T}: Voodoo Doll deals damage equal to the number of pin counters on it to target creature or player. X is the number of pin counters on Voodoo Doll.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.088
+      </rating>
+      <artist>Sandra Everingham
+      </artist>
+      <num>5
+      </num>
+      <text>At the beginning of your upkeep, put a pin counter on Voodoo Doll.&lt;br&gt;At the beginning of your end step, if Voodoo Doll is untapped, destroy Voodoo Doll and it deals damage to you equal to the number of pin counters on it.&lt;br&gt;{X}{X}, {T}: Voodoo Doll deals damage equal to the number of pin counters on it to target creature or player. X is the number of pin counters on Voodoo Doll.
+      </text>
+    </mc>
+    <mc>
+      <id>2803
+      </id>
+      <name>Enchantment Alteration
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Attach target Aura attached to a creature or land to another permanent of that type.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.1
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>6
+      </num>
+      <text>Attach target Aura attached to a creature or land to another permanent of that type.
+      </text>
+    </mc>
+    <mc>
+      <id>2806
+      </id>
+      <name>Flash Flood
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Destroy target red permanent; or return target Mountain to its owner's hand.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.909
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>7
+      </num>
+      <text>Choose one- Destroy target red permanent; or return target Mountain to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>2807
+      </id>
+      <name>Giant Slug
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Slug
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{5}: At the beginning of your next upkeep, choose a basic land type. Giant Slug gains landwalk of the chosen type until the end of that turn.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>0.958
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>8
+      </num>
+      <text>{5}: At the beginning of your next upkeep, choose a basic land type. Giant Slug gains landwalk of the chosen type until the end of that turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2811
+      </id>
+      <name>Puppet Master
+      </name>
+      <cost>{U}{U}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When enchanted creature dies, return that card to its owner's hand. If that card is returned to its owner's hand this way, you may pay {U}{U}{U}. If you do, return Puppet Master to its owner's hand.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>Sandra Everingham
+      </artist>
+      <num>9
+      </num>
+      <text>Enchant creature&lt;br&gt;When enchanted creature dies, return that card to its owner's hand. If that card is returned to its owner's hand this way, you may pay {U}{U}{U}. If you do, return Puppet Master to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>2814
+      </id>
+      <name>Shimian Night Stalker
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Nightstalker
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{B}, {T}: All damage that would be dealt to you this turn by target attacking creature is dealt to Shimian Night Stalker instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.688
+      </rating>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>10
+      </num>
+      <text>{B}, {T}: All damage that would be dealt to you this turn by target attacking creature is dealt to Shimian Night Stalker instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2815
+      </id>
+      <name>Takklemaggot
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.&lt;br&gt;When enchanted creature dies, that creature's controller chooses a creature that Takklemaggot could enchant. If he or she does, return Takklemaggot to the battlefield under your control attached to that creature. If he or she doesn't, return Takklemaggot to the battlefield under your control as a non-Aura enchantment. It loses "enchant creature" and gains "At the beginning of that player's upkeep, Takklemaggot deals 1 damage to him or her."
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.25
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>11
+      </num>
+      <text>Enchant creature&lt;br&gt;At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.&lt;br&gt;When enchanted creature dies, that creature's controller chooses a creature that Takklemaggot could enchant. If he or she does, return Takklemaggot to the battlefield under your control attached to that creature. If he or she doesn't, return Takklemaggot to the battlefield under your control as a non-Aura enchantment. It loses "enchant creature" and gains "At the beginning of that player's upkeep, Takklemaggot deals 1 damage to him or her."
+      </text>
+    </mc>
+    <mc>
+      <id>2816
+      </id>
+      <name>Teleport
+      </name>
+      <cost>{U}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Teleport only during the declare attackers step.&lt;br&gt;Target creature is unblockable this turn.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.576
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>12
+      </num>
+      <text>Cast Teleport only during the declare attackers step.&lt;br&gt;Target creature is unblockable this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2817
+      </id>
+      <name>The Fallen
+      </name>
+      <cost>{1}{B}{B}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>At the beginning of your upkeep, The Fallen deals 1 damage to each opponent it has dealt damage to this game.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.7
+      </rating>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>13
+      </num>
+      <text>At the beginning of your upkeep, The Fallen deals 1 damage to each opponent it has dealt damage to this game.
+      </text>
+    </mc>
+    <mc>
+      <id>2819
+      </id>
+      <name>Transmutation
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Switch target creature's power and toughness until end of turn.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.267
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>14
+      </num>
+      <text>Switch target creature's power and toughness until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2820
+      </id>
+      <name>Wall of Shadows
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Prevent all damage that would be dealt to Wall of Shadows by creatures it's blocking.&lt;br&gt;Wall of Shadows can't be the target of spells that can target only Walls or of abilities that can target only Walls.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.194
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>15
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Prevent all damage that would be dealt to Wall of Shadows by creatures it's blocking.&lt;br&gt;Wall of Shadows can't be the target of spells that can target only Walls or of abilities that can target only Walls.
+      </text>
+    </mc>
+    <mc>
+      <id>2821
+      </id>
+      <name>Wall of Vapor
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Prevent all damage that would be dealt to Wall of Vapor by creatures it's blocking.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.054
+      </rating>
+      <artist>Richard Thomas
+      </artist>
+      <num>16
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Prevent all damage that would be dealt to Wall of Vapor by creatures it's blocking.
+      </text>
+    </mc>
+    <mc>
+      <id>2826
+      </id>
+      <name>Cocoon
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature you control&lt;br&gt;Enchanted creature doesn't untap during your untap step if Cocoon has a pupa counter on it.&lt;br&gt;When Cocoon enters the battlefield, tap enchanted creature and put three pupa counters on Cocoon.&lt;br&gt;At the beginning of your upkeep, remove a pupa counter from Cocoon. If you can't, sacrifice it, put a +1/+1 counter on enchanted creature, and that creature gains flying. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.6
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>17
+      </num>
+      <text>Enchant creature you control&lt;br&gt;Enchanted creature doesn't untap during your untap step if Cocoon has a pupa counter on it.&lt;br&gt;When Cocoon enters the battlefield, tap enchanted creature and put three pupa counters on Cocoon.&lt;br&gt;At the beginning of your upkeep, remove a pupa counter from Cocoon. If you can't, sacrifice it, put a +1/+1 counter on enchanted creature, and that creature gains flying. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>2827
+      </id>
+      <name>Concordant Crossroads
+      </name>
+      <cost>{G}
+      </cost>
+      <type>World Enchantment
+      </type>
+      <oracleText>All creatures have haste.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.019
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>18
+      </num>
+      <text>All creatures have haste.
+      </text>
+    </mc>
+    <mc>
+      <id>2830
+      </id>
+      <name>Emerald Dragonfly
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{G}{G}: Emerald Dragonfly gains first strike until end of turn.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.977
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>19
+      </num>
+      <text>Flying&lt;br&gt;{G}{G}: Emerald Dragonfly gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2835
+      </id>
+      <name>Revelation
+      </name>
+      <cost>{G}
+      </cost>
+      <type>World Enchantment
+      </type>
+      <oracleText>Players play with their hands revealed.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.325
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>20
+      </num>
+      <text>Players play with their hands revealed.
+      </text>
+    </mc>
+    <mc>
+      <id>2837
+      </id>
+      <name>Storm Seeker
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Storm Seeker deals damage to target player equal to the number of cards in that player's hand.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.283
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>21
+      </num>
+      <text>Storm Seeker deals damage to target player equal to the number of cards in that player's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>2839
+      </id>
+      <name>Active Volcano
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Destroy target blue permanent; or return target Island to its owner's hand.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.139
+      </rating>
+      <artist>Justin Hampton
+      </artist>
+      <num>22
+      </num>
+      <text>Choose one- Destroy target blue permanent; or return target Island to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>2841
+      </id>
+      <name>Beasts of Bogardan
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Protection from red&lt;br&gt;Beasts of Bogardan gets +1/+1 as long as an opponent controls a white permanent.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.019
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>23
+      </num>
+      <text>Protection from red&lt;br&gt;Beasts of Bogardan gets +1/+1 as long as an opponent controls a white permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>2844
+      </id>
+      <name>Goblin Artisans
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Artificer
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Flip a coin. If you win the flip, draw a card. If you lose the flip, counter target artifact spell you control that isn't the target of an ability from another creature named Goblin Artisans.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.333
+      </rating>
+      <artist>Julie Baroh
+      </artist>
+      <num>24
+      </num>
+      <text>{T}: Flip a coin. If you win the flip, draw a card. If you lose the flip, counter target artifact spell you control that isn't the target of an ability from another creature named Goblin Artisans.
+      </text>
+    </mc>
+    <mc>
+      <id>2848
+      </id>
+      <name>Land's Edge
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>World Enchantment
+      </type>
+      <oracleText>Discard a card: If the discarded card is a land card, Land's Edge deals 2 damage to target player. Any player may activate this ability.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.729
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>25
+      </num>
+      <text>Discard a card: If the discarded card is a land card, Land's Edge deals 2 damage to target player. Any player may activate this ability.
+      </text>
+    </mc>
+    <mc>
+      <id>2849
+      </id>
+      <name>Mountain Yeti
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Yeti
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Mountainwalk, protection from white
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.304
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>26
+      </num>
+      <text>Mountainwalk, protection from white
+      </text>
+    </mc>
+    <mc>
+      <id>2852
+      </id>
+      <name>Wall of Opposition
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;{1}: Wall of Opposition gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.5
+      </rating>
+      <artist>Harold McNeill
+      </artist>
+      <num>27
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;{1}: Wall of Opposition gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2854
+      </id>
+      <name>Angelic Voices
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creatures you control get +1/+1 as long as you control no nonartifact, nonwhite creatures.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.5
+      </rating>
+      <artist>Julie Baroh
+      </artist>
+      <num>28
+      </num>
+      <text>Creatures you control get +1/+1 as long as you control no nonartifact, nonwhite creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>2858
+      </id>
+      <name>Indestructible Aura
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all damage that would be dealt to target creature this turn.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.55
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>29
+      </num>
+      <text>Prevent all damage that would be dealt to target creature this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2860
+      </id>
+      <name>Keepers of the Faith
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.25
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>30
+      </num>
+    </mc>
+    <mc>
+      <id>2861
+      </id>
+      <name>Petra Sphinx
+      </name>
+      <cost>{2}{W}{W}{W}
+      </cost>
+      <type>Creature - Sphinx
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{T}: Target player names a card, then reveals the top card of his or her library. If that card is the named card, that player puts it into his or her hand. If it isn't, the player puts it into his or her graveyard.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.225
+      </rating>
+      <artist>Sandra Everingham
+      </artist>
+      <num>31
+      </num>
+      <text>{T}: Target player names a card, then reveals the top card of his or her library. If that card is the named card, that player puts it into his or her hand. If it isn't, the player puts it into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>2864
+      </id>
+      <name>War Elephant
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Elephant
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Trample; banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.879
+      </rating>
+      <artist>Kristen Bishop
+      </artist>
+      <num>32
+      </num>
+      <text>Trample; banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>2865
+      </id>
+      <name>Witch Hunter
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Witch Hunter deals 1 damage to target player.&lt;br&gt;{1}{W}{W}, {T}: Return target creature an opponent controls to its owner's hand.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.333
+      </rating>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>33
+      </num>
+      <text>{T}: Witch Hunter deals 1 damage to target player.&lt;br&gt;{1}{W}{W}, {T}: Return target creature an opponent controls to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>2867
+      </id>
+      <name>Axelrod Gunnarson
+      </name>
+      <cost>{4}{B}{B}{R}{R}
+      </cost>
+      <type>Legendary Creature - Giant
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Whenever a creature dealt damage by Axelrod Gunnarson this turn dies, you gain 1 life and Axelrod deals 1 damage to target player.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.891
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>34
+      </num>
+      <text>Trample&lt;br&gt;Whenever a creature dealt damage by Axelrod Gunnarson this turn dies, you gain 1 life and Axelrod deals 1 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>2870
+      </id>
+      <name>Dakkon Blackblade
+      </name>
+      <cost>{2}{W}{U}{U}{B}
+      </cost>
+      <type>Legendary Creature - Human Warrior
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>Dakkon Blackblade's power and toughness are each equal to the number of lands you control.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.786
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>35
+      </num>
+      <text>Dakkon Blackblade's power and toughness are each equal to the number of lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>2871
+      </id>
+      <name>Gabriel Angelfire
+      </name>
+      <cost>{3}{G}{G}{W}{W}
+      </cost>
+      <type>Legendary Creature - Angel
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>At the beginning of your upkeep, choose flying, first strike, trample, or rampage 3. Gabriel Angelfire gains that ability until your next upkeep. &lt;i&gt;(Whenever a creature with rampage 3 becomes blocked, it gets +3/+3 until end of turn for each creature blocking it beyond the first.)&lt;/i&gt;
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.94
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>36
+      </num>
+      <text>At the beginning of your upkeep, choose flying, first strike, trample, or rampage 3. Gabriel Angelfire gains that ability until your next upkeep. &lt;i&gt;(Whenever a creature with rampage 3 becomes blocked, it gets +3/+3 until end of turn for each creature blocking it beyond the first.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>2874
+      </id>
+      <name>Marhault Elsdragon
+      </name>
+      <cost>{3}{R}{R}{G}
+      </cost>
+      <type>Legendary Creature - Elf Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Rampage 1 &lt;i&gt;(Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)&lt;/i&gt;
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.579
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>37
+      </num>
+      <text>Rampage 1 &lt;i&gt;(Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>2875
+      </id>
+      <name>Nebuchadnezzar
+      </name>
+      <cost>{3}{U}{B}
+      </cost>
+      <type>Legendary Creature - Human Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{X}, {T}: Name a card. Target opponent reveals X cards at random from his or her hand. Then that player discards all cards with that name revealed this way. Activate this ability only during your turn.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.667
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>38
+      </num>
+      <text>{X}, {T}: Name a card. Target opponent reveals X cards at random from his or her hand. Then that player discards all cards with that name revealed this way. Activate this ability only during your turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2877
+      </id>
+      <name>Palladia-Mors
+      </name>
+      <cost>{2}{R}{R}{G}{G}{W}{W}
+      </cost>
+      <type>Legendary Creature - Elder Dragon
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Flying, trample&lt;br&gt;At the beginning of your upkeep, sacrifice Palladia-Mors unless you pay {R}{G}{W}.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.426
+      </rating>
+      <artist>Edward Beard, Jr.
+      </artist>
+      <num>39
+      </num>
+      <text>Flying, trample&lt;br&gt;At the beginning of your upkeep, sacrifice Palladia-Mors unless you pay {R}{G}{W}.
+      </text>
+    </mc>
+    <mc>
+      <id>2882
+      </id>
+      <name>Tobias Andrion
+      </name>
+      <cost>{3}{W}{U}
+      </cost>
+      <type>Legendary Creature - Human Advisor
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.097
+      </rating>
+      <artist>Andi Rusu
+      </artist>
+      <num>40
+      </num>
+    </mc>
+    <mc>
+      <id>2886
+      </id>
+      <name>City of Brass
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Whenever City of Brass becomes tapped, it deals 1 damage to you.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.714
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>41
+      </num>
+      <text>Whenever City of Brass becomes tapped, it deals 1 damage to you.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>2838
+      </id>
+      <name>Abu Ja'far
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.536
+      </rating>
+      <artist>Ken Meyer, Jr.
+      </artist>
+      <num>42
+      </num>
+      <text>When Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>2853
+      </id>
+      <name>Akron Legionnaire
+      </name>
+      <cost>{6}{W}{W}
+      </cost>
+      <type>Creature - Giant Soldier
+      </type>
+      <power>8
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Except for creatures named Akron Legionnaire and artifact creatures, creatures you control can't attack.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.147
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>43
+      </num>
+      <text>Except for creatures named Akron Legionnaire and artifact creatures, creatures you control can't attack.
+      </text>
+    </mc>
+    <mc>
+      <id>2840
+      </id>
+      <name>Aladdin
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{R}{R}, {T}: Gain control of target artifact for as long as you control Aladdin.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.958
+      </rating>
+      <artist>Julie Baroh
+      </artist>
+      <num>44
+      </num>
+      <text>{1}{R}{R}, {T}: Gain control of target artifact for as long as you control Aladdin.
+      </text>
+    </mc>
+    <mc>
+      <id>2866
+      </id>
+      <name>Arcades Sabboth
+      </name>
+      <cost>{2}{G}{G}{W}{W}{U}{U}
+      </cost>
+      <type>Legendary Creature - Elder Dragon
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Arcades Sabboth unless you pay {G}{W}{U}.&lt;br&gt;Each untapped creature you control gets +0/+2 as long as it's not attacking.&lt;br&gt;{W}: Arcades Sabboth gets +0/+1 until end of turn.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.914
+      </rating>
+      <artist>Edward Beard, Jr.
+      </artist>
+      <num>45
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Arcades Sabboth unless you pay {G}{W}{U}.&lt;br&gt;Each untapped creature you control gets +0/+2 as long as it's not attacking.&lt;br&gt;{W}: Arcades Sabboth gets +0/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2775
+      </id>
+      <name>Arena of the Ancients
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Legendary creatures don't untap during their controllers' untap steps.&lt;br&gt;When Arena of the Ancients enters the battlefield, tap all legendary creatures.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.552
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>46
+      </num>
+      <text>Legendary creatures don't untap during their controllers' untap steps.&lt;br&gt;When Arena of the Ancients enters the battlefield, tap all legendary creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>2824
+      </id>
+      <name>Argothian Pixies
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Faerie
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Argothian Pixies can't be blocked by artifact creatures.&lt;br&gt;Prevent all damage that would be dealt to Argothian Pixies by artifact creatures.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.333
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>47
+      </num>
+      <text>Argothian Pixies can't be blocked by artifact creatures.&lt;br&gt;Prevent all damage that would be dealt to Argothian Pixies by artifact creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>2776
+      </id>
+      <name>Ashnod's Altar
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Sacrifice a creature: Add {2} to your mana pool.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.219
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>48
+      </num>
+      <text>Sacrifice a creature: Add {2} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>2777
+      </id>
+      <name>Ashnod's Transmogrant
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}, Sacrifice Ashnod's Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact in addition to its other types.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.483
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>49
+      </num>
+      <text>{T}, Sacrifice Ashnod's Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact in addition to its other types.
+      </text>
+    </mc>
+    <mc>
+      <id>2868
+      </id>
+      <name>Ayesha Tanaka
+      </name>
+      <cost>{W}{W}{U}{U}
+      </cost>
+      <type>Legendary Creature - Human Artificer
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;&lt;br&gt;{T}: Counter target activated ability from an artifact source unless that ability's controller pays {W}. &lt;i&gt;(Mana abilities can't be targeted.)&lt;/i&gt;
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.42
+      </rating>
+      <artist>Bryon Wackwitz
+      </artist>
+      <num>50
+      </num>
+      <text>Banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;&lt;br&gt;{T}: Counter target activated ability from an artifact source unless that ability's controller pays {W}. &lt;i&gt;(Mana abilities can't be targeted.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>2796
+      </id>
+      <name>Azure Drake
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.947
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>51
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>2797
+      </id>
+      <name>Banshee
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{X}, {T}: Banshee deals half X damage, rounded down, to target creature or player, and half X damage, rounded up, to you.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.579
+      </rating>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>52
+      </num>
+      <text>{X}, {T}: Banshee deals half X damage, rounded down, to target creature or player, and half X damage, rounded up, to you.
+      </text>
+    </mc>
+    <mc>
+      <id>2778
+      </id>
+      <name>Barl's Cage
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}: Target creature doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.688
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>53
+      </num>
+      <text>{3}: Target creature doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>2842
+      </id>
+      <name>Blood Moon
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Nonbasic lands are Mountains.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.104
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>54
+      </num>
+      <text>Nonbasic lands are Mountains.
+      </text>
+    </mc>
+    <mc>
+      <id>2855
+      </id>
+      <name>Blood of the Martyr
+      </name>
+      <cost>{W}{W}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, if damage would be dealt to any creature, you may have that damage dealt to you instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.881
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>55
+      </num>
+      <text>Until end of turn, if damage would be dealt to any creature, you may have that damage dealt to you instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2798
+      </id>
+      <name>Bog Rats
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Rat
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Bog Rats can't be blocked by Walls.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.87
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>56
+      </num>
+      <text>Bog Rats can't be blocked by Walls.
+      </text>
+    </mc>
+    <mc>
+      <id>2779
+      </id>
+      <name>Book of Rass
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, Pay 2 life: Draw a card.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>Sandra Everingham
+      </artist>
+      <num>57
+      </num>
+      <text>{2}, Pay 2 life: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>2799
+      </id>
+      <name>Boomerang
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target permanent to its owner's hand.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.219
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>58
+      </num>
+      <text>Return target permanent to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>2825
+      </id>
+      <name>Cat Warriors
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Cat Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Forestwalk
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.275
+      </rating>
+      <artist>Melissa Benson
+      </artist>
+      <num>59
+      </num>
+      <text>Forestwalk
+      </text>
+    </mc>
+    <mc>
+      <id>2869
+      </id>
+      <name>Chromium
+      </name>
+      <cost>{2}{W}{W}{U}{U}{B}{B}
+      </cost>
+      <type>Legendary Creature - Elder Dragon
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Rampage 2 &lt;i&gt;(Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, sacrifice Chromium unless you pay {W}{U}{B}.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.732
+      </rating>
+      <artist>Edward Beard, Jr.
+      </artist>
+      <num>60
+      </num>
+      <text>Flying&lt;br&gt;Rampage 2 &lt;i&gt;(Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, sacrifice Chromium unless you pay {W}{U}{B}.
+      </text>
+    </mc>
+    <mc>
+      <id>2828
+      </id>
+      <name>Craw Giant
+      </name>
+      <cost>{3}{G}{G}{G}{G}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>6
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Rampage 2 &lt;i&gt;(Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)&lt;/i&gt;
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.775
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>61
+      </num>
+      <text>Trample&lt;br&gt;Rampage 2 &lt;i&gt;(Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>2800
+      </id>
+      <name>Cuombajj Witches
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent's choice.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.55
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>62
+      </num>
+      <text>{T}: Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent's choice.
+      </text>
+    </mc>
+    <mc>
+      <id>2829
+      </id>
+      <name>Cyclone
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, put a wind counter on Cyclone, then sacrifice Cyclone unless you pay {G} for each wind counter on it. If you pay, Cyclone deals damage equal to the number of wind counters on it to each creature and each player.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.132
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>63
+      </num>
+      <text>At the beginning of your upkeep, put a wind counter on Cyclone, then sacrifice Cyclone unless you pay {G} for each wind counter on it. If you pay, Cyclone deals damage equal to the number of wind counters on it to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>2801
+      </id>
+      <name>Dance of Many
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Dance of Many enters the battlefield, put a token that's a copy of target nontoken creature onto the battlefield.&lt;br&gt;When Dance of Many leaves the battlefield, exile the token.&lt;br&gt;When the token leaves the battlefield, sacrifice Dance of Many.&lt;br&gt;At the beginning of your upkeep, sacrifice Dance of Many unless you pay {U}{U}.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.844
+      </rating>
+      <artist>Sandra Everingham
+      </artist>
+      <num>64
+      </num>
+      <text>When Dance of Many enters the battlefield, put a token that's a copy of target nontoken creature onto the battlefield.&lt;br&gt;When Dance of Many leaves the battlefield, exile the token.&lt;br&gt;When the token leaves the battlefield, sacrifice Dance of Many.&lt;br&gt;At the beginning of your upkeep, sacrifice Dance of Many unless you pay {U}{U}.
+      </text>
+    </mc>
+    <mc>
+      <id>2802
+      </id>
+      <name>Dandân
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Creature - Fish
+      </type>
+      <power>4
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Dandân can't attack unless defending player controls an Island.&lt;br&gt;When you control no Islands, sacrifice Dandân.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.237
+      </rating>
+      <artist>Drew Tucker
+      </artist>
+      <num>65
+      </num>
+      <text>Dandân can't attack unless defending player controls an Island.&lt;br&gt;When you control no Islands, sacrifice Dandân.
+      </text>
+    </mc>
+    <mc>
+      <id>2856
+      </id>
+      <name>D'Avenant Archer
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Soldier Archer
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: D'Avenant Archer deals 1 damage to target attacking or blocking creature.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.056
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>66
+      </num>
+      <text>{T}: D'Avenant Archer deals 1 damage to target attacking or blocking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>2857
+      </id>
+      <name>Divine Offering
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact. You gain life equal to its converted mana cost.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.667
+      </rating>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>67
+      </num>
+      <text>Destroy target artifact. You gain life equal to its converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>2831
+      </id>
+      <name>Erhnam Djinn
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Djinn
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.033
+      </rating>
+      <artist>Ken Meyer, Jr.
+      </artist>
+      <num>68
+      </num>
+      <text>At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>2804
+      </id>
+      <name>Fallen Angel
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.905
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>69
+      </num>
+      <text>Flying&lt;br&gt;Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2781
+      </id>
+      <name>Feldon's Cane
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}, Exile Feldon's Cane: Shuffle your graveyard into your library.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.458
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>70
+      </num>
+      <text>{T}, Exile Feldon's Cane: Shuffle your graveyard into your library.
+      </text>
+    </mc>
+    <mc>
+      <id>2843
+      </id>
+      <name>Fire Drake
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{R}: Fire Drake gets +1/+0 until end of turn. Activate this ability only once each turn.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.778
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>71
+      </num>
+      <text>Flying&lt;br&gt;{R}: Fire Drake gets +1/+0 until end of turn. Activate this ability only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2805
+      </id>
+      <name>Fishliver Oil
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature &lt;i&gt;(Target a creature as you cast this. This card enters the battlefield attached to that creature.)&lt;/i&gt;&lt;br&gt;Enchanted creature has islandwalk. &lt;i&gt;(This creature is unblockable as long as defending player controls an Island.)&lt;/i&gt;
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.778
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>72
+      </num>
+      <text>Enchant creature &lt;i&gt;(Target a creature as you cast this. This card enters the battlefield attached to that creature.)&lt;/i&gt;&lt;br&gt;Enchanted creature has islandwalk. &lt;i&gt;(This creature is unblockable as long as defending player controls an Island.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>2782
+      </id>
+      <name>Fountain of Youth
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}: You gain 1 life.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.556
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>73
+      </num>
+      <text>{2}, {T}: You gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>2783
+      </id>
+      <name>Gauntlets of Chaos
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{5}, Sacrifice Gauntlets of Chaos: Exchange control of target artifact, creature, or land you control and target permanent an opponent controls that shares one of those types with it. If those permanents are exchanged this way, destroy all Auras attached to them.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.846
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>74
+      </num>
+      <text>{5}, Sacrifice Gauntlets of Chaos: Exchange control of target artifact, creature, or land you control and target permanent an opponent controls that shares one of those types with it. If those permanents are exchanged this way, destroy all Auras attached to them.
+      </text>
+    </mc>
+    <mc>
+      <id>2832
+      </id>
+      <name>Ghazbán Ogre
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Ogre
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.109
+      </rating>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>75
+      </num>
+      <text>At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.
+      </text>
+    </mc>
+    <mc>
+      <id>2845
+      </id>
+      <name>Goblin Digging Team
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}, Sacrifice Goblin Digging Team: Destroy target Wall.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.912
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>76
+      </num>
+      <text>{T}, Sacrifice Goblin Digging Team: Destroy target Wall.
+      </text>
+    </mc>
+    <mc>
+      <id>2846
+      </id>
+      <name>Goblin Shrine
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;As long as enchanted land is a basic Mountain, Goblin creatures get +1/+0.&lt;br&gt;When Goblin Shrine leaves the battlefield, it deals 1 damage to each Goblin creature.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.742
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>77
+      </num>
+      <text>Enchant land&lt;br&gt;As long as enchanted land is a basic Mountain, Goblin creatures get +1/+0.&lt;br&gt;When Goblin Shrine leaves the battlefield, it deals 1 damage to each Goblin creature.
+      </text>
+    </mc>
+    <mc>
+      <id>2847
+      </id>
+      <name>Goblins of the Flarg
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Mountainwalk&lt;br&gt;When you control a Dwarf, sacrifice Goblins of the Flarg.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.812
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>78
+      </num>
+      <text>Mountainwalk&lt;br&gt;When you control a Dwarf, sacrifice Goblins of the Flarg.
+      </text>
+    </mc>
+    <mc>
+      <id>2808
+      </id>
+      <name>Hasran Ogress
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Ogre
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.645
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>79
+      </num>
+      <text>Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.
+      </text>
+    </mc>
+    <mc>
+      <id>2809
+      </id>
+      <name>Hell's Caretaker
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate this ability only during your upkeep.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.208
+      </rating>
+      <artist>Sandra Everingham
+      </artist>
+      <num>80
+      </num>
+      <text>{T}, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate this ability only during your upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>2859
+      </id>
+      <name>Ivory Guardians
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Creature - Giant Cleric
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Protection from red&lt;br&gt;Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a nontoken red permanent.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.475
+      </rating>
+      <artist>Melissa Benson
+      </artist>
+      <num>81
+      </num>
+      <text>Protection from red&lt;br&gt;Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a nontoken red permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>2785
+      </id>
+      <name>Jalum Tome
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}: Draw a card, then discard a card.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.806
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>82
+      </num>
+      <text>{2}, {T}: Draw a card, then discard a card.
+      </text>
+    </mc>
+    <mc>
+      <id>2786
+      </id>
+      <name>Jeweled Bird
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Remove Jeweled Bird from your deck before playing if you're not playing for ante.&lt;br&gt;{T}: Put Jeweled Bird into the ante. If you do, put all other cards you own from the ante into your graveyard, then draw a card.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.0
+      </rating>
+      <artist>Amy Weber
+      </artist>
+      <num>83
+      </num>
+      <text>Remove Jeweled Bird from your deck before playing if you're not playing for ante.&lt;br&gt;{T}: Put Jeweled Bird into the ante. If you do, put all other cards you own from the ante into your graveyard, then draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>2872
+      </id>
+      <name>Johan
+      </name>
+      <cost>{3}{R}{G}{W}
+      </cost>
+      <type>Legendary Creature - Human Wizard
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>At the beginning of combat on your turn, you may have Johan gain "Johan can't attack" until end of combat. If you do, attacking doesn't cause creatures you control to tap this combat if Johan is untapped.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.179
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>84
+      </num>
+      <text>At the beginning of combat on your turn, you may have Johan gain "Johan can't attack" until end of combat. If you do, attacking doesn't cause creatures you control to tap this combat if Johan is untapped.
+      </text>
+    </mc>
+    <mc>
+      <id>2810
+      </id>
+      <name>Juxtapose
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.429
+      </rating>
+      <artist>Justin Hampton
+      </artist>
+      <num>85
+      </num>
+      <text>You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.
+      </text>
+    </mc>
+    <mc>
+      <id>2873
+      </id>
+      <name>Kei Takahashi
+      </name>
+      <cost>{2}{G}{W}
+      </cost>
+      <type>Legendary Creature - Human Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Prevent the next 2 damage that would be dealt to target creature this turn.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.524
+      </rating>
+      <artist>Scott Kirschner
+      </artist>
+      <num>86
+      </num>
+      <text>{T}: Prevent the next 2 damage that would be dealt to target creature this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2787
+      </id>
+      <name>Living Armor
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}, Sacrifice Living Armor: Put X +0/+1 counters on target creature, where X is that creature's converted mana cost.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.706
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>87
+      </num>
+      <text>{T}, Sacrifice Living Armor: Put X +0/+1 counters on target creature, where X is that creature's converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>2833
+      </id>
+      <name>Metamorphosis
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Metamorphosis, sacrifice a creature.&lt;br&gt;Add X mana of any one color to your mana pool, where X is one plus the sacrificed creature's converted mana cost. Spend this mana only to cast creature spells.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.44
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>88
+      </num>
+      <text>As an additional cost to cast Metamorphosis, sacrifice a creature.&lt;br&gt;Add X mana of any one color to your mana pool, where X is one plus the sacrificed creature's converted mana cost. Spend this mana only to cast creature spells.
+      </text>
+    </mc>
+    <mc>
+      <id>2876
+      </id>
+      <name>Nicol Bolas
+      </name>
+      <cost>{2}{U}{U}{B}{B}{R}{R}
+      </cost>
+      <type>Legendary Creature - Elder Dragon
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.&lt;br&gt;Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.16
+      </rating>
+      <artist>Edward Beard, Jr.
+      </artist>
+      <num>89
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.&lt;br&gt;Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.
+      </text>
+    </mc>
+    <mc>
+      <id>2788
+      </id>
+      <name>Obelisk of Undoing
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{6}, {T}: Return target permanent you both own and control to your hand.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>0.736
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>90
+      </num>
+      <text>{6}, {T}: Return target permanent you both own and control to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>2850
+      </id>
+      <name>Primordial Ooze
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Ooze
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Primordial Ooze attacks each turn if able.&lt;br&gt;At the beginning of your upkeep, put a +1/+1 counter on Primordial Ooze. Then you may pay {X}, where X is the number of +1/+1 counters on it. If you don't, tap Primordial Ooze and it deals X damage to you.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.382
+      </rating>
+      <artist>Sandra Everingham
+      </artist>
+      <num>91
+      </num>
+      <text>Primordial Ooze attacks each turn if able.&lt;br&gt;At the beginning of your upkeep, put a +1/+1 counter on Primordial Ooze. Then you may pay {X}, where X is the number of +1/+1 counters on it. If you don't, tap Primordial Ooze and it deals X damage to you.
+      </text>
+    </mc>
+    <mc>
+      <id>2834
+      </id>
+      <name>Rabid Wombat
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Wombat
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;Rabid Wombat gets +2/+2 for each Aura attached to it.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.18
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>92
+      </num>
+      <text>Vigilance&lt;br&gt;Rabid Wombat gets +2/+2 for each Aura attached to it.
+      </text>
+    </mc>
+    <mc>
+      <id>2789
+      </id>
+      <name>Rakalite
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}: Prevent the next 1 damage that would be dealt to target creature or player this turn. Return Rakalite to its owner's hand at the beginning of the next end step.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>0.797
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>93
+      </num>
+      <text>{2}: Prevent the next 1 damage that would be dealt to target creature or player this turn. Return Rakalite to its owner's hand at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>2812
+      </id>
+      <name>Recall
+      </name>
+      <cost>{X}{X}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Discard X cards, then return a card from your graveyard to your hand for each card discarded this way. Exile Recall.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.588
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>94
+      </num>
+      <text>Discard X cards, then return a card from your graveyard to your hand for each card discarded this way. Exile Recall.
+      </text>
+    </mc>
+    <mc>
+      <id>2813
+      </id>
+      <name>Remove Soul
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target creature spell.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.786
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>95
+      </num>
+      <text>Counter target creature spell.
+      </text>
+    </mc>
+    <mc>
+      <id>2862
+      </id>
+      <name>Repentant Blacksmith
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Protection from red
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.083
+      </rating>
+      <artist>Drew Tucker
+      </artist>
+      <num>96
+      </num>
+      <text>Protection from red
+      </text>
+    </mc>
+    <mc>
+      <id>2878
+      </id>
+      <name>Rubinia Soulsinger
+      </name>
+      <cost>{2}{G}{W}{U}
+      </cost>
+      <type>Legendary Creature - Faerie
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>You may choose not to untap Rubinia Soulsinger during your untap step.&lt;br&gt;{T}: Gain control of target creature for as long as you control Rubinia and Rubinia remains tapped.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.182
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>97
+      </num>
+      <text>You may choose not to untap Rubinia Soulsinger during your untap step.&lt;br&gt;{T}: Gain control of target creature for as long as you control Rubinia and Rubinia remains tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>2887
+      </id>
+      <name>Safe Haven
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{2}, {T}: Exile target creature you control.&lt;br&gt;At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return each card exiled with Safe Haven to the battlefield under its owner's control.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.033
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>98
+      </num>
+      <text>{2}, {T}: Exile target creature you control.&lt;br&gt;At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return each card exiled with Safe Haven to the battlefield under its owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>2836
+      </id>
+      <name>Scavenger Folk
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Human
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.559
+      </rating>
+      <artist>Dennis Detwiller
+      </artist>
+      <num>99
+      </num>
+      <text>{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>2792
+      </id>
+      <name>Serpent Generator
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{4}, {T}: Put a 1/1 colorless Snake artifact creature token onto the battlefield. It has "Whenever this creature deals damage to a player, that player gets a poison counter." &lt;i&gt;(A player with ten or more poison counters loses the game.)&lt;/i&gt;
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.781
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>100
+      </num>
+      <text>{4}, {T}: Put a 1/1 colorless Snake artifact creature token onto the battlefield. It has "Whenever this creature deals damage to a player, that player gets a poison counter." &lt;i&gt;(A player with ten or more poison counters loses the game.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>2863
+      </id>
+      <name>Shield Wall
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Creatures you control get +0/+2 until end of turn.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.706
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>101
+      </num>
+      <text>Creatures you control get +0/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2879
+      </id>
+      <name>Sivitri Scarzam
+      </name>
+      <cost>{5}{U}{B}
+      </cost>
+      <type>Legendary Creature - Human
+      </type>
+      <power>6
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>0.944
+      </rating>
+      <artist>NéNé Thomas
+      </artist>
+      <num>102
+      </num>
+    </mc>
+    <mc>
+      <id>2880
+      </id>
+      <name>Sol'kanar the Swamp King
+      </name>
+      <cost>{2}{U}{B}{R}
+      </cost>
+      <type>Legendary Creature - Demon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Swampwalk&lt;br&gt;Whenever a player casts a black spell, you gain 1 life.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.175
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>103
+      </num>
+      <text>Swampwalk&lt;br&gt;Whenever a player casts a black spell, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>2881
+      </id>
+      <name>Stangg
+      </name>
+      <cost>{4}{R}{G}
+      </cost>
+      <type>Legendary Creature - Human Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Stangg enters the battlefield, put a legendary 3/4 red and green Human Warrior creature token named Stangg Twin onto the battlefield. When Stangg leaves the battlefield, exile that token. When that token leaves the battlefield, sacrifice Stangg.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.98
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>104
+      </num>
+      <text>When Stangg enters the battlefield, put a legendary 3/4 red and green Human Warrior creature token named Stangg Twin onto the battlefield. When Stangg leaves the battlefield, exile that token. When that token leaves the battlefield, sacrifice Stangg.
+      </text>
+    </mc>
+    <mc>
+      <id>2818
+      </id>
+      <name>The Wretched
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Demon
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>At end of combat, gain control of all creatures blocking The Wretched for as long as you control The Wretched.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.639
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>105
+      </num>
+      <text>At end of combat, gain control of all creatures blocking The Wretched for as long as you control The Wretched.
+      </text>
+    </mc>
+    <mc>
+      <id>2883
+      </id>
+      <name>Tor Wauki
+      </name>
+      <cost>{2}{B}{B}{R}
+      </cost>
+      <type>Legendary Creature - Human Archer
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Tor Wauki deals 2 damage to target attacking or blocking creature.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.147
+      </rating>
+      <artist>Randy Asplund-Faith
+      </artist>
+      <num>106
+      </num>
+      <text>{T}: Tor Wauki deals 2 damage to target attacking or blocking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>2793
+      </id>
+      <name>Tormod's Crypt
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}, Sacrifice Tormod's Crypt: Exile all cards from target player's graveyard.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.294
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>107
+      </num>
+      <text>{T}, Sacrifice Tormod's Crypt: Exile all cards from target player's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>2794
+      </id>
+      <name>Triassic Egg
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}, {T}: Put a hatchling counter on Triassic Egg.&lt;br&gt;Sacrifice Triassic Egg: Choose one- You may put a creature card from your hand onto the battlefield; or return target creature card from your graveyard to the battlefield. Activate this ability only if two or more hatchling counters are on Triassic Egg.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.447
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>108
+      </num>
+      <text>{3}, {T}: Put a hatchling counter on Triassic Egg.&lt;br&gt;Sacrifice Triassic Egg: Choose one- You may put a creature card from your hand onto the battlefield; or return target creature card from your graveyard to the battlefield. Activate this ability only if two or more hatchling counters are on Triassic Egg.
+      </text>
+    </mc>
+    <mc>
+      <id>2891
+      </id>
+      <name>Urza's Mine
+      </name>
+      <type>Land - Urza's Mine
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.824
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>109
+      </num>
+      <text>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2890
+      </id>
+      <name>Urza's Mine
+      </name>
+      <type>Land - Urza's Mine
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.154
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>110
+      </num>
+      <text>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2889
+      </id>
+      <name>Urza's Mine
+      </name>
+      <type>Land - Urza's Mine
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.905
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>111
+      </num>
+      <text>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2888
+      </id>
+      <name>Urza's Mine
+      </name>
+      <type>Land - Urza's Mine
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.068
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>112
+      </num>
+      <text>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2895
+      </id>
+      <name>Urza's Power Plant
+      </name>
+      <type>Land - Urza's Power-Plant
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.767
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>113
+      </num>
+      <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2894
+      </id>
+      <name>Urza's Power Plant
+      </name>
+      <type>Land - Urza's Power-Plant
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.1
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>114
+      </num>
+      <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2893
+      </id>
+      <name>Urza's Power Plant
+      </name>
+      <type>Land - Urza's Power-Plant
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.794
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>115
+      </num>
+      <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2892
+      </id>
+      <name>Urza's Power Plant
+      </name>
+      <type>Land - Urza's Power-Plant
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.929
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>116
+      </num>
+      <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2899
+      </id>
+      <name>Urza's Tower
+      </name>
+      <type>Land - Urza's Tower
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>117
+      </num>
+      <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2898
+      </id>
+      <name>Urza's Tower
+      </name>
+      <type>Land - Urza's Tower
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.913
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>118
+      </num>
+      <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2897
+      </id>
+      <name>Urza's Tower
+      </name>
+      <type>Land - Urza's Tower
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.909
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>119
+      </num>
+      <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2896
+      </id>
+      <name>Urza's Tower
+      </name>
+      <type>Land - Urza's Tower
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.146
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>120
+      </num>
+      <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.
+      </text>
+    </mc>
+    <mc>
+      <id>2884
+      </id>
+      <name>Vaevictis Asmadi
+      </name>
+      <cost>{2}{B}{B}{R}{R}{G}{G}
+      </cost>
+      <type>Legendary Creature - Elder Dragon
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Vaevictis Asmadi unless you pay {B}{R}{G}.&lt;br&gt;{B}: Vaevictis Asmadi gets +1/+0 until end of turn.&lt;br&gt;{R}: Vaevictis Asmadi gets +1/+0 until end of turn.&lt;br&gt;{G}: Vaevictis Asmadi gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.812
+      </rating>
+      <artist>Andi Rusu
+      </artist>
+      <num>121
+      </num>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, sacrifice Vaevictis Asmadi unless you pay {B}{R}{G}.&lt;br&gt;{B}: Vaevictis Asmadi gets +1/+0 until end of turn.&lt;br&gt;{R}: Vaevictis Asmadi gets +1/+0 until end of turn.&lt;br&gt;{G}: Vaevictis Asmadi gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>2851
+      </id>
+      <name>Wall of Heat
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>2
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.611
+      </rating>
+      <artist>Richard Thomas
+      </artist>
+      <num>122
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>2822
+      </id>
+      <name>Wall of Wonder
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>1
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;{2}{U}{U}: Wall of Wonder gets +4/-4 until end of turn and can attack this turn as though it didn't have defender.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.294
+      </rating>
+      <artist>Richard Thomas
+      </artist>
+      <num>123
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;{2}{U}{U}: Wall of Wonder gets +4/-4 until end of turn and can attack this turn as though it didn't have defender.
+      </text>
+    </mc>
+    <mc>
+      <id>2885
+      </id>
+      <name>Xira Arien
+      </name>
+      <cost>{B}{R}{G}
+      </cost>
+      <type>Legendary Creature - Insect Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{B}{R}{G}, {T}: Target player draws a card.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.15
+      </rating>
+      <artist>Melissa Benson
+      </artist>
+      <num>124
+      </num>
+      <text>Flying&lt;br&gt;{B}{R}{G}, {T}: Target player draws a card.
+      </text>
+    </mc>
+    <mc>
+      <id>2823
+      </id>
+      <name>Yawgmoth Demon
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Demon
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;&lt;br&gt;First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, you may sacrifice an artifact. If you don't, tap Yawgmoth Demon and it deals 2 damage to you.
+      </oracleText>
+      <edition>Chronicles
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.853
+      </rating>
+      <artist>Sandra Everingham
+      </artist>
+      <num>125
+      </num>
+      <text>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;&lt;br&gt;First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, you may sacrifice an artifact. If you don't, tap Yawgmoth Demon and it deals 2 damage to you.
+      </text>
+    </mc>
+  </list>
+</cards>

@@ -1,0 +1,1409 @@
+
+<cards>
+  <name>Starter_2000</name>
+  <key>Starter_2000</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>25485
+      </id>
+      <name>Moon Sprite
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Faerie
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.5
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>1
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>25456
+      </id>
+      <name>Angelic Blessing
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +3/+3 and gains flying until end of turn. &lt;i&gt;(It can't be blocked except by creatures with flying or reach.)&lt;/i&gt;
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.9
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>2
+      </num>
+      <text>Target creature gets +3/+3 and gains flying until end of turn. &lt;i&gt;(It can't be blocked except by creatures with flying or reach.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>25498
+      </id>
+      <name>Armored Pegasus
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Pegasus
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>3
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>25492
+      </id>
+      <name>Bog Imp
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Imp
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.219
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>4
+      </num>
+      <text>Flying &lt;i&gt;(This creature can't be blocked except by creatures with flying or reach.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>25447
+      </id>
+      <name>Breath of Life
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target creature card from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.267
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>5
+      </num>
+      <text>Return target creature card from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>25477
+      </id>
+      <name>Coercion
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals his or her hand. You choose a card from it. That player discards that card.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.684
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>6
+      </num>
+      <text>Target opponent reveals his or her hand. You choose a card from it. That player discards that card.
+      </text>
+    </mc>
+    <mc>
+      <id>25503
+      </id>
+      <name>Counterspell
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.742
+      </rating>
+      <artist>Hannibal King
+      </artist>
+      <num>7
+      </num>
+      <text>Counter target spell.
+      </text>
+    </mc>
+    <mc>
+      <id>25500
+      </id>
+      <name>Disenchant
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.237
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>8
+      </num>
+      <text>Destroy target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>25507
+      </id>
+      <name>Drudge Skeletons
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Skeleton
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{B}: Regenerate Drudge Skeletons. &lt;i&gt;(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)&lt;/i&gt;
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.625
+      </rating>
+      <artist>Ian Miller
+      </artist>
+      <num>9
+      </num>
+      <text>{B}: Regenerate Drudge Skeletons. &lt;i&gt;(The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>25493
+      </id>
+      <name>Durkwood Boars
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Boar
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.788
+      </rating>
+      <artist>Mike Kimble
+      </artist>
+      <num>10
+      </num>
+    </mc>
+    <mc>
+      <id>25455
+      </id>
+      <name>Eager Cadet
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.143
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>11
+      </num>
+    </mc>
+    <mc>
+      <id>25514
+      </id>
+      <name>Flame Spirit
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Elemental Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{R}: Flame Spirit gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.321
+      </rating>
+      <artist>Justin Hampton
+      </artist>
+      <num>12
+      </num>
+      <text>{R}: Flame Spirit gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>25510
+      </id>
+      <name>Flight
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has flying.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.208
+      </rating>
+      <artist>Jerry Tiritilli
+      </artist>
+      <num>13
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has flying.
+      </text>
+    </mc>
+    <mc>
+      <id>25483
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.594
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>14
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>25482
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.667
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>15
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>25502
+      </id>
+      <name>Giant Growth
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.923
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>16
+      </num>
+      <text>Target creature gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>25457
+      </id>
+      <name>Giant Octopus
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Octopus
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.367
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>17
+      </num>
+    </mc>
+    <mc>
+      <id>25486
+      </id>
+      <name>Goblin Hero
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.37
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>18
+      </num>
+    </mc>
+    <mc>
+      <id>25490
+      </id>
+      <name>Hand of Death
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target nonblack creature.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.7
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>19
+      </num>
+      <text>Destroy target nonblack creature.
+      </text>
+    </mc>
+    <mc>
+      <id>25536
+      </id>
+      <name>Hero's Resolve
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+5.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.261
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>20
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+5.
+      </text>
+    </mc>
+    <mc>
+      <id>25526
+      </id>
+      <name>Inspiration
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player draws two cards.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.607
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>21
+      </num>
+      <text>Target player draws two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>25452
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.385
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>22
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>25451
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.059
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>23
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>25450
+      </id>
+      <name>Knight Errant
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.107
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>24
+      </num>
+    </mc>
+    <mc>
+      <id>25488
+      </id>
+      <name>Lava Axe
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Lava Axe deals 5 damage to target player.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.136
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>25
+      </num>
+      <text>Lava Axe deals 5 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>25508
+      </id>
+      <name>Llanowar Elves
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Add {G} to your mana pool.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.429
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>26
+      </num>
+      <text>{T}: Add {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>25458
+      </id>
+      <name>Merfolk of the Pearl Trident
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Merfolk
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.932
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>27
+      </num>
+    </mc>
+    <mc>
+      <id>25491
+      </id>
+      <name>Mons's Goblin Raiders
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.851
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>28
+      </num>
+    </mc>
+    <mc>
+      <id>25475
+      </id>
+      <name>Monstrous Growth
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +4/+4 until end of turn.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.8
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>29
+      </num>
+      <text>Target creature gets +4/+4 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>25481
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.579
+      </rating>
+      <artist>Brian Durfee
+      </artist>
+      <num>30
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>25480
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.15
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>31
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>25528
+      </id>
+      <name>Obsianus Golem
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>4
+      </power>
+      <toughness>6
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.182
+      </rating>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>32
+      </num>
+    </mc>
+    <mc>
+      <id>25476
+      </id>
+      <name>Ogre Warrior
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Ogre Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.194
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>33
+      </num>
+    </mc>
+    <mc>
+      <id>25540
+      </id>
+      <name>Orcish Oriflamme
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Attacking creatures you control get +1/+0.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.386
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>34
+      </num>
+      <text>Attacking creatures you control get +1/+0.
+      </text>
+    </mc>
+    <mc>
+      <id>25454
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.727
+      </rating>
+      <artist>Fred Fields
+      </artist>
+      <num>35
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>25453
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.727
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>36
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>25506
+      </id>
+      <name>Prodigal Sorcerer
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Prodigal Sorcerer deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>37
+      </num>
+      <text>{T}: Prodigal Sorcerer deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>25499
+      </id>
+      <name>Python
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.679
+      </rating>
+      <artist>Steve White
+      </artist>
+      <num>38
+      </num>
+    </mc>
+    <mc>
+      <id>25529
+      </id>
+      <name>Rod of Ruin
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.775
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>39
+      </num>
+      <text>{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>25459
+      </id>
+      <name>Royal Falcon
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.306
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>40
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>25533
+      </id>
+      <name>Samite Healer
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.714
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>41
+      </num>
+      <text>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>25487
+      </id>
+      <name>Scathe Zombies
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.211
+      </rating>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>42
+      </num>
+    </mc>
+    <mc>
+      <id>25460
+      </id>
+      <name>Sea Eagle
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.4
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>43
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>25501
+      </id>
+      <name>Shock
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Shock deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.031
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>44
+      </num>
+      <text>Shock deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>25543
+      </id>
+      <name>Soul Net
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Whenever a creature dies, you may pay {1}. If you do, you gain 1 life.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.077
+      </rating>
+      <artist>Andrew Robinson
+      </artist>
+      <num>45
+      </num>
+      <text>Whenever a creature dies, you may pay {1}. If you do, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>25496
+      </id>
+      <name>Spined Wurm
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.731
+      </rating>
+      <artist>Keith Parkinson
+      </artist>
+      <num>46
+      </num>
+    </mc>
+    <mc>
+      <id>25497
+      </id>
+      <name>Stone Rain
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target land.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.118
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>47
+      </num>
+      <text>Destroy target land.
+      </text>
+    </mc>
+    <mc>
+      <id>25479
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.357
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>48
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>25478
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.962
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>49
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>25504
+      </id>
+      <name>Terror
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonartifact, nonblack creature. It can't be regenerated.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.071
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>50
+      </num>
+      <text>Destroy target nonartifact, nonblack creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>25462
+      </id>
+      <name>Time Ebb
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put target creature on top of its owner's library.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Alan Rabinowitz
+      </artist>
+      <num>51
+      </num>
+      <text>Put target creature on top of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>25494
+      </id>
+      <name>Trained Orgg
+      </name>
+      <cost>{6}{R}
+      </cost>
+      <type>Creature - Orgg
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.312
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>52
+      </num>
+    </mc>
+    <mc>
+      <id>25515
+      </id>
+      <name>Venerable Monk
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Monk Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Venerable Monk enters the battlefield, you gain 2 life.
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.615
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>53
+      </num>
+      <text>When Venerable Monk enters the battlefield, you gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>25463
+      </id>
+      <name>Vizzerdrix
+      </name>
+      <cost>{6}{U}
+      </cost>
+      <type>Creature - Rabbit Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>54
+      </num>
+    </mc>
+    <mc>
+      <id>25449
+      </id>
+      <name>Wild Griffin
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Griffin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.861
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>55
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>25484
+      </id>
+      <name>Willow Elf
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.621
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>56
+      </num>
+    </mc>
+    <mc>
+      <id>25448
+      </id>
+      <name>Wind Drake
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Starter 2000
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.625
+      </rating>
+      <artist>Zina Saunders
+      </artist>
+      <num>57
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+  </list>
+</cards>

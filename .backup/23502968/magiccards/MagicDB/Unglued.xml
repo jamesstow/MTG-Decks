@@ -1,0 +1,2339 @@
+
+<cards>
+  <name>Unglued</name>
+  <key>Unglued</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>10717
+      </id>
+      <name>Temp of the Damned
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Summon- Zombie
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When you play Temp of the Damned, roll a six-sided die. Temp of the Damned comes into play with a number of funk counters on it equal to the die roll.&lt;br&gt;During your upkeep, remove a funk counter from Temp of the Damned or sacrifice Temp of the Damned.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.971
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>38
+      </num>
+      <text>When you play Temp of the Damned, roll a six-sided die. Temp of the Damned comes into play with a number of funk counters on it equal to the die roll.&lt;br&gt;During your upkeep, remove a funk counter from Temp of the Damned or sacrifice Temp of the Damned.
+      </text>
+    </mc>
+    <mc>
+      <id>5648
+      </id>
+      <name>Rock Lobster
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Scissors Lizards cannot attack or block.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.871
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>79
+      </num>
+      <text>Scissors Lizards cannot attack or block.
+      </text>
+    </mc>
+    <mc>
+      <id>5698
+      </id>
+      <name>Scissors Lizard
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Paper Tigers cannot attack or block.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.125
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>80
+      </num>
+      <text>Paper Tigers cannot attack or block.
+      </text>
+    </mc>
+    <mc>
+      <id>5705
+      </id>
+      <name>Paper Tiger
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Rock Lobsters cannot attack or block.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.667
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>78
+      </num>
+      <text>Rock Lobsters cannot attack or block.
+      </text>
+    </mc>
+    <mc>
+      <id>5712
+      </id>
+      <name>Chaos Confetti
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>o4, ocT: Tear Chaos Confetti into pieces. Throw the pieces onto the playing area from a distance of at least five feet. Destroy each card in play that a piece touches. Remove the pieces from the game afterwards.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.152
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>72
+      </num>
+      <text>o4, ocT: Tear Chaos Confetti into pieces. Throw the pieces onto the playing area from a distance of at least five feet. Destroy each card in play that a piece touches. Remove the pieces from the game afterwards.
+      </text>
+    </mc>
+    <mc>
+      <id>5725
+      </id>
+      <name>Mesa Chicken
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Summon- Chicken
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Stand up, Flap your arms, Cluck like a chicken: Mesa Chicken gains flying until end of turn.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.786
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>9
+      </num>
+      <text>Stand up, Flap your arms, Cluck like a chicken: Mesa Chicken gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>5726
+      </id>
+      <name>Double Dip
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose another player. Gain 5 life now and an additional 5 life at the beginning of the next game with that player.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.208
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>3
+      </num>
+      <text>Choose another player. Gain 5 life now and an additional 5 life at the beginning of the next game with that player.
+      </text>
+    </mc>
+    <mc>
+      <id>5755
+      </id>
+      <name>Sex Appeal
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent up to 3 damage total to any number of creatures and/or players. If there are more players in the room of the opposite sex, prevent up to 3 additional damage total to any number of creatures and/or players.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.625
+      </rating>
+      <artist>Matthew Wilson
+      </artist>
+      <num>13
+      </num>
+      <text>Prevent up to 3 damage total to any number of creatures and/or players. If there are more players in the room of the opposite sex, prevent up to 3 additional damage total to any number of creatures and/or players.
+      </text>
+    </mc>
+    <mc>
+      <id>5763
+      </id>
+      <name>Clambassadors
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Summon- Clamfolk
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>If Clambassadors damages any player, choose an artifact, creature, or land you control. That player gains control of that artifact, creature, or land.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.6
+      </rating>
+      <artist>Randy Elliott
+      </artist>
+      <num>18
+      </num>
+      <text>If Clambassadors damages any player, choose an artifact, creature, or land you control. That player gains control of that artifact, creature, or land.
+      </text>
+    </mc>
+    <mc>
+      <id>5770
+      </id>
+      <name>Clam-I-Am
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Summon- Clamfolk
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever you roll a 3 on a six-sided die, you may reroll that die.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.206
+      </rating>
+      <artist>Randy Elliott
+      </artist>
+      <num>19
+      </num>
+      <text>Whenever you roll a 3 on a six-sided die, you may reroll that die.
+      </text>
+    </mc>
+    <mc>
+      <id>5800
+      </id>
+      <name>Denied!
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Interrupt
+      </type>
+      <oracleText>Play Denied only as any opponent casts target spell. Name a card, then look at all cards in that player's hand. If the named card is in the player's hand, counter target spell.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.75
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>22
+      </num>
+      <text>Play Denied only as any opponent casts target spell. Name a card, then look at all cards in that player's hand. If the named card is in the player's hand, counter target spell.
+      </text>
+    </mc>
+    <mc>
+      <id>5822
+      </id>
+      <name>Fowl Play
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchant Creature
+      </type>
+      <oracleText>Enchanted creature loses all abilities and is a 1/1 creature that counts as a Chicken.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.294
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>24
+      </num>
+      <text>Enchanted creature loses all abilities and is a 1/1 creature that counts as a Chicken.
+      </text>
+    </mc>
+    <mc>
+      <id>5824
+      </id>
+      <name>Clam Session
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Summon- Clamfolk
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>When Clam Session comes into play, choose a word. &lt;br&gt;During your upkeep, sing at least six words of a song, one of which must be the chosen word, or sacrifice Clam Session. You cannot repeat a song.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.194
+      </rating>
+      <artist>Randy Elliott
+      </artist>
+      <num>20
+      </num>
+      <text>When Clam Session comes into play, choose a word. &lt;br&gt;During your upkeep, sing at least six words of a song, one of which must be the chosen word, or sacrifice Clam Session. You cannot repeat a song.
+      </text>
+    </mc>
+    <mc>
+      <id>5839
+      </id>
+      <name>Deadhead
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Summon- Zombie
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Put Deadhead into play. Use this ability only if any opponent loses contact with his or her hand of cards and only if Deadhead is in your graveyard.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.889
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>30
+      </num>
+      <text>Put Deadhead into play. Use this ability only if any opponent loses contact with his or her hand of cards and only if Deadhead is in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>5846
+      </id>
+      <name>Double Cross
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose another player. Look at that player's hand and choose one of those cards other than a basic land. He or she discards that card. At the beginning of the next game with the player, look at the player's hand and choose one of those cards other than a basic land. He or she discards that card.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.25
+      </rating>
+      <artist>Jeff Laubenstein
+      </artist>
+      <num>31
+      </num>
+      <text>Choose another player. Look at that player's hand and choose one of those cards other than a basic land. He or she discards that card. At the beginning of the next game with the player, look at the player's hand and choose one of those cards other than a basic land. He or she discards that card.
+      </text>
+    </mc>
+    <mc>
+      <id>5864
+      </id>
+      <name>Poultrygeist
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Summon- Chicken
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a creature is put into any graveyard from play, you may roll a six-sided die. On a 1, sacrifice Poultrygeist. Otherwise, put a +1/+1 counter on Poultrygeist.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.2
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>37
+      </num>
+      <text>Flying&lt;br&gt;Whenever a creature is put into any graveyard from play, you may roll a six-sided die. On a 1, sacrifice Poultrygeist. Otherwise, put a +1/+1 counter on Poultrygeist.
+      </text>
+    </mc>
+    <mc>
+      <id>8812
+      </id>
+      <name>Double Deal
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose another player. Double Deal deals 3 damage to that player now and deals an additional 3 damage to the player at the beginning of the next game with the player.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.618
+      </rating>
+      <artist>Edward P. Beard, Jr
+      </artist>
+      <num>42
+      </num>
+      <text>Choose another player. Double Deal deals 3 damage to that player now and deals an additional 3 damage to the player at the beginning of the next game with the player.
+      </text>
+    </mc>
+    <mc>
+      <id>8904
+      </id>
+      <name>Hurloon Wrangler
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Summon- Minotaur
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Denimwalk &lt;i&gt;(If defending player is wearing any clothing made of denim, this creature is unblockable.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.018
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>46
+      </num>
+      <text>Denimwalk &lt;i&gt;(If defending player is wearing any clothing made of denim, this creature is unblockable.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>9665
+      </id>
+      <name>Goblin Bookie
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Summon- Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>oR, ocT: Reflip any coin or reroll any die.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.9
+      </rating>
+      <artist>Claymore J. Flapdoodle
+      </artist>
+      <num>43
+      </num>
+      <text>oR, ocT: Reflip any coin or reroll any die.
+      </text>
+    </mc>
+    <mc>
+      <id>9666
+      </id>
+      <name>Goblin Bowling Team
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Summon- Goblins
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Goblin Bowling Team damages any creature or player, roll a six-sided die. Goblin Bowling Team deals to that creature or player additional damage equal to the die roll.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.536
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>44
+      </num>
+      <text>Whenever Goblin Bowling Team damages any creature or player, roll a six-sided die. Goblin Bowling Team deals to that creature or player additional damage equal to the die roll.
+      </text>
+    </mc>
+    <mc>
+      <id>9667
+      </id>
+      <name>Chicken Egg
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Summon- Egg
+      </type>
+      <power>0
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>During your upkeep, roll a six-sided die. On a 6, sacrifice Chicken Egg and put a Giant Chicken token into play. Treat this token as a 4/4 red creature that counts as a Chicken.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.25
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>41
+      </num>
+      <text>During your upkeep, roll a six-sided die. On a 6, sacrifice Chicken Egg and put a Giant Chicken token into play. Treat this token as a 4/4 red creature that counts as a Chicken.
+      </text>
+    </mc>
+    <mc>
+      <id>9668
+      </id>
+      <name>Ghazbán Ogress
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Summon- Ogre
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Ghazbán Ogress comes into play, the player who has won the most Magic games that day gains control of it. If more than one player has won the same number of games, you retain control of Ghazbán Ogress.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.857
+      </rating>
+      <artist>Mike Raabe
+      </artist>
+      <num>60
+      </num>
+      <text>When Ghazbán Ogress comes into play, the player who has won the most Magic games that day gains control of it. If more than one player has won the same number of games, you retain control of Ghazbán Ogress.
+      </text>
+    </mc>
+    <mc>
+      <id>9669
+      </id>
+      <name>Elvish Impersonators
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Summon- Elves
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>When you play Elvish Impersonators, roll two six-sided dice one after the other. Elvish Impersonators comes into play with power equal to the first die roll and toughness equal to the second.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.735
+      </rating>
+      <artist>Claymore J. Flapdoodle
+      </artist>
+      <num>56
+      </num>
+      <text>When you play Elvish Impersonators, roll two six-sided dice one after the other. Elvish Impersonators comes into play with power equal to the first die roll and toughness equal to the second.
+      </text>
+    </mc>
+    <mc>
+      <id>9670
+      </id>
+      <name>Gus
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Summon- Gus
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Gus comes into play with one +1/+1 counter on it for each game you have lost to your opponent since you last won a Magic game against him or her.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.579
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>62
+      </num>
+      <text>Gus comes into play with one +1/+1 counter on it for each game you have lost to your opponent since you last won a Magic game against him or her.
+      </text>
+    </mc>
+    <mc>
+      <id>9671
+      </id>
+      <name>Growth Spurt
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Roll a six-sided die. Target creature gets +X/+X until end of turn, where X is equal to the die roll.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.412
+      </rating>
+      <artist>Jeff Laubenstein
+      </artist>
+      <num>61
+      </num>
+      <text>Roll a six-sided die. Target creature gets +X/+X until end of turn, where X is equal to the die roll.
+      </text>
+    </mc>
+    <mc>
+      <id>9675
+      </id>
+      <name>Free-Range Chicken
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Summon- Chicken
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>o1oG: Roll two six-sided dice. If both die rolls are the same, Free-Range Chicken gets +X/+X until end of turn, where X is the number rolled on each die. Otherwise, if the total rolled is equal to any other total you have rolled this turn for Free-Range Chicken, sacrifice it. &lt;i&gt;(For example, if you roll two 3s, Free-Range Chicken gets +3/+3. If you roll a total of 6 for Free-Range Chicken later in that turn, sacrifice it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.231
+      </rating>
+      <artist>Mike Raabe
+      </artist>
+      <num>58
+      </num>
+      <text>o1oG: Roll two six-sided dice. If both die rolls are the same, Free-Range Chicken gets +X/+X until end of turn, where X is the number rolled on each die. Otherwise, if the total rolled is equal to any other total you have rolled this turn for Free-Range Chicken, sacrifice it. &lt;i&gt;(For example, if you roll two 3s, Free-Range Chicken gets +3/+3. If you roll a total of 6 for Free-Range Chicken later in that turn, sacrifice it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>9729
+      </id>
+      <name>Jack-in-the-Mox
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>ocT: Roll a six-sided die for Jack-in-the-Mox. On a 1, sacrifice Jack-in-the-Mox and lose 5 life. Otherwise, Jack-in-the-Mox has one of the following effects. Treat this ability as a mana source.&lt;br&gt;2 Add oW to your mana pool.&lt;br&gt;3 Add oU to your mana pool.&lt;br&gt;4 Add oB to your mana pool.&lt;br&gt;5 Add oR to your mana pool.&lt;br&gt;6 Add oG to your mana pool.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.038
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>75
+      </num>
+      <text>ocT: Roll a six-sided die for Jack-in-the-Mox. On a 1, sacrifice Jack-in-the-Mox and lose 5 life. Otherwise, Jack-in-the-Mox has one of the following effects. Treat this ability as a mana source.&lt;br&gt;2 Add oW to your mana pool.&lt;br&gt;3 Add oU to your mana pool.&lt;br&gt;4 Add oB to your mana pool.&lt;br&gt;5 Add oR to your mana pool.&lt;br&gt;6 Add oG to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>9730
+      </id>
+      <name>Bronze Calendar
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Your spells cost o1 less to play as long as you speak in a voice other than your normal voice.&lt;br&gt;If you speak in your normal voice, sacrifice Bronze Calendar.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.889
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>71
+      </num>
+      <text>Your spells cost o1 less to play as long as you speak in a voice other than your normal voice.&lt;br&gt;If you speak in your normal voice, sacrifice Bronze Calendar.
+      </text>
+    </mc>
+    <mc>
+      <id>9731
+      </id>
+      <name>Urza's Science Fair Project
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>o2: Roll a six-sided die for Urza's Science Fair Project.&lt;br&gt;1 It gets -2/-2 until end of turn.&lt;br&gt;2 It deals no combat damage this turn.&lt;br&gt;3 Attacking does not cause it to tap this turn.&lt;br&gt;4 It gains first strike until end of turn.&lt;br&gt;5 It gains flying until end of turn.&lt;br&gt;6 It gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.583
+      </rating>
+      <artist>Claymore J. Flapdoodle
+      </artist>
+      <num>83
+      </num>
+      <text>o2: Roll a six-sided die for Urza's Science Fair Project.&lt;br&gt;1 It gets -2/-2 until end of turn.&lt;br&gt;2 It deals no combat damage this turn.&lt;br&gt;3 Attacking does not cause it to tap this turn.&lt;br&gt;4 It gains first strike until end of turn.&lt;br&gt;5 It gains flying until end of turn.&lt;br&gt;6 It gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>9739
+      </id>
+      <name>Jester's Sombrero
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>o2, ocT, Sacrifice Jester's Sombrero: Look through target player's sideboard and remove any three of those cards from it for the remainder of the match.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.652
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>76
+      </num>
+      <text>o2, ocT, Sacrifice Jester's Sombrero: Look through target player's sideboard and remove any three of those cards from it for the remainder of the match.
+      </text>
+    </mc>
+    <mc>
+      <id>9740
+      </id>
+      <name>Spatula of the Ages
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>o4, ocT, Sacrifice Spatula of the Ages: Put into play from your hand any card from an Unglued supplement.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.438
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>81
+      </num>
+      <text>o4, ocT, Sacrifice Spatula of the Ages: Put into play from your hand any card from an Unglued supplement.
+      </text>
+    </mc>
+    <mc>
+      <id>9741
+      </id>
+      <name>Charm School
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchant Player
+      </type>
+      <oracleText>When Charm School comes into play, choose a color and balance Charm School on your head.&lt;br&gt;Prevent all damage to you of the chosen color.&lt;br&gt;If Charm School falls off your head, sacrifice Charm School.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.15
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>1
+      </num>
+      <text>When Charm School comes into play, choose a color and balance Charm School on your head.&lt;br&gt;Prevent all damage to you of the chosen color.&lt;br&gt;If Charm School falls off your head, sacrifice Charm School.
+      </text>
+    </mc>
+    <mc>
+      <id>9742
+      </id>
+      <name>Knight of the Hokey Pokey
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Summon- Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike&lt;br&gt;o1oW, Do the Hokey Pokey &lt;i&gt;(Stand up, wiggle your butt, raise your hands above your head, and shake them wildly as you rotate 360 degrees)&lt;/i&gt;: Prevent all damage to Knight of the Hokey Pokey from any one source.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.365
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>6
+      </num>
+      <text>First strike&lt;br&gt;o1oW, Do the Hokey Pokey &lt;i&gt;(Stand up, wiggle your butt, raise your hands above your head, and shake them wildly as you rotate 360 degrees)&lt;/i&gt;: Prevent all damage to Knight of the Hokey Pokey from any one source.
+      </text>
+    </mc>
+    <mc>
+      <id>9743
+      </id>
+      <name>Get a Life
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player and each of his or her teammates exchange life totals.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.633
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>4
+      </num>
+      <text>Target player and each of his or her teammates exchange life totals.
+      </text>
+    </mc>
+    <mc>
+      <id>9744
+      </id>
+      <name>Prismatic Wardrobe
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target card that does not share a color with clothing worn by its controller. You cannot choose an artifact or land card.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.969
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>12
+      </num>
+      <text>Destroy target card that does not share a color with clothing worn by its controller. You cannot choose an artifact or land card.
+      </text>
+    </mc>
+    <mc>
+      <id>9745
+      </id>
+      <name>Miss Demeanor
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Summon- Lady of Proper Etiquette
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying, first strike&lt;br&gt;During each other player's turn, compliment that player on his or her game play or sacrifice Miss Demeanor.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.848
+      </rating>
+      <artist>Matthew Wilson
+      </artist>
+      <num>10
+      </num>
+      <text>Flying, first strike&lt;br&gt;During each other player's turn, compliment that player on his or her game play or sacrifice Miss Demeanor.
+      </text>
+    </mc>
+    <mc>
+      <id>9746
+      </id>
+      <name>Checks and Balances
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever any spell is played, counter that spell if each player, other than the caster and his or her teammates, agrees to choose and discard a card. Those players must discard those cards after agreeing.&lt;br&gt;Checks and Balances may be played only in a game with three or more players.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.9
+      </rating>
+      <artist>David A. Cherry
+      </artist>
+      <num>16
+      </num>
+      <text>Whenever any spell is played, counter that spell if each player, other than the caster and his or her teammates, agrees to choose and discard a card. Those players must discard those cards after agreeing.&lt;br&gt;Checks and Balances may be played only in a game with three or more players.
+      </text>
+    </mc>
+    <mc>
+      <id>9747
+      </id>
+      <name>Censorship
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Censorship comes into play, choose a CENSORED word.&lt;br&gt;Whenever any CENSORED player says the chosen CENSORED word, Censorship deals 2 CENSORED damage to him or her.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.015
+      </rating>
+      <artist>CENSORED
+      </artist>
+      <num>15
+      </num>
+      <text>When Censorship comes into play, choose a CENSORED word.&lt;br&gt;Whenever any CENSORED player says the chosen CENSORED word, Censorship deals 2 CENSORED damage to him or her.
+      </text>
+    </mc>
+    <mc>
+      <id>9748
+      </id>
+      <name>Common Courtesy
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Counter any spell unless its caster asks your permission to play that spell. If you refuse permission, Sacrifice Common Courtesy and counter the spell.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.914
+      </rating>
+      <artist>Mike Raabe
+      </artist>
+      <num>21
+      </num>
+      <text>Counter any spell unless its caster asks your permission to play that spell. If you refuse permission, Sacrifice Common Courtesy and counter the spell.
+      </text>
+    </mc>
+    <mc>
+      <id>9749
+      </id>
+      <name>Chicken à la King
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Summon- Chicken
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever a 6 is rolled on a six-sided die, put a +1/+1 counter on each Chicken in play. &lt;i&gt;(You may roll dice only when a card instructs you to.)&lt;/i&gt;&lt;br&gt;Tap a Chicken you control: Roll a six-sided die.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.158
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>17
+      </num>
+      <text>Whenever a 6 is rolled on a six-sided die, put a +1/+1 counter on each Chicken in play. &lt;i&gt;(You may roll dice only when a card instructs you to.)&lt;/i&gt;&lt;br&gt;Tap a Chicken you control: Roll a six-sided die.
+      </text>
+    </mc>
+    <mc>
+      <id>9750
+      </id>
+      <name>Jumbo Imp
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Summon- Imp
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When you play Jumbo Imp, roll a six-sided die. Jumbo Imp comes into play with a number of +1/+1 counters on it equal to the die roll.&lt;br&gt;During your upkeep, roll a six-sided die and put on Jumbo Imp a number of +1/+1 counters equal to the die roll.&lt;br&gt;At the end of your turn, roll a six-sided die and remove from Jumbo Imp a number of +1/+1 counters equal to the die roll.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.933
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>34
+      </num>
+      <text>Flying&lt;br&gt;When you play Jumbo Imp, roll a six-sided die. Jumbo Imp comes into play with a number of +1/+1 counters on it equal to the die roll.&lt;br&gt;During your upkeep, roll a six-sided die and put on Jumbo Imp a number of +1/+1 counters equal to the die roll.&lt;br&gt;At the end of your turn, roll a six-sided die and remove from Jumbo Imp a number of +1/+1 counters equal to the die roll.
+      </text>
+    </mc>
+    <mc>
+      <id>9751
+      </id>
+      <name>Handcuffs
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Target player keeps both hands in contact with each other. If he or she does not, sacrifice Handcuffs and that player sacrifices three cards in play.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.727
+      </rating>
+      <artist>Jeff Laubenstein
+      </artist>
+      <num>32
+      </num>
+      <text>Target player keeps both hands in contact with each other. If he or she does not, sacrifice Handcuffs and that player sacrifices three cards in play.
+      </text>
+    </mc>
+    <mc>
+      <id>9752
+      </id>
+      <name>Organ Harvest
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You and your teammates may sacrifice any number of creatures. For each creature sacrificed in this way, add oBoB to your mana pool.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.143
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>35
+      </num>
+      <text>You and your teammates may sacrifice any number of creatures. For each creature sacrificed in this way, add oBoB to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>9753
+      </id>
+      <name>Volrath's Motion Sensor
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchant Player
+      </type>
+      <oracleText>When Volrath's Motion Sensor comes into play, choose target hand controlled by an opponent. Enchanted player balances Volrath's Motion Sensor on the back of that hand.&lt;br&gt;If Volrath's Motion Sensor falls off the hand, sacrifice Volrath's Motion Sensor and that player loses 3 life.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.735
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>39
+      </num>
+      <text>When Volrath's Motion Sensor comes into play, choose target hand controlled by an opponent. Enchanted player balances Volrath's Motion Sensor on the back of that hand.&lt;br&gt;If Volrath's Motion Sensor falls off the hand, sacrifice Volrath's Motion Sensor and that player loses 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>9754
+      </id>
+      <name>Spark Fiend
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Summon- Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>When Spark Fiend comes into play, roll two six-sided dice. On a total of 2, 3, or 12, sacrifice Spark Fiend. On a total of 7 or 11, do not roll dice for Spark Fiend during any of your following upkeep phases. If you roll any other total, note it.&lt;br&gt;During your upkeep, roll two six-sided dice. On a total of 7, sacrifice Spark Fiend. If you roll the noted total, do not roll dice for Spark Fiend during any of your following upkeep phases. On any other roll, there is no effect.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.429
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>51
+      </num>
+      <text>When Spark Fiend comes into play, roll two six-sided dice. On a total of 2, 3, or 12, sacrifice Spark Fiend. On a total of 7 or 11, do not roll dice for Spark Fiend during any of your following upkeep phases. If you roll any other total, note it.&lt;br&gt;During your upkeep, roll two six-sided dice. On a total of 7, sacrifice Spark Fiend. If you roll the noted total, do not roll dice for Spark Fiend during any of your following upkeep phases. On any other roll, there is no effect.
+      </text>
+    </mc>
+    <mc>
+      <id>9755
+      </id>
+      <name>Goblin Tutor
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Roll a six-sided die for Goblin Tutor. On a 1, Goblin Tutor has no effect. Otherwise, search your library for the indicated card, reveal that card to all players, and put it into your hand. Shuffle your library afterwards.&lt;br&gt;2 Any Goblin Tutor&lt;br&gt;3 Any enchantment&lt;br&gt;4 Any artifact&lt;br&gt;5 Any creature&lt;br&gt;6 Any sorcery, instant, or interrupt
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.028
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>45
+      </num>
+      <text>Roll a six-sided die for Goblin Tutor. On a 1, Goblin Tutor has no effect. Otherwise, search your library for the indicated card, reveal that card to all players, and put it into your hand. Shuffle your library afterwards.&lt;br&gt;2 Any Goblin Tutor&lt;br&gt;3 Any enchantment&lt;br&gt;4 Any artifact&lt;br&gt;5 Any creature&lt;br&gt;6 Any sorcery, instant, or interrupt
+      </text>
+    </mc>
+    <mc>
+      <id>9756
+      </id>
+      <name>Ricochet
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever any spell targets a single player, each player rolls a six-sided die. That spell is redirected to the player or players with the lowest die roll. If two or more players tie for the lowest die roll, they reroll until there is no tie.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.778
+      </rating>
+      <artist>David A. Cherry
+      </artist>
+      <num>50
+      </num>
+      <text>Whenever any spell targets a single player, each player rolls a six-sided die. That spell is redirected to the player or players with the lowest die roll. If two or more players tie for the lowest die roll, they reroll until there is no tie.
+      </text>
+    </mc>
+    <mc>
+      <id>9757
+      </id>
+      <name>The Ultimate Nightmare of Wizards of the Coast® Customer Service
+      </name>
+      <cost>{X}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>The Ultimate Nightmare of Wizards of the Coast® Customer Service deals X damage to each of Y target creatures and Z target players.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.205
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>53
+      </num>
+      <text>The Ultimate Nightmare of Wizards of the Coast® Customer Service deals X damage to each of Y target creatures and Z target players.
+      </text>
+    </mc>
+    <mc>
+      <id>9758
+      </id>
+      <name>Krazy Kow
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Summon- Cow
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>During your upkeep, roll a six-sided die. On a 1, sacrifice Krazy Kow and it deals 3 damage to each creature and player.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>48
+      </num>
+      <text>During your upkeep, roll a six-sided die. On a 1, sacrifice Krazy Kow and it deals 3 damage to each creature and player.
+      </text>
+    </mc>
+    <mc>
+      <id>9759
+      </id>
+      <name>Flock of Rabid Sheep
+      </name>
+      <cost>{X}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Flip X coins; an opponent calls heads or tails. For each flip you win, put a Rabid Sheep token into play. Treat these tokens as 2/2 green creatures that count as Sheep.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.056
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>57
+      </num>
+      <text>Flip X coins; an opponent calls heads or tails. For each flip you win, put a Rabid Sheep token into play. Treat these tokens as 2/2 green creatures that count as Sheep.
+      </text>
+    </mc>
+    <mc>
+      <id>9760
+      </id>
+      <name>Lexivore
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Summon- Beast
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>If Lexivore damages any player, destroy target card in play, other than Lexivore, with the most lines of text in its text box. &lt;i&gt;(If more than one card has the most lines of text, you choose which of those cards to destroy.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.179
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>7
+      </num>
+      <text>If Lexivore damages any player, destroy target card in play, other than Lexivore, with the most lines of text in its text box. &lt;i&gt;(If more than one card has the most lines of text, you choose which of those cards to destroy.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>9761
+      </id>
+      <name>Gerrymandering
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Remove all lands from play and shuffle them together. Randomly deal to each player one land card for each land he or she had before. Each player puts those lands into play under his or her control, untapped.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.824
+      </rating>
+      <artist>Doug Chaffee
+      </artist>
+      <num>59
+      </num>
+      <text>Remove all lands from play and shuffle them together. Randomly deal to each player one land card for each land he or she had before. Each player puts those lands into play under his or her control, untapped.
+      </text>
+    </mc>
+    <mc>
+      <id>9762
+      </id>
+      <name>Cardboard Carapace
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Enchant Creature
+      </type>
+      <oracleText>For each other Cardboard Carapace card you have with you, enchanted creature gets +1/+1.&lt;br&gt;Errata: This does not count any Cardboard Carapace cards in play that you control or in your graveyard, hand, or library.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.0
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>54
+      </num>
+      <text>For each other Cardboard Carapace card you have with you, enchanted creature gets +1/+1.&lt;br&gt;Errata: This does not count any Cardboard Carapace cards in play that you control or in your graveyard, hand, or library.
+      </text>
+    </mc>
+    <mc>
+      <id>9763
+      </id>
+      <name>Team Spirit
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>All creatures controlled by target player and his or her teammates get +1/+1 until end of turn.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.083
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>67
+      </num>
+      <text>All creatures controlled by target player and his or her teammates get +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>9764
+      </id>
+      <name>Blacker Lotus
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>ocT: Tear Blacker Lotus into pieces. Add four mana of any one color to your mana pool. Play this ability as a mana source. Remove the pieces from the game afterwards.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.381
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>70
+      </num>
+      <text>ocT: Tear Blacker Lotus into pieces. Add four mana of any one color to your mana pool. Play this ability as a mana source. Remove the pieces from the game afterwards.
+      </text>
+    </mc>
+    <mc>
+      <id>9765
+      </id>
+      <name>Mirror Mirror
+      </name>
+      <cost>{7}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Mirror Mirror comes into play tapped.&lt;br&gt;o7, ocT, Sacrifice Mirror Mirror: At end of turn, exchange life totals with target player and exchange all cards in play that you control, and all cards in your hand, library, and graveyard, with that player until end of game.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.833
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>77
+      </num>
+      <text>Mirror Mirror comes into play tapped.&lt;br&gt;o7, ocT, Sacrifice Mirror Mirror: At end of turn, exchange life totals with target player and exchange all cards in play that you control, and all cards in your hand, library, and graveyard, with that player until end of game.
+      </text>
+    </mc>
+    <mc>
+      <id>9766
+      </id>
+      <name>Clay Pigeon
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;o1, Throw Clay Pigeon into the air at least two feet above your head while seated, Attempt to catch it with one hand: If you catch Clay Pigeon, prevent all damage to you from any one source and return Clay Pigeon to play, tapped. Otherwise, sacrifice it.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.385
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>73
+      </num>
+      <text>Flying&lt;br&gt;o1, Throw Clay Pigeon into the air at least two feet above your head while seated, Attempt to catch it with one hand: If you catch Clay Pigeon, prevent all damage to you from any one source and return Clay Pigeon to play, tapped. Otherwise, sacrifice it.
+      </text>
+    </mc>
+    <mc>
+      <id>9767
+      </id>
+      <name>Giant Fan
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>o2, ocT: Move target counter from one card to another. If the second card's rules text refers to any type of counters, the moved counter becomes one of those counters. Otherwise, it becomes a +1/+1 counter.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>74
+      </num>
+      <text>o2, ocT: Move target counter from one card to another. If the second card's rules text refers to any type of counters, the moved counter becomes one of those counters. Otherwise, it becomes a +1/+1 counter.
+      </text>
+    </mc>
+    <mc>
+      <id>9769
+      </id>
+      <name>Ashnod's Coupon
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>ocT, Sacrifice Ashnod's Coupon: Target player gets you target drink.&lt;br&gt;Errata: You pay any costs for the drink.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.705
+      </rating>
+      <artist>Edward P. Beard, Jr
+      </artist>
+      <num>69
+      </num>
+      <text>ocT, Sacrifice Ashnod's Coupon: Target player gets you target drink.&lt;br&gt;Errata: You pay any costs for the drink.
+      </text>
+    </mc>
+    <mc>
+      <id>9770
+      </id>
+      <name>Urza's Contact Lenses
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Urza's Contact Lenses comes into play tapped and does not untap during its controller's untap phase.&lt;br&gt;All players play with their hands face up.&lt;br&gt;Clap your hands twice: Tap or untap Urza's Contact Lenses.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.229
+      </rating>
+      <artist>David A. Cherry
+      </artist>
+      <num>82
+      </num>
+      <text>Urza's Contact Lenses comes into play tapped and does not untap during its controller's untap phase.&lt;br&gt;All players play with their hands face up.&lt;br&gt;Clap your hands twice: Tap or untap Urza's Contact Lenses.
+      </text>
+    </mc>
+    <mc>
+      <id>9771
+      </id>
+      <name>Look at Me, I'm the DCI
+      </name>
+      <cost>{5}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Ban one card, other than a basic land, for the remainder of the match. &lt;i&gt;(For the remainder of the match, each player removes from the game all copies of that card in play or in any graveyard, hand, library, or sideboard.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.097
+      </rating>
+      <artist>Mark Rosewater
+      </artist>
+      <num>8
+      </num>
+      <text>Ban one card, other than a basic land, for the remainder of the match. &lt;i&gt;(For the remainder of the match, each player removes from the game all copies of that card in play or in any graveyard, hand, library, or sideboard.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>9772
+      </id>
+      <name>Once More with Feeling
+      </name>
+      <cost>{W}{W}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Remove Once More with Feeling from the game as well as all cards in play and in all graveyards. Each player shuffles his or her hand into her or his library, then draws seven cards. Each player's life total is set to 10.&lt;br&gt;DCI ruling: This card is restricted. &lt;i&gt;(You cannot play with more than one in a deck.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.895
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>11
+      </num>
+      <text>Remove Once More with Feeling from the game as well as all cards in play and in all graveyards. Each player shuffles his or her hand into her or his library, then draws seven cards. Each player's life total is set to 10.&lt;br&gt;DCI ruling: This card is restricted. &lt;i&gt;(You cannot play with more than one in a deck.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>9773
+      </id>
+      <name>The Cheese Stands Alone
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>If you control no cards in play other than The Cheese Stands Alone and have no cards in your hand, you win the game.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.318
+      </rating>
+      <artist>Randy Elliott
+      </artist>
+      <num>2
+      </num>
+      <text>If you control no cards in play other than The Cheese Stands Alone and have no cards in your hand, you win the game.
+      </text>
+    </mc>
+    <mc>
+      <id>9774
+      </id>
+      <name>I'm Rubber, You're Glue
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Speak only in rhyming sentences. If you do not, sacrifice I'm Rubber, You're Glue.&lt;br&gt;Say "I'm rubber, you're glue. Everything bounces off me and sticks to you": Target spell or ability, which targets only you, targets another player of your choice instead. &lt;i&gt;(The new target must be legal.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.154
+      </rating>
+      <artist>Claymore J. Flapdoodle
+      </artist>
+      <num>5
+      </num>
+      <text>Speak only in rhyming sentences. If you do not, sacrifice I'm Rubber, You're Glue.&lt;br&gt;Say "I'm rubber, you're glue. Everything bounces off me and sticks to you": Target spell or ability, which targets only you, targets another player of your choice instead. &lt;i&gt;(The new target must be legal.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>9775
+      </id>
+      <name>Free-for-All
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Free-for-All comes into play, set aside all creatures in play, face down.&lt;br&gt;During each player's upkeep, that player chooses a creature card at random from those set aside in this way and puts that creature into play under his or her control.&lt;br&gt;If Free-for-All leaves play, put each creature still set aside this way into its owner's graveyard.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.231
+      </rating>
+      <artist>Claymore J. Flapdoodle
+      </artist>
+      <num>25
+      </num>
+      <text>When Free-for-All comes into play, set aside all creatures in play, face down.&lt;br&gt;During each player's upkeep, that player chooses a creature card at random from those set aside in this way and puts that creature into play under his or her control.&lt;br&gt;If Free-for-All leaves play, put each creature still set aside this way into its owner's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>9776
+      </id>
+      <name>Sorry
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Before playing any spell, if a copy of that spell card is in any graveyard, the spell's caster may say "Sorry." If he or she does not, any other player may counter the spell by saying "Sorry" as it is cast.&lt;br&gt;If any player says "Sorry" at any other time, Sorry deals 2 damage to that player.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.812
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>27
+      </num>
+      <text>Before playing any spell, if a copy of that spell card is in any graveyard, the spell's caster may say "Sorry." If he or she does not, any other player may counter the spell by saying "Sorry" as it is cast.&lt;br&gt;If any player says "Sorry" at any other time, Sorry deals 2 damage to that player.
+      </text>
+    </mc>
+    <mc>
+      <id>9777
+      </id>
+      <name>Psychic Network
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Each player reveals the top card of his or her library to all other players by continuously holding it against his or her forehead. This does not allow a player to look at his or her own card. &lt;i&gt;(That card still counts as the top card of your library. Whenever you draw a card, draw that one and replace it with the next card of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.062
+      </rating>
+      <artist>Claymore J. Flapdoodle
+      </artist>
+      <num>26
+      </num>
+      <text>Each player reveals the top card of his or her library to all other players by continuously holding it against his or her forehead. This does not allow a player to look at his or her own card. &lt;i&gt;(That card still counts as the top card of your library. Whenever you draw a card, draw that one and replace it with the next card of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>9778
+      </id>
+      <name>Bureaucracy
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Pursuant to subsection 3.1&lt;i&gt;(4)&lt;/i&gt; of Richard's Rules of Order, during the upkeep of each participant in this game of the Magic: The Gathering® trading card game &lt;i&gt;(hereafter known as "PLAYER")&lt;/i&gt;, that PLAYER performs all actions in the sequence of previously added actions &lt;i&gt;(hereafter known as "ACTION QUEUE")&lt;/i&gt;, in the order those actions were added, then adds another action to the end of the ACTION QUEUE. All actions must be simple physical or verbal actions that a player can perform while sitting in a chair, without jeopardizing the health and security of said PLAYER.&lt;br&gt;If any PLAYER does not perform all the prescribed actions in the correct order, sacrifice Bureaucracy and said PLAYER discards his or her complement of cards in hand &lt;i&gt;(hereafter known as "HAND")&lt;/i&gt;.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.632
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>14
+      </num>
+      <text>Pursuant to subsection 3.1&lt;i&gt;(4)&lt;/i&gt; of Richard's Rules of Order, during the upkeep of each participant in this game of the Magic: The Gathering® trading card game &lt;i&gt;(hereafter known as "PLAYER")&lt;/i&gt;, that PLAYER performs all actions in the sequence of previously added actions &lt;i&gt;(hereafter known as "ACTION QUEUE")&lt;/i&gt;, in the order those actions were added, then adds another action to the end of the ACTION QUEUE. All actions must be simple physical or verbal actions that a player can perform while sitting in a chair, without jeopardizing the health and security of said PLAYER.&lt;br&gt;If any PLAYER does not perform all the prescribed actions in the correct order, sacrifice Bureaucracy and said PLAYER discards his or her complement of cards in hand &lt;i&gt;(hereafter known as "HAND")&lt;/i&gt;.
+      </text>
+    </mc>
+    <mc>
+      <id>9779
+      </id>
+      <name>Infernal Spawn of Evil
+      </name>
+      <cost>{6}{B}{B}{B}
+      </cost>
+      <type>Summon- Demon Beast
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Flying, first strike&lt;br&gt;o1oB, Reveal Infernal Spawn of Evil from your hand, Say "It's coming": Infernal Spawn of Evil deals 1 damage to target opponent. Use this ability only during your upkeep and only once each upkeep.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.434
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>33
+      </num>
+      <text>Flying, first strike&lt;br&gt;o1oB, Reveal Infernal Spawn of Evil from your hand, Say "It's coming": Infernal Spawn of Evil deals 1 damage to target opponent. Use this ability only during your upkeep and only once each upkeep.
+      </text>
+    </mc>
+    <mc>
+      <id>9780
+      </id>
+      <name>B.F.M. (Big Furry Monster)
+      </name>
+      <cost>{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}
+      </cost>
+      <type>Scariest Creature You'll Ever See
+      </type>
+      <power>99
+      </power>
+      <toughness>99
+      </toughness>
+      <oracleText>B.F.M. into play. If either B.F.M. card&lt;br&gt;&lt;br&gt;more creatures.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.274
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>28
+      </num>
+      <text>B.F.M. into play. If either B.F.M. card&lt;br&gt;&lt;br&gt;more creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>9781
+      </id>
+      <name>Ow
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever any creature damages a player, for each Ow card in play, that player says "Ow" once or Ow deals 1 damage to him or her.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.148
+      </rating>
+      <artist>Edward P. Beard, Jr
+      </artist>
+      <num>36
+      </num>
+      <text>Whenever any creature damages a player, for each Ow card in play, that player says "Ow" once or Ow deals 1 damage to him or her.
+      </text>
+    </mc>
+    <mc>
+      <id>9782
+      </id>
+      <name>Jalum Grifter
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Summon- Legend
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>o1oR, ocT: Put Jalum Grifter and two lands you control face down in front of target opponent after revealing each card to him or her. Then, rearrange the order of the three cards as often as you wish, keeping them on the table at all times. That opponent then chooses one of those cards. If a land is chosen, destroy target card in play. Otherwise, sacrifice Jalum Grifter.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.833
+      </rating>
+      <artist>Claymore J. Flapdoodle
+      </artist>
+      <num>47
+      </num>
+      <text>o1oR, ocT: Put Jalum Grifter and two lands you control face down in front of target opponent after revealing each card to him or her. Then, rearrange the order of the three cards as often as you wish, keeping them on the table at all times. That opponent then chooses one of those cards. If a land is chosen, destroy target card in play. Otherwise, sacrifice Jalum Grifter.
+      </text>
+    </mc>
+    <mc>
+      <id>9783
+      </id>
+      <name>Burning Cinder Fury of Crimson Chaos Fire
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever any player taps a card, that player gives control of that card to an opponent at end of turn.&lt;br&gt;If a player does not tap any nonland cards during his or her turn, Burning Cinder Fury of Crimson Chaos Fire deals 3 damage to that player at end of turn.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.138
+      </rating>
+      <artist>Richard Kane Ferguson
+      </artist>
+      <num>40
+      </num>
+      <text>Whenever any player taps a card, that player gives control of that card to an opponent at end of turn.&lt;br&gt;If a player does not tap any nonland cards during his or her turn, Burning Cinder Fury of Crimson Chaos Fire deals 3 damage to that player at end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>9784
+      </id>
+      <name>Strategy, Schmategy
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Roll a six-sided die for Strategy, Schmategy. On a 1, Strategy, Schmategy has no effect. Otherwise, it has one of the following effects.&lt;br&gt;2 Destroy all artifacts.&lt;br&gt;3 Destroy all lands.&lt;br&gt;4 Strategy, Schmategy deals 3 damage to each creature and player.&lt;br&gt;5 Each player discards his or her hand and draws seven cards. &lt;br&gt;6 Roll the die two more times.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.188
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>52
+      </num>
+      <text>Roll a six-sided die for Strategy, Schmategy. On a 1, Strategy, Schmategy has no effect. Otherwise, it has one of the following effects.&lt;br&gt;2 Destroy all artifacts.&lt;br&gt;3 Destroy all lands.&lt;br&gt;4 Strategy, Schmategy deals 3 damage to each creature and player.&lt;br&gt;5 Each player discards his or her hand and draws seven cards. &lt;br&gt;6 Roll the die two more times.
+      </text>
+    </mc>
+    <mc>
+      <id>9785
+      </id>
+      <name>Landfill
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose a land type. Remove from play all lands of that type that you control. Drop those cards, one at a time, onto the playing area from a height of at least one foot. Destroy each card in play that is completely covered by those cards. Then return to play, tapped, all lands dropped in this way.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.714
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>49
+      </num>
+      <text>Choose a land type. Remove from play all lands of that type that you control. Drop those cards, one at a time, onto the playing area from a height of at least one foot. Destroy each card in play that is completely covered by those cards. Then return to play, tapped, all lands dropped in this way.
+      </text>
+    </mc>
+    <mc>
+      <id>9786
+      </id>
+      <name>Timmy, Power Gamer
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Summon- Legend
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>o4: Put a creature into play from your hand.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.368
+      </rating>
+      <artist>Edward P. Beard, Jr
+      </artist>
+      <num>68
+      </num>
+      <text>o4: Put a creature into play from your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>9787
+      </id>
+      <name>Mine, Mine, Mine!
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>When Mine, Mine, Mine comes into play, each player puts his or her library into his or her hand.&lt;br&gt;Each player skips his or her discard phase and does not lose as a result of being unable to draw a card.&lt;br&gt;Each player cannot play more than one spell each turn.&lt;br&gt;If Mine, Mine, Mine leaves play, each player shuffles his or her hand and graveyard into his or her library.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.882
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>65
+      </num>
+      <text>When Mine, Mine, Mine comes into play, each player puts his or her library into his or her hand.&lt;br&gt;Each player skips his or her discard phase and does not lose as a result of being unable to draw a card.&lt;br&gt;Each player cannot play more than one spell each turn.&lt;br&gt;If Mine, Mine, Mine leaves play, each player shuffles his or her hand and graveyard into his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>9788
+      </id>
+      <name>Incoming!
+      </name>
+      <cost>{4}{G}{G}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player searches his or her library for any number of artifacts, creatures, enchantments, and lands and puts those cards into play. Each player shuffles his or her library afterwards.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.267
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>64
+      </num>
+      <text>Each player searches his or her library for any number of artifacts, creatures, enchantments, and lands and puts those cards into play. Each player shuffles his or her library afterwards.
+      </text>
+    </mc>
+    <mc>
+      <id>9789
+      </id>
+      <name>Squirrel Farm
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>o1oG: Choose a card in your hand. Covering the artist's name, reveal the card to target player. If that player cannot name the artist, reveal the artist's name and put a Squirrel token into play. Treat this token as a 1/1 green creature.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.647
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>66
+      </num>
+      <text>o1oG: Choose a card in your hand. Covering the artist's name, reveal the card to target player. If that player cannot name the artist, reveal the artist's name and put a Squirrel token into play. Treat this token as a 1/1 green creature.
+      </text>
+    </mc>
+    <mc>
+      <id>9843
+      </id>
+      <name>Hungry Hungry Heifer
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Summon- Cow
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>During your upkeep, remove a counter from any card you control or sacrifice Hungry Hungry Heifer.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.125
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>63
+      </num>
+      <text>During your upkeep, remove a counter from any card you control or sacrifice Hungry Hungry Heifer.
+      </text>
+    </mc>
+    <mc>
+      <id>9894
+      </id>
+      <name>Double Take
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose another player. Draw two cards now and draw an additional two cards at the beginning of the next game with that player.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.222
+      </rating>
+      <artist>Claymore J. Flapdoodle
+      </artist>
+      <num>23
+      </num>
+      <text>Choose another player. Draw two cards now and draw an additional two cards at the beginning of the next game with that player.
+      </text>
+    </mc>
+    <mc>
+      <id>9895
+      </id>
+      <name>Double Play
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose another player. Search your library for a basic land and put that land into play. At the beginning of the next game with that player, search your library for an additional basic land and put that land into play. In both cases, shuffle your library afterwards.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.818
+      </rating>
+      <artist>Claymore J. Flapdoodle
+      </artist>
+      <num>55
+      </num>
+      <text>Choose another player. Search your library for a basic land and put that land into play. At the beginning of the next game with that player, search your library for an additional basic land and put that land into play. In both cases, shuffle your library afterwards.
+      </text>
+    </mc>
+    <mc>
+      <id>9844
+      </id>
+      <name>B.F.M. (Big Furry Monster)
+      </name>
+      <cost>{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}{B}
+      </cost>
+      <type>Scariest Creature You'll Ever See
+      </type>
+      <power>99
+      </power>
+      <toughness>99
+      </toughness>
+      <oracleText>B.F.M. into play. If either B.F.M. card&lt;br&gt;&lt;br&gt;more creatures.
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.519
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>29
+      </num>
+      <text>B.F.M. into play. If either B.F.M. card&lt;br&gt;&lt;br&gt;more creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>9683
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.525
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>88
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>5503
+      </id>
+      <name>Goblin token card
+      </name>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.286
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>92
+      </num>
+    </mc>
+    <mc>
+      <id>9677
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.742
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>85
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>9707
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.484
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>87
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>4979
+      </id>
+      <name>Pegasus token card
+      </name>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>89
+      </num>
+    </mc>
+    <mc>
+      <id>9680
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>84
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>5560
+      </id>
+      <name>Sheep token card
+      </name>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.569
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>93
+      </num>
+    </mc>
+    <mc>
+      <id>5472
+      </id>
+      <name>Soldier token card
+      </name>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.553
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>90
+      </num>
+    </mc>
+    <mc>
+      <id>5607
+      </id>
+      <name>Squirrel token card
+      </name>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.825
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>94
+      </num>
+    </mc>
+    <mc>
+      <id>9676
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Unglued
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.833
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>86
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>5601
+      </id>
+      <name>Zombie token card
+      </name>
+      <edition>Unglued
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.656
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>91
+      </num>
+    </mc>
+  </list>
+</cards>

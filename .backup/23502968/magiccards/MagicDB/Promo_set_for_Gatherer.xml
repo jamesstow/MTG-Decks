@@ -1,0 +1,731 @@
+
+<cards>
+  <name>Promo_set_for_Gatherer</name>
+  <key>Promo_set_for_Gatherer</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>97042
+      </id>
+      <name>Arena
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{3}, {T}: Tap target creature you control and target creature of an opponent's choice he or she controls. Those creatures fight each other. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Special
+      </rarity>
+      <rating>3.593
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>1
+      </num>
+      <text>{3}, {T}: Tap target creature you control and target creature of an opponent's choice he or she controls. Those creatures fight each other. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>97047
+      </id>
+      <name>Lightning Dragon
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Echo {2}{R}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;{R}: Lightning Dragon gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.763
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>202
+      </num>
+      <text>Flying&lt;br&gt;Echo {2}{R}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;{R}: Lightning Dragon gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>97048
+      </id>
+      <name>Mana Crypt
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.&lt;br&gt;{T}: Add {2} to your mana pool.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Special
+      </rarity>
+      <rating>4.859
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>3
+      </num>
+      <text>At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.&lt;br&gt;{T}: Add {2} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>97050
+      </id>
+      <name>Nalathni Dragon
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying; banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;&lt;br&gt;{R}: Nalathni Dragon gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Nalathni Dragon at the beginning of the next end step.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Special
+      </rarity>
+      <rating>2.565
+      </rating>
+      <artist>Michael Whelan
+      </artist>
+      <num>4
+      </num>
+      <text>Flying; banding &lt;i&gt;(Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)&lt;/i&gt;&lt;br&gt;{R}: Nalathni Dragon gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Nalathni Dragon at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>97051
+      </id>
+      <name>Overtaker
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Merfolk Spellshaper
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{3}{U}, {T}, Discard a card: Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.594
+      </rating>
+      <artist>Clyde Caldwell
+      </artist>
+      <num>89
+      </num>
+      <text>{3}{U}, {T}, Discard a card: Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>97054
+      </id>
+      <name>Sewers of Estark
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose target creature. If it's attacking, it's unblockable this turn. If it's blocking, prevent all combat damage that would be dealt this turn by it and each creature it's blocking.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Special
+      </rarity>
+      <rating>2.881
+      </rating>
+      <artist>Melissa Benson
+      </artist>
+      <num>6
+      </num>
+      <text>Choose target creature. If it's attacking, it's unblockable this turn. If it's blocking, prevent all combat damage that would be dealt this turn by it and each creature it's blocking.
+      </text>
+    </mc>
+    <mc>
+      <id>97056
+      </id>
+      <name>Sword of Kaldra
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Legendary Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +5/+5.&lt;br&gt;Whenever equipped creature deals damage to a creature, exile that creature.&lt;br&gt;Equip {4} &lt;i&gt;({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)&lt;/i&gt;
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.625
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>251
+      </num>
+      <text>Equipped creature gets +5/+5.&lt;br&gt;Whenever equipped creature deals damage to a creature, exile that creature.&lt;br&gt;Equip {4} &lt;i&gt;({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>97057
+      </id>
+      <name>Windseeker Centaur
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Centaur
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Vigilance
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Special
+      </rarity>
+      <rating>3.271
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>8
+      </num>
+      <text>Vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>97061
+      </id>
+      <name>Raging Kavu
+      </name>
+      <cost>{1}{R}{G}
+      </cost>
+      <type>Creature - Kavu
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flash&lt;br&gt;Haste
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.727
+      </rating>
+      <artist>Arnie Swekel
+      </artist>
+      <num>262
+      </num>
+      <text>Flash&lt;br&gt;Haste
+      </text>
+    </mc>
+    <mc>
+      <id>97067
+      </id>
+      <name>Soul Collector
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a creature dealt damage by Soul Collector this turn dies, return that card to the battlefield under your control.&lt;br&gt;Morph {B}{B}{B} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.346
+      </rating>
+      <artist>Matthew D. Wilson
+      </artist>
+      <num>74
+      </num>
+      <text>Flying&lt;br&gt;Whenever a creature dealt damage by Soul Collector this turn dies, return that card to the battlefield under your control.&lt;br&gt;Morph {B}{B}{B} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>97060
+      </id>
+      <name>Avatar of Hope
+      </name>
+      <cost>{6}{W}{W}
+      </cost>
+      <type>Creature - Avatar
+      </type>
+      <power>4
+      </power>
+      <toughness>9
+      </toughness>
+      <oracleText>If you have 3 or less life, Avatar of Hope costs {6} less to cast.&lt;br&gt;Flying&lt;br&gt;Avatar of Hope can block any number of creatures.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.925
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>3
+      </num>
+      <text>If you have 3 or less life, Avatar of Hope costs {6} less to cast.&lt;br&gt;Flying&lt;br&gt;Avatar of Hope can block any number of creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>97058
+      </id>
+      <name>Beast of Burden
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <oracleText>Beast of Burden's power and toughness are each equal to the number of creatures on the battlefield.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.119
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>122
+      </num>
+      <text>Beast of Burden's power and toughness are each equal to the number of creatures on the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>97043
+      </id>
+      <name>Dirtcowl Wurm
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>13
+      </num>
+      <text>Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm.
+      </text>
+    </mc>
+    <mc>
+      <id>97044
+      </id>
+      <name>False Prophet
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When False Prophet dies, exile all creatures.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.294
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>6
+      </num>
+      <text>When False Prophet dies, exile all creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>97066
+      </id>
+      <name>Feral Throwback
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Amplify 2 &lt;i&gt;(As this creature enters the battlefield, put two +1/+1 counters on it for each Beast card you reveal in your hand.)&lt;/i&gt;&lt;br&gt;Provoke &lt;i&gt;(When this attacks, you may have target creature defending player controls untap and block it if able.)&lt;/i&gt;
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.167
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>126
+      </num>
+      <text>Amplify 2 &lt;i&gt;(As this creature enters the battlefield, put two +1/+1 counters on it for each Beast card you reveal in your hand.)&lt;/i&gt;&lt;br&gt;Provoke &lt;i&gt;(When this attacks, you may have target creature defending player controls untap and block it if able.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>97062
+      </id>
+      <name>Fungal Shambler
+      </name>
+      <cost>{4}{G}{U}{B}
+      </cost>
+      <type>Creature - Fungus Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Whenever Fungal Shambler deals damage to an opponent, you draw a card and that opponent discards a card.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.357
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>100
+      </num>
+      <text>Trample&lt;br&gt;Whenever Fungal Shambler deals damage to an opponent, you draw a card and that opponent discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>97045
+      </id>
+      <name>Giant Badger
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Badger
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Giant Badger blocks, it gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Special
+      </rarity>
+      <rating>3.75
+      </rating>
+      <artist>Liz Danforth
+      </artist>
+      <num>17
+      </num>
+      <text>Whenever Giant Badger blocks, it gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>97064
+      </id>
+      <name>Glory
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Incarnation
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate this ability only if Glory is in your graveyard.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.808
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>11
+      </num>
+      <text>Flying&lt;br&gt;{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate this ability only if Glory is in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>97046
+      </id>
+      <name>Helm of Kaldra
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Legendary Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has first strike, trample, and haste.&lt;br&gt;{1}: If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, put a legendary 4/4 colorless Avatar creature token named Kaldra onto the battlefield and attach those Equipment to it.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.308
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>131
+      </num>
+      <text>Equipped creature has first strike, trample, and haste.&lt;br&gt;{1}: If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, put a legendary 4/4 colorless Avatar creature token named Kaldra onto the battlefield and attach those Equipment to it.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>97063
+      </id>
+      <name>Laquatus's Champion
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Nightmare Horror
+      </type>
+      <power>6
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Laquatus's Champion enters the battlefield, target player loses 6 life.&lt;br&gt;When Laquatus's Champion leaves the battlefield, that player gains 6 life.&lt;br&gt;{B}: Regenerate Laquatus's Champion.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.688
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>67
+      </num>
+      <text>When Laquatus's Champion enters the battlefield, target player loses 6 life.&lt;br&gt;When Laquatus's Champion leaves the battlefield, that player gains 6 life.&lt;br&gt;{B}: Regenerate Laquatus's Champion.
+      </text>
+    </mc>
+    <mc>
+      <id>97049
+      </id>
+      <name>Monstrous Hound
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Hound
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Monstrous Hound can't attack unless you control more lands than defending player.&lt;br&gt;Monstrous Hound can't block unless you control more lands than attacking player.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.2
+      </rating>
+      <artist>Dermot Power
+      </artist>
+      <num>89
+      </num>
+      <text>Monstrous Hound can't attack unless you control more lands than defending player.&lt;br&gt;Monstrous Hound can't block unless you control more lands than attacking player.
+      </text>
+    </mc>
+    <mc>
+      <id>97052
+      </id>
+      <name>Questing Phelddagrif
+      </name>
+      <cost>{1}{G}{W}{U}
+      </cost>
+      <type>Creature - Phelddagrif
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent puts a 1/1 green Hippo creature token onto the battlefield.&lt;br&gt;{W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life.&lt;br&gt;{U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.636
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>119
+      </num>
+      <text>{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent puts a 1/1 green Hippo creature token onto the battlefield.&lt;br&gt;{W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life.&lt;br&gt;{U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>97059
+      </id>
+      <name>Rathi Assassin
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Zombie Mercenary Assassin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{B}{B}, {T}: Destroy target tapped nonblack creature.&lt;br&gt;{3}, {T}: Search your library for a Mercenary permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.757
+      </rating>
+      <artist>Dana Knutson
+      </artist>
+      <num>67
+      </num>
+      <text>{1}{B}{B}, {T}: Destroy target tapped nonblack creature.&lt;br&gt;{3}, {T}: Search your library for a Mercenary permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>97053
+      </id>
+      <name>Revenant
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <oracleText>Flying&lt;br&gt;Revenant's power and toughness are each equal to the number of creature cards in your graveyard.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.528
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>24
+      </num>
+      <text>Flying&lt;br&gt;Revenant's power and toughness are each equal to the number of creature cards in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>97068
+      </id>
+      <name>Ryusei, the Falling Star
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Legendary Creature - Dragon Spirit
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.417
+      </rating>
+      <artist>Nottsuo
+      </artist>
+      <num>185
+      </num>
+      <text>Flying&lt;br&gt;When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>97055
+      </id>
+      <name>Shield of Kaldra
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Legendary Artifact - Equipment
+      </type>
+      <oracleText>Equipment named Sword of Kaldra, Shield of Kaldra, and Helm of Kaldra are indestructible.&lt;br&gt;Equipped creature is indestructible. &lt;i&gt;("Destroy" effects and lethal damage don't destroy it.)&lt;/i&gt;&lt;br&gt;Equip {4}
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Promo
+      </rarity>
+      <rating>3.917
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>139
+      </num>
+      <text>Equipment named Sword of Kaldra, Shield of Kaldra, and Helm of Kaldra are indestructible.&lt;br&gt;Equipped creature is indestructible. &lt;i&gt;("Destroy" effects and lethal damage don't destroy it.)&lt;/i&gt;&lt;br&gt;Equip {4}
+      </text>
+    </mc>
+    <mc>
+      <id>97065
+      </id>
+      <name>Silent Specter
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Specter
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Silent Specter deals combat damage to a player, that player discards two cards.&lt;br&gt;Morph {3}{B}{B} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Promo set for Gatherer
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.938
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>169
+      </num>
+      <text>Flying&lt;br&gt;Whenever Silent Specter deals combat damage to a player, that player discards two cards.&lt;br&gt;Morph {3}{B}{B} &lt;i&gt;(You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)&lt;/i&gt;
+      </text>
+    </mc>
+  </list>
+</cards>

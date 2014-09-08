@@ -1,0 +1,4211 @@
+
+<cards>
+  <name>Portal_Second_Age</name>
+  <key>Portal_Second_Age</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>6491
+      </id>
+      <name>Volunteer Militia
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.882
+      </rating>
+      <artist>Keith Parkinson
+      </artist>
+      <num>1
+      </num>
+    </mc>
+    <mc>
+      <id>6492
+      </id>
+      <name>Alaborn Zealot
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Alaborn Zealot blocks a creature, destroy that creature and Alaborn Zealot.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.019
+      </rating>
+      <artist>David Horne
+      </artist>
+      <num>2
+      </num>
+      <text>When Alaborn Zealot blocks a creature, destroy that creature and Alaborn Zealot.
+      </text>
+    </mc>
+    <mc>
+      <id>6493
+      </id>
+      <name>Alaborn Trooper
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.595
+      </rating>
+      <artist>Lubov
+      </artist>
+      <num>3
+      </num>
+    </mc>
+    <mc>
+      <id>6494
+      </id>
+      <name>Town Sentry
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Town Sentry blocks, it gets +0/+2 until end of turn.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.083
+      </rating>
+      <artist>Brad Williams
+      </artist>
+      <num>4
+      </num>
+      <text>Whenever Town Sentry blocks, it gets +0/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>6495
+      </id>
+      <name>Temple Acolyte
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Temple Acolyte enters the battlefield, you gain 3 life.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.24
+      </rating>
+      <artist>Lubov
+      </artist>
+      <num>5
+      </num>
+      <text>When Temple Acolyte enters the battlefield, you gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>6496
+      </id>
+      <name>Trokin High Guard
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.864
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>6
+      </num>
+    </mc>
+    <mc>
+      <id>6499
+      </id>
+      <name>Alaborn Musketeer
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.188
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>7
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>6502
+      </id>
+      <name>Path of Peace
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target creature. Its owner gains 4 life.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.5
+      </rating>
+      <artist>David A. Cherry
+      </artist>
+      <num>8
+      </num>
+      <text>Destroy target creature. Its owner gains 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>6503
+      </id>
+      <name>Righteous Charge
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Creatures you control get +2/+2 until end of turn.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.727
+      </rating>
+      <artist>Jeffrey R. Busch
+      </artist>
+      <num>9
+      </num>
+      <text>Creatures you control get +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>6504
+      </id>
+      <name>Festival of Trokin
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You gain 2 life for each creature you control.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.05
+      </rating>
+      <artist>Jeffrey R. Busch
+      </artist>
+      <num>10
+      </num>
+      <text>You gain 2 life for each creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>6506
+      </id>
+      <name>Alaborn Cavalier
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Alaborn Cavalier attacks, you may tap target creature.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.184
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>11
+      </num>
+      <text>Whenever Alaborn Cavalier attacks, you may tap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>6507
+      </id>
+      <name>Temple Elder
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: You gain 1 life. Activate this ability only during your turn, before attackers are declared.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>0.816
+      </rating>
+      <artist>David Horne
+      </artist>
+      <num>12
+      </num>
+      <text>{T}: You gain 1 life. Activate this ability only during your turn, before attackers are declared.
+      </text>
+    </mc>
+    <mc>
+      <id>6508
+      </id>
+      <name>Alaborn Grenadier
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Vigilance
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.857
+      </rating>
+      <artist>David A. Cherry
+      </artist>
+      <num>13
+      </num>
+      <text>Vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>6509
+      </id>
+      <name>Armored Griffin
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Griffin
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying, vigilance
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.833
+      </rating>
+      <artist>Brad Williams
+      </artist>
+      <num>14
+      </num>
+      <text>Flying, vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>6510
+      </id>
+      <name>Bargain
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent draws a card.&lt;br&gt;You gain 7 life.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.432
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>15
+      </num>
+      <text>Target opponent draws a card.&lt;br&gt;You gain 7 life.
+      </text>
+    </mc>
+    <mc>
+      <id>6511
+      </id>
+      <name>Rally the Troops
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Rally the Troops only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Untap all creatures you control.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.406
+      </rating>
+      <artist>Mark Poole
+      </artist>
+      <num>16
+      </num>
+      <text>Cast Rally the Troops only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Untap all creatures you control.
+      </text>
+    </mc>
+    <mc>
+      <id>6512
+      </id>
+      <name>Warrior's Stand
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Warrior's Stand only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Creatures you control get +2/+2 until end of turn.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.833
+      </rating>
+      <artist>Keith Parkinson
+      </artist>
+      <num>17
+      </num>
+      <text>Cast Warrior's Stand only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Creatures you control get +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>6515
+      </id>
+      <name>Angel of Fury
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Angel of Fury is put into your graveyard from the battlefield, you may shuffle it into your library.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.4
+      </rating>
+      <artist>Keith Parkinson
+      </artist>
+      <num>18
+      </num>
+      <text>Flying&lt;br&gt;When Angel of Fury is put into your graveyard from the battlefield, you may shuffle it into your library.
+      </text>
+    </mc>
+    <mc>
+      <id>6516
+      </id>
+      <name>Alaborn Veteran
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Target creature gets +2/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.4
+      </rating>
+      <artist>Henry Van Der Linde
+      </artist>
+      <num>19
+      </num>
+      <text>{T}: Target creature gets +2/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.
+      </text>
+    </mc>
+    <mc>
+      <id>6517
+      </id>
+      <name>Steam Catapult
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.864
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>20
+      </num>
+      <text>{T}: Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.
+      </text>
+    </mc>
+    <mc>
+      <id>6519
+      </id>
+      <name>Just Fate
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Just Fate only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Destroy target attacking creature.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.955
+      </rating>
+      <artist>Brad Williams
+      </artist>
+      <num>21
+      </num>
+      <text>Cast Just Fate only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Destroy target attacking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>6521
+      </id>
+      <name>Talas Scout
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Pirate Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.792
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>22
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>6522
+      </id>
+      <name>Talas Explorer
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Pirate Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Talas Explorer enters the battlefield, look at target opponent's hand.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.321
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>23
+      </num>
+      <text>Flying&lt;br&gt;When Talas Explorer enters the battlefield, look at target opponent's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>6523
+      </id>
+      <name>Screeching Drake
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Screeching Drake enters the battlefield, draw a card, then discard a card.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.409
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>24
+      </num>
+      <text>Flying&lt;br&gt;When Screeching Drake enters the battlefield, draw a card, then discard a card.
+      </text>
+    </mc>
+    <mc>
+      <id>6524
+      </id>
+      <name>Talas Air Ship
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Human Pirate
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.643
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>25
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>6525
+      </id>
+      <name>Talas Merchant
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Pirate
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.727
+      </rating>
+      <artist>Lubov
+      </artist>
+      <num>26
+      </num>
+    </mc>
+    <mc>
+      <id>6526
+      </id>
+      <name>Steam Frigate
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Pirate
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Steam Frigate can't attack unless defending player controls an Island.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.25
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>27
+      </num>
+      <text>Steam Frigate can't attack unless defending player controls an Island.
+      </text>
+    </mc>
+    <mc>
+      <id>6533
+      </id>
+      <name>False Summoning
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target creature spell.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.292
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>28
+      </num>
+      <text>Counter target creature spell.
+      </text>
+    </mc>
+    <mc>
+      <id>6535
+      </id>
+      <name>Apprentice Sorcerer
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Apprentice Sorcerer deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.267
+      </rating>
+      <artist>Christopher Rush
+      </artist>
+      <num>29
+      </num>
+      <text>{T}: Apprentice Sorcerer deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.
+      </text>
+    </mc>
+    <mc>
+      <id>6537
+      </id>
+      <name>Armored Galleon
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Human Pirate
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Armored Galleon can't attack unless defending player controls an Island.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.265
+      </rating>
+      <artist>Doug Chaffee
+      </artist>
+      <num>30
+      </num>
+      <text>Armored Galleon can't attack unless defending player controls an Island.
+      </text>
+    </mc>
+    <mc>
+      <id>6538
+      </id>
+      <name>Eye Spy
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at the top card of target player's library. You may put that card into his or her graveyard.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.179
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>31
+      </num>
+      <text>Look at the top card of target player's library. You may put that card into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>6539
+      </id>
+      <name>Sea Drake
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Drake
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Sea Drake enters the battlefield, return two target lands you control to their owner's hand.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.86
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>32
+      </num>
+      <text>Flying&lt;br&gt;When Sea Drake enters the battlefield, return two target lands you control to their owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>6541
+      </id>
+      <name>Remove
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Remove only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Return target attacking creature to its owner's hand.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.406
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>33
+      </num>
+      <text>Cast Remove only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Return target attacking creature to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>6544
+      </id>
+      <name>Coastal Wizard
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Return Coastal Wizard and another target creature to their owners' hands. Activate this ability only during your turn, before attackers are declared.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.312
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>34
+      </num>
+      <text>{T}: Return Coastal Wizard and another target creature to their owners' hands. Activate this ability only during your turn, before attackers are declared.
+      </text>
+    </mc>
+    <mc>
+      <id>6545
+      </id>
+      <name>Talas Warrior
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Human Pirate Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Talas Warrior is unblockable.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.342
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>35
+      </num>
+      <text>Talas Warrior is unblockable.
+      </text>
+    </mc>
+    <mc>
+      <id>6547
+      </id>
+      <name>Talas Researcher
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Human Pirate Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Draw a card. Activate this ability only during your turn, before attackers are declared.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.308
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>36
+      </num>
+      <text>{T}: Draw a card. Activate this ability only during your turn, before attackers are declared.
+      </text>
+    </mc>
+    <mc>
+      <id>6548
+      </id>
+      <name>Temporal Manipulation
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Take an extra turn after this one.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.32
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>37
+      </num>
+      <text>Take an extra turn after this one.
+      </text>
+    </mc>
+    <mc>
+      <id>6551
+      </id>
+      <name>Muck Rats
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Rat
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.406
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>38
+      </num>
+    </mc>
+    <mc>
+      <id>6552
+      </id>
+      <name>Dakmor Scorpion
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Scorpion
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.194
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>39
+      </num>
+    </mc>
+    <mc>
+      <id>6553
+      </id>
+      <name>Dakmor Bat
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Bat
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.8
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>40
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>6554
+      </id>
+      <name>Moaning Spirit
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.5
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>41
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>6556
+      </id>
+      <name>Prowling Nightstalker
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Nightstalker
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Prowling Nightstalker can't be blocked except by black creatures.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.893
+      </rating>
+      <artist>Keith Parkinson
+      </artist>
+      <num>42
+      </num>
+      <text>Prowling Nightstalker can't be blocked except by black creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>6557
+      </id>
+      <name>Lurking Nightstalker
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Nightstalker
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Lurking Nightstalker attacks, it gets +2/+0 until end of turn.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.324
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>43
+      </num>
+      <text>Whenever Lurking Nightstalker attacks, it gets +2/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>6558
+      </id>
+      <name>Raiding Nightstalker
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Nightstalker
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Swampwalk
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.844
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>44
+      </num>
+      <text>Swampwalk
+      </text>
+    </mc>
+    <mc>
+      <id>6564
+      </id>
+      <name>Chorus of Woe
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Creatures you control get +1/+0 until end of turn.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.522
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>45
+      </num>
+      <text>Creatures you control get +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>6565
+      </id>
+      <name>Predatory Nightstalker
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Nightstalker
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Predatory Nightstalker enters the battlefield, you may have target opponent sacrifice a creature.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.324
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>46
+      </num>
+      <text>When Predatory Nightstalker enters the battlefield, you may have target opponent sacrifice a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>6566
+      </id>
+      <name>Brutal Nightstalker
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Nightstalker
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Brutal Nightstalker enters the battlefield, you may have target opponent discard a card.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.346
+      </rating>
+      <artist>Brom
+      </artist>
+      <num>47
+      </num>
+      <text>When Brutal Nightstalker enters the battlefield, you may have target opponent discard a card.
+      </text>
+    </mc>
+    <mc>
+      <id>6567
+      </id>
+      <name>Abyssal Nightstalker
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Nightstalker
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Abyssal Nightstalker attacks and isn't blocked, defending player discards a card.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.618
+      </rating>
+      <artist>Sam Woods
+      </artist>
+      <num>48
+      </num>
+      <text>Whenever Abyssal Nightstalker attacks and isn't blocked, defending player discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>6568
+      </id>
+      <name>Foul Spirit
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Foul Spirit enters the battlefield, sacrifice a land.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>49
+      </num>
+      <text>Flying&lt;br&gt;When Foul Spirit enters the battlefield, sacrifice a land.
+      </text>
+    </mc>
+    <mc>
+      <id>6569
+      </id>
+      <name>Dark Offering
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target nonblack creature. You gain 3 life.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.175
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>50
+      </num>
+      <text>Destroy target nonblack creature. You gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>6572
+      </id>
+      <name>Kiss of Death
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kiss of Death deals 4 damage to target opponent. You gain 4 life.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.673
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>51
+      </num>
+      <text>Kiss of Death deals 4 damage to target opponent. You gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>6573
+      </id>
+      <name>Bloodcurdling Scream
+      </name>
+      <cost>{X}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +X/+0 until end of turn.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.1
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>52
+      </num>
+      <text>Target creature gets +X/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>6577
+      </id>
+      <name>Nightstalker Engine
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Nightstalker
+      </type>
+      <power>*
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Nightstalker Engine's power is equal to the number of creature cards in your graveyard.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.632
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>53
+      </num>
+      <text>Nightstalker Engine's power is equal to the number of creature cards in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>6578
+      </id>
+      <name>Return of the Nightstalkers
+      </name>
+      <cost>{5}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return all Nightstalker permanent cards from your graveyard to the battlefield. Then destroy all Swamps you control.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>54
+      </num>
+      <text>Return all Nightstalker permanent cards from your graveyard to the battlefield. Then destroy all Swamps you control.
+      </text>
+    </mc>
+    <mc>
+      <id>6579
+      </id>
+      <name>Ancient Craving
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You draw three cards and you lose 3 life.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.614
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>55
+      </num>
+      <text>You draw three cards and you lose 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>6580
+      </id>
+      <name>Rain of Daggers
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all creatures target opponent controls. You lose 2 life for each creature destroyed this way.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>1.868
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>56
+      </num>
+      <text>Destroy all creatures target opponent controls. You lose 2 life for each creature destroyed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>6586
+      </id>
+      <name>Ogre Berserker
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Ogre Berserker
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.318
+      </rating>
+      <artist>David A. Cherry
+      </artist>
+      <num>57
+      </num>
+      <text>Haste
+      </text>
+    </mc>
+    <mc>
+      <id>6594
+      </id>
+      <name>Goblin War Strike
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Goblin War Strike deals damage equal to the number of Goblins you control to target player.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.114
+      </rating>
+      <artist>Michael Weaver
+      </artist>
+      <num>58
+      </num>
+      <text>Goblin War Strike deals damage equal to the number of Goblins you control to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>6595
+      </id>
+      <name>Ogre Arsonist
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Ogre
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Ogre Arsonist enters the battlefield, destroy target land.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.958
+      </rating>
+      <artist>Jeffrey R. Busch
+      </artist>
+      <num>59
+      </num>
+      <text>When Ogre Arsonist enters the battlefield, destroy target land.
+      </text>
+    </mc>
+    <mc>
+      <id>6597
+      </id>
+      <name>Ogre Warrior
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Ogre Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.192
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>60
+      </num>
+    </mc>
+    <mc>
+      <id>6598
+      </id>
+      <name>Goblin Firestarter
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice Goblin Firestarter: Goblin Firestarter deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.923
+      </rating>
+      <artist>Keith Parkinson
+      </artist>
+      <num>61
+      </num>
+      <text>Sacrifice Goblin Firestarter: Goblin Firestarter deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.
+      </text>
+    </mc>
+    <mc>
+      <id>6599
+      </id>
+      <name>Obsidian Giant
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.5
+      </rating>
+      <artist>David A. Cherry
+      </artist>
+      <num>62
+      </num>
+    </mc>
+    <mc>
+      <id>6603
+      </id>
+      <name>Goblin War Cry
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent chooses a creature he or she controls. Other creatures he or she controls can't block this turn.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.781
+      </rating>
+      <artist>Michael Weaver
+      </artist>
+      <num>63
+      </num>
+      <text>Target opponent chooses a creature he or she controls. Other creatures he or she controls can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>6604
+      </id>
+      <name>Goblin General
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Goblin General attacks, Goblin creatures you control get +1/+1 until end of turn.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.579
+      </rating>
+      <artist>Keith Parkinson
+      </artist>
+      <num>64
+      </num>
+      <text>Whenever Goblin General attacks, Goblin creatures you control get +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>6605
+      </id>
+      <name>Brimstone Dragon
+      </name>
+      <cost>{6}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying, haste
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.932
+      </rating>
+      <artist>David A. Cherry
+      </artist>
+      <num>65
+      </num>
+      <text>Flying, haste
+      </text>
+    </mc>
+    <mc>
+      <id>6606
+      </id>
+      <name>Cunning Giant
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>If Cunning Giant is unblocked, you may have it assign its combat damage to a creature defending player controls.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.9
+      </rating>
+      <artist>Jeffrey R. Busch
+      </artist>
+      <num>66
+      </num>
+      <text>If Cunning Giant is unblocked, you may have it assign its combat damage to a creature defending player controls.
+      </text>
+    </mc>
+    <mc>
+      <id>6611
+      </id>
+      <name>Lynx
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Forestwalk
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.846
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>67
+      </num>
+      <text>Forestwalk
+      </text>
+    </mc>
+    <mc>
+      <id>6613
+      </id>
+      <name>Bear Cub
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Bear
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.429
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>68
+      </num>
+    </mc>
+    <mc>
+      <id>6615
+      </id>
+      <name>Norwood Riders
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elf
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Norwood Riders can't be blocked by more than one creature.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.692
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>69
+      </num>
+      <text>Norwood Riders can't be blocked by more than one creature.
+      </text>
+    </mc>
+    <mc>
+      <id>6616
+      </id>
+      <name>Golden Bear
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Bear
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.217
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>70
+      </num>
+    </mc>
+    <mc>
+      <id>6617
+      </id>
+      <name>Plated Wurm
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.794
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>71
+      </num>
+    </mc>
+    <mc>
+      <id>6618
+      </id>
+      <name>Norwood Archers
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Elf Archer
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.615
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>72
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>6620
+      </id>
+      <name>Norwood Warrior
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elf Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Norwood Warrior becomes blocked, it gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.324
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>73
+      </num>
+      <text>Whenever Norwood Warrior becomes blocked, it gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>6622
+      </id>
+      <name>Salvage
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put target card from your graveyard on top of your library.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.167
+      </rating>
+      <artist>Keith Parkinson
+      </artist>
+      <num>74
+      </num>
+      <text>Put target card from your graveyard on top of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>6625
+      </id>
+      <name>Wild Ox
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Ox
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Swampwalk
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.038
+      </rating>
+      <artist>Jeffrey R. Busch
+      </artist>
+      <num>75
+      </num>
+      <text>Swampwalk
+      </text>
+    </mc>
+    <mc>
+      <id>6627
+      </id>
+      <name>Barbtooth Wurm
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>6
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.969
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>76
+      </num>
+    </mc>
+    <mc>
+      <id>6628
+      </id>
+      <name>Ironhoof Ox
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Ox
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Ironhoof Ox can't be blocked by more than one creature.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.639
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>77
+      </num>
+      <text>Ironhoof Ox can't be blocked by more than one creature.
+      </text>
+    </mc>
+    <mc>
+      <id>6629
+      </id>
+      <name>Renewing Touch
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Shuffle any number of target creature cards from your graveyard into your library.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.2
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>78
+      </num>
+      <text>Shuffle any number of target creature cards from your graveyard into your library.
+      </text>
+    </mc>
+    <mc>
+      <id>6631
+      </id>
+      <name>Deep Wood
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Cast Deep Wood only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Prevent all damage that would be dealt to you this turn by attacking creatures.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.389
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>79
+      </num>
+      <text>Cast Deep Wood only during the declare attackers step and only if you've been attacked this step.&lt;br&gt;Prevent all damage that would be dealt to you this turn by attacking creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>6632
+      </id>
+      <name>Harmony of Nature
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.654
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>80
+      </num>
+      <text>Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.
+      </text>
+    </mc>
+    <mc>
+      <id>6633
+      </id>
+      <name>Bee Sting
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Bee Sting deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.812
+      </rating>
+      <artist>Cris Dornaus
+      </artist>
+      <num>81
+      </num>
+      <text>Bee Sting deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>6634
+      </id>
+      <name>Norwood Priestess
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: You may put a green creature card from your hand onto the battlefield. Activate this ability only during your turn, before attackers are declared.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.562
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>82
+      </num>
+      <text>{T}: You may put a green creature card from your hand onto the battlefield. Activate this ability only during your turn, before attackers are declared.
+      </text>
+    </mc>
+    <mc>
+      <id>6635
+      </id>
+      <name>Sylvan Yeti
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Yeti
+      </type>
+      <power>*
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Sylvan Yeti's power is equal to the number of cards in your hand.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.25
+      </rating>
+      <artist>Brom
+      </artist>
+      <num>83
+      </num>
+      <text>Sylvan Yeti's power is equal to the number of cards in your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>6637
+      </id>
+      <name>Deathcoil Wurm
+      </name>
+      <cost>{6}{G}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>7
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>You may have Deathcoil Wurm assign its combat damage as though it weren't blocked.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.196
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>84
+      </num>
+      <text>You may have Deathcoil Wurm assign its combat damage as though it weren't blocked.
+      </text>
+    </mc>
+    <mc>
+      <id>6638
+      </id>
+      <name>Razorclaw Bear
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Bear
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Razorclaw Bear becomes blocked, it gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.353
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>85
+      </num>
+      <text>Whenever Razorclaw Bear becomes blocked, it gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>6639
+      </id>
+      <name>Alluring Scent
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>All creatures able to block target creature this turn do so.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.094
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>86
+      </num>
+      <text>All creatures able to block target creature this turn do so.
+      </text>
+    </mc>
+    <mc>
+      <id>6536
+      </id>
+      <name>Air Elemental
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.083
+      </rating>
+      <artist>Doug Chaffee
+      </artist>
+      <num>87
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>6505
+      </id>
+      <name>Angel of Mercy
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Angel of Mercy enters the battlefield, you gain 3 life.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.159
+      </rating>
+      <artist>Melissa A. Benson
+      </artist>
+      <num>88
+      </num>
+      <text>Flying&lt;br&gt;When Angel of Mercy enters the battlefield, you gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>6500
+      </id>
+      <name>Angelic Blessing
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +3/+3 and gains flying until end of turn. &lt;i&gt;(It can't be blocked except by creatures with flying or reach.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.833
+      </rating>
+      <artist>Henry Van Der Linde
+      </artist>
+      <num>89
+      </num>
+      <text>Target creature gets +3/+3 and gains flying until end of turn. &lt;i&gt;(It can't be blocked except by creatures with flying or reach.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>6498
+      </id>
+      <name>Angelic Wall
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender, flying
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.433
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>90
+      </num>
+      <text>Defender, flying
+      </text>
+    </mc>
+    <mc>
+      <id>6514
+      </id>
+      <name>Archangel
+      </name>
+      <cost>{5}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying, vigilance
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.292
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>91
+      </num>
+      <text>Flying, vigilance
+      </text>
+    </mc>
+    <mc>
+      <id>6520
+      </id>
+      <name>Armageddon
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all lands.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.85
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>92
+      </num>
+      <text>Destroy all lands.
+      </text>
+    </mc>
+    <mc>
+      <id>6600
+      </id>
+      <name>Blaze
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Blaze deals X damage to target creature or player.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.909
+      </rating>
+      <artist>David A. Cherry
+      </artist>
+      <num>93
+      </num>
+      <text>Blaze deals X damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>6501
+      </id>
+      <name>Breath of Life
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target creature card from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Lubov
+      </artist>
+      <num>94
+      </num>
+      <text>Return target creature card from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>6570
+      </id>
+      <name>Coercion
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals his or her hand. You choose a card from it. That player discards that card.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.9
+      </rating>
+      <artist>Jeffrey R. Busch
+      </artist>
+      <num>95
+      </num>
+      <text>Target opponent reveals his or her hand. You choose a card from it. That player discards that card.
+      </text>
+    </mc>
+    <mc>
+      <id>6561
+      </id>
+      <name>Cruel Edict
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent sacrifices a creature.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.917
+      </rating>
+      <artist>Jeffrey R. Busch
+      </artist>
+      <num>96
+      </num>
+      <text>Target opponent sacrifices a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>6571
+      </id>
+      <name>Dakmor Plague
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Dakmor Plague deals 3 damage to each creature and each player.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.333
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>97
+      </num>
+      <text>Dakmor Plague deals 3 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>6576
+      </id>
+      <name>Dakmor Sorceress
+      </name>
+      <cost>{5}{B}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <oracleText>Dakmor Sorceress's power is equal to the number of Swamps you control.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.239
+      </rating>
+      <artist>Matthew Wilson
+      </artist>
+      <num>98
+      </num>
+      <text>Dakmor Sorceress's power is equal to the number of Swamps you control.
+      </text>
+    </mc>
+    <mc>
+      <id>6528
+      </id>
+      <name>Déjà Vu
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target sorcery card from your graveyard to your hand.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.719
+      </rating>
+      <artist>David Horne
+      </artist>
+      <num>99
+      </num>
+      <text>Return target sorcery card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>6546
+      </id>
+      <name>Denizen of the Deep
+      </name>
+      <cost>{6}{U}{U}
+      </cost>
+      <type>Creature - Serpent
+      </type>
+      <power>11
+      </power>
+      <toughness>11
+      </toughness>
+      <oracleText>When Denizen of the Deep enters the battlefield, return each other creature you control to its owner's hand.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.979
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>100
+      </num>
+      <text>When Denizen of the Deep enters the battlefield, return each other creature you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>6609
+      </id>
+      <name>Earthquake
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Earthquake deals X damage to each creature without flying and each player.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.962
+      </rating>
+      <artist>Jeffrey R. Busch
+      </artist>
+      <num>101
+      </num>
+      <text>Earthquake deals X damage to each creature without flying and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>6549
+      </id>
+      <name>Exhaustion
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Creatures and lands target opponent controls don't untap during his or her next untap step.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.794
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>102
+      </num>
+      <text>Creatures and lands target opponent controls don't untap during his or her next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>6534
+      </id>
+      <name>Extinguish
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target sorcery spell.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.684
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>103
+      </num>
+      <text>Counter target sorcery spell.
+      </text>
+    </mc>
+    <mc>
+      <id>8410
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>3.625
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>104
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>8409
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.625
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>105
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>8408
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.455
+      </rating>
+      <artist>Quinton Hoover
+      </artist>
+      <num>106
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>6587
+      </id>
+      <name>Goblin Cavaliers
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.125
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>107
+      </num>
+    </mc>
+    <mc>
+      <id>6584
+      </id>
+      <name>Goblin Glider
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Goblin Glider can't block.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.647
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>108
+      </num>
+      <text>Flying&lt;br&gt;Goblin Glider can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>6602
+      </id>
+      <name>Goblin Lore
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw four cards, then discard three cards at random.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.9
+      </rating>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>109
+      </num>
+      <text>Draw four cards, then discard three cards at random.
+      </text>
+    </mc>
+    <mc>
+      <id>6596
+      </id>
+      <name>Goblin Matron
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.6
+      </rating>
+      <artist>Daniel Gelon
+      </artist>
+      <num>110
+      </num>
+      <text>When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>6585
+      </id>
+      <name>Goblin Mountaineer
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Mountainwalk
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.237
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>111
+      </num>
+      <text>Mountainwalk
+      </text>
+    </mc>
+    <mc>
+      <id>6582
+      </id>
+      <name>Goblin Piker
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.861
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>112
+      </num>
+    </mc>
+    <mc>
+      <id>6583
+      </id>
+      <name>Goblin Raider
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Goblin Raider can't block.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.071
+      </rating>
+      <artist>Matt Stawicki
+      </artist>
+      <num>113
+      </num>
+      <text>Goblin Raider can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>6563
+      </id>
+      <name>Hand of Death
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target nonblack creature.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.25
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>114
+      </num>
+      <text>Destroy target nonblack creature.
+      </text>
+    </mc>
+    <mc>
+      <id>6574
+      </id>
+      <name>Hidden Horror
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.591
+      </rating>
+      <artist>Brom
+      </artist>
+      <num>115
+      </num>
+      <text>When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.
+      </text>
+    </mc>
+    <mc>
+      <id>6640
+      </id>
+      <name>Hurricane
+      </name>
+      <cost>{X}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Hurricane deals X damage to each creature with flying and each player.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.632
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>116
+      </num>
+      <text>Hurricane deals X damage to each creature with flying and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>8391
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.095
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>117
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>8390
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>118
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>8387
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.375
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>119
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>6601
+      </id>
+      <name>Jagged Lightning
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Jagged Lightning deals 3 damage to each of two target creatures.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.143
+      </rating>
+      <artist>Michael Weaver
+      </artist>
+      <num>120
+      </num>
+      <text>Jagged Lightning deals 3 damage to each of two target creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>6591
+      </id>
+      <name>Lava Axe
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Lava Axe deals 5 damage to target player.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.067
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>121
+      </num>
+      <text>Lava Axe deals 5 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>6614
+      </id>
+      <name>Lone Wolf
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Wolf
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>You may have Lone Wolf assign its combat damage as though it weren't blocked.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.125
+      </rating>
+      <artist>Michael Weaver
+      </artist>
+      <num>122
+      </num>
+      <text>You may have Lone Wolf assign its combat damage as though it weren't blocked.
+      </text>
+    </mc>
+    <mc>
+      <id>6607
+      </id>
+      <name>Magma Giant
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>When Magma Giant enters the battlefield, it deals 2 damage to each creature and each player.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Michael Weaver
+      </artist>
+      <num>123
+      </num>
+      <text>When Magma Giant enters the battlefield, it deals 2 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>6562
+      </id>
+      <name>Mind Rot
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards two cards.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.075
+      </rating>
+      <artist>Douglas Shuler
+      </artist>
+      <num>124
+      </num>
+      <text>Target player discards two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>6621
+      </id>
+      <name>Monstrous Growth
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets +4/+4 until end of turn.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.237
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>125
+      </num>
+      <text>Target creature gets +4/+4 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>8407
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.941
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>126
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>8406
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.794
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>127
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>8395
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.875
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>128
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>6542
+      </id>
+      <name>Mystic Denial
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target creature or sorcery spell.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.615
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>129
+      </num>
+      <text>Counter target creature or sorcery spell.
+      </text>
+    </mc>
+    <mc>
+      <id>6624
+      </id>
+      <name>Natural Spring
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player gains 8 life.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.967
+      </rating>
+      <artist>Jeffrey R. Busch
+      </artist>
+      <num>130
+      </num>
+      <text>Target player gains 8 life.
+      </text>
+    </mc>
+    <mc>
+      <id>6623
+      </id>
+      <name>Nature's Lore
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.765
+      </rating>
+      <artist>Lubov
+      </artist>
+      <num>131
+      </num>
+      <text>Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>6636
+      </id>
+      <name>Norwood Ranger
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.643
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>132
+      </num>
+    </mc>
+    <mc>
+      <id>6588
+      </id>
+      <name>Ogre Taskmaster
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Ogre
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Ogre Taskmaster can't block.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.273
+      </rating>
+      <artist>Dan Frazier
+      </artist>
+      <num>133
+      </num>
+      <text>Ogre Taskmaster can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>6550
+      </id>
+      <name>Piracy
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Until end of turn, you may tap lands you don't control for mana. Spend this mana only to cast spells.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.6
+      </rating>
+      <artist>Brad Williams
+      </artist>
+      <num>134
+      </num>
+      <text>Until end of turn, you may tap lands you don't control for mana. Spend this mana only to cast spells.
+      </text>
+    </mc>
+    <mc>
+      <id>8380
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.625
+      </rating>
+      <artist>Fred Fields
+      </artist>
+      <num>135
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>8374
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.188
+      </rating>
+      <artist>Fred Fields
+      </artist>
+      <num>136
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>8354
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.273
+      </rating>
+      <artist>Fred Fields
+      </artist>
+      <num>137
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>6581
+      </id>
+      <name>Raging Goblin
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Berserker
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.553
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>138
+      </num>
+      <text>Haste &lt;i&gt;(This creature can attack and {T} as soon as it comes under your control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>6560
+      </id>
+      <name>Raise Dead
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target creature card from your graveyard to your hand.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.935
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>139
+      </num>
+      <text>Return target creature card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>6559
+      </id>
+      <name>Ravenous Rats
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Rat
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Ravenous Rats enters the battlefield, target opponent discards a card.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.25
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>140
+      </num>
+      <text>When Ravenous Rats enters the battlefield, target opponent discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>6608
+      </id>
+      <name>Relentless Assault
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.786
+      </rating>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>141
+      </num>
+      <text>Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.
+      </text>
+    </mc>
+    <mc>
+      <id>6518
+      </id>
+      <name>Righteous Fury
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all tapped creatures. You gain 2 life for each creature destroyed this way.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.846
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>142
+      </num>
+      <text>Destroy all tapped creatures. You gain 2 life for each creature destroyed this way.
+      </text>
+    </mc>
+    <mc>
+      <id>6626
+      </id>
+      <name>River Bear
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Bear
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Islandwalk &lt;i&gt;(This creature is unblockable as long as defending player controls an Island.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.906
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>143
+      </num>
+      <text>Islandwalk &lt;i&gt;(This creature is unblockable as long as defending player controls an Island.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>6529
+      </id>
+      <name>Sleight of Hand
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.808
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>144
+      </num>
+      <text>Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>6589
+      </id>
+      <name>Spitting Earth
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Spitting Earth deals damage to target creature equal to the number of Mountains you control.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.4
+      </rating>
+      <artist>David Horne
+      </artist>
+      <num>145
+      </num>
+      <text>Spitting Earth deals damage to target creature equal to the number of Mountains you control.
+      </text>
+    </mc>
+    <mc>
+      <id>6590
+      </id>
+      <name>Stone Rain
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target land.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.886
+      </rating>
+      <artist>Doug Chaffee
+      </artist>
+      <num>146
+      </num>
+      <text>Destroy target land.
+      </text>
+    </mc>
+    <mc>
+      <id>8394
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.3
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>147
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>8393
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.727
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>148
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>8392
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Land
+      </rarity>
+      <rating>4.167
+      </rating>
+      <artist>Susan Van Camp
+      </artist>
+      <num>149
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>6555
+      </id>
+      <name>Swarm of Rats
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Rat
+      </type>
+      <oracleText>Swarm of Rats's power is equal to the number of Rats you control.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.267
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>150
+      </num>
+      <text>Swarm of Rats's power is equal to the number of Rats you control.
+      </text>
+    </mc>
+    <mc>
+      <id>8905
+      </id>
+      <name>Sylvan Basilisk
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Basilisk
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Whenever Sylvan Basilisk becomes blocked by a creature, destroy that creature.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.844
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>151
+      </num>
+      <text>Whenever Sylvan Basilisk becomes blocked by a creature, destroy that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>6543
+      </id>
+      <name>Theft of Dreams
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw a card for each tapped creature target opponent controls.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.562
+      </rating>
+      <artist>Randy Gallegos
+      </artist>
+      <num>152
+      </num>
+      <text>Draw a card for each tapped creature target opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>6531
+      </id>
+      <name>Tidal Surge
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Tap up to three target creatures without flying.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.825
+      </rating>
+      <artist>Phil Foglio
+      </artist>
+      <num>153
+      </num>
+      <text>Tap up to three target creatures without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>6532
+      </id>
+      <name>Time Ebb
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put target creature on top of its owner's library.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.792
+      </rating>
+      <artist>Sam Woods
+      </artist>
+      <num>154
+      </num>
+      <text>Put target creature on top of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>6527
+      </id>
+      <name>Touch of Brilliance
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw two cards.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.844
+      </rating>
+      <artist>Kaja Foglio
+      </artist>
+      <num>155
+      </num>
+      <text>Draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>6619
+      </id>
+      <name>Tree Monkey
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Ape
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.967
+      </rating>
+      <artist>Una Fricker
+      </artist>
+      <num>156
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>6592
+      </id>
+      <name>Tremor
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Tremor deals 1 damage to each creature without flying.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.81
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>157
+      </num>
+      <text>Tremor deals 1 damage to each creature without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>6540
+      </id>
+      <name>Undo
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return two target creatures to their owners' hands.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.278
+      </rating>
+      <artist>Henry Van Der Linde
+      </artist>
+      <num>158
+      </num>
+      <text>Return two target creatures to their owners' hands.
+      </text>
+    </mc>
+    <mc>
+      <id>6630
+      </id>
+      <name>Untamed Wilds
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.767
+      </rating>
+      <artist>Jeffrey R. Busch
+      </artist>
+      <num>159
+      </num>
+      <text>Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>6575
+      </id>
+      <name>Vampiric Spirit
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Vampiric Spirit enters the battlefield, you lose 4 life.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.3
+      </rating>
+      <artist>Anson Maddocks
+      </artist>
+      <num>160
+      </num>
+      <text>Flying&lt;br&gt;When Vampiric Spirit enters the battlefield, you lose 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>6513
+      </id>
+      <name>Vengeance
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target tapped creature.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.211
+      </rating>
+      <artist>Keith Parkinson
+      </artist>
+      <num>161
+      </num>
+      <text>Destroy target tapped creature.
+      </text>
+    </mc>
+    <mc>
+      <id>6593
+      </id>
+      <name>Volcanic Hammer
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Volcanic Hammer deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.433
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>162
+      </num>
+      <text>Volcanic Hammer deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>6497
+      </id>
+      <name>Wild Griffin
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Griffin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.393
+      </rating>
+      <artist>Jeff Miracola
+      </artist>
+      <num>163
+      </num>
+      <text>Flying
+      </text>
+    </mc>
+    <mc>
+      <id>6610
+      </id>
+      <name>Wildfire
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player sacrifices four lands. Wildfire deals 4 damage to each creature.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.731
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>164
+      </num>
+      <text>Each player sacrifices four lands. Wildfire deals 4 damage to each creature.
+      </text>
+    </mc>
+    <mc>
+      <id>6530
+      </id>
+      <name>Wind Sail
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>One or two target creatures gain flying until end of turn.
+      </oracleText>
+      <edition>Portal Second Age
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.318
+      </rating>
+      <artist>Matt Stawicki
+      </artist>
+      <num>165
+      </num>
+      <text>One or two target creatures gain flying until end of turn.
+      </text>
+    </mc>
+  </list>
+</cards>

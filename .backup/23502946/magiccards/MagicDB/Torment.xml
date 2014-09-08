@@ -1,0 +1,3719 @@
+
+<cards>
+  <name>Torment</name>
+  <key>Torment</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>12345
+      </id>
+      <name>Teroh's Faithful
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Teroh's Faithful enters the battlefield, you gain 4 life.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.306
+      </rating>
+      <artist>Greg &amp; Tim Hildebrandt
+      </artist>
+      <num>18
+      </num>
+      <text>When Teroh's Faithful enters the battlefield, you gain 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>12363
+      </id>
+      <name>Militant Monk
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human Monk Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.031
+      </rating>
+      <artist>Mark Brill
+      </artist>
+      <num>9
+      </num>
+      <text>Vigilance&lt;br&gt;{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>12405
+      </id>
+      <name>Gloomdrifter
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Zombie Minion
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Gloomdrifter has "When Gloomdrifter enters the battlefield, nonblack creatures get -2/-2 until end of turn."
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.467
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>61
+      </num>
+      <text>Flying&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Gloomdrifter has "When Gloomdrifter enters the battlefield, nonblack creatures get -2/-2 until end of turn."
+      </text>
+    </mc>
+    <mc>
+      <id>12623
+      </id>
+      <name>Arrogant Wurm
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Wurm
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Madness {2}{G} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.554
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>120
+      </num>
+      <text>Trample&lt;br&gt;Madness {2}{G} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>15229
+      </id>
+      <name>Far Wanderings
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.&lt;br&gt;Threshold- If seven or more cards are in your graveyard, instead search your library for three basic land cards and put them onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.13
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>125
+      </num>
+      <text>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.&lt;br&gt;Threshold- If seven or more cards are in your graveyard, instead search your library for three basic land cards and put them onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>19553
+      </id>
+      <name>Balthor the Stout
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Legendary Creature - Dwarf Barbarian
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Other Barbarian creatures get +1/+1.&lt;br&gt;{R}: Another target Barbarian creature gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.128
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>91
+      </num>
+      <text>Other Barbarian creatures get +1/+1.&lt;br&gt;{R}: Another target Barbarian creature gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>19696
+      </id>
+      <name>Coral Net
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant green or white creature&lt;br&gt;Enchanted creature has "At the beginning of your upkeep, sacrifice this creature unless you discard a card."
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.423
+      </rating>
+      <artist>Roger Raupp
+      </artist>
+      <num>35
+      </num>
+      <text>Enchant green or white creature&lt;br&gt;Enchanted creature has "At the beginning of your upkeep, sacrifice this creature unless you discard a card."
+      </text>
+    </mc>
+    <mc>
+      <id>23043
+      </id>
+      <name>Shade's Form
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has "{B}: This creature gets +1/+1 until end of turn."&lt;br&gt;When enchanted creature dies, return that card to the battlefield under your control.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.394
+      </rating>
+      <artist>Clyde Caldwell
+      </artist>
+      <num>81
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has "{B}: This creature gets +1/+1 until end of turn."&lt;br&gt;When enchanted creature dies, return that card to the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>26279
+      </id>
+      <name>Carrion Rats
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Rat
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Carrion Rats attacks or blocks, any player may exile a card from his or her graveyard. If a player does, Carrion Rats assigns no combat damage this turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.844
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>54
+      </num>
+      <text>Whenever Carrion Rats attacks or blocks, any player may exile a card from his or her graveyard. If a player does, Carrion Rats assigns no combat damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>26361
+      </id>
+      <name>Spirit Flare
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Tap target untapped creature you control. If you do, it deals damage equal to its power to target attacking or blocking creature an opponent controls.&lt;br&gt;Flashback—{1}{W}, Pay 3 life. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.308
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>15
+      </num>
+      <text>Tap target untapped creature you control. If you do, it deals damage equal to its power to target attacking or blocking creature an opponent controls.&lt;br&gt;Flashback—{1}{W}, Pay 3 life. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>26404
+      </id>
+      <name>Dwell on the Past
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player shuffles up to four target cards from his or her graveyard into his or her library.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.235
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>124
+      </num>
+      <text>Target player shuffles up to four target cards from his or her graveyard into his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>26449
+      </id>
+      <name>Carrion Wurm
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Zombie Wurm
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Whenever Carrion Wurm attacks or blocks, any player may exile three cards from his or her graveyard. If a player does, Carrion Wurm assigns no combat damage this turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.133
+      </rating>
+      <artist>Glen Angus
+      </artist>
+      <num>55
+      </num>
+      <text>Whenever Carrion Wurm attacks or blocks, any player may exile three cards from his or her graveyard. If a player does, Carrion Wurm assigns no combat damage this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>26726
+      </id>
+      <name>Barbarian Outcast
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Human Barbarian Beast
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When you control no Swamps, sacrifice Barbarian Outcast.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.346
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>92
+      </num>
+      <text>When you control no Swamps, sacrifice Barbarian Outcast.
+      </text>
+    </mc>
+    <mc>
+      <id>27175
+      </id>
+      <name>Llawan, Cephalid Empress
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Legendary Creature - Cephalid
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Llawan, Cephalid Empress enters the battlefield, return all blue creatures your opponents control to their owners' hands.&lt;br&gt;Your opponents can't cast blue creature spells.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.081
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>42
+      </num>
+      <text>When Llawan, Cephalid Empress enters the battlefield, return all blue creatures your opponents control to their owners' hands.&lt;br&gt;Your opponents can't cast blue creature spells.
+      </text>
+    </mc>
+    <mc>
+      <id>29571
+      </id>
+      <name>Equal Treatment
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>If any source would deal 1 or more damage to a creature or player this turn, it deals 2 damage to that creature or player instead.&lt;br&gt;&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.773
+      </rating>
+      <artist>Greg &amp; Tim Hildebrandt
+      </artist>
+      <num>4
+      </num>
+      <text>If any source would deal 1 or more damage to a creature or player this turn, it deals 2 damage to that creature or player instead.&lt;br&gt;&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>29603
+      </id>
+      <name>Chainer's Edict
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player sacrifices a creature.&lt;br&gt;Flashback {5}{B}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.655
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>57
+      </num>
+      <text>Target player sacrifices a creature.&lt;br&gt;Flashback {5}{B}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>29698
+      </id>
+      <name>Vengeful Dreams
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Vengeful Dreams, discard X cards.&lt;br&gt;Exile X target attacking creatures.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.024
+      </rating>
+      <artist>Mark Tedin
+      </artist>
+      <num>21
+      </num>
+      <text>As an additional cost to cast Vengeful Dreams, discard X cards.&lt;br&gt;Exile X target attacking creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>29705
+      </id>
+      <name>Hypochondria
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{W}, Discard a card: Prevent the next 3 damage that would be dealt to target creature or player this turn.&lt;br&gt;{W}, Sacrifice Hypochondria: Prevent the next 3 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.861
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>7
+      </num>
+      <text>{W}, Discard a card: Prevent the next 3 damage that would be dealt to target creature or player this turn.&lt;br&gt;{W}, Sacrifice Hypochondria: Prevent the next 3 damage that would be dealt to target creature or player this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>29708
+      </id>
+      <name>Cephalid Aristocrat
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Cephalid
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Cephalid Aristocrat becomes the target of a spell or ability, put the top two cards of your library into your graveyard.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.03
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>27
+      </num>
+      <text>Whenever Cephalid Aristocrat becomes the target of a spell or ability, put the top two cards of your library into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>29713
+      </id>
+      <name>Skywing Aven
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Bird Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Discard a card: Return Skywing Aven to its owner's hand.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.231
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>47
+      </num>
+      <text>Flying&lt;br&gt;Discard a card: Return Skywing Aven to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>29715
+      </id>
+      <name>Krosan Constrictor
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Swampwalk&lt;br&gt;{T}: Target black creature gets -2/-0 until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.25
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>129
+      </num>
+      <text>Swampwalk&lt;br&gt;{T}: Target black creature gets -2/-0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>29719
+      </id>
+      <name>Hydromorph Gull
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Elemental Bird
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{U}, Sacrifice Hydromorph Gull: Counter target spell that targets one or more creatures you control.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.182
+      </rating>
+      <artist>Arnie Swekel
+      </artist>
+      <num>40
+      </num>
+      <text>Flying&lt;br&gt;{U}, Sacrifice Hydromorph Gull: Counter target spell that targets one or more creatures you control.
+      </text>
+    </mc>
+    <mc>
+      <id>29720
+      </id>
+      <name>Churning Eddy
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target creature and target land to their owners' hands.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.969
+      </rating>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>32
+      </num>
+      <text>Return target creature and target land to their owners' hands.
+      </text>
+    </mc>
+    <mc>
+      <id>29721
+      </id>
+      <name>Obsessive Search
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Draw a card.&lt;br&gt;Madness {U} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.727
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>43
+      </num>
+      <text>Draw a card.&lt;br&gt;Madness {U} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>29731
+      </id>
+      <name>Soul Scourge
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Nightmare Horror
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Soul Scourge enters the battlefield, target player loses 3 life.&lt;br&gt;When Soul Scourge leaves the battlefield, that player gains 3 life.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.271
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>85
+      </num>
+      <text>Flying&lt;br&gt;When Soul Scourge enters the battlefield, target player loses 3 life.&lt;br&gt;When Soul Scourge leaves the battlefield, that player gains 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>29754
+      </id>
+      <name>Crazed Firecat
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Creature - Elemental Cat
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Crazed Firecat enters the battlefield, flip a coin until you lose a flip. Put a +1/+1 counter on Crazed Firecat for each flip you win.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.478
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>94
+      </num>
+      <text>When Crazed Firecat enters the battlefield, flip a coin until you lose a flip. Put a +1/+1 counter on Crazed Firecat for each flip you win.
+      </text>
+    </mc>
+    <mc>
+      <id>29770
+      </id>
+      <name>Longhorn Firebeast
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Elemental Ox Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Longhorn Firebeast enters the battlefield, any opponent may have it deal 5 damage to him or her. If a player does, sacrifice Longhorn Firebeast.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.688
+      </rating>
+      <artist>Glen Angus
+      </artist>
+      <num>103
+      </num>
+      <text>When Longhorn Firebeast enters the battlefield, any opponent may have it deal 5 damage to him or her. If a player does, sacrifice Longhorn Firebeast.
+      </text>
+    </mc>
+    <mc>
+      <id>29787
+      </id>
+      <name>Possessed Centaur
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Centaur Horror
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Possessed Centaur gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target green creature."
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.675
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>137
+      </num>
+      <text>Trample&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Possessed Centaur gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target green creature."
+      </text>
+    </mc>
+    <mc>
+      <id>29799
+      </id>
+      <name>Petradon
+      </name>
+      <cost>{6}{R}{R}
+      </cost>
+      <type>Creature - Nightmare Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>When Petradon enters the battlefield, exile two target lands.&lt;br&gt;When Petradon leaves the battlefield, return the exiled cards to the battlefield under their owners' control.&lt;br&gt;{R}: Petradon gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.842
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>108
+      </num>
+      <text>When Petradon enters the battlefield, exile two target lands.&lt;br&gt;When Petradon leaves the battlefield, return the exiled cards to the battlefield under their owners' control.&lt;br&gt;{R}: Petradon gets +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>29800
+      </id>
+      <name>Centaur Veteran
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Creature - Centaur
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Trample&lt;br&gt;{G}, Discard a card: Regenerate Centaur Veteran.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.462
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>123
+      </num>
+      <text>Trample&lt;br&gt;{G}, Discard a card: Regenerate Centaur Veteran.
+      </text>
+    </mc>
+    <mc>
+      <id>29816
+      </id>
+      <name>Possessed Nomad
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Human Nomad Horror
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Possessed Nomad gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target white creature."
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.326
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>13
+      </num>
+      <text>Vigilance&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Possessed Nomad gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target white creature."
+      </text>
+    </mc>
+    <mc>
+      <id>29825
+      </id>
+      <name>Insidious Dreams
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Insidious Dreams, discard X cards.&lt;br&gt;Search your library for X cards. Then shuffle your library and put those cards on top of it in any order.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.196
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>66
+      </num>
+      <text>As an additional cost to cast Insidious Dreams, discard X cards.&lt;br&gt;Search your library for X cards. Then shuffle your library and put those cards on top of it in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>29827
+      </id>
+      <name>Turbulent Dreams
+      </name>
+      <cost>{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Turbulent Dreams, discard X cards.&lt;br&gt;Return X target nonland permanents to their owners' hands.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.5
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>49
+      </num>
+      <text>As an additional cost to cast Turbulent Dreams, discard X cards.&lt;br&gt;Return X target nonland permanents to their owners' hands.
+      </text>
+    </mc>
+    <mc>
+      <id>29841
+      </id>
+      <name>Frantic Purification
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target enchantment.&lt;br&gt;Madness {W} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.833
+      </rating>
+      <artist>Mark Brill
+      </artist>
+      <num>6
+      </num>
+      <text>Destroy target enchantment.&lt;br&gt;Madness {W} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>29857
+      </id>
+      <name>Accelerate
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gains haste until end of turn.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.661
+      </rating>
+      <artist>Gary Ruddell
+      </artist>
+      <num>90
+      </num>
+      <text>Target creature gains haste until end of turn.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>29863
+      </id>
+      <name>Flash of Defiance
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Green creatures and white creatures can't block this turn.&lt;br&gt;Flashback—{1}{R}, Pay 3 life. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.893
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>99
+      </num>
+      <text>Green creatures and white creatures can't block this turn.&lt;br&gt;Flashback—{1}{R}, Pay 3 life. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>29868
+      </id>
+      <name>Overmaster
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>The next instant or sorcery spell you cast this turn can't be countered by spells or abilities.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.192
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>104
+      </num>
+      <text>The next instant or sorcery spell you cast this turn can't be countered by spells or abilities.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>29872
+      </id>
+      <name>Krosan Restorer
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Human Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Untap target land.&lt;br&gt;Threshold- {T}: Untap up to three target lands. Activate this ability only if seven or more cards are in your graveyard.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.093
+      </rating>
+      <artist>Clyde Caldwell
+      </artist>
+      <num>130
+      </num>
+      <text>{T}: Untap target land.&lt;br&gt;Threshold- {T}: Untap up to three target lands. Activate this ability only if seven or more cards are in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>29873
+      </id>
+      <name>Acorn Harvest
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put two 1/1 green Squirrel creature tokens onto the battlefield.&lt;br&gt;Flashback—{1}{G}, Pay 3 life. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.266
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>118
+      </num>
+      <text>Put two 1/1 green Squirrel creature tokens onto the battlefield.&lt;br&gt;Flashback—{1}{G}, Pay 3 life. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>29883
+      </id>
+      <name>Cleansing Meditation
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all enchantments.&lt;br&gt;Threshold- If seven or more cards are in your graveyard, instead destroy all enchantments, then return all cards in your graveyard destroyed this way to the battlefield.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.833
+      </rating>
+      <artist>Ron Spears
+      </artist>
+      <num>3
+      </num>
+      <text>Destroy all enchantments.&lt;br&gt;Threshold- If seven or more cards are in your graveyard, instead destroy all enchantments, then return all cards in your graveyard destroyed this way to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>29886
+      </id>
+      <name>Insist
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>The next creature spell you cast this turn can't be countered by spells or abilities.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.1
+      </rating>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>127
+      </num>
+      <text>The next creature spell you cast this turn can't be countered by spells or abilities.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>29896
+      </id>
+      <name>Cabal Coffers
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{2}, {T}: Add {B} to your mana pool for each Swamp you control.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.692
+      </rating>
+      <artist>none
+      </artist>
+      <num>139
+      </num>
+      <text>{2}, {T}: Add {B} to your mana pool for each Swamp you control.
+      </text>
+    </mc>
+    <mc>
+      <id>29907
+      </id>
+      <name>Invigorating Falls
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You gain life equal to the number of creature cards in all graveyards.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.538
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>128
+      </num>
+      <text>You gain life equal to the number of creature cards in all graveyards.
+      </text>
+    </mc>
+    <mc>
+      <id>29908
+      </id>
+      <name>Restless Dreams
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Restless Dreams, discard X cards.&lt;br&gt;Return X target creature cards from your graveyard to your hand.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.868
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>79
+      </num>
+      <text>As an additional cost to cast Restless Dreams, discard X cards.&lt;br&gt;Return X target creature cards from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>29912
+      </id>
+      <name>Major Teroh
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Legendary Creature - Bird Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{3}{W}{W}, Sacrifice Major Teroh: Exile all black creatures.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.913
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>8
+      </num>
+      <text>Flying&lt;br&gt;{3}{W}{W}, Sacrifice Major Teroh: Exile all black creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>29927
+      </id>
+      <name>Breakthrough
+      </name>
+      <cost>{X}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw four cards, then choose X cards in your hand and discard the rest.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.114
+      </rating>
+      <artist>Gary Ruddell
+      </artist>
+      <num>26
+      </num>
+      <text>Draw four cards, then choose X cards in your hand and discard the rest.
+      </text>
+    </mc>
+    <mc>
+      <id>29992
+      </id>
+      <name>Parallel Evolution
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>For each creature token on the battlefield, its controller puts a token that's a copy of that creature onto the battlefield.&lt;br&gt;Flashback {4}{G}{G}{G} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.357
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>136
+      </num>
+      <text>For each creature token on the battlefield, its controller puts a token that's a copy of that creature onto the battlefield.&lt;br&gt;Flashback {4}{G}{G}{G} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>30561
+      </id>
+      <name>Devastating Dreams
+      </name>
+      <cost>{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Devastating Dreams, discard X cards at random.&lt;br&gt;Each player sacrifices X lands. Devastating Dreams deals X damage to each creature.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.8
+      </rating>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>95
+      </num>
+      <text>As an additional cost to cast Devastating Dreams, discard X cards at random.&lt;br&gt;Each player sacrifices X lands. Devastating Dreams deals X damage to each creature.
+      </text>
+    </mc>
+    <mc>
+      <id>30564
+      </id>
+      <name>Cabal Ritual
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Add {B}{B}{B} to your mana pool.&lt;br&gt;Threshold- Add {B}{B}{B}{B}{B} to your mana pool instead if seven or more cards are in your graveyard.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.361
+      </rating>
+      <artist>Greg &amp; Tim Hildebrandt
+      </artist>
+      <num>51
+      </num>
+      <text>Add {B}{B}{B} to your mana pool.&lt;br&gt;Threshold- Add {B}{B}{B}{B}{B} to your mana pool instead if seven or more cards are in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>30607
+      </id>
+      <name>Mystic Familiar
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Mystic Familiar gets +1/+1 and has protection from black.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.417
+      </rating>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>11
+      </num>
+      <text>Flying&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Mystic Familiar gets +1/+1 and has protection from black.
+      </text>
+    </mc>
+    <mc>
+      <id>30658
+      </id>
+      <name>Possessed Aven
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature - Bird Soldier Horror
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Possessed Aven gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target blue creature."
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.794
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>45
+      </num>
+      <text>Flying&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Possessed Aven gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target blue creature."
+      </text>
+    </mc>
+    <mc>
+      <id>31598
+      </id>
+      <name>Rancid Earth
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target land.&lt;br&gt;Threshold- If seven or more cards are in your graveyard, instead destroy that land and Rancid Earth deals 1 damage to each creature and each player.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.083
+      </rating>
+      <artist>Ciruelo
+      </artist>
+      <num>78
+      </num>
+      <text>Destroy target land.&lt;br&gt;Threshold- If seven or more cards are in your graveyard, instead destroy that land and Rancid Earth deals 1 damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>31757
+      </id>
+      <name>Tainted Field
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {W} or {B} to your mana pool. Activate this ability only if you control a Swamp.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.405
+      </rating>
+      <artist>Don Hazeltine
+      </artist>
+      <num>140
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {W} or {B} to your mana pool. Activate this ability only if you control a Swamp.
+      </text>
+    </mc>
+    <mc>
+      <id>31758
+      </id>
+      <name>Tainted Isle
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {U} or {B} to your mana pool. Activate this ability only if you control a Swamp.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.519
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>141
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {U} or {B} to your mana pool. Activate this ability only if you control a Swamp.
+      </text>
+    </mc>
+    <mc>
+      <id>31759
+      </id>
+      <name>Tainted Peak
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {B} or {R} to your mana pool. Activate this ability only if you control a Swamp.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.161
+      </rating>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>142
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {B} or {R} to your mana pool. Activate this ability only if you control a Swamp.
+      </text>
+    </mc>
+    <mc>
+      <id>31760
+      </id>
+      <name>Tainted Wood
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {B} or {G} to your mana pool. Activate this ability only if you control a Swamp.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.054
+      </rating>
+      <artist>Rob Alexander
+      </artist>
+      <num>143
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {B} or {G} to your mana pool. Activate this ability only if you control a Swamp.
+      </text>
+    </mc>
+    <mc>
+      <id>31805
+      </id>
+      <name>Petravark
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Nightmare Beast
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Petravark enters the battlefield, exile target land.&lt;br&gt;When Petravark leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.667
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>109
+      </num>
+      <text>When Petravark enters the battlefield, exile target land.&lt;br&gt;When Petravark leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>31822
+      </id>
+      <name>Shambling Swarm
+      </name>
+      <cost>{1}{B}{B}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Shambling Swarm dies, distribute three -1/-1 counters among one, two, or three target creatures. For each -1/-1 counter you put on a creature this way, remove a -1/-1 counter from that creature at the beginning of the next end step.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.545
+      </rating>
+      <artist>Arnie Swekel
+      </artist>
+      <num>82
+      </num>
+      <text>When Shambling Swarm dies, distribute three -1/-1 counters among one, two, or three target creatures. For each -1/-1 counter you put on a creature this way, remove a -1/-1 counter from that creature at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>31831
+      </id>
+      <name>Hypnox
+      </name>
+      <cost>{8}{B}{B}{B}
+      </cost>
+      <type>Creature - Nightmare Horror
+      </type>
+      <power>8
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Hypnox enters the battlefield, if you cast it from your hand, exile all cards from target opponent's hand.&lt;br&gt;When Hypnox leaves the battlefield, return the exiled cards to their owner's hand.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.676
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>64
+      </num>
+      <text>Flying&lt;br&gt;When Hypnox enters the battlefield, if you cast it from your hand, exile all cards from target opponent's hand.&lt;br&gt;When Hypnox leaves the battlefield, return the exiled cards to their owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>31833
+      </id>
+      <name>Slithery Stalker
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Nightmare Horror
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Swampwalk&lt;br&gt;When Slithery Stalker enters the battlefield, exile target green or white creature an opponent controls.&lt;br&gt;When Slithery Stalker leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.087
+      </rating>
+      <artist>John Avon
+      </artist>
+      <num>84
+      </num>
+      <text>Swampwalk&lt;br&gt;When Slithery Stalker enters the battlefield, exile target green or white creature an opponent controls.&lt;br&gt;When Slithery Stalker leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>31840
+      </id>
+      <name>Cephalid Snitch
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Cephalid Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice Cephalid Snitch: Target creature loses protection from black until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>0.929
+      </rating>
+      <artist>Jerry Tiritilli
+      </artist>
+      <num>30
+      </num>
+      <text>Sacrifice Cephalid Snitch: Target creature loses protection from black until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>31851
+      </id>
+      <name>Nantuko Calmer
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Insect Druid
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{G}, {T}, Sacrifice Nantuko Calmer: Destroy target enchantment.&lt;br&gt;Threshold- Nantuko Calmer gets +1/+1 as long as seven or more cards are in your graveyard.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.812
+      </rating>
+      <artist>Mark Romanoski
+      </artist>
+      <num>132
+      </num>
+      <text>{G}, {T}, Sacrifice Nantuko Calmer: Destroy target enchantment.&lt;br&gt;Threshold- Nantuko Calmer gets +1/+1 as long as seven or more cards are in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>31869
+      </id>
+      <name>Laquatus's Champion
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Nightmare Horror
+      </type>
+      <power>6
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Laquatus's Champion enters the battlefield, target player loses 6 life.&lt;br&gt;When Laquatus's Champion leaves the battlefield, that player gains 6 life.&lt;br&gt;{B}: Regenerate Laquatus's Champion.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.519
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>67
+      </num>
+      <text>When Laquatus's Champion enters the battlefield, target player loses 6 life.&lt;br&gt;When Laquatus's Champion leaves the battlefield, that player gains 6 life.&lt;br&gt;{B}: Regenerate Laquatus's Champion.
+      </text>
+    </mc>
+    <mc>
+      <id>32133
+      </id>
+      <name>Waste Away
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Waste Away, discard a card.&lt;br&gt;Target creature gets -5/-5 until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>0.914
+      </rating>
+      <artist>Alan Pollack
+      </artist>
+      <num>88
+      </num>
+      <text>As an additional cost to cast Waste Away, discard a card.&lt;br&gt;Target creature gets -5/-5 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>32205
+      </id>
+      <name>Teroh's Vanguard
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Nomad
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flash&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Teroh's Vanguard has "When Teroh's Vanguard enters the battlefield, creatures you control gain protection from black until end of turn."
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.625
+      </rating>
+      <artist>Greg &amp; Tim Hildebrandt
+      </artist>
+      <num>19
+      </num>
+      <text>Flash&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Teroh's Vanguard has "When Teroh's Vanguard enters the battlefield, creatures you control gain protection from black until end of turn."
+      </text>
+    </mc>
+    <mc>
+      <id>32208
+      </id>
+      <name>Nostalgic Dreams
+      </name>
+      <cost>{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Nostalgic Dreams, discard X cards.&lt;br&gt;Return X target cards from your graveyard to your hand. Exile Nostalgic Dreams.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.185
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>135
+      </num>
+      <text>As an additional cost to cast Nostalgic Dreams, discard X cards.&lt;br&gt;Return X target cards from your graveyard to your hand. Exile Nostalgic Dreams.
+      </text>
+    </mc>
+    <mc>
+      <id>32210
+      </id>
+      <name>Gravegouger
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Nightmare Horror
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Gravegouger enters the battlefield, exile up to two target cards from a single graveyard.&lt;br&gt;When Gravegouger leaves the battlefield, return the exiled cards to their owner's graveyard.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.278
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>62
+      </num>
+      <text>When Gravegouger enters the battlefield, exile up to two target cards from a single graveyard.&lt;br&gt;When Gravegouger leaves the battlefield, return the exiled cards to their owner's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>32211
+      </id>
+      <name>Mesmeric Fiend
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Nightmare Horror
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Mesmeric Fiend enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.&lt;br&gt;When Mesmeric Fiend leaves the battlefield, return the exiled card to its owner's hand.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.083
+      </rating>
+      <artist>Dana Knutson
+      </artist>
+      <num>69
+      </num>
+      <text>When Mesmeric Fiend enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.&lt;br&gt;When Mesmeric Fiend leaves the battlefield, return the exiled card to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>32213
+      </id>
+      <name>Pardic Arsonist
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Human Barbarian
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Threshold- As long as seven or more cards are in your graveyard, Pardic Arsonist has "When Pardic Arsonist enters the battlefield, it deals 3 damage to target creature or player."
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.472
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>105
+      </num>
+      <text>Threshold- As long as seven or more cards are in your graveyard, Pardic Arsonist has "When Pardic Arsonist enters the battlefield, it deals 3 damage to target creature or player."
+      </text>
+    </mc>
+    <mc>
+      <id>32218
+      </id>
+      <name>Centaur Chieftain
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Centaur
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Haste&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Centaur Chieftain has "When Centaur Chieftain enters the battlefield, creatures you control get +1/+1 and gain trample until end of turn."
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.018
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>122
+      </num>
+      <text>Haste&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Centaur Chieftain has "When Centaur Chieftain enters the battlefield, creatures you control get +1/+1 and gain trample until end of turn."
+      </text>
+    </mc>
+    <mc>
+      <id>32221
+      </id>
+      <name>Gurzigost
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>6
+      </power>
+      <toughness>8
+      </toughness>
+      <oracleText>At the beginning of your upkeep, sacrifice Gurzigost unless you put two cards from your graveyard on the bottom of your library.&lt;br&gt;{G}{G}, Discard a card: You may have Gurzigost assign its combat damage this turn as though it weren't blocked.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.181
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>126
+      </num>
+      <text>At the beginning of your upkeep, sacrifice Gurzigost unless you put two cards from your graveyard on the bottom of your library.&lt;br&gt;{G}{G}, Discard a card: You may have Gurzigost assign its combat damage this turn as though it weren't blocked.
+      </text>
+    </mc>
+    <mc>
+      <id>32222
+      </id>
+      <name>Grotesque Hybrid
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Grotesque Hybrid deals combat damage to a creature, destroy that creature. It can't be regenerated.&lt;br&gt;Discard a card: Grotesque Hybrid gains flying and protection from green and from white until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.471
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>63
+      </num>
+      <text>Whenever Grotesque Hybrid deals combat damage to a creature, destroy that creature. It can't be regenerated.&lt;br&gt;Discard a card: Grotesque Hybrid gains flying and protection from green and from white until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>32224
+      </id>
+      <name>Cabal Surgeon
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Human Minion
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{2}{B}{B}, {T}, Exile two cards from your graveyard: Return target creature card from your graveyard to your hand.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.031
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>52
+      </num>
+      <text>{2}{B}{B}, {T}, Exile two cards from your graveyard: Return target creature card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>32225
+      </id>
+      <name>Boneshard Slasher
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Boneshard Slasher gets +2/+2 and has "When Boneshard Slasher becomes the target of a spell or ability, sacrifice it."
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>50
+      </num>
+      <text>Flying&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Boneshard Slasher gets +2/+2 and has "When Boneshard Slasher becomes the target of a spell or ability, sacrifice it."
+      </text>
+    </mc>
+    <mc>
+      <id>32226
+      </id>
+      <name>Cabal Torturer
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Human Minion
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{B}, {T}: Target creature gets -1/-1 until end of turn.&lt;br&gt;Threshold- {3}{B}{B}, {T}: Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.029
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>53
+      </num>
+      <text>{B}, {T}: Target creature gets -1/-1 until end of turn.&lt;br&gt;Threshold- {3}{B}{B}, {T}: Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>32229
+      </id>
+      <name>Kamahl's Sledge
+      </name>
+      <cost>{5}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kamahl's Sledge deals 4 damage to target creature.&lt;br&gt;Threshold- If seven or more cards are in your graveyard, instead Kamahl's Sledge deals 4 damage to that creature and 4 damage to that creature's controller.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>0.929
+      </rating>
+      <artist>Don Hazeltine
+      </artist>
+      <num>102
+      </num>
+      <text>Kamahl's Sledge deals 4 damage to target creature.&lt;br&gt;Threshold- If seven or more cards are in your graveyard, instead Kamahl's Sledge deals 4 damage to that creature and 4 damage to that creature's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>32231
+      </id>
+      <name>Possessed Barbarian
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Human Barbarian Horror
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>First strike&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Possessed Barbarian gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target red creature."
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.618
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>111
+      </num>
+      <text>First strike&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Possessed Barbarian gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target red creature."
+      </text>
+    </mc>
+    <mc>
+      <id>32232
+      </id>
+      <name>Pay No Heed
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all damage a source of your choice would deal this turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.312
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>12
+      </num>
+      <text>Prevent all damage a source of your choice would deal this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>32233
+      </id>
+      <name>Angel of Retribution
+      </name>
+      <cost>{6}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying, first strike
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.09
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>1
+      </num>
+      <text>Flying, first strike
+      </text>
+    </mc>
+    <mc>
+      <id>32235
+      </id>
+      <name>Ghostly Wings
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has flying.&lt;br&gt;Discard a card: Return enchanted creature to its owner's hand.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.912
+      </rating>
+      <artist>David Martin
+      </artist>
+      <num>38
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+1 and has flying.&lt;br&gt;Discard a card: Return enchanted creature to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>32236
+      </id>
+      <name>Temporary Insanity
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>Mark Romanoski
+      </artist>
+      <num>116
+      </num>
+      <text>Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>32237
+      </id>
+      <name>Deep Analysis
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player draws two cards.&lt;br&gt;Flashback—{1}{U}, Pay 3 life. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.298
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>36
+      </num>
+      <text>Target player draws two cards.&lt;br&gt;Flashback—{1}{U}, Pay 3 life. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>32238
+      </id>
+      <name>Organ Grinder
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}, Exile three cards from your graveyard: Target player loses 3 life.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.707
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>75
+      </num>
+      <text>{T}, Exile three cards from your graveyard: Target player loses 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>32240
+      </id>
+      <name>Pardic Lancer
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Creature - Human Barbarian
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Discard a card at random: Pardic Lancer gets +1/+0 and gains first strike until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.656
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>107
+      </num>
+      <text>Discard a card at random: Pardic Lancer gets +1/+0 and gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>32243
+      </id>
+      <name>Nantuko Blightcutter
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Insect Druid
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Protection from black&lt;br&gt;Threshold- Nantuko Blightcutter gets +1/+1 for each black permanent your opponents control as long as seven or more cards are in your graveyard.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.308
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>131
+      </num>
+      <text>Protection from black&lt;br&gt;Threshold- Nantuko Blightcutter gets +1/+1 for each black permanent your opponents control as long as seven or more cards are in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>32244
+      </id>
+      <name>Seton's Scout
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Centaur Druid Scout Archer
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Threshold- Seton's Scout gets +2/+2 as long as seven or more cards are in your graveyard.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.679
+      </rating>
+      <artist>Mark Romanoski
+      </artist>
+      <num>138
+      </num>
+      <text>Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;Threshold- Seton's Scout gets +2/+2 as long as seven or more cards are in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>32396
+      </id>
+      <name>Floating Shield
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;As Floating Shield enters the battlefield, choose a color.&lt;br&gt;Enchanted creature has protection from the chosen color. This effect doesn't remove Floating Shield.&lt;br&gt;Sacrifice Floating Shield: Target creature gains protection from the chosen color until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.667
+      </rating>
+      <artist>Keith Garletts
+      </artist>
+      <num>5
+      </num>
+      <text>Enchant creature&lt;br&gt;As Floating Shield enters the battlefield, choose a color.&lt;br&gt;Enchanted creature has protection from the chosen color. This effect doesn't remove Floating Shield.&lt;br&gt;Sacrifice Floating Shield: Target creature gains protection from the chosen color until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>32915
+      </id>
+      <name>Balshan Collaborator
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Bird Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{B}: Balshan Collaborator gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.913
+      </rating>
+      <artist>DiTerlizzi
+      </artist>
+      <num>25
+      </num>
+      <text>Flying&lt;br&gt;{B}: Balshan Collaborator gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>32916
+      </id>
+      <name>Chainer, Dementia Master
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Legendary Creature - Human Minion
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Nightmare creatures get +1/+1.&lt;br&gt;{B}{B}{B}, Pay 3 life: Put target creature card from a graveyard onto the battlefield under your control. That creature is black and is a Nightmare in addition to its other creature types.&lt;br&gt;When Chainer, Dementia Master leaves the battlefield, exile all Nightmares.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.354
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>56
+      </num>
+      <text>Nightmare creatures get +1/+1.&lt;br&gt;{B}{B}{B}, Pay 3 life: Put target creature card from a graveyard onto the battlefield under your control. That creature is black and is a Nightmare in addition to its other creature types.&lt;br&gt;When Chainer, Dementia Master leaves the battlefield, exile all Nightmares.
+      </text>
+    </mc>
+    <mc>
+      <id>32917
+      </id>
+      <name>Enslaved Dwarf
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Dwarf
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{R}, Sacrifice Enslaved Dwarf: Target black creature gets +1/+0 and gains first strike until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>1.676
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>96
+      </num>
+      <text>{R}, Sacrifice Enslaved Dwarf: Target black creature gets +1/+0 and gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>32921
+      </id>
+      <name>Flaming Gambit
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Flaming Gambit deals X damage to target player. That player may choose a creature he or she controls and have Flaming Gambit deal that damage to it instead.&lt;br&gt;Flashback {X}{R}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.636
+      </rating>
+      <artist>Donato Giancola
+      </artist>
+      <num>98
+      </num>
+      <text>Flaming Gambit deals X damage to target player. That player may choose a creature he or she controls and have Flaming Gambit deal that damage to it instead.&lt;br&gt;Flashback {X}{R}{R} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>33627
+      </id>
+      <name>Hydromorph Guardian
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{U}, Sacrifice Hydromorph Guardian: Counter target spell that targets one or more creatures you control.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.033
+      </rating>
+      <artist>Glen Angus
+      </artist>
+      <num>39
+      </num>
+      <text>{U}, Sacrifice Hydromorph Guardian: Counter target spell that targets one or more creatures you control.
+      </text>
+    </mc>
+    <mc>
+      <id>33687
+      </id>
+      <name>Anurid Scavenger
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Frog Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Protection from black&lt;br&gt;At the beginning of your upkeep, sacrifice Anurid Scavenger unless you put a card from your graveyard on the bottom of your library.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.618
+      </rating>
+      <artist>Bob Petillo
+      </artist>
+      <num>119
+      </num>
+      <text>Protection from black&lt;br&gt;At the beginning of your upkeep, sacrifice Anurid Scavenger unless you put a card from your graveyard on the bottom of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>33690
+      </id>
+      <name>Cephalid Sage
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Cephalid
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Threshold- As long as seven or more cards are in your graveyard, Cephalid Sage has "When Cephalid Sage enters the battlefield, draw three cards, then discard two cards."
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.235
+      </rating>
+      <artist>Keith Garletts
+      </artist>
+      <num>29
+      </num>
+      <text>Threshold- As long as seven or more cards are in your graveyard, Cephalid Sage has "When Cephalid Sage enters the battlefield, draw three cards, then discard two cards."
+      </text>
+    </mc>
+    <mc>
+      <id>33691
+      </id>
+      <name>Psychotic Haze
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Psychotic Haze deals 1 damage to each creature and each player.&lt;br&gt;Madness {1}{B} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.075
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>76
+      </num>
+      <text>Psychotic Haze deals 1 damage to each creature and each player.&lt;br&gt;Madness {1}{B} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>33698
+      </id>
+      <name>Retraced Image
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Reveal a card in your hand, then put that card onto the battlefield if it has the same name as a permanent.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.917
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>46
+      </num>
+      <text>Reveal a card in your hand, then put that card onto the battlefield if it has the same name as a permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>34222
+      </id>
+      <name>Strength of Lunacy
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +2/+1 and has protection from white.&lt;br&gt;Madness {B} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.796
+      </rating>
+      <artist>Greg &amp; Tim Hildebrandt
+      </artist>
+      <num>86
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +2/+1 and has protection from white.&lt;br&gt;Madness {B} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>34225
+      </id>
+      <name>Crippling Fatigue
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target creature gets -2/-2 until end of turn.&lt;br&gt;Flashback—{1}{B}, Pay 3 life. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.6
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>58
+      </num>
+      <text>Target creature gets -2/-2 until end of turn.&lt;br&gt;Flashback—{1}{B}, Pay 3 life. &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>34229
+      </id>
+      <name>Nantuko Cultivator
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Insect Druid
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Nantuko Cultivator enters the battlefield, you may discard any number of land cards. Put that many +1/+1 counters on Nantuko Cultivator and draw that many cards.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.019
+      </rating>
+      <artist>Darrell Riche
+      </artist>
+      <num>133
+      </num>
+      <text>When Nantuko Cultivator enters the battlefield, you may discard any number of land cards. Put that many +1/+1 counters on Nantuko Cultivator and draw that many cards.
+      </text>
+    </mc>
+    <mc>
+      <id>34234
+      </id>
+      <name>Morningtide
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Exile all cards from all graveyards.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.531
+      </rating>
+      <artist>Tony Szczudlo
+      </artist>
+      <num>10
+      </num>
+      <text>Exile all cards from all graveyards.
+      </text>
+    </mc>
+    <mc>
+      <id>34247
+      </id>
+      <name>Reborn Hero
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Reborn Hero has "When Reborn Hero dies, you may pay {W}{W}. If you do, return Reborn Hero to the battlefield under your control."
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.722
+      </rating>
+      <artist>Gary Ruddell
+      </artist>
+      <num>14
+      </num>
+      <text>Vigilance&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Reborn Hero has "When Reborn Hero dies, you may pay {W}{W}. If you do, return Reborn Hero to the battlefield under your control."
+      </text>
+    </mc>
+    <mc>
+      <id>34250
+      </id>
+      <name>Radiate
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose target instant or sorcery spell that targets only a single permanent or player. Copy that spell for each other permanent or player the spell could target. Each copy targets a different one of those permanents and players.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.019
+      </rating>
+      <artist>Carl Critchlow
+      </artist>
+      <num>113
+      </num>
+      <text>Choose target instant or sorcery spell that targets only a single permanent or player. Copy that spell for each other permanent or player the spell could target. Each copy targets a different one of those permanents and players.
+      </text>
+    </mc>
+    <mc>
+      <id>34253
+      </id>
+      <name>Violent Eruption
+      </name>
+      <cost>{1}{R}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Violent Eruption deals 4 damage divided as you choose among any number of target creatures and/or players.&lt;br&gt;Madness {1}{R}{R} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.985
+      </rating>
+      <artist>Bob Petillo
+      </artist>
+      <num>117
+      </num>
+      <text>Violent Eruption deals 4 damage divided as you choose among any number of target creatures and/or players.&lt;br&gt;Madness {1}{R}{R} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>34278
+      </id>
+      <name>Crackling Club
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+0.&lt;br&gt;Sacrifice Crackling Club: Crackling Club deals 1 damage to target creature.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.222
+      </rating>
+      <artist>Mike Ploog
+      </artist>
+      <num>93
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+0.&lt;br&gt;Sacrifice Crackling Club: Crackling Club deals 1 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>34368
+      </id>
+      <name>Circular Logic
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell unless its controller pays {1} for each card in your graveyard.&lt;br&gt;Madness {U} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.28
+      </rating>
+      <artist>Anthony S. Waters
+      </artist>
+      <num>33
+      </num>
+      <text>Counter target spell unless its controller pays {1} for each card in your graveyard.&lt;br&gt;Madness {U} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>34382
+      </id>
+      <name>Skullscorch
+      </name>
+      <cost>{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards two cards at random unless that player has Skullscorch deal 4 damage to him or her.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.077
+      </rating>
+      <artist>Bradley Williams
+      </artist>
+      <num>114
+      </num>
+      <text>Target player discards two cards at random unless that player has Skullscorch deal 4 damage to him or her.
+      </text>
+    </mc>
+    <mc>
+      <id>34384
+      </id>
+      <name>Hell-Bent Raider
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Human Barbarian
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike, haste&lt;br&gt;Discard a card at random: Hell-Bent Raider gains protection from white until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.795
+      </rating>
+      <artist>Mike Ploog
+      </artist>
+      <num>101
+      </num>
+      <text>First strike, haste&lt;br&gt;Discard a card at random: Hell-Bent Raider gains protection from white until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>34390
+      </id>
+      <name>Pyromania
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{R}, Discard a card at random: Pyromania deals 1 damage to target creature or player.&lt;br&gt;{1}{R}, Sacrifice Pyromania: Pyromania deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.682
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>112
+      </num>
+      <text>{1}{R}, Discard a card at random: Pyromania deals 1 damage to target creature or player.&lt;br&gt;{1}{R}, Sacrifice Pyromania: Pyromania deals 1 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>34465
+      </id>
+      <name>Aquamoeba
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Elemental Beast
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Discard a card: Switch Aquamoeba's power and toughness until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>3.587
+      </rating>
+      <artist>Arnie Swekel
+      </artist>
+      <num>24
+      </num>
+      <text>Discard a card: Switch Aquamoeba's power and toughness until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>34467
+      </id>
+      <name>Last Laugh
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a permanent other than Last Laugh is put into a graveyard from the battlefield, Last Laugh deals 1 damage to each creature and each player.&lt;br&gt;When no creatures are on the battlefield, sacrifice Last Laugh.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.778
+      </rating>
+      <artist>John Matson
+      </artist>
+      <num>68
+      </num>
+      <text>Whenever a permanent other than Last Laugh is put into a graveyard from the battlefield, Last Laugh deals 1 damage to each creature and each player.&lt;br&gt;When no creatures are on the battlefield, sacrifice Last Laugh.
+      </text>
+    </mc>
+    <mc>
+      <id>34470
+      </id>
+      <name>Putrid Imp
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Zombie Imp
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Discard a card: Putrid Imp gains flying until end of turn.&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.19
+      </rating>
+      <artist>Wayne England
+      </artist>
+      <num>77
+      </num>
+      <text>Discard a card: Putrid Imp gains flying until end of turn.&lt;br&gt;Threshold- As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.
+      </text>
+    </mc>
+    <mc>
+      <id>34473
+      </id>
+      <name>Compulsion
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{U}, Discard a card: Draw a card.&lt;br&gt;{1}{U}, Sacrifice Compulsion: Draw a card.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>4.211
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>34
+      </num>
+      <text>{1}{U}, Discard a card: Draw a card.&lt;br&gt;{1}{U}, Sacrifice Compulsion: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>34756
+      </id>
+      <name>Liquify
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell with converted mana cost 3 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.739
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>41
+      </num>
+      <text>Counter target spell with converted mana cost 3 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>34776
+      </id>
+      <name>Cephalid Illusionist
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Cephalid Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Cephalid Illusionist becomes the target of a spell or ability, put the top three cards of your library into your graveyard.&lt;br&gt;{2}{U}, {T}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.925
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>28
+      </num>
+      <text>Whenever Cephalid Illusionist becomes the target of a spell or ability, put the top three cards of your library into your graveyard.&lt;br&gt;{2}{U}, {T}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>34782
+      </id>
+      <name>Strength of Isolation
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +1/+2 and has protection from black.&lt;br&gt;Madness {W} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.094
+      </rating>
+      <artist>Jerry Tiritilli
+      </artist>
+      <num>17
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +1/+2 and has protection from black.&lt;br&gt;Madness {W} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>34819
+      </id>
+      <name>Zombie Trailblazer
+      </name>
+      <cost>{B}{B}{B}
+      </cost>
+      <type>Creature - Zombie Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Tap an untapped Zombie you control: Target land becomes a Swamp until end of turn.&lt;br&gt;Tap an untapped Zombie you control: Target creature gains swampwalk until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.915
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>89
+      </num>
+      <text>Tap an untapped Zombie you control: Target land becomes a Swamp until end of turn.&lt;br&gt;Tap an untapped Zombie you control: Target creature gains swampwalk until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>34832
+      </id>
+      <name>Alter Reality
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Change the text of target spell or permanent by replacing all instances of one color word with another. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;&lt;br&gt;Flashback {1}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.025
+      </rating>
+      <artist>Justin Sweet
+      </artist>
+      <num>22
+      </num>
+      <text>Change the text of target spell or permanent by replacing all instances of one color word with another. &lt;i&gt;(This effect lasts indefinitely.)&lt;/i&gt;&lt;br&gt;Flashback {1}{U} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>35053
+      </id>
+      <name>Nantuko Shade
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Insect Shade
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{B}: Nantuko Shade gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.653
+      </rating>
+      <artist>Brian Snoddy
+      </artist>
+      <num>74
+      </num>
+      <text>{B}: Nantuko Shade gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>35054
+      </id>
+      <name>Pardic Collaborator
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Human Barbarian
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike&lt;br&gt;{B}: Pardic Collaborator gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.1
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>106
+      </num>
+      <text>First strike&lt;br&gt;{B}: Pardic Collaborator gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>35063
+      </id>
+      <name>Sickening Dreams
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Sickening Dreams, discard X cards.&lt;br&gt;Sickening Dreams deals X damage to each creature and each player.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.389
+      </rating>
+      <artist>Scott M. Fischer
+      </artist>
+      <num>83
+      </num>
+      <text>As an additional cost to cast Sickening Dreams, discard X cards.&lt;br&gt;Sickening Dreams deals X damage to each creature and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>35072
+      </id>
+      <name>Basking Rootwalla
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.&lt;br&gt;Madness {0} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.707
+      </rating>
+      <artist>Heather Hudson
+      </artist>
+      <num>121
+      </num>
+      <text>{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.&lt;br&gt;Madness {0} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>35082
+      </id>
+      <name>Stern Judge
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Each player loses 1 life for each Swamp he or she controls.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.214
+      </rating>
+      <artist>Matt Cavotta
+      </artist>
+      <num>16
+      </num>
+      <text>{T}: Each player loses 1 life for each Swamp he or she controls.
+      </text>
+    </mc>
+    <mc>
+      <id>35165
+      </id>
+      <name>Sonic Seizure
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Sonic Seizure, discard a card at random.&lt;br&gt;Sonic Seizure deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.656
+      </rating>
+      <artist>Terese Nielsen
+      </artist>
+      <num>115
+      </num>
+      <text>As an additional cost to cast Sonic Seizure, discard a card at random.&lt;br&gt;Sonic Seizure deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>35194
+      </id>
+      <name>Mutilate
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>All creatures get -1/-1 until end of turn for each Swamp you control.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.729
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>73
+      </num>
+      <text>All creatures get -1/-1 until end of turn for each Swamp you control.
+      </text>
+    </mc>
+    <mc>
+      <id>35922
+      </id>
+      <name>Unhinge
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards a card.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>2.421
+      </rating>
+      <artist>Keith Garletts
+      </artist>
+      <num>87
+      </num>
+      <text>Target player discards a card.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>35923
+      </id>
+      <name>Ichorid
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Horror
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste&lt;br&gt;At the beginning of the end step, sacrifice Ichorid.&lt;br&gt;At the beginning of your upkeep, if Ichorid is in your graveyard, you may exile a black creature card other than Ichorid from your graveyard. If you do, return Ichorid to the battlefield.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.54
+      </rating>
+      <artist>rk post
+      </artist>
+      <num>65
+      </num>
+      <text>Haste&lt;br&gt;At the beginning of the end step, sacrifice Ichorid.&lt;br&gt;At the beginning of your upkeep, if Ichorid is in your graveyard, you may exile a black creature card other than Ichorid from your graveyard. If you do, return Ichorid to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>35924
+      </id>
+      <name>Dawn of the Dead
+      </name>
+      <cost>{2}{B}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, you lose 1 life.&lt;br&gt;At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.964
+      </rating>
+      <artist>Pete Venters
+      </artist>
+      <num>59
+      </num>
+      <text>At the beginning of your upkeep, you lose 1 life.&lt;br&gt;At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>36034
+      </id>
+      <name>Cephalid Vandal
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Cephalid Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a shred counter on Cephalid Vandal. Then put the top card of your library into your graveyard for each shred counter on Cephalid Vandal.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.088
+      </rating>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>31
+      </num>
+      <text>At the beginning of your upkeep, put a shred counter on Cephalid Vandal. Then put the top card of your library into your graveyard for each shred counter on Cephalid Vandal.
+      </text>
+    </mc>
+    <mc>
+      <id>36111
+      </id>
+      <name>Grim Lavamancer
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.536
+      </rating>
+      <artist>Jim Nelson
+      </artist>
+      <num>100
+      </num>
+      <text>{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>36415
+      </id>
+      <name>Stupefying Touch
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Stupefying Touch enters the battlefield, draw a card.&lt;br&gt;Enchanted creature's activated abilities can't be activated.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>2.917
+      </rating>
+      <artist>Bradley Williams
+      </artist>
+      <num>48
+      </num>
+      <text>Enchant creature&lt;br&gt;When Stupefying Touch enters the battlefield, draw a card.&lt;br&gt;Enchanted creature's activated abilities can't be activated.
+      </text>
+    </mc>
+    <mc>
+      <id>36432
+      </id>
+      <name>Pitchstone Wall
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Whenever you discard a card, you may sacrifice Pitchstone Wall. If you do, return the discarded card from your graveyard to your hand.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.0
+      </rating>
+      <artist>David Martin
+      </artist>
+      <num>110
+      </num>
+      <text>Defender &lt;i&gt;(This creature can't attack.)&lt;/i&gt;&lt;br&gt;Whenever you discard a card, you may sacrifice Pitchstone Wall. If you do, return the discarded card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>36433
+      </id>
+      <name>Mortiphobia
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{1}{B}, Discard a card: Exile target card from a graveyard.&lt;br&gt;{1}{B}, Sacrifice Mortiphobia: Exile target card from a graveyard.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>1.712
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>72
+      </num>
+      <text>{1}{B}, Discard a card: Exile target card from a graveyard.&lt;br&gt;{1}{B}, Sacrifice Mortiphobia: Exile target card from a graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>5584
+      </id>
+      <name>Aven Trooper
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Bird Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{2}{W}, Discard a card: Aven Trooper gets +1/+2 until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>0.814
+      </rating>
+      <artist>Greg Staples
+      </artist>
+      <num>2
+      </num>
+      <text>Flying&lt;br&gt;{2}{W}, Discard a card: Aven Trooper gets +1/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>5598
+      </id>
+      <name>False Memories
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put the top seven cards of your library into your graveyard. At the beginning of the next end step, exile seven cards from your graveyard.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>2.094
+      </rating>
+      <artist>Ron Spencer
+      </artist>
+      <num>37
+      </num>
+      <text>Put the top seven cards of your library into your graveyard. At the beginning of the next end step, exile seven cards from your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>5663
+      </id>
+      <name>Narcissism
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{G}, Discard a card: Target creature gets +2/+2 until end of turn.&lt;br&gt;{G}, Sacrifice Narcissism: Target creature gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.447
+      </rating>
+      <artist>Christopher Moeller
+      </artist>
+      <num>134
+      </num>
+      <text>{G}, Discard a card: Target creature gets +2/+2 until end of turn.&lt;br&gt;{G}, Sacrifice Narcissism: Target creature gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>8875
+      </id>
+      <name>Transcendence
+      </name>
+      <cost>{3}{W}{W}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>You don't lose the game for having 0 or less life.&lt;br&gt;&lt;br&gt;When you have 20 or more life, you lose the game.&lt;br&gt;&lt;br&gt;Whenever you lose life, you gain 2 life for each 1 life you lost. &lt;i&gt;(Damage dealt to you causes you to lose life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.538
+      </rating>
+      <artist>Rebecca Guay
+      </artist>
+      <num>20
+      </num>
+      <text>You don't lose the game for having 0 or less life.&lt;br&gt;&lt;br&gt;When you have 20 or more life, you lose the game.&lt;br&gt;&lt;br&gt;Whenever you lose life, you gain 2 life for each 1 life you lost. &lt;i&gt;(Damage dealt to you causes you to lose life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>34378
+      </id>
+      <name>Ambassador Laquatus
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Legendary Creature - Merfolk Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{3}: Target player puts the top three cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>4.054
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>23
+      </num>
+      <text>{3}: Target player puts the top three cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>29739
+      </id>
+      <name>Faceless Butcher
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Nightmare Horror
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.&lt;br&gt;When Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.022
+      </rating>
+      <artist>Daren Bader
+      </artist>
+      <num>60
+      </num>
+      <text>When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.&lt;br&gt;When Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+      </text>
+    </mc>
+    <mc>
+      <id>32918
+      </id>
+      <name>Fiery Temper
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Fiery Temper deals 3 damage to target creature or player.&lt;br&gt;Madness {R} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Common
+      </rarity>
+      <rating>4.292
+      </rating>
+      <artist>Greg &amp; Tim Hildebrandt
+      </artist>
+      <num>97
+      </num>
+      <text>Fiery Temper deals 3 damage to target creature or player.&lt;br&gt;Madness {R} &lt;i&gt;(If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>26432
+      </id>
+      <name>Mind Sludge
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards a card for each Swamp you control.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <rating>3.289
+      </rating>
+      <artist>Eric Peterson
+      </artist>
+      <num>70
+      </num>
+      <text>Target player discards a card for each Swamp you control.
+      </text>
+    </mc>
+    <mc>
+      <id>29960
+      </id>
+      <name>Mortal Combat
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.458
+      </rating>
+      <artist>Mike Ploog
+      </artist>
+      <num>71
+      </num>
+      <text>At the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game.
+      </text>
+    </mc>
+    <mc>
+      <id>29824
+      </id>
+      <name>Plagiarize
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, if target player would draw a card, instead that player skips that draw and you draw a card.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.692
+      </rating>
+      <artist>Ben Thompson
+      </artist>
+      <num>44
+      </num>
+      <text>Until end of turn, if target player would draw a card, instead that player skips that draw and you draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>35086
+      </id>
+      <name>Sengir Vampire
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Vampire
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+      </oracleText>
+      <edition>Torment
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <rating>3.725
+      </rating>
+      <artist>Kev Walker
+      </artist>
+      <num>80
+      </num>
+      <text>Flying&lt;br&gt;Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+      </text>
+    </mc>
+  </list>
+</cards>

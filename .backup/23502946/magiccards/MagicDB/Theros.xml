@@ -1,0 +1,5655 @@
+
+<cards>
+  <name>Theros</name>
+  <key>Theros</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>373661
+      </id>
+      <name>Abhorrent Overlord
+      </name>
+      <cost>{5}{B}{B}
+      </cost>
+      <type>Creature - Demon
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Abhorrent Overlord enters the battlefield, put a number of 1/1 black Harpy creature tokens with flying onto the battlefield equal to your devotion to black. &lt;i&gt;(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, sacrifice a creature.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>75
+      </num>
+      <text>Flying&lt;br&gt;When Abhorrent Overlord enters the battlefield, put a number of 1/1 black Harpy creature tokens with flying onto the battlefield equal to your devotion to black. &lt;i&gt;(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, sacrifice a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>373712
+      </id>
+      <name>Agent of Horizons
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{2}{U}: Agent of Horizons can't be blocked this turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>148
+      </num>
+      <text>{2}{U}: Agent of Horizons can't be blocked this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373543
+      </id>
+      <name>Agent of the Fates
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Human Assassin
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Deathtouch&lt;br&gt;Heroic- Whenever you cast a spell that targets Agent of the Fates, each opponent sacrifices a creature.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>76
+      </num>
+      <text>Deathtouch&lt;br&gt;Heroic- Whenever you cast a spell that targets Agent of the Fates, each opponent sacrifices a creature.
+      </text>
+    </mc>
+    <mc>
+      <id>373578
+      </id>
+      <name>Akroan Crusader
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Akroan Crusader, put a 1/1 red Soldier creature token with haste onto the battlefield.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>111
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Akroan Crusader, put a 1/1 red Soldier creature token with haste onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>373590
+      </id>
+      <name>Akroan Hoplite
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Akroan Hoplite attacks, it gets +X/+0 until end of turn, where X is the number of attacking creatures you control.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>185
+      </num>
+      <text>Whenever Akroan Hoplite attacks, it gets +X/+0 until end of turn, where X is the number of attacking creatures you control.
+      </text>
+    </mc>
+    <mc>
+      <id>373550
+      </id>
+      <name>Akroan Horse
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Horse
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender&lt;br&gt;When Akroan Horse enters the battlefield, an opponent gains control of it.&lt;br&gt;At the beginning of your upkeep, each opponent puts a 1/1 white Soldier creature token onto the battlefield.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>210
+      </num>
+      <text>Defender&lt;br&gt;When Akroan Horse enters the battlefield, an opponent gains control of it.&lt;br&gt;At the beginning of your upkeep, each opponent puts a 1/1 white Soldier creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>373530
+      </id>
+      <name>Anax and Cymede
+      </name>
+      <cost>{1}{R}{W}
+      </cost>
+      <type>Legendary Creature - Human Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike, vigilance&lt;br&gt;Heroic- Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>186
+      </num>
+      <text>First strike, vigilance&lt;br&gt;Heroic- Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373604
+      </id>
+      <name>Anger of the Gods
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Anger of the Gods deals 3 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>112
+      </num>
+      <text>Anger of the Gods deals 3 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.
+      </text>
+    </mc>
+    <mc>
+      <id>373584
+      </id>
+      <name>Annul
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target artifact or enchantment spell.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christine Choi
+      </artist>
+      <num>38
+      </num>
+      <text>Counter target artifact or enchantment spell.
+      </text>
+    </mc>
+    <mc>
+      <id>373671
+      </id>
+      <name>Anthousa, Setessan Hero
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Legendary Creature - Human Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Anthousa, Setessan Hero, up to three target lands you control each become 2/2 Warrior creatures until end of turn. They're still lands.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Howard Lyon
+      </artist>
+      <num>149
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Anthousa, Setessan Hero, up to three target lands you control each become 2/2 Warrior creatures until end of turn. They're still lands.
+      </text>
+    </mc>
+    <mc>
+      <id>373677
+      </id>
+      <name>Anvilwrought Raptor
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying, first strike
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>James Zapata
+      </artist>
+      <num>211
+      </num>
+      <text>Flying, first strike
+      </text>
+    </mc>
+    <mc>
+      <id>373715
+      </id>
+      <name>Aqueous Form
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't be blocked.&lt;br&gt;Whenever enchanted creature attacks, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>39
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't be blocked.&lt;br&gt;Whenever enchanted creature attacks, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373740
+      </id>
+      <name>Arbor Colossus
+      </name>
+      <cost>{2}{G}{G}{G}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Reach&lt;br&gt;{3}{G}{G}{G}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Arbor Colossus becomes monstrous, destroy target creature with flying an opponent controls.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>150
+      </num>
+      <text>Reach&lt;br&gt;{3}{G}{G}{G}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Arbor Colossus becomes monstrous, destroy target creature with flying an opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>373585
+      </id>
+      <name>Arena Athlete
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Human
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Arena Athlete, target creature an opponent controls can't block this turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jason Chan
+      </artist>
+      <num>113
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Arena Athlete, target creature an opponent controls can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373742
+      </id>
+      <name>Artisan of Forms
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Artisan of Forms, you may have Artisan of Forms become a copy of target creature and gain this ability.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Min Yum
+      </artist>
+      <num>40
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Artisan of Forms, you may have Artisan of Forms become a copy of target creature and gain this ability.
+      </text>
+    </mc>
+    <mc>
+      <id>373506
+      </id>
+      <name>Artisan's Sorrow
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or enchantment. Scry 2. &lt;i&gt;(Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jung Park
+      </artist>
+      <num>151
+      </num>
+      <text>Destroy target artifact or enchantment. Scry 2. &lt;i&gt;(Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373689
+      </id>
+      <name>Ashen Rider
+      </name>
+      <cost>{4}{W}{W}{B}{B}
+      </cost>
+      <type>Creature - Archon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Ashen Rider enters the battlefield or dies, exile target permanent.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>187
+      </num>
+      <text>Flying&lt;br&gt;When Ashen Rider enters the battlefield or dies, exile target permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>373500
+      </id>
+      <name>Ashiok, Nightmare Weaver
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Planeswalker - Ashiok
+      </type>
+      <toughness>3
+      </toughness>
+      <oracleText>+2: Exile the top three cards of target opponent's library.&lt;br&gt;-X: Put a creature card with converted mana cost X exiled with Ashiok, Nightmare Weaver onto the battlefield under your control. That creature is a Nightmare in addition to its other types.&lt;br&gt;-10: Exile all cards from all opponents' hands and graveyards.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Karla Ortiz
+      </artist>
+      <num>188
+      </num>
+      <text>+2: Exile the top three cards of target opponent's library.&lt;br&gt;-X: Put a creature card with converted mana cost X exiled with Ashiok, Nightmare Weaver onto the battlefield under your control. That creature is a Nightmare in addition to its other types.&lt;br&gt;-10: Exile all cards from all opponents' hands and graveyards.
+      </text>
+    </mc>
+    <mc>
+      <id>373631
+      </id>
+      <name>Asphodel Wanderer
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Skeleton Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{2}{B}: Regenerate Asphodel Wanderer.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Scott Chou
+      </artist>
+      <num>77
+      </num>
+      <text>{2}{B}: Regenerate Asphodel Wanderer.
+      </text>
+    </mc>
+    <mc>
+      <id>373720
+      </id>
+      <name>Baleful Eidolon
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment Creature - Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Bestow {4}{B} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt; &lt;br&gt;Enchanted creature gets +1/+1 and has deathtouch.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Min Yum
+      </artist>
+      <num>78
+      </num>
+      <text>Bestow {4}{B} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt; &lt;br&gt;Enchanted creature gets +1/+1 and has deathtouch.
+      </text>
+    </mc>
+    <mc>
+      <id>373612
+      </id>
+      <name>Battlewise Hoplite
+      </name>
+      <cost>{W}{U}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Battlewise Hoplite, put a +1/+1 counter on Battlewise Hoplite, then scry 1. &lt;i&gt;(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Willian Murai
+      </artist>
+      <num>189
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Battlewise Hoplite, put a +1/+1 counter on Battlewise Hoplite, then scry 1. &lt;i&gt;(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373627
+      </id>
+      <name>Battlewise Valor
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +2/+2 until end of turn. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zack Stella
+      </artist>
+      <num>1
+      </num>
+      <text>Target creature gets +2/+2 until end of turn. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373583
+      </id>
+      <name>Benthic Giant
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>41
+      </num>
+      <text>Hexproof &lt;i&gt;(This creature can't be the target of spells or abilities your opponents control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373544
+      </id>
+      <name>Bident of Thassa
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Legendary Enchantment Artifact
+      </type>
+      <oracleText>Whenever a creature you control deals combat damage to a player, you may draw a card.&lt;br&gt;{1}{U}, {T}: Creatures your opponents control attack this turn if able.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>42
+      </num>
+      <text>Whenever a creature you control deals combat damage to a player, you may draw a card.&lt;br&gt;{1}{U}, {T}: Creatures your opponents control attack this turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>373638
+      </id>
+      <name>Blood-Toll Harpy
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Harpy
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Blood-Toll Harpy enters the battlefield, each player loses 1 life.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>79
+      </num>
+      <text>Flying&lt;br&gt;When Blood-Toll Harpy enters the battlefield, each player loses 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>373642
+      </id>
+      <name>Boon of Erebos
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +2/+0 until end of turn. Regenerate it. You lose 2 life.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>80
+      </num>
+      <text>Target creature gets +2/+0 until end of turn. Regenerate it. You lose 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>373509
+      </id>
+      <name>Boon Satyr
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Enchantment Creature - Satyr
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash&lt;br&gt;Bestow {3}{G}{G} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Enchanted creature gets +4/+2.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Wesley Burt
+      </artist>
+      <num>152
+      </num>
+      <text>Flash&lt;br&gt;Bestow {3}{G}{G} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Enchanted creature gets +4/+2.
+      </text>
+    </mc>
+    <mc>
+      <id>373659
+      </id>
+      <name>Borderland Minotaur
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Minotaur Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>114
+      </num>
+    </mc>
+    <mc>
+      <id>373714
+      </id>
+      <name>Boulderfall
+      </name>
+      <cost>{6}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Boulderfall deals 5 damage divided as you choose among any number of target creatures and/or players.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ralph Horsley
+      </artist>
+      <num>115
+      </num>
+      <text>Boulderfall deals 5 damage divided as you choose among any number of target creatures and/or players.
+      </text>
+    </mc>
+    <mc>
+      <id>373603
+      </id>
+      <name>Bow of Nylea
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Legendary Enchantment Artifact
+      </type>
+      <oracleText>Attacking creatures you control have deathtouch.&lt;br&gt;{1}{G}, {T}: Choose one- Put a +1/+1 counter on target creature; or Bow of Nylea deals 2 damage to target creature with flying; or you gain 3 life; or put up to four target cards from your graveyard on the bottom of your library in any order.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>153
+      </num>
+      <text>Attacking creatures you control have deathtouch.&lt;br&gt;{1}{G}, {T}: Choose one- Put a +1/+1 counter on target creature; or Bow of Nylea deals 2 damage to target creature with flying; or you gain 3 life; or put up to four target cards from your graveyard on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>373636
+      </id>
+      <name>Breaching Hippocamp
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Horse Fish
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Breaching Hippocamp enters the battlefield, untap another target creature you control.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Burdett
+      </artist>
+      <num>43
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;When Breaching Hippocamp enters the battlefield, untap another target creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>373730
+      </id>
+      <name>Bronze Sable
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact Creature - Sable
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jasper Sandner
+      </artist>
+      <num>212
+      </num>
+    </mc>
+    <mc>
+      <id>373620
+      </id>
+      <name>Burnished Hart
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Elk
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{3}, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>213
+      </num>
+      <text>{3}, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>373684
+      </id>
+      <name>Cavalry Pegasus
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Pegasus
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Cavalry Pegasus attacks, each attacking Human gains flying until end of turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>2
+      </num>
+      <text>Flying&lt;br&gt;Whenever Cavalry Pegasus attacks, each attacking Human gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373726
+      </id>
+      <name>Cavern Lampad
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Enchantment Creature - Nymph
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Bestow {5}{B} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Intimidate&lt;br&gt;Enchanted creature gets +2/+2 and has intimidate.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>81
+      </num>
+      <text>Bestow {5}{B} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Intimidate&lt;br&gt;Enchanted creature gets +2/+2 and has intimidate.
+      </text>
+    </mc>
+    <mc>
+      <id>373503
+      </id>
+      <name>Celestial Archon
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Enchantment Creature - Archon
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Bestow {5}{W}{W} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Flying, first strike&lt;br&gt;Enchanted creature gets +4/+4 and has flying and first strike.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>3
+      </num>
+      <text>Bestow {5}{W}{W} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Flying, first strike&lt;br&gt;Enchanted creature gets +4/+4 and has flying and first strike.
+      </text>
+    </mc>
+    <mc>
+      <id>373594
+      </id>
+      <name>Centaur Battlemaster
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Centaur Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Centaur Battlemaster, put three +1/+1 counters on Centaur Battlemaster.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>154
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Centaur Battlemaster, put three +1/+1 counters on Centaur Battlemaster.
+      </text>
+    </mc>
+    <mc>
+      <id>373521
+      </id>
+      <name>Chained to the Rocks
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant Mountain you control&lt;br&gt;When Chained to the Rocks enters the battlefield, exile target creature an opponent controls until Chained to the Rocks leaves the battlefield. &lt;i&gt;(That creature returns under its owner's control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Aaron Miller
+      </artist>
+      <num>4
+      </num>
+      <text>Enchant Mountain you control&lt;br&gt;When Chained to the Rocks enters the battlefield, exile target creature an opponent controls until Chained to the Rocks leaves the battlefield. &lt;i&gt;(That creature returns under its owner's control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373561
+      </id>
+      <name>Chosen by Heliod
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Chosen by Heliod enters the battlefield, draw a card.&lt;br&gt;Enchanted creature gets +0/+2.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zack Stella
+      </artist>
+      <num>5
+      </num>
+      <text>Enchant creature&lt;br&gt;When Chosen by Heliod enters the battlefield, draw a card.&lt;br&gt;Enchanted creature gets +0/+2.
+      </text>
+    </mc>
+    <mc>
+      <id>373621
+      </id>
+      <name>Chronicler of Heroes
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Creature - Centaur Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Chronicler of Heroes enters the battlefield, draw a card if you control a creature with a +1/+1 counter on it.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>John Stanko
+      </artist>
+      <num>190
+      </num>
+      <text>When Chronicler of Heroes enters the battlefield, draw a card if you control a creature with a +1/+1 counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>373707
+      </id>
+      <name>Coastline Chimera
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Chimera
+      </type>
+      <power>1
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{1}{W}: Coastline Chimera can block an additional creature this turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>44
+      </num>
+      <text>Flying&lt;br&gt;{1}{W}: Coastline Chimera can block an additional creature this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373555
+      </id>
+      <name>Colossus of Akros
+      </name>
+      <cost>{8}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>10
+      </power>
+      <toughness>10
+      </toughness>
+      <oracleText>Defender, indestructible&lt;br&gt;{1}0: Monstrosity 10. &lt;i&gt;(If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;As long as Colossus of Akros is monstrous, it has trample and can attack as though it didn't have defender.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Zack Stella
+      </artist>
+      <num>214
+      </num>
+      <text>Defender, indestructible&lt;br&gt;{1}0: Monstrosity 10. &lt;i&gt;(If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;As long as Colossus of Akros is monstrous, it has trample and can attack as though it didn't have defender.
+      </text>
+    </mc>
+    <mc>
+      <id>373656
+      </id>
+      <name>Commune with the Gods
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Reveal the top five cards of your library. You may put a creature or enchantment card from among them into your hand. Put the rest into your graveyard.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>155
+      </num>
+      <text>Reveal the top five cards of your library. You may put a creature or enchantment card from among them into your hand. Put the rest into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>373513
+      </id>
+      <name>Coordinated Assault
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Up to two target creatures each get +1/+0 and gain first strike until end of turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>John Severin Brassell
+      </artist>
+      <num>116
+      </num>
+      <text>Up to two target creatures each get +1/+0 and gain first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373588
+      </id>
+      <name>Crackling Triton
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Merfolk Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{2}{R}, Sacrifice Crackling Triton: Crackling Triton deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>45
+      </num>
+      <text>{2}{R}, Sacrifice Crackling Triton: Crackling Triton deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>373542
+      </id>
+      <name>Curse of the Swine
+      </name>
+      <cost>{X}{U}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Exile X target creatures. For each creature exiled this way, its controller puts a 2/2 green Boar creature token onto the battlefield.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>46
+      </num>
+      <text>Exile X target creatures. For each creature exiled this way, its controller puts a 2/2 green Boar creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>373660
+      </id>
+      <name>Cutthroat Maneuver
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Up to two target creatures each get +1/+1 and gain lifelink until end of turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Brad Rigney
+      </artist>
+      <num>82
+      </num>
+      <text>Up to two target creatures each get +1/+1 and gain lifelink until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373504
+      </id>
+      <name>Dark Betrayal
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target black creature.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>83
+      </num>
+      <text>Destroy target black creature.
+      </text>
+    </mc>
+    <mc>
+      <id>373525
+      </id>
+      <name>Dauntless Onslaught
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Up to two target creatures each get +2/+2 until end of turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>6
+      </num>
+      <text>Up to two target creatures each get +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373664
+      </id>
+      <name>Daxos of Meletis
+      </name>
+      <cost>{1}{W}{U}
+      </cost>
+      <type>Legendary Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Daxos of Meletis can't be blocked by creatures with power 3 or greater.&lt;br&gt;Whenever Daxos of Meletis deals combat damage to a player, exile the top card of that player's library. You gain life equal to that card's converted mana cost. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast it.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karla Ortiz
+      </artist>
+      <num>191
+      </num>
+      <text>Daxos of Meletis can't be blocked by creatures with power 3 or greater.&lt;br&gt;Whenever Daxos of Meletis deals combat damage to a player, exile the top card of that player's library. You gain life equal to that card's converted mana cost. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast it.
+      </text>
+    </mc>
+    <mc>
+      <id>373593
+      </id>
+      <name>Deathbellow Raider
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Minotaur Berserker
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Deathbellow Raider attacks each turn if able.&lt;br&gt;{2}{B}: Regenerate Deathbellow Raider.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>117
+      </num>
+      <text>Deathbellow Raider attacks each turn if able.&lt;br&gt;{2}{B}: Regenerate Deathbellow Raider.
+      </text>
+    </mc>
+    <mc>
+      <id>373577
+      </id>
+      <name>Decorated Griffin
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Griffin
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{1}{W}: Prevent the next 1 combat damage that would be dealt to you this turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Phill Simmer
+      </artist>
+      <num>7
+      </num>
+      <text>Flying&lt;br&gt;{1}{W}: Prevent the next 1 combat damage that would be dealt to you this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373623
+      </id>
+      <name>Defend the Hearth
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent all combat damage that would be dealt to players this turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>156
+      </num>
+      <text>Prevent all combat damage that would be dealt to players this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373537
+      </id>
+      <name>Demolish
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target artifact or land.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>118
+      </num>
+      <text>Destroy target artifact or land.
+      </text>
+    </mc>
+    <mc>
+      <id>373678
+      </id>
+      <name>Destructive Revelry
+      </name>
+      <cost>{R}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>192
+      </num>
+      <text>Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>373520
+      </id>
+      <name>Disciple of Phenax
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Disciple of Phenax enters the battlefield, target player reveals a number of cards from his or her hand equal to your devotion to black. You choose one of them. That player discards that card. &lt;i&gt;(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>John Severin Brassell
+      </artist>
+      <num>84
+      </num>
+      <text>When Disciple of Phenax enters the battlefield, target player reveals a number of cards from his or her hand equal to your devotion to black. You choose one of them. That player discards that card. &lt;i&gt;(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373557
+      </id>
+      <name>Dissolve
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Wesley Burt
+      </artist>
+      <num>47
+      </num>
+      <text>Counter target spell. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373648
+      </id>
+      <name>Divine Verdict
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target attacking or blocking creature.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>8
+      </num>
+      <text>Destroy target attacking or blocking creature.
+      </text>
+    </mc>
+    <mc>
+      <id>373634
+      </id>
+      <name>Dragon Mantle
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Dragon Mantle enters the battlefield, draw a card.&lt;br&gt;Enchanted creature has "{R}: This creature gets +1/+0 until end of turn."
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Anthony Palumbo
+      </artist>
+      <num>119
+      </num>
+      <text>Enchant creature&lt;br&gt;When Dragon Mantle enters the battlefield, draw a card.&lt;br&gt;Enchanted creature has "{R}: This creature gets +1/+0 until end of turn."
+      </text>
+    </mc>
+    <mc>
+      <id>373649
+      </id>
+      <name>Elspeth, Sun's Champion
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Planeswalker - Elspeth
+      </type>
+      <toughness>4
+      </toughness>
+      <oracleText>+1: Put three 1/1 white Soldier creature tokens onto the battlefield.&lt;br&gt;-3: Destroy all creatures with power 4 or greater.&lt;br&gt;-7: You get an emblem with "Creatures you control get +2/+2 and have flying."
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>9
+      </num>
+      <text>+1: Put three 1/1 white Soldier creature tokens onto the battlefield.&lt;br&gt;-3: Destroy all creatures with power 4 or greater.&lt;br&gt;-7: You get an emblem with "Creatures you control get +2/+2 and have flying."
+      </text>
+    </mc>
+    <mc>
+      <id>373597
+      </id>
+      <name>Ember Swallower
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>{5}{R}{R}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Ember Swallower becomes monstrous, each player sacrifices three lands.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>120
+      </num>
+      <text>{5}{R}{R}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Ember Swallower becomes monstrous, each player sacrifices three lands.
+      </text>
+    </mc>
+    <mc>
+      <id>373724
+      </id>
+      <name>Ephara's Warden
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Tap target creature with power 3 or less.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zack Stella
+      </artist>
+      <num>10
+      </num>
+      <text>{T}: Tap target creature with power 3 or less.
+      </text>
+    </mc>
+    <mc>
+      <id>373589
+      </id>
+      <name>Erebos, God of the Dead
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Legendary Enchantment Creature - God
+      </type>
+      <power>5
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Indestructible&lt;br&gt;As long as your devotion to black is less than five, Erebos isn't a creature. &lt;i&gt;(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)&lt;/i&gt;&lt;br&gt;Your opponents can't gain life.&lt;br&gt;{1}{B}, Pay 2 life: Draw a card.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>85
+      </num>
+      <text>Indestructible&lt;br&gt;As long as your devotion to black is less than five, Erebos isn't a creature. &lt;i&gt;(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)&lt;/i&gt;&lt;br&gt;Your opponents can't gain life.&lt;br&gt;{1}{B}, Pay 2 life: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>373745
+      </id>
+      <name>Erebos's Emissary
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Enchantment Creature - Snake
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Bestow {5}{B} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Discard a creature card: Erebos's Emissary gets +2/+2 until end of turn. If Erebos's Emissary is an Aura, enchanted creature gets +2/+2 until end of turn instead.&lt;br&gt;Enchanted creature gets +3/+3.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Sam Burley
+      </artist>
+      <num>86
+      </num>
+      <text>Bestow {5}{B} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Discard a creature card: Erebos's Emissary gets +2/+2 until end of turn. If Erebos's Emissary is an Aura, enchanted creature gets +2/+2 until end of turn instead.&lt;br&gt;Enchanted creature gets +3/+3.
+      </text>
+    </mc>
+    <mc>
+      <id>373641
+      </id>
+      <name>Evangel of Heliod
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Evangel of Heliod enters the battlefield, put a number of 1/1 white Soldier creature tokens onto the battlefield equal to your devotion to white. &lt;i&gt;(Each {W} in the mana costs of permanents you control counts toward your devotion to white.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>11
+      </num>
+      <text>When Evangel of Heliod enters the battlefield, put a number of 1/1 white Soldier creature tokens onto the battlefield equal to your devotion to white. &lt;i&gt;(Each {W} in the mana costs of permanents you control counts toward your devotion to white.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373606
+      </id>
+      <name>Fabled Hero
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Double strike&lt;br&gt;Heroic- Whenever you cast a spell that targets Fabled Hero, put a +1/+1 counter on Fabled Hero.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Aaron Miller
+      </artist>
+      <num>12
+      </num>
+      <text>Double strike&lt;br&gt;Heroic- Whenever you cast a spell that targets Fabled Hero, put a +1/+1 counter on Fabled Hero.
+      </text>
+    </mc>
+    <mc>
+      <id>373576
+      </id>
+      <name>Fade into Antiquity
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Exile target artifact or enchantment.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>157
+      </num>
+      <text>Exile target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>373511
+      </id>
+      <name>Fanatic of Mogis
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Minotaur Shaman
+      </type>
+      <power>4
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Fanatic of Mogis enters the battlefield, it deals damage to each opponent equal to your devotion to red. &lt;i&gt;(Each {R} in the mana costs of permanents you control counts toward your devotion to red.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>121
+      </num>
+      <text>When Fanatic of Mogis enters the battlefield, it deals damage to each opponent equal to your devotion to red. &lt;i&gt;(Each {R} in the mana costs of permanents you control counts toward your devotion to red.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373686
+      </id>
+      <name>Fate Foretold
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Fate Foretold enters the battlefield, draw a card.&lt;br&gt;When enchanted creature dies, its controller draws a card.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>48
+      </num>
+      <text>Enchant creature&lt;br&gt;When Fate Foretold enters the battlefield, draw a card.&lt;br&gt;When enchanted creature dies, its controller draws a card.
+      </text>
+    </mc>
+    <mc>
+      <id>373596
+      </id>
+      <name>Favored Hoplite
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Favored Hoplite, put a +1/+1 counter on Favored Hoplite and prevent all damage that would be dealt to it this turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>13
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Favored Hoplite, put a +1/+1 counter on Favored Hoplite and prevent all damage that would be dealt to it this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373674
+      </id>
+      <name>Felhide Minotaur
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Minotaur
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>87
+      </num>
+    </mc>
+    <mc>
+      <id>373703
+      </id>
+      <name>Feral Invocation
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>158
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Enchant creature&lt;br&gt;Enchanted creature gets +2/+2.
+      </text>
+    </mc>
+    <mc>
+      <id>373552
+      </id>
+      <name>Firedrinker Satyr
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Satyr Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Firedrinker Satyr is dealt damage, it deals that much damage to you.&lt;br&gt;{1}{R}: Firedrinker Satyr gets +1/+0 until end of turn and deals 1 damage to you.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Anthony Palumbo
+      </artist>
+      <num>122
+      </num>
+      <text>Whenever Firedrinker Satyr is dealt damage, it deals that much damage to you.&lt;br&gt;{1}{R}: Firedrinker Satyr gets +1/+0 until end of turn and deals 1 damage to you.
+      </text>
+    </mc>
+    <mc>
+      <id>373514
+      </id>
+      <name>Flamecast Wheel
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{5}, {T}, Sacrifice Flamecast Wheel: Flamecast Wheel deals 3 damage to target creature.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jasper Sandner
+      </artist>
+      <num>215
+      </num>
+      <text>{5}, {T}, Sacrifice Flamecast Wheel: Flamecast Wheel deals 3 damage to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>373705
+      </id>
+      <name>Flamespeaker Adept
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever you scry, Flamespeaker Adept gets +2/+0 and gains first strike until end of turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>123
+      </num>
+      <text>Whenever you scry, Flamespeaker Adept gets +2/+0 and gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373562
+      </id>
+      <name>Fleecemane Lion
+      </name>
+      <cost>{G}{W}
+      </cost>
+      <type>Creature - Cat
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{3}{G}{W}: Monstrosity 1. &lt;i&gt;(If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;As long as Fleecemane Lion is monstrous, it has hexproof and indestructible.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>193
+      </num>
+      <text>{3}{G}{W}: Monstrosity 1. &lt;i&gt;(If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;As long as Fleecemane Lion is monstrous, it has hexproof and indestructible.
+      </text>
+    </mc>
+    <mc>
+      <id>373501
+      </id>
+      <name>Fleetfeather Sandals
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has flying and haste.&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>216
+      </num>
+      <text>Equipped creature has flying and haste.&lt;br&gt;Equip {2} &lt;i&gt;({2}: Attach to target creature you control. Equip only as a sorcery.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373528
+      </id>
+      <name>Fleshmad Steed
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Horse
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever another creature dies, tap Fleshmad Steed.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Robbie Trevino
+      </artist>
+      <num>88
+      </num>
+      <text>Whenever another creature dies, tap Fleshmad Steed.
+      </text>
+    </mc>
+    <mc>
+      <id>373625
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>247
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>373682
+      </id>
+      <name>Gainsay
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target blue spell.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>49
+      </num>
+      <text>Counter target blue spell.
+      </text>
+    </mc>
+    <mc>
+      <id>373566
+      </id>
+      <name>Gift of Immortality
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When enchanted creature dies, return that card to the battlefield under its owner's control. Return Gift of Immortality to the battlefield attached to that creature at the beginning of the next end step.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>14
+      </num>
+      <text>Enchant creature&lt;br&gt;When enchanted creature dies, return that card to the battlefield under its owner's control. Return Gift of Immortality to the battlefield attached to that creature at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>373691
+      </id>
+      <name>Glare of Heresy
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Exile target white permanent.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>15
+      </num>
+      <text>Exile target white permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>373516
+      </id>
+      <name>Gods Willing
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature you control gains protection from the color of your choice until end of turn. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Winters
+      </artist>
+      <num>16
+      </num>
+      <text>Target creature you control gains protection from the color of your choice until end of turn. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373645
+      </id>
+      <name>Gray Merchant of Asphodel
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Gray Merchant of Asphodel enters the battlefield, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way. &lt;i&gt;(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Robbie Trevino
+      </artist>
+      <num>89
+      </num>
+      <text>When Gray Merchant of Asphodel enters the battlefield, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way. &lt;i&gt;(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373519
+      </id>
+      <name>Griptide
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put target creature on top of its owner's library.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>50
+      </num>
+      <text>Put target creature on top of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>373605
+      </id>
+      <name>Guardians of Meletis
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>0
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Defender
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Magali Villeneuve
+      </artist>
+      <num>217
+      </num>
+      <text>Defender
+      </text>
+    </mc>
+    <mc>
+      <id>373587
+      </id>
+      <name>Hammer of Purphoros
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Legendary Enchantment Artifact
+      </type>
+      <oracleText>Creatures you control have haste.&lt;br&gt;{2}{R}, {T}, Sacrifice a land: Put a 3/3 colorless Golem enchantment artifact creature token onto the battlefield.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>124
+      </num>
+      <text>Creatures you control have haste.&lt;br&gt;{2}{R}, {T}, Sacrifice a land: Put a 3/3 colorless Golem enchantment artifact creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>373524
+      </id>
+      <name>Heliod, God of the Sun
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Legendary Enchantment Creature - God
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Indestructible&lt;br&gt;As long as your devotion to white is less than five, Heliod isn't a creature. &lt;i&gt;(Each {W} in the mana costs of permanents you control counts toward your devotion to white.)&lt;/i&gt;&lt;br&gt;Other creatures you control have vigilance.&lt;br&gt;{2}{W}{W}: Put a 2/1 white Cleric enchantment creature token onto the battlefield.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>17
+      </num>
+      <text>Indestructible&lt;br&gt;As long as your devotion to white is less than five, Heliod isn't a creature. &lt;i&gt;(Each {W} in the mana costs of permanents you control counts toward your devotion to white.)&lt;/i&gt;&lt;br&gt;Other creatures you control have vigilance.&lt;br&gt;{2}{W}{W}: Put a 2/1 white Cleric enchantment creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>373729
+      </id>
+      <name>Heliod's Emissary
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Enchantment Creature - Elk
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Bestow {6}{W} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Whenever Heliod's Emissary or enchanted creature attacks, tap target creature an opponent controls.&lt;br&gt;Enchanted creature gets +3/+3.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Sam Burley
+      </artist>
+      <num>18
+      </num>
+      <text>Bestow {6}{W} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Whenever Heliod's Emissary or enchanted creature attacks, tap target creature an opponent controls.&lt;br&gt;Enchanted creature gets +3/+3.
+      </text>
+    </mc>
+    <mc>
+      <id>373575
+      </id>
+      <name>Hero's Downfall
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target creature or planeswalker.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>90
+      </num>
+      <text>Destroy target creature or planeswalker.
+      </text>
+    </mc>
+    <mc>
+      <id>373616
+      </id>
+      <name>Hopeful Eidolon
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Enchantment Creature - Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Bestow {3}{W} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;&lt;br&gt;Enchanted creature gets +1/+1 and has lifelink.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Min Yum
+      </artist>
+      <num>19
+      </num>
+      <text>Bestow {3}{W} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Lifelink &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;&lt;br&gt;Enchanted creature gets +1/+1 and has lifelink.
+      </text>
+    </mc>
+    <mc>
+      <id>373738
+      </id>
+      <name>Horizon Chimera
+      </name>
+      <cost>{2}{G}{U}
+      </cost>
+      <type>Creature - Chimera
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying, trample&lt;br&gt;Whenever you draw a card, you gain 1 life.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Sam Burley
+      </artist>
+      <num>194
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Flying, trample&lt;br&gt;Whenever you draw a card, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>373628
+      </id>
+      <name>Horizon Scholar
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Sphinx
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Horizon Scholar enters the battlefield, scry 2. &lt;i&gt;(Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>51
+      </num>
+      <text>Flying&lt;br&gt;When Horizon Scholar enters the battlefield, scry 2. &lt;i&gt;(Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373708
+      </id>
+      <name>Hundred-Handed One
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Vigilance &lt;br&gt;{3}{W}{W}{W}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;As long as Hundred-Handed One is monstrous, it has reach and can block an additional ninety-nine creatures each combat.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Brad Rigney
+      </artist>
+      <num>20
+      </num>
+      <text>Vigilance &lt;br&gt;{3}{W}{W}{W}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;As long as Hundred-Handed One is monstrous, it has reach and can block an additional ninety-nine creatures each combat.
+      </text>
+    </mc>
+    <mc>
+      <id>373668
+      </id>
+      <name>Hunt the Hunter
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target green creature you control gets +2/+2 until end of turn. It fights target green creature an opponent controls.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>159
+      </num>
+      <text>Target green creature you control gets +2/+2 until end of turn. It fights target green creature an opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>373673
+      </id>
+      <name>Hythonia the Cruel
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Legendary Creature - Gorgon
+      </type>
+      <power>4
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Deathtouch&lt;br&gt;{6}{B}{B}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Hythonia the Cruel becomes monstrous, destroy all non-Gorgon creatures.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>91
+      </num>
+      <text>Deathtouch&lt;br&gt;{6}{B}{B}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Hythonia the Cruel becomes monstrous, destroy all non-Gorgon creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>373545
+      </id>
+      <name>Ill-Tempered Cyclops
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Cyclops
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Trample&lt;br&gt;{5}{R}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>125
+      </num>
+      <text>Trample&lt;br&gt;{5}{R}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373670
+      </id>
+      <name>Insatiable Harpy
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Harpy
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying, lifelink
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Matt Stewart
+      </artist>
+      <num>92
+      </num>
+      <text>Flying, lifelink
+      </text>
+    </mc>
+    <mc>
+      <id>373595
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>235
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>373538
+      </id>
+      <name>Karametra's Acolyte
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Human Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{T}: Add an amount of {G} to your mana pool equal to your devotion to green. &lt;i&gt;(Each {G} in the mana costs of permanents you control counts toward your devotion to green.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>160
+      </num>
+      <text>{T}: Add an amount of {G} to your mana pool equal to your devotion to green. &lt;i&gt;(Each {G} in the mana costs of permanents you control counts toward your devotion to green.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373548
+      </id>
+      <name>Keepsake Gorgon
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Gorgon
+      </type>
+      <power>2
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Deathtouch&lt;br&gt;{5}{B}{B}: Monstrosity 1. &lt;i&gt;(If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Keepsake Gorgon becomes monstrous, destroy target non-Gorgon creature an opponent controls.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Aaron Miller
+      </artist>
+      <num>93
+      </num>
+      <text>Deathtouch&lt;br&gt;{5}{B}{B}: Monstrosity 1. &lt;i&gt;(If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Keepsake Gorgon becomes monstrous, destroy target non-Gorgon creature an opponent controls.
+      </text>
+    </mc>
+    <mc>
+      <id>373710
+      </id>
+      <name>Kragma Warcaller
+      </name>
+      <cost>{3}{B}{R}
+      </cost>
+      <type>Creature - Minotaur Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Minotaur creatures you control have haste.&lt;br&gt;Whenever a Minotaur you control attacks, it gets +2/+0 until end of turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Gabor Szikszai
+      </artist>
+      <num>195
+      </num>
+      <text>Minotaur creatures you control have haste.&lt;br&gt;Whenever a Minotaur you control attacks, it gets +2/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373586
+      </id>
+      <name>Labyrinth Champion
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Labyrinth Champion, Labyrinth Champion deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>126
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Labyrinth Champion, Labyrinth Champion deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>373599
+      </id>
+      <name>Lagonna-Band Elder
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Centaur Advisor
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Lagonna-Band Elder enters the battlefield, if you control an enchantment, you gain 3 life.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Min Yum
+      </artist>
+      <num>21
+      </num>
+      <text>When Lagonna-Band Elder enters the battlefield, if you control an enchantment, you gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>373610
+      </id>
+      <name>Lash of the Whip
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -4/-4 until end of turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>94
+      </num>
+      <text>Target creature gets -4/-4 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373680
+      </id>
+      <name>Last Breath
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature with power 2 or less. Its controller gains 4 life.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>22
+      </num>
+      <text>Exile target creature with power 2 or less. Its controller gains 4 life.
+      </text>
+    </mc>
+    <mc>
+      <id>373523
+      </id>
+      <name>Leafcrown Dryad
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Enchantment Creature - Nymph Dryad
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Bestow {3}{G} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Reach&lt;br&gt;Enchanted creature gets +2/+2 and has reach.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>161
+      </num>
+      <text>Bestow {3}{G} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Reach&lt;br&gt;Enchanted creature gets +2/+2 and has reach.
+      </text>
+    </mc>
+    <mc>
+      <id>373600
+      </id>
+      <name>Leonin Snarecaster
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Cat Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Leonin Snarecaster enters the battlefield, you may tap target creature.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>23
+      </num>
+      <text>When Leonin Snarecaster enters the battlefield, you may tap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>373651
+      </id>
+      <name>Lightning Strike
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Lightning Strike deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>127
+      </num>
+      <text>Lightning Strike deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>373731
+      </id>
+      <name>Loathsome Catoblepas
+      </name>
+      <cost>{5}{B}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{2}{G}: Loathsome Catoblepas must be blocked this turn if able.&lt;br&gt;When Loathsome Catoblepas dies, target creature an opponent controls gets -3/-3 until end of turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Burdett
+      </artist>
+      <num>95
+      </num>
+      <text>{2}{G}: Loathsome Catoblepas must be blocked this turn if able.&lt;br&gt;When Loathsome Catoblepas dies, target creature an opponent controls gets -3/-3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373629
+      </id>
+      <name>Lost in a Labyrinth
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -3/-0 until end of turn. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>52
+      </num>
+      <text>Target creature gets -3/-0 until end of turn. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373704
+      </id>
+      <name>Magma Jet
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Magma Jet deals 2 damage to target creature or player. Scry 2. &lt;i&gt;(Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Maciej Kuciara
+      </artist>
+      <num>128
+      </num>
+      <text>Magma Jet deals 2 damage to target creature or player. Scry 2. &lt;i&gt;(Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373579
+      </id>
+      <name>March of the Returned
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return up to two target creature cards from your graveyard to your hand.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>96
+      </num>
+      <text>Return up to two target creature cards from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>373536
+      </id>
+      <name>Master of Waves
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Merfolk Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from red&lt;br&gt;Elemental creatures you control get +1/+1.&lt;br&gt;When Master of Waves enters the battlefield, put a number of 1/0 blue Elemental creature tokens onto the battlefield equal to your devotion to blue. &lt;i&gt;(Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>53
+      </num>
+      <text>Protection from red&lt;br&gt;Elemental creatures you control get +1/+1.&lt;br&gt;When Master of Waves enters the battlefield, put a number of 1/0 blue Elemental creature tokens onto the battlefield equal to your devotion to blue. &lt;i&gt;(Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373675
+      </id>
+      <name>Medomai the Ageless
+      </name>
+      <cost>{4}{W}{U}
+      </cost>
+      <type>Legendary Creature - Sphinx
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Medomai the Ageless deals combat damage to a player, take an extra turn after this one.&lt;br&gt;Medomai the Ageless can't attack during extra turns.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>196
+      </num>
+      <text>Flying&lt;br&gt;Whenever Medomai the Ageless deals combat damage to a player, take an extra turn after this one.&lt;br&gt;Medomai the Ageless can't attack during extra turns.
+      </text>
+    </mc>
+    <mc>
+      <id>373741
+      </id>
+      <name>Meletis Charlatan
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{2}{U}, {T}: The controller of target instant or sorcery spell copies it. That player may choose new targets for the copy.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jason A. Engle
+      </artist>
+      <num>54
+      </num>
+      <text>{2}{U}, {T}: The controller of target instant or sorcery spell copies it. That player may choose new targets for the copy.
+      </text>
+    </mc>
+    <mc>
+      <id>373699
+      </id>
+      <name>Messenger's Speed
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature has trample and haste.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>129
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature has trample and haste.
+      </text>
+    </mc>
+    <mc>
+      <id>373698
+      </id>
+      <name>Minotaur Skullcleaver
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Minotaur Berserker
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste&lt;br&gt;When Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end of turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Phill Simmer
+      </artist>
+      <num>130
+      </num>
+      <text>Haste&lt;br&gt;When Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373727
+      </id>
+      <name>Mistcutter Hydra
+      </name>
+      <cost>{X}{G}
+      </cost>
+      <type>Creature - Hydra
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Mistcutter Hydra can't be countered.&lt;br&gt;Haste, protection from blue&lt;br&gt;Mistcutter Hydra enters the battlefield with X +1/+1 counters on it.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>162
+      </num>
+      <text>Mistcutter Hydra can't be countered.&lt;br&gt;Haste, protection from blue&lt;br&gt;Mistcutter Hydra enters the battlefield with X +1/+1 counters on it.
+      </text>
+    </mc>
+    <mc>
+      <id>373658
+      </id>
+      <name>Mnemonic Wall
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Wall
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Defender&lt;br&gt;When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Trevor Claxton
+      </artist>
+      <num>55
+      </num>
+      <text>Defender&lt;br&gt;When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>373565
+      </id>
+      <name>Mogis's Marauder
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Berserker
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Mogis's Marauder enters the battlefield, up to X target creatures each gain intimidate and haste until end of turn, where X is your devotion to black. &lt;i&gt;(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>97
+      </num>
+      <text>When Mogis's Marauder enters the battlefield, up to X target creatures each gain intimidate and haste until end of turn, where X is your devotion to black. &lt;i&gt;(Each {B} in the mana costs of permanents you control counts toward your devotion to black.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373746
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>R
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>243
+      </num>
+      <text>R
+      </text>
+    </mc>
+    <mc>
+      <id>373694
+      </id>
+      <name>Nemesis of Mortals
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Nemesis of Mortals costs {1} less to cast for each creature card in your graveyard.&lt;br&gt;{7}{G}{G}: Monstrosity 5. This ability costs {1} less to activate for each creature card in your graveyard. &lt;i&gt;(If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>163
+      </num>
+      <text>Nemesis of Mortals costs {1} less to cast for each creature card in your graveyard.&lt;br&gt;{7}{G}{G}: Monstrosity 5. This ability costs {1} less to activate for each creature card in your graveyard. &lt;i&gt;(If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373650
+      </id>
+      <name>Nessian Asp
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Reach&lt;br&gt;{6}{G}: Monstrosity 4. &lt;i&gt;(If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Alex Horley-Orlandelli
+      </artist>
+      <num>164
+      </num>
+      <text>Reach&lt;br&gt;{6}{G}: Monstrosity 4. &lt;i&gt;(If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373581
+      </id>
+      <name>Nessian Courser
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Centaur Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>165
+      </num>
+    </mc>
+    <mc>
+      <id>373564
+      </id>
+      <name>Nighthowler
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Enchantment Creature - Horror
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Bestow {2}{B}{B} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Nighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>98
+      </num>
+      <text>Bestow {2}{B}{B} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Nighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.
+      </text>
+    </mc>
+    <mc>
+      <id>373719
+      </id>
+      <name>Nimbus Naiad
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Enchantment Creature - Nymph
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Bestow {4}{U} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;Enchanted creature gets +2/+2 and has flying.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>56
+      </num>
+      <text>Bestow {4}{U} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Flying&lt;br&gt;Enchanted creature gets +2/+2 and has flying.
+      </text>
+    </mc>
+    <mc>
+      <id>373713
+      </id>
+      <name>Nykthos, Shrine to Nyx
+      </name>
+      <type>Legendary Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}: Choose a color. Add to your mana pool an amount of mana of that color equal to your devotion to that color. &lt;i&gt;(Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jung Park
+      </artist>
+      <num>223
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{2}, {T}: Choose a color. Add to your mana pool an amount of mana of that color equal to your devotion to that color. &lt;i&gt;(Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373559
+      </id>
+      <name>Nylea, God of the Hunt
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Legendary Enchantment Creature - God
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Indestructible&lt;br&gt;As long as your devotion to green is less than five, Nylea isn't a creature. &lt;i&gt;(Each {G} in the mana costs of permanents you control counts toward your devotion to green.)&lt;/i&gt;&lt;br&gt;Other creatures you control have trample.&lt;br&gt;{3}{G}: Target creature gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>166
+      </num>
+      <text>Indestructible&lt;br&gt;As long as your devotion to green is less than five, Nylea isn't a creature. &lt;i&gt;(Each {G} in the mana costs of permanents you control counts toward your devotion to green.)&lt;/i&gt;&lt;br&gt;Other creatures you control have trample.&lt;br&gt;{3}{G}: Target creature gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373498
+      </id>
+      <name>Nylea's Disciple
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Centaur Archer
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Nylea's Disciple enters the battlefield, you gain life equal to your devotion to green. &lt;i&gt;(Each {G} in the mana costs of permanents you control counts toward your devotion to green.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Trevor Claxton
+      </artist>
+      <num>167
+      </num>
+      <text>When Nylea's Disciple enters the battlefield, you gain life equal to your devotion to green. &lt;i&gt;(Each {G} in the mana costs of permanents you control counts toward your devotion to green.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373510
+      </id>
+      <name>Nylea's Emissary
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Enchantment Creature - Cat
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Bestow {5}{G} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Trample&lt;br&gt;Enchanted creature gets +3/+3 and has trample.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Sam Burley
+      </artist>
+      <num>168
+      </num>
+      <text>Bestow {5}{G} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Trample&lt;br&gt;Enchanted creature gets +3/+3 and has trample.
+      </text>
+    </mc>
+    <mc>
+      <id>373580
+      </id>
+      <name>Nylea's Presence
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;When Nylea's Presence enters the battlefield, draw a card.&lt;br&gt;Enchanted land is every basic land type in addition to its other types.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ralph Horsley
+      </artist>
+      <num>169
+      </num>
+      <text>Enchant land&lt;br&gt;When Nylea's Presence enters the battlefield, draw a card.&lt;br&gt;Enchanted land is every basic land type in addition to its other types.
+      </text>
+    </mc>
+    <mc>
+      <id>373733
+      </id>
+      <name>Observant Alseid
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment Creature - Nymph
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Bestow {4}{W} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Vigilance&lt;br&gt;Enchanted creature gets +2/+2 and has vigilance.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Todd Lockwood
+      </artist>
+      <num>24
+      </num>
+      <text>Bestow {4}{W} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Vigilance&lt;br&gt;Enchanted creature gets +2/+2 and has vigilance.
+      </text>
+    </mc>
+    <mc>
+      <id>373693
+      </id>
+      <name>Omenspeaker
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Omenspeaker enters the battlefield, scry 2. &lt;i&gt;(Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Dallas Williams
+      </artist>
+      <num>57
+      </num>
+      <text>When Omenspeaker enters the battlefield, scry 2. &lt;i&gt;(Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373611
+      </id>
+      <name>Opaline Unicorn
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Unicorn
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christine Choi
+      </artist>
+      <num>218
+      </num>
+      <text>{T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373646
+      </id>
+      <name>Ordeal of Erebos
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Erebos.&lt;br&gt;When you sacrifice Ordeal of Erebos, target player discards two cards.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>99
+      </num>
+      <text>Enchant creature&lt;br&gt;Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Erebos.&lt;br&gt;When you sacrifice Ordeal of Erebos, target player discards two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>373619
+      </id>
+      <name>Ordeal of Heliod
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod.&lt;br&gt;When you sacrifice Ordeal of Heliod, you gain 10 life.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>25
+      </num>
+      <text>Enchant creature&lt;br&gt;Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod.&lt;br&gt;When you sacrifice Ordeal of Heliod, you gain 10 life.
+      </text>
+    </mc>
+    <mc>
+      <id>373553
+      </id>
+      <name>Ordeal of Nylea
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea.&lt;br&gt;When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>170
+      </num>
+      <text>Enchant creature&lt;br&gt;Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea.&lt;br&gt;When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>373647
+      </id>
+      <name>Ordeal of Purphoros
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros.&lt;br&gt;When you sacrifice Ordeal of Purphoros, it deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Maciej Kuciara
+      </artist>
+      <num>131
+      </num>
+      <text>Enchant creature&lt;br&gt;Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros.&lt;br&gt;When you sacrifice Ordeal of Purphoros, it deals 3 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>373696
+      </id>
+      <name>Ordeal of Thassa
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Thassa.&lt;br&gt;When you sacrifice Ordeal of Thassa, draw two cards.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Howard Lyon
+      </artist>
+      <num>58
+      </num>
+      <text>Enchant creature&lt;br&gt;Whenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Thassa.&lt;br&gt;When you sacrifice Ordeal of Thassa, draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>373507
+      </id>
+      <name>Peak Eruption
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target Mountain. Peak Eruption deals 3 damage to that land's controller.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>132
+      </num>
+      <text>Destroy target Mountain. Peak Eruption deals 3 damage to that land's controller.
+      </text>
+    </mc>
+    <mc>
+      <id>373592
+      </id>
+      <name>Phalanx Leader
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter on each creature you control.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>26
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter on each creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>373722
+      </id>
+      <name>Pharika's Cure
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Pharika's Cure deals 2 damage to target creature and you gain 2 life.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>100
+      </num>
+      <text>Pharika's Cure deals 2 damage to target creature and you gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>373569
+      </id>
+      <name>Pharika's Mender
+      </name>
+      <cost>{3}{B}{G}
+      </cost>
+      <type>Creature - Gorgon
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Pharika's Mender enters the battlefield, you may return target creature or enchantment card from your graveyard to your hand.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>197
+      </num>
+      <text>When Pharika's Mender enters the battlefield, you may return target creature or enchantment card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>373657
+      </id>
+      <name>Pheres-Band Centaurs
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Creature - Centaur Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>7
+      </toughness>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mark Winters
+      </artist>
+      <num>171
+      </num>
+    </mc>
+    <mc>
+      <id>373533
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>231
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>373716
+      </id>
+      <name>Polis Crusher
+      </name>
+      <cost>{2}{R}{G}
+      </cost>
+      <type>Creature - Cyclops
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Trample, protection from enchantments&lt;br&gt;{4}{R}{G}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;Whenever Polis Crusher deals combat damage to a player, if Polis Crusher is monstrous, destroy target enchantment that player controls.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>198
+      </num>
+      <text>Trample, protection from enchantments&lt;br&gt;{4}{R}{G}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;Whenever Polis Crusher deals combat damage to a player, if Polis Crusher is monstrous, destroy target enchantment that player controls.
+      </text>
+    </mc>
+    <mc>
+      <id>373549
+      </id>
+      <name>Polukranos, World Eater
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Legendary Creature - Hydra
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>{X}{X}{G}: Monstrosity X. &lt;i&gt;(If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Polukranos, World Eater becomes monstrous, it deals X damage divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to Polukranos.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>172
+      </num>
+      <text>{X}{X}{G}: Monstrosity X. &lt;i&gt;(If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Polukranos, World Eater becomes monstrous, it deals X damage divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to Polukranos.
+      </text>
+    </mc>
+    <mc>
+      <id>373667
+      </id>
+      <name>Portent of Betrayal
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>133
+      </num>
+      <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373643
+      </id>
+      <name>Prescient Chimera
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Chimera
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever you cast an instant or sorcery spell, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>59
+      </num>
+      <text>Flying&lt;br&gt;Whenever you cast an instant or sorcery spell, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373614
+      </id>
+      <name>Priest of Iroas
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{3}{W}, Sacrifice Priest of Iroas: Destroy target enchantment.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>134
+      </num>
+      <text>{3}{W}, Sacrifice Priest of Iroas: Destroy target enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>373617
+      </id>
+      <name>Prognostic Sphinx
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Sphinx
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Discard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it.&lt;br&gt;Whenever Prognostic Sphinx attacks, scry 3. &lt;i&gt;(Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>60
+      </num>
+      <text>Flying&lt;br&gt;Discard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it.&lt;br&gt;Whenever Prognostic Sphinx attacks, scry 3. &lt;i&gt;(Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373635
+      </id>
+      <name>Prophet of Kruphix
+      </name>
+      <cost>{3}{G}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Untap all creatures and lands you control during each other player's untap step.&lt;br&gt;You may cast creature cards as though they had flash.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>199
+      </num>
+      <text>Untap all creatures and lands you control during each other player's untap step.&lt;br&gt;You may cast creature cards as though they had flash.
+      </text>
+    </mc>
+    <mc>
+      <id>373626
+      </id>
+      <name>Prowler's Helm
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature can't be blocked except by Walls.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>219
+      </num>
+      <text>Equipped creature can't be blocked except by Walls.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>373695
+      </id>
+      <name>Psychic Intrusion
+      </name>
+      <cost>{3}{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals his or her hand. You choose a nonland card from that player's graveyard or hand and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jaime Jones
+      </artist>
+      <num>200
+      </num>
+      <text>Target opponent reveals his or her hand. You choose a nonland card from that player's graveyard or hand and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.
+      </text>
+    </mc>
+    <mc>
+      <id>373556
+      </id>
+      <name>Purphoros, God of the Forge
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Legendary Enchantment Creature - God
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Indestructible&lt;br&gt;As long as your devotion to red is less than five, Purphoros isn't a creature.&lt;br&gt;Whenever another creature enters the battlefield under your control, Purphoros deals 2 damage to each opponent.&lt;br&gt;{2}{R}: Creatures you control get +1/+0 until end of turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>135
+      </num>
+      <text>Indestructible&lt;br&gt;As long as your devotion to red is less than five, Purphoros isn't a creature.&lt;br&gt;Whenever another creature enters the battlefield under your control, Purphoros deals 2 damage to each opponent.&lt;br&gt;{2}{R}: Creatures you control get +1/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373505
+      </id>
+      <name>Purphoros's Emissary
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Enchantment Creature - Ox
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Bestow {6}{R} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Purphoros's Emissary can't be blocked except by two or more creatures.&lt;br&gt;Enchanted creature gets +3/+3 and can't be blocked except by two or more creatures.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Sam Burley
+      </artist>
+      <num>136
+      </num>
+      <text>Bestow {6}{R} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Purphoros's Emissary can't be blocked except by two or more creatures.&lt;br&gt;Enchanted creature gets +3/+3 and can't be blocked except by two or more creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>373669
+      </id>
+      <name>Pyxis of Pandemonium
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Each player exiles the top card of his or her library face down.&lt;br&gt;{7}, {T}, Sacrifice Pyxis of Pandemonium: Each player turns face up all cards he or she owns exiled with Pyxis of Pandemonium, then puts all permanent cards among them onto the battlefield.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>David Palumbo
+      </artist>
+      <num>220
+      </num>
+      <text>{T}: Each player exiles the top card of his or her library face down.&lt;br&gt;{7}, {T}, Sacrifice Pyxis of Pandemonium: Each player turns face up all cards he or she owns exiled with Pyxis of Pandemonium, then puts all permanent cards among them onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>373663
+      </id>
+      <name>Rage of Purphoros
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Rage of Purphoros deals 4 damage to target creature. It can't be regenerated this turn. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mathias Kollros
+      </artist>
+      <num>137
+      </num>
+      <text>Rage of Purphoros deals 4 damage to target creature. It can't be regenerated this turn. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373672
+      </id>
+      <name>Rageblood Shaman
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Minotaur Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Other Minotaur creatures you control get +1/+1 and have trample.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>138
+      </num>
+      <text>Trample&lt;br&gt;Other Minotaur creatures you control get +1/+1 and have trample.
+      </text>
+    </mc>
+    <mc>
+      <id>373739
+      </id>
+      <name>Ray of Dissolution
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target enchantment. You gain 3 life.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Terese Nielsen
+      </artist>
+      <num>27
+      </num>
+      <text>Destroy target enchantment. You gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>373725
+      </id>
+      <name>Read the Bones
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Scry 2, then draw two cards. You lose 2 life. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Lars Grant-West
+      </artist>
+      <num>101
+      </num>
+      <text>Scry 2, then draw two cards. You lose 2 life. &lt;i&gt;(To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373570
+      </id>
+      <name>Reaper of the Wilds
+      </name>
+      <cost>{2}{B}{G}
+      </cost>
+      <type>Creature - Gorgon
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Whenever another creature dies, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{B}: Reaper of the Wilds gains deathtouch until end of turn.&lt;br&gt;{1}{G}: Reaper of the Wilds gains hexproof until end of turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>201
+      </num>
+      <text>Whenever another creature dies, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{B}: Reaper of the Wilds gains deathtouch until end of turn.&lt;br&gt;{1}{G}: Reaper of the Wilds gains hexproof until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373532
+      </id>
+      <name>Rescue from the Underworld
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Rescue from the Underworld, sacrifice a creature. &lt;br&gt;Choose target creature card in your graveyard. Return that card and the sacrificed card to the battlefield under your control at the beginning of your next upkeep. Exile Rescue from the Underworld.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>102
+      </num>
+      <text>As an additional cost to cast Rescue from the Underworld, sacrifice a creature. &lt;br&gt;Choose target creature card in your graveyard. Return that card and the sacrificed card to the battlefield under your control at the beginning of your next upkeep. Exile Rescue from the Underworld.
+      </text>
+    </mc>
+    <mc>
+      <id>373644
+      </id>
+      <name>Returned Centaur
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Zombie Centaur
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Returned Centaur enters the battlefield, target player puts the top four cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>103
+      </num>
+      <text>When Returned Centaur enters the battlefield, target player puts the top four cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>373508
+      </id>
+      <name>Returned Phalanx
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Defender&lt;br&gt;{1}{U}: Returned Phalanx can attack this turn as though it didn't have defender.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>104
+      </num>
+      <text>Defender&lt;br&gt;{1}{U}: Returned Phalanx can attack this turn as though it didn't have defender.
+      </text>
+    </mc>
+    <mc>
+      <id>373601
+      </id>
+      <name>Reverent Hunter
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Human Archer
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Reverent Hunter enters the battlefield, put a number of +1/+1 counters on it equal to your devotion to green. &lt;i&gt;(Each {G} in the mana costs of permanents you control counts toward your devotion to green.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Wesley Burt
+      </artist>
+      <num>173
+      </num>
+      <text>When Reverent Hunter enters the battlefield, put a number of +1/+1 counters on it equal to your devotion to green. &lt;i&gt;(Each {G} in the mana costs of permanents you control counts toward your devotion to green.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373744
+      </id>
+      <name>Satyr Hedonist
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Satyr
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{R}, Sacrifice Satyr Hedonist: Add {R}{R}{R} to your mana pool.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>174
+      </num>
+      <text>{R}, Sacrifice Satyr Hedonist: Add {R}{R}{R} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373728
+      </id>
+      <name>Satyr Piper
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Satyr Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{3}{G}: Target creature must be blocked this turn if able.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>175
+      </num>
+      <text>{3}{G}: Target creature must be blocked this turn if able.
+      </text>
+    </mc>
+    <mc>
+      <id>373737
+      </id>
+      <name>Satyr Rambler
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Satyr
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Trample
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>John Stanko
+      </artist>
+      <num>139
+      </num>
+      <text>Trample
+      </text>
+    </mc>
+    <mc>
+      <id>373602
+      </id>
+      <name>Savage Surge
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +2/+2 until end of turn. Untap that creature.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jasper Sandner
+      </artist>
+      <num>176
+      </num>
+      <text>Target creature gets +2/+2 until end of turn. Untap that creature.
+      </text>
+    </mc>
+    <mc>
+      <id>373692
+      </id>
+      <name>Scholar of Athreos
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{2}{B}: Each opponent loses 1 life. You gain life equal to the life lost this way.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Cynthia Sheppard
+      </artist>
+      <num>28
+      </num>
+      <text>{2}{B}: Each opponent loses 1 life. You gain life equal to the life lost this way.
+      </text>
+    </mc>
+    <mc>
+      <id>373652
+      </id>
+      <name>Scourgemark
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Scourgemark enters the battlefield, draw a card.&lt;br&gt;Enchanted creature gets +1/+0.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>105
+      </num>
+      <text>Enchant creature&lt;br&gt;When Scourgemark enters the battlefield, draw a card.&lt;br&gt;Enchanted creature gets +1/+0.
+      </text>
+    </mc>
+    <mc>
+      <id>373517
+      </id>
+      <name>Sea God's Revenge
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return up to three target creatures your opponents control to their owners' hands. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Eric Velhagen
+      </artist>
+      <num>61
+      </num>
+      <text>Return up to three target creatures your opponents control to their owners' hands. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373653
+      </id>
+      <name>Sealock Monster
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Octopus
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Sealock Monster can't attack unless defending player controls an Island.&lt;br&gt;{5}{U}{U}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>62
+      </num>
+      <text>Sealock Monster can't attack unless defending player controls an Island.&lt;br&gt;{5}{U}{U}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types.
+      </text>
+    </mc>
+    <mc>
+      <id>373718
+      </id>
+      <name>Sedge Scorpion
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Scorpion
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>John Stanko
+      </artist>
+      <num>177
+      </num>
+      <text>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373697
+      </id>
+      <name>Sentry of the Underworld
+      </name>
+      <cost>{3}{W}{B}
+      </cost>
+      <type>Creature - Griffin Skeleton
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying, vigilance&lt;br&gt;{W}{B}, Pay 3 life: Regenerate Sentry of the Underworld.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>202
+      </num>
+      <text>Flying, vigilance&lt;br&gt;{W}{B}, Pay 3 life: Regenerate Sentry of the Underworld.
+      </text>
+    </mc>
+    <mc>
+      <id>373515
+      </id>
+      <name>Setessan Battle Priest
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Setessan Battle Priest, you gain 2 life.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Wesley Burt
+      </artist>
+      <num>29
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Setessan Battle Priest, you gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>373574
+      </id>
+      <name>Setessan Griffin
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Griffin
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{2}{G}{G}: Setessan Griffin gets +2/+2 until end of turn. Activate this ability only once each turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>30
+      </num>
+      <text>Flying&lt;br&gt;{2}{G}{G}: Setessan Griffin gets +2/+2 until end of turn. Activate this ability only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373637
+      </id>
+      <name>Shipbreaker Kraken
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Creature - Kraken
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>{6}{U}{U}: Monstrosity 4. &lt;i&gt;(If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. Those creatures don't untap during their controllers' untap steps for as long as you control Shipbreaker Kraken.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jack Wang
+      </artist>
+      <num>63
+      </num>
+      <text>{6}{U}{U}: Monstrosity 4. &lt;i&gt;(If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. Those creatures don't untap during their controllers' untap steps for as long as you control Shipbreaker Kraken.
+      </text>
+    </mc>
+    <mc>
+      <id>373702
+      </id>
+      <name>Shipwreck Singer
+      </name>
+      <cost>{U}{B}
+      </cost>
+      <type>Creature - Siren
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{1}{U}: Target creature an opponent controls attacks this turn if able.&lt;br&gt;{1}{B}, {T}: Attacking creatures get -1/-1 until end of turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>203
+      </num>
+      <text>Flying&lt;br&gt;{1}{U}: Target creature an opponent controls attacks this turn if able.&lt;br&gt;{1}{B}, {T}: Attacking creatures get -1/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373676
+      </id>
+      <name>Shredding Winds
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Shredding Winds deals 7 damage to target creature with flying.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>178
+      </num>
+      <text>Shredding Winds deals 7 damage to target creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>373573
+      </id>
+      <name>Silent Artisan
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>3
+      </power>
+      <toughness>5
+      </toughness>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Anthony Palumbo
+      </artist>
+      <num>31
+      </num>
+    </mc>
+    <mc>
+      <id>373598
+      </id>
+      <name>Sip of Hemlock
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target creature. Its controller loses 2 life.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>106
+      </num>
+      <text>Destroy target creature. Its controller loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>373529
+      </id>
+      <name>Soldier of the Pantheon
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from multicolored&lt;br&gt;Whenever an opponent casts a multicolored spell, you gain 1 life.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>32
+      </num>
+      <text>Protection from multicolored&lt;br&gt;Whenever an opponent casts a multicolored spell, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>373618
+      </id>
+      <name>Spark Jolt
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Spark Jolt deals 1 damage to target creature or player. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>140
+      </num>
+      <text>Spark Jolt deals 1 damage to target creature or player. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373717
+      </id>
+      <name>Spear of Heliod
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Legendary Enchantment Artifact
+      </type>
+      <oracleText>Creatures you control get +1/+1.&lt;br&gt;{1}{W}{W}, {T}: Destroy target creature that dealt damage to you this turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>33
+      </num>
+      <text>Creatures you control get +1/+1.&lt;br&gt;{1}{W}{W}, {T}: Destroy target creature that dealt damage to you this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373732
+      </id>
+      <name>Spearpoint Oread
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment Creature - Nymph
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Bestow {5}{R} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;First strike&lt;br&gt;Enchanted creature gets +2/+2 and has first strike.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Todd Lockwood
+      </artist>
+      <num>141
+      </num>
+      <text>Bestow {5}{R} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;First strike&lt;br&gt;Enchanted creature gets +2/+2 and has first strike.
+      </text>
+    </mc>
+    <mc>
+      <id>373554
+      </id>
+      <name>Spellheart Chimera
+      </name>
+      <cost>{1}{U}{R}
+      </cost>
+      <type>Creature - Chimera
+      </type>
+      <power>*
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying, trample&lt;br&gt;Spellheart Chimera's power is equal to the number of instant and sorcery cards in your graveyard.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>204
+      </num>
+      <text>Flying, trample&lt;br&gt;Spellheart Chimera's power is equal to the number of instant and sorcery cards in your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>373591
+      </id>
+      <name>Staunch-Hearted Warrior
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Staunch-Hearted Warrior, put two +1/+1 counters on Staunch-Hearted Warrior.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>179
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Staunch-Hearted Warrior, put two +1/+1 counters on Staunch-Hearted Warrior.
+      </text>
+    </mc>
+    <mc>
+      <id>373539
+      </id>
+      <name>Steam Augury
+      </name>
+      <cost>{2}{U}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Dave Kendall
+      </artist>
+      <num>205
+      </num>
+      <text>Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>373687
+      </id>
+      <name>Stoneshock Giant
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{6}{R}{R}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Stoneshock Giant becomes monstrous, creatures without flying your opponents control can't block this turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Lars Grant-West
+      </artist>
+      <num>142
+      </num>
+      <text>{6}{R}{R}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Stoneshock Giant becomes monstrous, creatures without flying your opponents control can't block this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373679
+      </id>
+      <name>Stormbreath Dragon
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying, haste, protection from white&lt;br&gt;{5}{R}{R}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Stormbreath Dragon becomes monstrous, it deals damage to each opponent equal to the number of cards in that player's hand.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Slawomir Maniak
+      </artist>
+      <num>143
+      </num>
+      <text>Flying, haste, protection from white&lt;br&gt;{5}{R}{R}: Monstrosity 3. &lt;i&gt;(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)&lt;/i&gt;&lt;br&gt;When Stormbreath Dragon becomes monstrous, it deals damage to each opponent equal to the number of cards in that player's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>373721
+      </id>
+      <name>Stymied Hopes
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell unless its controller pays {1}. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>64
+      </num>
+      <text>Counter target spell unless its controller pays {1}. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373567
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>239
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>373701
+      </id>
+      <name>Swan Song
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target enchantment, instant, or sorcery spell. Its controller puts a 2/2 blue Bird creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>65
+      </num>
+      <text>Counter target enchantment, instant, or sorcery spell. Its controller puts a 2/2 blue Bird creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>373624
+      </id>
+      <name>Sylvan Caryatid
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Plant
+      </type>
+      <power>0
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Defender, hexproof&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>180
+      </num>
+      <text>Defender, hexproof&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373711
+      </id>
+      <name>Temple of Abandon
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Temple of Abandon enters the battlefield tapped.&lt;br&gt;When Temple of Abandon enters the battlefield, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mike Bierek
+      </artist>
+      <num>224
+      </num>
+      <text>Temple of Abandon enters the battlefield tapped.&lt;br&gt;When Temple of Abandon enters the battlefield, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {R} or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373734
+      </id>
+      <name>Temple of Deceit
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Temple of Deceit enters the battlefield tapped.&lt;br&gt;When Temple of Deceit enters the battlefield, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Raymond Swanland
+      </artist>
+      <num>225
+      </num>
+      <text>Temple of Deceit enters the battlefield tapped.&lt;br&gt;When Temple of Deceit enters the battlefield, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {U} or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373571
+      </id>
+      <name>Temple of Mystery
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Temple of Mystery enters the battlefield tapped.&lt;br&gt;When Temple of Mystery enters the battlefield, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {G} or {U} to your mana pool.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>226
+      </num>
+      <text>Temple of Mystery enters the battlefield tapped.&lt;br&gt;When Temple of Mystery enters the battlefield, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {G} or {U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373522
+      </id>
+      <name>Temple of Silence
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Temple of Silence enters the battlefield tapped.&lt;br&gt;When Temple of Silence enters the battlefield, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {W} or {B} to your mana pool.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>227
+      </num>
+      <text>Temple of Silence enters the battlefield tapped.&lt;br&gt;When Temple of Silence enters the battlefield, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {W} or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373560
+      </id>
+      <name>Temple of Triumph
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Temple of Triumph enters the battlefield tapped.&lt;br&gt;When Temple of Triumph enters the battlefield, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {R} or {W} to your mana pool.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jason Felix
+      </artist>
+      <num>228
+      </num>
+      <text>Temple of Triumph enters the battlefield tapped.&lt;br&gt;When Temple of Triumph enters the battlefield, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {R} or {W} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373535
+      </id>
+      <name>Thassa, God of the Sea
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Legendary Enchantment Creature - God
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Indestructible&lt;br&gt;As long as your devotion to blue is less than five, Thassa isn't a creature. &lt;i&gt;(Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, scry 1.&lt;br&gt;{1}{U}: Target creature you control can't be blocked this turn.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Jason Chan
+      </artist>
+      <num>66
+      </num>
+      <text>Indestructible&lt;br&gt;As long as your devotion to blue is less than five, Thassa isn't a creature. &lt;i&gt;(Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)&lt;/i&gt;&lt;br&gt;At the beginning of your upkeep, scry 1.&lt;br&gt;{1}{U}: Target creature you control can't be blocked this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>373662
+      </id>
+      <name>Thassa's Bounty
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Draw three cards. Target player puts the top three cards of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Yee
+      </artist>
+      <num>67
+      </num>
+      <text>Draw three cards. Target player puts the top three cards of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>373735
+      </id>
+      <name>Thassa's Emissary
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Enchantment Creature - Crab
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Bestow {5}{U} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Whenever Thassa's Emissary or enchanted creature deals combat damage to a player, draw a card.&lt;br&gt;Enchanted creature gets +3/+3.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Sam Burley
+      </artist>
+      <num>68
+      </num>
+      <text>Bestow {5}{U} &lt;i&gt;(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)&lt;/i&gt;&lt;br&gt;Whenever Thassa's Emissary or enchanted creature deals combat damage to a player, draw a card.&lt;br&gt;Enchanted creature gets +3/+3.
+      </text>
+    </mc>
+    <mc>
+      <id>373632
+      </id>
+      <name>Thoughtseize
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player reveals his or her hand. You choose a nonland card from it. That player discards that card. You lose 2 life.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Lucas Graciano
+      </artist>
+      <num>107
+      </num>
+      <text>Target player reveals his or her hand. You choose a nonland card from it. That player discards that card. You lose 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>373633
+      </id>
+      <name>Time to Feed
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose target creature an opponent controls. When that creature dies this turn, you gain 3 life. Target creature you control fights that&lt;br&gt;creature. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>181
+      </num>
+      <text>Choose target creature an opponent controls. When that creature dies this turn, you gain 3 life. Target creature you control fights that&lt;br&gt;creature. &lt;i&gt;(Each deals damage equal to its power to the other.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373630
+      </id>
+      <name>Titan of Eternal Fire
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>5
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Each Human creature you control has "{R}, {T}: This creature deals 1 damage to target creature or player."
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>144
+      </num>
+      <text>Each Human creature you control has "{R}, {T}: This creature deals 1 damage to target creature or player."
+      </text>
+    </mc>
+    <mc>
+      <id>373607
+      </id>
+      <name>Titan's Strength
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +3/+1 until end of turn. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>145
+      </num>
+      <text>Target creature gets +3/+1 until end of turn. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373541
+      </id>
+      <name>Tormented Hero
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Tormented Hero enters the battlefield tapped.&lt;br&gt;Heroic- Whenever you cast a spell that targets Tormented Hero, each opponent loses 1 life. You gain life equal to the life lost this way.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>108
+      </num>
+      <text>Tormented Hero enters the battlefield tapped.&lt;br&gt;Heroic- Whenever you cast a spell that targets Tormented Hero, each opponent loses 1 life. You gain life equal to the life lost this way.
+      </text>
+    </mc>
+    <mc>
+      <id>373690
+      </id>
+      <name>Traveler's Amulet
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>221
+      </num>
+      <text>{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>373512
+      </id>
+      <name>Traveling Philosopher
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Advisor
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>James Ryman
+      </artist>
+      <num>34
+      </num>
+    </mc>
+    <mc>
+      <id>373685
+      </id>
+      <name>Triad of Fates
+      </name>
+      <cost>{2}{W}{B}
+      </cost>
+      <type>Legendary Creature - Human Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{1}, {T}: Put a fate counter on another target creature.&lt;br&gt;{W}, {T}: Exile target creature that has a fate counter on it, then return it to the battlefield under its owner's control.&lt;br&gt;{B}, {T}: Exile target creature that has a fate counter on it. Its controller draws two cards.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>206
+      </num>
+      <text>{1}, {T}: Put a fate counter on another target creature.&lt;br&gt;{W}, {T}: Exile target creature that has a fate counter on it, then return it to the battlefield under its owner's control.&lt;br&gt;{B}, {T}: Exile target creature that has a fate counter on it. Its controller draws two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>373531
+      </id>
+      <name>Triton Fortune Hunter
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Merfolk Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Triton Fortune Hunter, draw a card.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>69
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Triton Fortune Hunter, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>373551
+      </id>
+      <name>Triton Shorethief
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Merfolk Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Howard Lyon
+      </artist>
+      <num>70
+      </num>
+    </mc>
+    <mc>
+      <id>373639
+      </id>
+      <name>Triton Tactics
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Up to two target creatures each get +0/+3 until end of turn. Untap those creatures. At this turn's next end of combat, tap each creature that was blocked by one of those creatures this turn and it doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jack Wang
+      </artist>
+      <num>71
+      </num>
+      <text>Up to two target creatures each get +0/+3 until end of turn. Untap those creatures. At this turn's next end of combat, tap each creature that was blocked by one of those creatures this turn and it doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>373540
+      </id>
+      <name>Two-Headed Cerberus
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Hound
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Double strike &lt;i&gt;(This creature deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>146
+      </num>
+      <text>Double strike &lt;i&gt;(This creature deals both first-strike and regular combat damage.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373665
+      </id>
+      <name>Tymaret, the Murder King
+      </name>
+      <cost>{B}{R}
+      </cost>
+      <type>Legendary Creature - Zombie Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{R}, Sacrifice another creature: Tymaret, the Murder King deals 2 damage to target player.&lt;br&gt;{1}{B}, Sacrifice a creature: Return Tymaret from your graveyard to your hand.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>207
+      </num>
+      <text>{1}{R}, Sacrifice another creature: Tymaret, the Murder King deals 2 damage to target player.&lt;br&gt;{1}{B}, Sacrifice a creature: Return Tymaret from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>373666
+      </id>
+      <name>Underworld Cerberus
+      </name>
+      <cost>{3}{B}{R}
+      </cost>
+      <type>Creature - Hound
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Underworld Cerberus can't be blocked except by three or more creatures.&lt;br&gt;Cards in graveyards can't be the targets of spells or abilities.&lt;br&gt;When Underworld Cerberus dies, exile it and each player returns all creature cards from his or her graveyard to his or her hand.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>208
+      </num>
+      <text>Underworld Cerberus can't be blocked except by three or more creatures.&lt;br&gt;Cards in graveyards can't be the targets of spells or abilities.&lt;br&gt;When Underworld Cerberus dies, exile it and each player returns all creature cards from his or her graveyard to his or her hand.
+      </text>
+    </mc>
+    <mc>
+      <id>373743
+      </id>
+      <name>Unknown Shores
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>229
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}, {T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>373640
+      </id>
+      <name>Vanquish the Foul
+      </name>
+      <cost>{5}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target creature with power 4 or greater. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>35
+      </num>
+      <text>Destroy target creature with power 4 or greater. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373547
+      </id>
+      <name>Vaporkin
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Vaporkin can block only creatures with flying.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Seb McKinnon
+      </artist>
+      <num>72
+      </num>
+      <text>Flying&lt;br&gt;Vaporkin can block only creatures with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>373499
+      </id>
+      <name>Viper's Kiss
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -1/-1, and its activated abilities can't be activated.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Svetlin Velinov
+      </artist>
+      <num>109
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -1/-1, and its activated abilities can't be activated.
+      </text>
+    </mc>
+    <mc>
+      <id>373527
+      </id>
+      <name>Voyage's End
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target creature to its owner's hand. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>73
+      </num>
+      <text>Return target creature to its owner's hand. Scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>373518
+      </id>
+      <name>Voyaging Satyr
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Satyr Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Untap target land.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Tyler Jacobson
+      </artist>
+      <num>182
+      </num>
+      <text>{T}: Untap target land.
+      </text>
+    </mc>
+    <mc>
+      <id>373655
+      </id>
+      <name>Vulpine Goliath
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Creature - Fox
+      </type>
+      <power>6
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Trample
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>183
+      </num>
+      <text>Trample
+      </text>
+    </mc>
+    <mc>
+      <id>373613
+      </id>
+      <name>Warriors' Lesson
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, up to two target creatures you control each gain "Whenever this creature deals combat damage to a player, draw a card."
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Steve Prescott
+      </artist>
+      <num>184
+      </num>
+      <text>Until end of turn, up to two target creatures you control each gain "Whenever this creature deals combat damage to a player, draw a card."
+      </text>
+    </mc>
+    <mc>
+      <id>373534
+      </id>
+      <name>Wavecrash Triton
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Merfolk Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Heroic- Whenever you cast a spell that targets Wavecrash Triton, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>74
+      </num>
+      <text>Heroic- Whenever you cast a spell that targets Wavecrash Triton, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>373709
+      </id>
+      <name>Whip of Erebos
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Legendary Enchantment Artifact
+      </type>
+      <oracleText>Creatures you control have lifelink.&lt;br&gt;{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>110
+      </num>
+      <text>Creatures you control have lifelink.&lt;br&gt;{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.
+      </text>
+    </mc>
+    <mc>
+      <id>373526
+      </id>
+      <name>Wild Celebrants
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Satyr
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Wild Celebrants enters the battlefield, you may destroy target artifact.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>147
+      </num>
+      <text>When Wild Celebrants enters the battlefield, you may destroy target artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>373563
+      </id>
+      <name>Wingsteed Rider
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Heroic- Whenever you cast a spell that targets Wingsteed Rider, put a +1/+1 counter on Wingsteed Rider.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Cynthia Sheppard
+      </artist>
+      <num>36
+      </num>
+      <text>Flying&lt;br&gt;Heroic- Whenever you cast a spell that targets Wingsteed Rider, put a +1/+1 counter on Wingsteed Rider.
+      </text>
+    </mc>
+    <mc>
+      <id>373622
+      </id>
+      <name>Witches' Eye
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has "{1}, {T}: Scry 1." &lt;i&gt;(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;Equip {1}
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>222
+      </num>
+      <text>Equipped creature has "{1}, {T}: Scry 1." &lt;i&gt;(To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;Equip {1}
+      </text>
+    </mc>
+    <mc>
+      <id>373502
+      </id>
+      <name>Xenagos, the Reveler
+      </name>
+      <cost>{2}{R}{G}
+      </cost>
+      <type>Planeswalker - Xenagos
+      </type>
+      <toughness>3
+      </toughness>
+      <oracleText>+1: Add X mana in any combination of {R} and/or {G} to your mana pool, where X is the number of creatures you control.&lt;br&gt;0: Put a 2/2 red and green Satyr creature token with haste onto the battlefield.&lt;br&gt;-6: Exile the top seven cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield.
+      </oracleText>
+      <edition>Theros
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Jason Chan
+      </artist>
+      <num>209
+      </num>
+      <text>+1: Add X mana in any combination of {R} and/or {G} to your mana pool, where X is the number of creatures you control.&lt;br&gt;0: Put a 2/2 red and green Satyr creature token with haste onto the battlefield.&lt;br&gt;-6: Exile the top seven cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>373572
+      </id>
+      <name>Yoked Ox
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Ox
+      </type>
+      <power>0
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Theros
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Yee
+      </artist>
+      <num>37
+      </num>
+    </mc>
+  </list>
+</cards>
