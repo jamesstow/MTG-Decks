@@ -1,0 +1,4599 @@
+
+<cards>
+  <name>Modern_Masters</name>
+  <key>Modern_Masters</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>370490
+      </id>
+      <name>City of Brass
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Whenever City of Brass becomes tapped, it deals 1 damage to you.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Whenever City of Brass becomes tapped, it deals 1 damage to you.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>370419
+      </id>
+      <name>Blood Moon
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Nonbasic lands are Mountains.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Nonbasic lands are Mountains.
+      </text>
+    </mc>
+    <mc>
+      <id>370352
+      </id>
+      <name>Thallid
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thallid.&lt;br&gt;Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>At the beginning of your upkeep, put a spore counter on Thallid.&lt;br&gt;Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370452
+      </id>
+      <name>Thundering Giant
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Haste
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Haste
+      </text>
+    </mc>
+    <mc>
+      <id>370461
+      </id>
+      <name>Squee, Goblin Nabob
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Legendary Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, you may return Squee, Goblin Nabob from your graveyard to your hand.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>At the beginning of your upkeep, you may return Squee, Goblin Nabob from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370362
+      </id>
+      <name>Tribal Flames
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Domain- Tribal Flames deals X damage to target creature or player, where X is the number of basic land types among lands you control.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Domain- Tribal Flames deals X damage to target creature or player, where X is the number of basic land types among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>370494
+      </id>
+      <name>Verdeloth the Ancient
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Legendary Creature - Treefolk
+      </type>
+      <power>4
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Kicker {X} &lt;i&gt;(You may pay an additional {X} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Saproling creatures and other Treefolk creatures get +1/+1.&lt;br&gt;When Verdeloth the Ancient enters the battlefield, if it was kicked, put X 1/1 green Saproling creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Kicker {X} &lt;i&gt;(You may pay an additional {X} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Saproling creatures and other Treefolk creatures get +1/+1.&lt;br&gt;When Verdeloth the Ancient enters the battlefield, if it was kicked, put X 1/1 green Saproling creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370358
+      </id>
+      <name>Festering Goblin
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Zombie Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Festering Goblin dies, target creature gets -1/-1 until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>When Festering Goblin dies, target creature gets -1/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370537
+      </id>
+      <name>Dragonstorm
+      </name>
+      <cost>{8}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle your library.&lt;br&gt;Storm &lt;i&gt;(When you cast this spell, copy it for each spell cast before it this turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle your library.&lt;br&gt;Storm &lt;i&gt;(When you cast this spell, copy it for each spell cast before it this turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370524
+      </id>
+      <name>Æther Spellbomb
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{U}, Sacrifice Æther Spellbomb: Return target creature to its owner's hand.&lt;br&gt;{1}, Sacrifice Æther Spellbomb: Draw a card.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{U}, Sacrifice Æther Spellbomb: Return target creature to its owner's hand.&lt;br&gt;{1}, Sacrifice Æther Spellbomb: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370431
+      </id>
+      <name>Blinding Beam
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Tap two target creatures; or creatures don't untap during target player's next untap step.&lt;br&gt;Entwine {1} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Choose one- Tap two target creatures; or creatures don't untap during target player's next untap step.&lt;br&gt;Entwine {1} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370442
+      </id>
+      <name>Bonesplitter
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +2/+0.&lt;br&gt;Equip {1}
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Equipped creature gets +2/+0.&lt;br&gt;Equip {1}
+      </text>
+    </mc>
+    <mc>
+      <id>370411
+      </id>
+      <name>Chalice of the Void
+      </name>
+      <cost>{X}{X}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Chalice of the Void enters the battlefield with X charge counters on it.&lt;br&gt;Whenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Chalice of the Void enters the battlefield with X charge counters on it.&lt;br&gt;Whenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell.
+      </text>
+    </mc>
+    <mc>
+      <id>370434
+      </id>
+      <name>Frogmite
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Frog
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370425
+      </id>
+      <name>Glimmervoid
+      </name>
+      <type>Land
+      </type>
+      <oracleText>At the beginning of the end step, if you control no artifacts, sacrifice Glimmervoid.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>At the beginning of the end step, if you control no artifacts, sacrifice Glimmervoid.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>370436
+      </id>
+      <name>Myr Enforcer
+      </name>
+      <cost>{7}
+      </cost>
+      <type>Artifact Creature - Myr
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Affinity for artifacts &lt;i&gt;(This spell costs {1} less to cast for each artifact you control.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370520
+      </id>
+      <name>Myr Retriever
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact Creature - Myr
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Myr Retriever dies, return another target artifact card from your graveyard to your hand.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>When Myr Retriever dies, return another target artifact card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370512
+      </id>
+      <name>Pyrite Spellbomb
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{R}, Sacrifice Pyrite Spellbomb: Pyrite Spellbomb deals 2 damage to target creature or player.&lt;br&gt;{1}, Sacrifice Pyrite Spellbomb: Draw a card.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{R}, Sacrifice Pyrite Spellbomb: Pyrite Spellbomb deals 2 damage to target creature or player.&lt;br&gt;{1}, Sacrifice Pyrite Spellbomb: Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370573
+      </id>
+      <name>Shrapnel Blast
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>As an additional cost to cast Shrapnel Blast, sacrifice an artifact.&lt;br&gt;Shrapnel Blast deals 5 damage to target creature or player.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>As an additional cost to cast Shrapnel Blast, sacrifice an artifact.&lt;br&gt;Shrapnel Blast deals 5 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>370525
+      </id>
+      <name>Thirst for Knowledge
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Draw three cards. Then discard two cards unless you discard an artifact card.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Draw three cards. Then discard two cards unless you discard an artifact card.
+      </text>
+    </mc>
+    <mc>
+      <id>370432
+      </id>
+      <name>Tooth and Nail
+      </name>
+      <cost>{5}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose one- Search your library for up to two creature cards, reveal them, put them into your hand, then shuffle your library; or put up to two creature cards from your hand onto the battlefield.&lt;br&gt;Entwine {2} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Choose one- Search your library for up to two creature cards, reveal them, put them into your hand, then shuffle your library; or put up to two creature cards from your hand onto the battlefield.&lt;br&gt;Entwine {2} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370538
+      </id>
+      <name>Dampen Thought
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant - Arcane
+      </type>
+      <oracleText>Target player puts the top four cards of his or her library into his or her graveyard.&lt;br&gt;Splice onto Arcane {1}{U} &lt;i&gt;(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Target player puts the top four cards of his or her library into his or her graveyard.&lt;br&gt;Splice onto Arcane {1}{U} &lt;i&gt;(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370546
+      </id>
+      <name>Desperate Ritual
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant - Arcane
+      </type>
+      <oracleText>Add {R}{R}{R} to your mana pool.&lt;br&gt;Splice onto Arcane {1}{R} &lt;i&gt;(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Add {R}{R}{R} to your mana pool.&lt;br&gt;Splice onto Arcane {1}{R} &lt;i&gt;(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370368
+      </id>
+      <name>Gifts Ungiven
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>370552
+      </id>
+      <name>Glacial Ray
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant - Arcane
+      </type>
+      <oracleText>Glacial Ray deals 2 damage to target creature or player.&lt;br&gt;Splice onto Arcane {1}{R} &lt;i&gt;(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Glacial Ray deals 2 damage to target creature or player.&lt;br&gt;Splice onto Arcane {1}{R} &lt;i&gt;(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370475
+      </id>
+      <name>Hana Kami
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{G}, Sacrifice Hana Kami: Return target Arcane card from your graveyard to your hand.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{1}{G}, Sacrifice Hana Kami: Return target Arcane card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370564
+      </id>
+      <name>Jugan, the Rising Star
+      </name>
+      <cost>{3}{G}{G}{G}
+      </cost>
+      <type>Legendary Creature - Dragon Spirit
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Jugan, the Rising Star dies, you may distribute five +1/+1 counters among any number of target creatures.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>Flying&lt;br&gt;When Jugan, the Rising Star dies, you may distribute five +1/+1 counters among any number of target creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>370542
+      </id>
+      <name>Keiga, the Tide Star
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Legendary Creature - Dragon Spirit
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Keiga, the Tide Star dies, gain control of target creature.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>Flying&lt;br&gt;When Keiga, the Tide Star dies, gain control of target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>370534
+      </id>
+      <name>Kiki-Jiki, Mirror Breaker
+      </name>
+      <cost>{2}{R}{R}{R}
+      </cost>
+      <type>Legendary Creature - Goblin Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste&lt;br&gt;{T}: Put a token that's a copy of target nonlegendary creature you control onto the battlefield. That token has haste. Sacrifice it at the beginning of the next end step.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>Haste&lt;br&gt;{T}: Put a token that's a copy of target nonlegendary creature you control onto the battlefield. That token has haste. Sacrifice it at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>370417
+      </id>
+      <name>Kodama's Reach
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery - Arcane
+      </type>
+      <oracleText>Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>370502
+      </id>
+      <name>Kokusho, the Evening Star
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Legendary Creature - Dragon Spirit
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>Flying&lt;br&gt;When Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.
+      </text>
+    </mc>
+    <mc>
+      <id>370409
+      </id>
+      <name>Lava Spike
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery - Arcane
+      </type>
+      <oracleText>Lava Spike deals 3 damage to target player.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Lava Spike deals 3 damage to target player.
+      </text>
+    </mc>
+    <mc>
+      <id>370385
+      </id>
+      <name>Meloku the Clouded Mirror
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Legendary Creature - Moonfolk Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{1}, Return a land you control to its owner's hand: Put a 1/1 blue Illusion creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying&lt;br&gt;{1}, Return a land you control to its owner's hand: Put a 1/1 blue Illusion creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370460
+      </id>
+      <name>Otherworldly Journey
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant - Arcane
+      </type>
+      <oracleText>Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.
+      </text>
+    </mc>
+    <mc>
+      <id>370540
+      </id>
+      <name>Peer Through Depths
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant - Arcane
+      </type>
+      <oracleText>Look at the top five cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Look at the top five cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>370395
+      </id>
+      <name>Petals of Insight
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Sorcery - Arcane
+      </type>
+      <oracleText>Look at the top three cards of your library. You may put those cards on the bottom of your library in any order. If you do, return Petals of Insight to its owner's hand. Otherwise, draw three cards.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Look at the top three cards of your library. You may put those cards on the bottom of your library in any order. If you do, return Petals of Insight to its owner's hand. Otherwise, draw three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>370506
+      </id>
+      <name>Reach Through Mists
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant - Arcane
+      </type>
+      <oracleText>Draw a card.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370559
+      </id>
+      <name>Ryusei, the Falling Star
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Legendary Creature - Dragon Spirit
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>Flying&lt;br&gt;When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.
+      </text>
+    </mc>
+    <mc>
+      <id>370574
+      </id>
+      <name>Yosei, the Morning Star
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Legendary Creature - Dragon Spirit
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Yosei, the Morning Star dies, target player skips his or her next untap step. Tap up to five target permanents that player controls.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>Flying&lt;br&gt;When Yosei, the Morning Star dies, target player skips his or her next untap step. Tap up to five target permanents that player controls.
+      </text>
+    </mc>
+    <mc>
+      <id>370514
+      </id>
+      <name>Æther Vial
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>At the beginning of your upkeep, you may put a charge counter on Æther Vial.&lt;br&gt;{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Æther Vial from your hand onto the battlefield.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>At the beginning of your upkeep, you may put a charge counter on Æther Vial.&lt;br&gt;{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Æther Vial from your hand onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370510
+      </id>
+      <name>Arcbound Ravager
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact Creature - Beast
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.&lt;br&gt;Modular 1 &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.&lt;br&gt;Modular 1 &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370443
+      </id>
+      <name>Arcbound Stinger
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact Creature - Insect
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Modular 1 &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flying&lt;br&gt;Modular 1 &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370517
+      </id>
+      <name>Arcbound Worker
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Modular 1 &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Modular 1 &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370407
+      </id>
+      <name>Blinkmoth Nexus
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.&lt;br&gt;{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.&lt;br&gt;{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370381
+      </id>
+      <name>Death Cloud
+      </name>
+      <cost>{X}{B}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Each player loses X life, discards X cards, sacrifices X creatures, then sacrifices X lands.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Each player loses X life, discards X cards, sacrifices X creatures, then sacrifices X lands.
+      </text>
+    </mc>
+    <mc>
+      <id>370393
+      </id>
+      <name>Echoing Courage
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370394
+      </id>
+      <name>Echoing Truth
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Return target nonland permanent and all other permanents with the same name as that permanent to their owners' hands.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Return target nonland permanent and all other permanents with the same name as that permanent to their owners' hands.
+      </text>
+    </mc>
+    <mc>
+      <id>370507
+      </id>
+      <name>Stir the Pride
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Creatures you control get +2/+2 until end of turn; or until end of turn, creatures you control gain "Whenever this creature deals damage, you gain that much life."&lt;br&gt;Entwine {1}{W} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Choose one- Creatures you control get +2/+2 until end of turn; or until end of turn, creatures you control gain "Whenever this creature deals damage, you gain that much life."&lt;br&gt;Entwine {1}{W} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370471
+      </id>
+      <name>Sword of Fire and Ice
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +2/+2 and has protection from red and from blue.&lt;br&gt;Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to target creature or player and you draw a card.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>Equipped creature gets +2/+2 and has protection from red and from blue.&lt;br&gt;Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to target creature or player and you draw a card.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>370455
+      </id>
+      <name>Sword of Light and Shadow
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +2/+2 and has protection from white and from black.&lt;br&gt;Whenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>Equipped creature gets +2/+2 and has protection from white and from black.&lt;br&gt;Whenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>370554
+      </id>
+      <name>Test of Faith
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Prevent the next 3 damage that would be dealt to target creature this turn, and put a +1/+1 counter on that creature for each 1 damage prevented this way.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Prevent the next 3 damage that would be dealt to target creature this turn, and put a +1/+1 counter on that creature for each 1 damage prevented this way.
+      </text>
+    </mc>
+    <mc>
+      <id>370523
+      </id>
+      <name>Arcbound Wanderer
+      </name>
+      <cost>{6}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Modular—Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it. When it dies, you may put its +1/+1 counters on target artifact creature.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Modular—Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it. When it dies, you may put its +1/+1 counters on target artifact creature.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370370
+      </id>
+      <name>Auriok Salvagers
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>{1}{W}: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>{1}{W}: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370549
+      </id>
+      <name>Engineered Explosives
+      </name>
+      <cost>{X}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{2}, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{2}, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.
+      </text>
+    </mc>
+    <mc>
+      <id>370435
+      </id>
+      <name>Etched Oracle
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact Creature - Wizard
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>370427
+      </id>
+      <name>Eternal Witness
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Human Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370448
+      </id>
+      <name>Paradise Mantle
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature has "{T}: Add one mana of any color to your mana pool."&lt;br&gt;Equip {1}
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Equipped creature has "{T}: Add one mana of any color to your mana pool."&lt;br&gt;Equip {1}
+      </text>
+    </mc>
+    <mc>
+      <id>370470
+      </id>
+      <name>Rude Awakening
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Choose one- Untap all lands you control; or until end of turn, lands you control become 2/2 creatures that are still lands.&lt;br&gt;Entwine {2}{G} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Choose one- Untap all lands you control; or until end of turn, lands you control become 2/2 creatures that are still lands.&lt;br&gt;Entwine {2}{G} &lt;i&gt;(Choose both if you pay the entwine cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370356
+      </id>
+      <name>Skyreach Manta
+      </name>
+      <cost>{5}
+      </cost>
+      <type>Artifact Creature - Fish
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Flying
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Sunburst &lt;i&gt;(This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)&lt;/i&gt;&lt;br&gt;Flying
+      </text>
+    </mc>
+    <mc>
+      <id>370366
+      </id>
+      <name>Vedalken Shackles
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>You may choose not to untap Vedalken Shackles during your untap step.&lt;br&gt;{2}, {T}: Gain control of target creature with power less than or equal to the number of Islands you control for as long as Vedalken Shackles remains tapped.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>You may choose not to untap Vedalken Shackles during your untap step.&lt;br&gt;{2}, {T}: Gain control of target creature with power less than or equal to the number of Islands you control for as long as Vedalken Shackles remains tapped.
+      </text>
+    </mc>
+    <mc>
+      <id>370426
+      </id>
+      <name>Horobi's Whisper
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Instant - Arcane
+      </type>
+      <oracleText>If you control a Swamp, destroy target nonblack creature.&lt;br&gt;Splice onto Arcane—Exile four cards from your graveyard. &lt;i&gt;(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>If you control a Swamp, destroy target nonblack creature.&lt;br&gt;Splice onto Arcane—Exile four cards from your graveyard. &lt;i&gt;(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370349
+      </id>
+      <name>Kira, Great Glass-Spinner
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Legendary Creature - Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Creatures you control have "Whenever this creature becomes the target of a spell or ability for the first time in a turn, counter that spell or ability."
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying&lt;br&gt;Creatures you control have "Whenever this creature becomes the target of a spell or ability for the first time in a turn, counter that spell or ability."
+      </text>
+    </mc>
+    <mc>
+      <id>370555
+      </id>
+      <name>Terashi's Grasp
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Sorcery - Arcane
+      </type>
+      <oracleText>Destroy target artifact or enchantment. You gain life equal to its converted mana cost.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Destroy target artifact or enchantment. You gain life equal to its converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>370558
+      </id>
+      <name>Torrent of Stone
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Instant - Arcane
+      </type>
+      <oracleText>Torrent of Stone deals 4 damage to target creature.&lt;br&gt;Splice onto Arcane—Sacrifice two Mountains. &lt;i&gt;(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Torrent of Stone deals 4 damage to target creature.&lt;br&gt;Splice onto Arcane—Sacrifice two Mountains. &lt;i&gt;(As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370492
+      </id>
+      <name>Death Denied
+      </name>
+      <cost>{X}{B}{B}
+      </cost>
+      <type>Instant - Arcane
+      </type>
+      <oracleText>Return X target creature cards from your graveyard to your hand.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Return X target creature cards from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370414
+      </id>
+      <name>Kataki, War's Wage
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Legendary Creature - Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {1}."
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {1}."
+      </text>
+    </mc>
+    <mc>
+      <id>370413
+      </id>
+      <name>Dark Confidant
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>370387
+      </id>
+      <name>Doubling Season
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>If an effect would put one or more tokens onto the battlefield under your control, it puts twice that many of those tokens onto the battlefield instead.&lt;br&gt;If an effect would place one or more counters on a permanent you control, it places twice that many of those counters on that permanent instead.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>If an effect would put one or more tokens onto the battlefield under your control, it puts twice that many of those tokens onto the battlefield instead.&lt;br&gt;If an effect would place one or more counters on a permanent you control, it places twice that many of those counters on that permanent instead.
+      </text>
+    </mc>
+    <mc>
+      <id>370511
+      </id>
+      <name>Greater Mossdog
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Plant Hound
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Dredge 3 &lt;i&gt;(If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Dredge 3 &lt;i&gt;(If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370398
+      </id>
+      <name>Life from the Loam
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return up to three target land cards from your graveyard to your hand.&lt;br&gt;Dredge 3 &lt;i&gt;(If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Return up to three target land cards from your graveyard to your hand.&lt;br&gt;Dredge 3 &lt;i&gt;(If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370528
+      </id>
+      <name>Lightning Helix
+      </name>
+      <cost>{R}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Lightning Helix deals 3 damage to target creature or player and you gain 3 life.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Lightning Helix deals 3 damage to target creature or player and you gain 3 life.
+      </text>
+    </mc>
+    <mc>
+      <id>370444
+      </id>
+      <name>Moldervine Cloak
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3.&lt;br&gt;Dredge 2 &lt;i&gt;(If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets +3/+3.&lt;br&gt;Dredge 2 &lt;i&gt;(If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370392
+      </id>
+      <name>Sandsower
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Spirit
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Tap three untapped creatures you control: Tap target creature.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Tap three untapped creatures you control: Tap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>370450
+      </id>
+      <name>Stinkweed Imp
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Imp
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Stinkweed Imp deals combat damage to a creature, destroy that creature.&lt;br&gt;Dredge 5 &lt;i&gt;(If you would draw a card, instead you may put exactly five cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flying&lt;br&gt;Whenever Stinkweed Imp deals combat damage to a creature, destroy that creature.&lt;br&gt;Dredge 5 &lt;i&gt;(If you would draw a card, instead you may put exactly five cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370550
+      </id>
+      <name>Vedalken Dismisser
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Vedalken Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Vedalken Dismisser enters the battlefield, put target creature on top of its owner's library.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>When Vedalken Dismisser enters the battlefield, put target creature on top of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>370361
+      </id>
+      <name>Veteran Armorer
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Other creatures you control get +0/+1.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Other creatures you control get +0/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>370376
+      </id>
+      <name>Electrolyze
+      </name>
+      <cost>{1}{U}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370363
+      </id>
+      <name>Skeletal Vampire
+      </name>
+      <cost>{4}{B}{B}
+      </cost>
+      <type>Creature - Vampire Skeleton
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Skeletal Vampire enters the battlefield, put two 1/1 black Bat creature tokens with flying onto the battlefield.&lt;br&gt;{3}{B}{B}, Sacrifice a Bat: Put two 1/1 black Bat creature tokens with flying onto the battlefield.&lt;br&gt;Sacrifice a Bat: Regenerate Skeletal Vampire.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying&lt;br&gt;When Skeletal Vampire enters the battlefield, put two 1/1 black Bat creature tokens with flying onto the battlefield.&lt;br&gt;{3}{B}{B}, Sacrifice a Bat: Put two 1/1 black Bat creature tokens with flying onto the battlefield.&lt;br&gt;Sacrifice a Bat: Regenerate Skeletal Vampire.
+      </text>
+    </mc>
+    <mc>
+      <id>370420
+      </id>
+      <name>Grand Arbiter Augustin IV
+      </name>
+      <cost>{2}{W}{U}
+      </cost>
+      <type>Legendary Creature - Human Advisor
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>White spells you cast cost {1} less to cast.&lt;br&gt;Blue spells you cast cost {1} less to cast.&lt;br&gt;Spells your opponents cast cost {1} more to cast.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>White spells you cast cost {1} less to cast.&lt;br&gt;Blue spells you cast cost {1} less to cast.&lt;br&gt;Spells your opponents cast cost {1} more to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>370447
+      </id>
+      <name>Spell Snare
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell with converted mana cost 2.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Counter target spell with converted mana cost 2.
+      </text>
+    </mc>
+    <mc>
+      <id>370476
+      </id>
+      <name>Trygon Predator
+      </name>
+      <cost>{1}{G}{U}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever Trygon Predator deals combat damage to a player, you may destroy target artifact or enchantment that player controls.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Flying&lt;br&gt;Whenever Trygon Predator deals combat damage to a player, you may destroy target artifact or enchantment that player controls.
+      </text>
+    </mc>
+    <mc>
+      <id>370543
+      </id>
+      <name>Adarkar Valkyrie
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Snow Creature - Angel
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying, vigilance&lt;br&gt;{T}: When target creature other than Adarkar Valkyrie dies this turn, return that card to the battlefield under your control.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying, vigilance&lt;br&gt;{T}: When target creature other than Adarkar Valkyrie dies this turn, return that card to the battlefield under your control.
+      </text>
+    </mc>
+    <mc>
+      <id>370487
+      </id>
+      <name>Perilous Research
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Draw two cards, then sacrifice a permanent.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Draw two cards, then sacrifice a permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>370424
+      </id>
+      <name>Academy Ruins
+      </name>
+      <type>Legendary Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{1}{U}, {T}: Put target artifact card from your graveyard on top of your library.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{1}{U}, {T}: Put target artifact card from your graveyard on top of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>370571
+      </id>
+      <name>Amrou Scout
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Kithkin Rebel Scout
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>370576
+      </id>
+      <name>Amrou Seekers
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Kithkin Rebel
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Amrou Seekers can't be blocked except by artifact creatures and/or white creatures.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Amrou Seekers can't be blocked except by artifact creatures and/or white creatures.
+      </text>
+    </mc>
+    <mc>
+      <id>370545
+      </id>
+      <name>Angel's Grace
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)&lt;/i&gt;&lt;br&gt;You can't lose the game this turn and your opponents can't win the game this turn. Until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Split second &lt;i&gt;(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)&lt;/i&gt;&lt;br&gt;You can't lose the game this turn and your opponents can't win the game this turn. Until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead.
+      </text>
+    </mc>
+    <mc>
+      <id>370531
+      </id>
+      <name>Careful Consideration
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player draws four cards, then discards three cards. If you cast this spell during your main phase, instead that player draws four cards, then discards two cards.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Target player draws four cards, then discards three cards. If you cast this spell during your main phase, instead that player draws four cards, then discards two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>370482
+      </id>
+      <name>Durkwood Baloth
+      </name>
+      <cost>{4}{G}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Suspend 5—{G} &lt;i&gt;(Rather than cast this card from your hand, you may pay {G} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Suspend 5—{G} &lt;i&gt;(Rather than cast this card from your hand, you may pay {G} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370480
+      </id>
+      <name>Empty the Warrens
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put two 1/1 red Goblin creature tokens onto the battlefield.&lt;br&gt;Storm &lt;i&gt;(When you cast this spell, copy it for each spell cast before it this turn.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Put two 1/1 red Goblin creature tokens onto the battlefield.&lt;br&gt;Storm &lt;i&gt;(When you cast this spell, copy it for each spell cast before it this turn.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370491
+      </id>
+      <name>Errant Ephemeron
+      </name>
+      <cost>{6}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Suspend 4—{1}{U} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flying&lt;br&gt;Suspend 4—{1}{U} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370472
+      </id>
+      <name>Grapeshot
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Grapeshot deals 1 damage to target creature or player.&lt;br&gt;Storm &lt;i&gt;(When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Grapeshot deals 1 damage to target creature or player.&lt;br&gt;Storm &lt;i&gt;(When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370560
+      </id>
+      <name>Greater Gargadon
+      </name>
+      <cost>{9}{R}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>9
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>Suspend 10—{R}&lt;br&gt;Sacrifice an artifact, creature, or land: Remove a time counter from Greater Gargadon. Activate this ability only if Greater Gargadon is suspended.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Suspend 10—{R}&lt;br&gt;Sacrifice an artifact, creature, or land: Remove a time counter from Greater Gargadon. Activate this ability only if Greater Gargadon is suspended.
+      </text>
+    </mc>
+    <mc>
+      <id>370415
+      </id>
+      <name>Ivory Giant
+      </name>
+      <cost>{5}{W}{W}
+      </cost>
+      <type>Creature - Giant
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Ivory Giant enters the battlefield, tap all nonwhite creatures.&lt;br&gt;Suspend 5—{W} &lt;i&gt;(Rather than cast this card from your hand, you may pay {W} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>When Ivory Giant enters the battlefield, tap all nonwhite creatures.&lt;br&gt;Suspend 5—{W} &lt;i&gt;(Rather than cast this card from your hand, you may pay {W} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370557
+      </id>
+      <name>Krosan Grip
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)&lt;/i&gt;&lt;br&gt;Destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Split second &lt;i&gt;(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)&lt;/i&gt;&lt;br&gt;Destroy target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>370562
+      </id>
+      <name>Lotus Bloom
+      </name>
+      <type>Artifact
+      </type>
+      <oracleText>Suspend 3—{0} &lt;i&gt;(Rather than cast this card from your hand, pay {0} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)&lt;/i&gt;&lt;br&gt;{T}, Sacrifice Lotus Bloom: Add three mana of any one color to your mana pool.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Suspend 3—{0} &lt;i&gt;(Rather than cast this card from your hand, pay {0} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)&lt;/i&gt;&lt;br&gt;{T}, Sacrifice Lotus Bloom: Add three mana of any one color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>370547
+      </id>
+      <name>Mogg War Marshal
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Echo {1}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;When Mogg War Marshal enters the battlefield or dies, put a 1/1 red Goblin creature token onto the battlefield.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Echo {1}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;When Mogg War Marshal enters the battlefield or dies, put a 1/1 red Goblin creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370484
+      </id>
+      <name>Nantuko Shaman
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Insect Shaman
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Nantuko Shaman enters the battlefield, if you control no tapped lands, draw a card.&lt;br&gt;Suspend 1—{2}{G}{G} &lt;i&gt;(Rather than cast this card from your hand, you may pay {2}{G}{G} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>When Nantuko Shaman enters the battlefield, if you control no tapped lands, draw a card.&lt;br&gt;Suspend 1—{2}{G}{G} &lt;i&gt;(Rather than cast this card from your hand, you may pay {2}{G}{G} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370464
+      </id>
+      <name>Pardic Dragon
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{R}: Pardic Dragon gets +1/+0 until end of turn.&lt;br&gt;Suspend 2—{R}{R}&lt;br&gt;Whenever an opponent casts a spell, if Pardic Dragon is suspended, that player may put a time counter on Pardic Dragon.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Flying&lt;br&gt;{R}: Pardic Dragon gets +1/+0 until end of turn.&lt;br&gt;Suspend 2—{R}{R}&lt;br&gt;Whenever an opponent casts a spell, if Pardic Dragon is suspended, that player may put a time counter on Pardic Dragon.
+      </text>
+    </mc>
+    <mc>
+      <id>370516
+      </id>
+      <name>Penumbra Spider
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Reach&lt;br&gt;When Penumbra Spider dies, put a 2/4 black Spider creature token with reach onto the battlefield.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Reach&lt;br&gt;When Penumbra Spider dies, put a 2/4 black Spider creature token with reach onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370383
+      </id>
+      <name>Phthisis
+      </name>
+      <cost>{3}{B}{B}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target creature. Its controller loses life equal to its power plus its toughness.&lt;br&gt;Suspend 5—{1}{B} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{B} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Destroy target creature. Its controller loses life equal to its power plus its toughness.&lt;br&gt;Suspend 5—{1}{B} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{B} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370469
+      </id>
+      <name>Rift Bolt
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Rift Bolt deals 3 damage to target creature or player.&lt;br&gt;Suspend 1—{R} &lt;i&gt;(Rather than cast this card from your hand, you may pay {R} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Rift Bolt deals 3 damage to target creature or player.&lt;br&gt;Suspend 1—{R} &lt;i&gt;(Rather than cast this card from your hand, you may pay {R} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370350
+      </id>
+      <name>Riftwing Cloudskate
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Riftwing Cloudskate enters the battlefield, return target permanent to its owner's hand.&lt;br&gt;Suspend 3—{1}{U} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Flying&lt;br&gt;When Riftwing Cloudskate enters the battlefield, return target permanent to its owner's hand.&lt;br&gt;Suspend 3—{1}{U} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370526
+      </id>
+      <name>Search for Tomorrow
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Search your library for a basic land card and put it onto the battlefield. Then shuffle your library.&lt;br&gt;Suspend 2—{G} &lt;i&gt;(Rather than cast this card from your hand, you may pay {G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Search your library for a basic land card and put it onto the battlefield. Then shuffle your library.&lt;br&gt;Suspend 2—{G} &lt;i&gt;(Rather than cast this card from your hand, you may pay {G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370441
+      </id>
+      <name>Sporesower Thallid
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on each Fungus you control.&lt;br&gt;Remove three spore counters from Sporesower Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>At the beginning of your upkeep, put a spore counter on each Fungus you control.&lt;br&gt;Remove three spore counters from Sporesower Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370388
+      </id>
+      <name>Sudden Shock
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)&lt;/i&gt;&lt;br&gt;Sudden Shock deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Split second &lt;i&gt;(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)&lt;/i&gt;&lt;br&gt;Sudden Shock deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>370459
+      </id>
+      <name>Terramorphic Expanse
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>370500
+      </id>
+      <name>Thallid Germinator
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Thallid Germinator.&lt;br&gt;Remove three spore counters from Thallid Germinator: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;Sacrifice a Saproling: Target creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>At the beginning of your upkeep, put a spore counter on Thallid Germinator.&lt;br&gt;Remove three spore counters from Thallid Germinator: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;Sacrifice a Saproling: Target creature gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370486
+      </id>
+      <name>Thallid Shell-Dweller
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>0
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Defender&lt;br&gt;At the beginning of your upkeep, put a spore counter on Thallid Shell-Dweller.&lt;br&gt;Remove three spore counters from Thallid Shell-Dweller: Put a 1/1 green Saproling creature token onto the battlefield.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Defender&lt;br&gt;At the beginning of your upkeep, put a spore counter on Thallid Shell-Dweller.&lt;br&gt;Remove three spore counters from Thallid Shell-Dweller: Put a 1/1 green Saproling creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370364
+      </id>
+      <name>Tromp the Domains
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Domain- Until end of turn, creatures you control gain trample and get +1/+1 for each basic land type among lands you control.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Domain- Until end of turn, creatures you control gain trample and get +1/+1 for each basic land type among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>370567
+      </id>
+      <name>Blightspeaker
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Human Rebel Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Target player loses 1 life.&lt;br&gt;{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{T}: Target player loses 1 life.&lt;br&gt;{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>370454
+      </id>
+      <name>Brute Force
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Target creature gets +3/+3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370501
+      </id>
+      <name>Citanul Woodreaders
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Human Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Kicker {2}{G} &lt;i&gt;(You may pay an additional {2}{G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Citanul Woodreaders enters the battlefield, if it was kicked, draw two cards.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Kicker {2}{G} &lt;i&gt;(You may pay an additional {2}{G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Citanul Woodreaders enters the battlefield, if it was kicked, draw two cards.
+      </text>
+    </mc>
+    <mc>
+      <id>370575
+      </id>
+      <name>Erratic Mutation
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose target creature. Reveal cards from the top of your library until you reveal a nonland card. That creature gets +X/-X until end of turn, where X is that card's converted mana cost. Put all cards revealed this way on the bottom of your library in any order.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Choose target creature. Reveal cards from the top of your library until you reveal a nonland card. That creature gets +X/-X until end of turn, where X is that card's converted mana cost. Put all cards revealed this way on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>370384
+      </id>
+      <name>Extirpate
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)&lt;/i&gt;&lt;br&gt;Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Split second &lt;i&gt;(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)&lt;/i&gt;&lt;br&gt;Choose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>370465
+      </id>
+      <name>Fury Charm
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose one- Destroy target artifact; or target creature gets +1/+1 and gains trample until end of turn; or remove two time counters from target permanent or suspended card.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Choose one- Destroy target artifact; or target creature gets +1/+1 and gains trample until end of turn; or remove two time counters from target permanent or suspended card.
+      </text>
+    </mc>
+    <mc>
+      <id>370433
+      </id>
+      <name>Giant Dustwasp
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Insect
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Suspend 4—{1}{G} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{G} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flying&lt;br&gt;Suspend 4—{1}{G} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{G} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370401
+      </id>
+      <name>Hammerheim Deadeye
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Giant Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Echo {5}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;When Hammerheim Deadeye enters the battlefield, destroy target creature with flying.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Echo {5}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;When Hammerheim Deadeye enters the battlefield, destroy target creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>370348
+      </id>
+      <name>Pallid Mycoderm
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Pallid Mycoderm.&lt;br&gt;Remove three spore counters from Pallid Mycoderm: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;Sacrifice a Saproling: Each creature you control that's a Fungus or a Saproling gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>At the beginning of your upkeep, put a spore counter on Pallid Mycoderm.&lt;br&gt;Remove three spore counters from Pallid Mycoderm: Put a 1/1 green Saproling creature token onto the battlefield.&lt;br&gt;Sacrifice a Saproling: Each creature you control that's a Fungus or a Saproling gets +1/+1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370570
+      </id>
+      <name>Rathi Trapper
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Human Rebel Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{B}, {T}: Tap target creature.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{B}, {T}: Tap target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>370536
+      </id>
+      <name>Saltfield Recluse
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Rebel Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Target creature gets -2/-0 until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{T}: Target creature gets -2/-0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370402
+      </id>
+      <name>Stingscourger
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Echo {3}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;When Stingscourger enters the battlefield, return target creature an opponent controls to its owner's hand.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Echo {3}{R} &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;&lt;br&gt;When Stingscourger enters the battlefield, return target creature an opponent controls to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370396
+      </id>
+      <name>Bound in Silence
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Tribal Enchantment - Rebel Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Enchant creature&lt;br&gt;Enchanted creature can't attack or block.
+      </text>
+    </mc>
+    <mc>
+      <id>370353
+      </id>
+      <name>Bridge from Below
+      </name>
+      <cost>{B}{B}{B}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Whenever a nontoken creature is put into your graveyard from the battlefield, if Bridge from Below is in your graveyard, put a 2/2 black Zombie creature token onto the battlefield.&lt;br&gt;When a creature is put into an opponent's graveyard from the battlefield, if Bridge from Below is in your graveyard, exile Bridge from Below.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Whenever a nontoken creature is put into your graveyard from the battlefield, if Bridge from Below is in your graveyard, put a 2/2 black Zombie creature token onto the battlefield.&lt;br&gt;When a creature is put into an opponent's graveyard from the battlefield, if Bridge from Below is in your graveyard, exile Bridge from Below.
+      </text>
+    </mc>
+    <mc>
+      <id>370456
+      </id>
+      <name>Dakmor Salvage
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Dakmor Salvage enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;Dredge 2 &lt;i&gt;(If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Dakmor Salvage enters the battlefield tapped.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;Dredge 2 &lt;i&gt;(If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370477
+      </id>
+      <name>Death Rattle
+      </name>
+      <cost>{5}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Delve &lt;i&gt;(You may exile any number of cards from your graveyard as you cast this spell. It costs {1} less to cast for each card exiled this way.)&lt;/i&gt;&lt;br&gt;Destroy target nongreen creature. It can't be regenerated.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Delve &lt;i&gt;(You may exile any number of cards from your graveyard as you cast this spell. It costs {1} less to cast for each card exiled this way.)&lt;/i&gt;&lt;br&gt;Destroy target nongreen creature. It can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>370569
+      </id>
+      <name>Deepcavern Imp
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Imp Rebel
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying, haste&lt;br&gt;Echo—Discard a card. &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flying, haste&lt;br&gt;Echo—Discard a card. &lt;i&gt;(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370497
+      </id>
+      <name>Epochrasite
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact Creature - Construct
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Epochrasite enters the battlefield with three +1/+1 counters on it if you didn't cast it from your hand.&lt;br&gt;When Epochrasite dies, exile it with three time counters on it and it gains suspend. &lt;i&gt;(At the beginning of your upkeep, remove a time counter. When the last is removed, cast this card without paying its mana cost. It has haste.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Epochrasite enters the battlefield with three +1/+1 counters on it if you didn't cast it from your hand.&lt;br&gt;When Epochrasite dies, exile it with three time counters on it and it gains suspend. &lt;i&gt;(At the beginning of your upkeep, remove a time counter. When the last is removed, cast this card without paying its mana cost. It has haste.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370418
+      </id>
+      <name>Grinning Ignus
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}, Return Grinning Ignus to its owner's hand: Add {2}{R} to your mana pool. Activate this ability only any time you could cast a sorcery.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>{R}, Return Grinning Ignus to its owner's hand: Add {2}{R} to your mana pool. Activate this ability only any time you could cast a sorcery.
+      </text>
+    </mc>
+    <mc>
+      <id>370561
+      </id>
+      <name>Imperiosaur
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Lizard
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Spend only mana produced by basic lands to cast Imperiosaur.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Spend only mana produced by basic lands to cast Imperiosaur.
+      </text>
+    </mc>
+    <mc>
+      <id>370548
+      </id>
+      <name>Jhoira of the Ghitu
+      </name>
+      <cost>{1}{U}{R}
+      </cost>
+      <type>Legendary Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{2}, Exile a nonland card from your hand: Put four time counters on the exiled card. If it doesn't have suspend, it gains suspend. &lt;i&gt;(At the beginning of your upkeep, remove a time counter from that card. When the last is removed, cast it without paying its mana cost. If it's a creature, it has haste.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>{2}, Exile a nonland card from your hand: Put four time counters on the exiled card. If it doesn't have suspend, it gains suspend. &lt;i&gt;(At the beginning of your upkeep, remove a time counter from that card. When the last is removed, cast it without paying its mana cost. If it's a creature, it has haste.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370529
+      </id>
+      <name>Logic Knot
+      </name>
+      <cost>{X}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Delve &lt;i&gt;(You may exile any number of cards from your graveyard as you cast this spell. It costs {1} less to cast for each card exiled this way.)&lt;/i&gt;&lt;br&gt;Counter target spell unless its controller pays {X}.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Delve &lt;i&gt;(You may exile any number of cards from your graveyard as you cast this spell. It costs {1} less to cast for each card exiled this way.)&lt;/i&gt;&lt;br&gt;Counter target spell unless its controller pays {X}.
+      </text>
+    </mc>
+    <mc>
+      <id>370437
+      </id>
+      <name>Molten Disaster
+      </name>
+      <cost>{X}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kicker {R} &lt;i&gt;(You may pay an additional {R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;If Molten Disaster was kicked, it has split second. &lt;i&gt;(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)&lt;/i&gt;&lt;br&gt;Molten Disaster deals X damage to each creature without flying and each player.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Kicker {R} &lt;i&gt;(You may pay an additional {R} as you cast this spell.)&lt;/i&gt;&lt;br&gt;If Molten Disaster was kicked, it has split second. &lt;i&gt;(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)&lt;/i&gt;&lt;br&gt;Molten Disaster deals X damage to each creature without flying and each player.
+      </text>
+    </mc>
+    <mc>
+      <id>370359
+      </id>
+      <name>Narcomoeba
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Narcomoeba is put into your graveyard from your library, you may put it onto the battlefield.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Flying&lt;br&gt;When Narcomoeba is put into your graveyard from your library, you may put it onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370354
+      </id>
+      <name>Pact of Negation
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell.&lt;br&gt;At the beginning of your next upkeep, pay {3}{U}{U}. If you don't, you lose the game.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Counter target spell.&lt;br&gt;At the beginning of your next upkeep, pay {3}{U}{U}. If you don't, you lose the game.
+      </text>
+    </mc>
+    <mc>
+      <id>370397
+      </id>
+      <name>Pyromancer's Swath
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>If an instant or sorcery source you control would deal damage to a creature or player, it deals that much damage plus 2 to that creature or player instead.&lt;br&gt;At the beginning of each end step, discard your hand.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>If an instant or sorcery source you control would deal damage to a creature or player, it deals that much damage plus 2 to that creature or player instead.&lt;br&gt;At the beginning of each end step, discard your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370468
+      </id>
+      <name>Rift Elemental
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}{R}, Remove a time counter from a permanent you control or suspended card you own: Rift Elemental gets +2/+0 until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{1}{R}, Remove a time counter from a permanent you control or suspended card you own: Rift Elemental gets +2/+0 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370365
+      </id>
+      <name>Riftsweeper
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Elf Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Riftsweeper enters the battlefield, choose target face-up exiled card. Its owner shuffles it into his or her library.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>When Riftsweeper enters the battlefield, choose target face-up exiled card. Its owner shuffles it into his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>370457
+      </id>
+      <name>Slaughter Pact
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonblack creature.&lt;br&gt;At the beginning of your next upkeep, pay {2}{B}. If you don't, you lose the game.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Destroy target nonblack creature.&lt;br&gt;At the beginning of your next upkeep, pay {2}{B}. If you don't, you lose the game.
+      </text>
+    </mc>
+    <mc>
+      <id>370503
+      </id>
+      <name>Sporoloth Ancient
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Fungus
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>At the beginning of your upkeep, put a spore counter on Sporoloth Ancient.&lt;br&gt;Creatures you control have "Remove two spore counters from this creature: Put a 1/1 green Saproling creature token onto the battlefield."
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>At the beginning of your upkeep, put a spore counter on Sporoloth Ancient.&lt;br&gt;Creatures you control have "Remove two spore counters from this creature: Put a 1/1 green Saproling creature token onto the battlefield."
+      </text>
+    </mc>
+    <mc>
+      <id>370428
+      </id>
+      <name>Street Wraith
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Wraith
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Swampwalk&lt;br&gt;Cycling—Pay 2 life. &lt;i&gt;(Pay 2 life, Discard this card: Draw a card.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Swampwalk&lt;br&gt;Cycling—Pay 2 life. &lt;i&gt;(Pay 2 life, Discard this card: Draw a card.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370563
+      </id>
+      <name>Summoner's Pact
+      </name>
+      <cost>{0}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Search your library for a green creature card, reveal it, and put it into your hand. Then shuffle your library.&lt;br&gt;At the beginning of your next upkeep, pay {2}{G}{G}. If you don't, you lose the game.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Search your library for a green creature card, reveal it, and put it into your hand. Then shuffle your library.&lt;br&gt;At the beginning of your next upkeep, pay {2}{G}{G}. If you don't, you lose the game.
+      </text>
+    </mc>
+    <mc>
+      <id>370453
+      </id>
+      <name>Take Possession
+      </name>
+      <cost>{5}{U}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Split second &lt;i&gt;(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)&lt;/i&gt;&lt;br&gt;Enchant permanent&lt;br&gt;You control enchanted permanent.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Split second &lt;i&gt;(As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)&lt;/i&gt;&lt;br&gt;Enchant permanent&lt;br&gt;You control enchanted permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>370404
+      </id>
+      <name>Tarmogoyf
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Lhurgoyf
+      </type>
+      <power>*
+      </power>
+      <toughness>1+*
+      </toughness>
+      <oracleText>Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.
+      </text>
+    </mc>
+    <mc>
+      <id>370539
+      </id>
+      <name>Tombstalker
+      </name>
+      <cost>{6}{B}{B}
+      </cost>
+      <type>Creature - Demon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Delve &lt;i&gt;(You may exile any number of cards from your graveyard as you cast this spell. It costs {1} less to cast for each card exiled this way.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying&lt;br&gt;Delve &lt;i&gt;(You may exile any number of cards from your graveyard as you cast this spell. It costs {1} less to cast for each card exiled this way.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370430
+      </id>
+      <name>Æthersnipe
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Æthersnipe enters the battlefield, return target nonland permanent to its owner's hand.&lt;br&gt;Evoke {1}{U}{U} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>When Æthersnipe enters the battlefield, return target nonland permanent to its owner's hand.&lt;br&gt;Evoke {1}{U}{U} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370489
+      </id>
+      <name>Avian Changeling
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Flying
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Flying
+      </text>
+    </mc>
+    <mc>
+      <id>370377
+      </id>
+      <name>Blind-Spot Giant
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Giant Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Blind-Spot Giant can't attack or block unless you control another Giant.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Blind-Spot Giant can't attack or block unless you control another Giant.
+      </text>
+    </mc>
+    <mc>
+      <id>370553
+      </id>
+      <name>Cloudgoat Ranger
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Giant Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Cloudgoat Ranger enters the battlefield, put three 1/1 white Kithkin Soldier creature tokens onto the battlefield.&lt;br&gt;Tap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and gains flying until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>When Cloudgoat Ranger enters the battlefield, put three 1/1 white Kithkin Soldier creature tokens onto the battlefield.&lt;br&gt;Tap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370446
+      </id>
+      <name>Crush Underfoot
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Tribal Instant - Giant
+      </type>
+      <oracleText>Choose a Giant creature you control. It deals damage equal to its power to target creature.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Choose a Giant creature you control. It deals damage equal to its power to target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>370439
+      </id>
+      <name>Cryptic Command
+      </name>
+      <cost>{1}{U}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Choose two- Counter target spell; or return target permanent to its owner's hand; or tap all creatures your opponents control; or draw a card.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Choose two- Counter target spell; or return target permanent to its owner's hand; or tap all creatures your opponents control; or draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370473
+      </id>
+      <name>Dreamspoiler Witches
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Faerie Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Whenever you cast a spell during an opponent's turn, you may have target creature get -1/-1 until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flying&lt;br&gt;Whenever you cast a spell during an opponent's turn, you may have target creature get -1/-1 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370499
+      </id>
+      <name>Facevaulter
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{B}, Sacrifice a Goblin: Facevaulter gets +2/+2 until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{B}, Sacrifice a Goblin: Facevaulter gets +2/+2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370386
+      </id>
+      <name>Hillcomber Giant
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Giant Scout
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Mountainwalk
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Mountainwalk
+      </text>
+    </mc>
+    <mc>
+      <id>370541
+      </id>
+      <name>Incremental Growth
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.
+      </text>
+    </mc>
+    <mc>
+      <id>370422
+      </id>
+      <name>Kithkin Greatheart
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Kithkin Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>As long as you control a Giant, Kithkin Greatheart gets +1/+1 and has first strike.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>As long as you control a Giant, Kithkin Greatheart gets +1/+1 and has first strike.
+      </text>
+    </mc>
+    <mc>
+      <id>370496
+      </id>
+      <name>Mad Auntie
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Other Goblin creatures you control get +1/+1.&lt;br&gt;{T}: Regenerate another target Goblin.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Other Goblin creatures you control get +1/+1.&lt;br&gt;{T}: Regenerate another target Goblin.
+      </text>
+    </mc>
+    <mc>
+      <id>370374
+      </id>
+      <name>Marsh Flitter
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Faerie Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Marsh Flitter enters the battlefield, put two 1/1 black Goblin Rogue creature tokens onto the battlefield.&lt;br&gt;Sacrifice a Goblin: Marsh Flitter becomes 3/3 until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Flying&lt;br&gt;When Marsh Flitter enters the battlefield, put two 1/1 black Goblin Rogue creature tokens onto the battlefield.&lt;br&gt;Sacrifice a Goblin: Marsh Flitter becomes 3/3 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370416
+      </id>
+      <name>Masked Admirers
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Elf Shaman
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Masked Admirers enters the battlefield, draw a card.&lt;br&gt;Whenever you cast a creature spell, you may pay {G}{G}. If you do, return Masked Admirers from your graveyard to your hand.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>When Masked Admirers enters the battlefield, draw a card.&lt;br&gt;Whenever you cast a creature spell, you may pay {G}{G}. If you do, return Masked Admirers from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370535
+      </id>
+      <name>Mulldrifter
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Mulldrifter enters the battlefield, draw two cards.&lt;br&gt;Evoke {2}{U} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Flying&lt;br&gt;When Mulldrifter enters the battlefield, draw two cards.&lt;br&gt;Evoke {2}{U} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370481
+      </id>
+      <name>Peppersmoke
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Tribal Instant - Faerie
+      </type>
+      <oracleText>Target creature gets -1/-1 until end of turn. If you control a Faerie, draw a card.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Target creature gets -1/-1 until end of turn. If you control a Faerie, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370440
+      </id>
+      <name>Pestermite
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Faerie Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flash&lt;br&gt;Flying&lt;br&gt;When Pestermite enters the battlefield, you may tap or untap target permanent.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flash&lt;br&gt;Flying&lt;br&gt;When Pestermite enters the battlefield, you may tap or untap target permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>370445
+      </id>
+      <name>Runed Stalactite
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +1/+1 and is every creature type.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Equipped creature gets +1/+1 and is every creature type.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>370572
+      </id>
+      <name>Scion of Oona
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Faerie Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flash&lt;br&gt;Flying&lt;br&gt;Other Faerie creatures you control get +1/+1.&lt;br&gt;Other Faeries you control have shroud.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flash&lt;br&gt;Flying&lt;br&gt;Other Faerie creatures you control get +1/+1.&lt;br&gt;Other Faeries you control have shroud.
+      </text>
+    </mc>
+    <mc>
+      <id>370380
+      </id>
+      <name>Spellstutter Sprite
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Faerie Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flash&lt;br&gt;Flying&lt;br&gt;When Spellstutter Sprite enters the battlefield, counter target spell with converted mana cost X or less, where X is the number of Faeries you control.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flash&lt;br&gt;Flying&lt;br&gt;When Spellstutter Sprite enters the battlefield, counter target spell with converted mana cost X or less, where X is the number of Faeries you control.
+      </text>
+    </mc>
+    <mc>
+      <id>370483
+      </id>
+      <name>Stinkdrinker Daredevil
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Giant spells you cast cost {2} less to cast.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Giant spells you cast cost {2} less to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>370467
+      </id>
+      <name>Tar Pitcher
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Goblin Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Sacrifice a Goblin: Tar Pitcher deals 2 damage to target creature or player.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>{T}, Sacrifice a Goblin: Tar Pitcher deals 2 damage to target creature or player.
+      </text>
+    </mc>
+    <mc>
+      <id>370451
+      </id>
+      <name>Thieving Sprite
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Faerie Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Thieving Sprite enters the battlefield, target player reveals X cards from his or her hand, where X is the number of Faeries you control. You choose one of those cards. That player discards that card.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flying&lt;br&gt;When Thieving Sprite enters the battlefield, target player reveals X cards from his or her hand, where X is the number of Faeries you control. You choose one of those cards. That player discards that card.
+      </text>
+    </mc>
+    <mc>
+      <id>370399
+      </id>
+      <name>Thundercloud Shaman
+      </name>
+      <cost>{3}{R}{R}
+      </cost>
+      <type>Creature - Giant Shaman
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>When Thundercloud Shaman enters the battlefield, it deals damage equal to the number of Giants you control to each non-Giant creature.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>When Thundercloud Shaman enters the battlefield, it deals damage equal to the number of Giants you control to each non-Giant creature.
+      </text>
+    </mc>
+    <mc>
+      <id>370400
+      </id>
+      <name>Vivid Crag
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Vivid Crag enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Crag: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Vivid Crag enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Crag: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>370355
+      </id>
+      <name>Vivid Creek
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Vivid Creek enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Vivid Creek enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {U} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>370403
+      </id>
+      <name>Vivid Grove
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Vivid Grove enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Vivid Grove enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>370389
+      </id>
+      <name>Vivid Marsh
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Vivid Marsh enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Marsh: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Vivid Marsh enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Marsh: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>370351
+      </id>
+      <name>Vivid Meadow
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Vivid Meadow enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Vivid Meadow enters the battlefield tapped with two charge counters on it.&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>370357
+      </id>
+      <name>Warren Pilferers
+      </name>
+      <cost>{4}{B}
+      </cost>
+      <type>Creature - Goblin Rogue
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Warren Pilferers enters the battlefield, return target creature card from your graveyard to your hand. If that card is a Goblin card, Warren Pilferers gains haste until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>When Warren Pilferers enters the battlefield, return target creature card from your graveyard to your hand. If that card is a Goblin card, Warren Pilferers gains haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370533
+      </id>
+      <name>Auntie's Snitch
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Goblin Rogue
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Auntie's Snitch can't block.&lt;br&gt;Prowl {1}{B} &lt;i&gt;(You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)&lt;/i&gt;&lt;br&gt;Whenever a Goblin or Rogue you control deals combat damage to a player, if Auntie's Snitch is in your graveyard, you may return Auntie's Snitch to your hand.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Auntie's Snitch can't block.&lt;br&gt;Prowl {1}{B} &lt;i&gt;(You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)&lt;/i&gt;&lt;br&gt;Whenever a Goblin or Rogue you control deals combat damage to a player, if Auntie's Snitch is in your graveyard, you may return Auntie's Snitch to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370544
+      </id>
+      <name>Countryside Crusher
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Giant Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>At the beginning of your upkeep, reveal the top card of your library. If it's a land card, put it into your graveyard and repeat this process.&lt;br&gt;Whenever a land card is put into your graveyard from anywhere, put a +1/+1 counter on Countryside Crusher.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>At the beginning of your upkeep, reveal the top card of your library. If it's a land card, put it into your graveyard and repeat this process.&lt;br&gt;Whenever a land card is put into your graveyard from anywhere, put a +1/+1 counter on Countryside Crusher.
+      </text>
+    </mc>
+    <mc>
+      <id>370530
+      </id>
+      <name>Earwig Squad
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Creature - Goblin Rogue
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Prowl {2}{B} &lt;i&gt;(You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)&lt;/i&gt;&lt;br&gt;When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles his or her library.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Prowl {2}{B} &lt;i&gt;(You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)&lt;/i&gt;&lt;br&gt;When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>370438
+      </id>
+      <name>Feudkiller's Verdict
+      </name>
+      <cost>{4}{W}{W}
+      </cost>
+      <type>Tribal Sorcery - Giant
+      </type>
+      <oracleText>You gain 10 life. Then if you have more life than an opponent, put a 5/5 white Giant Warrior creature token onto the battlefield.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>You gain 10 life. Then if you have more life than an opponent, put a 5/5 white Giant Warrior creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370382
+      </id>
+      <name>Latchkey Faerie
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Faerie Rogue
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Prowl {2}{U} &lt;i&gt;(You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Faerie or Rogue.)&lt;/i&gt;&lt;br&gt;When Latchkey Faerie enters the battlefield, if its prowl cost was paid, draw a card.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flying&lt;br&gt;Prowl {2}{U} &lt;i&gt;(You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Faerie or Rogue.)&lt;/i&gt;&lt;br&gt;When Latchkey Faerie enters the battlefield, if its prowl cost was paid, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370513
+      </id>
+      <name>Meadowboon
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Meadowboon leaves the battlefield, put a +1/+1 counter on each creature target player controls.&lt;br&gt;Evoke {3}{W} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>When Meadowboon leaves the battlefield, put a +1/+1 counter on each creature target player controls.&lt;br&gt;Evoke {3}{W} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370508
+      </id>
+      <name>Mothdust Changeling
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Tap an untapped creature you control: Mothdust Changeling gains flying until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;Tap an untapped creature you control: Mothdust Changeling gains flying until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370412
+      </id>
+      <name>Reach of Branches
+      </name>
+      <cost>{4}{G}
+      </cost>
+      <type>Tribal Instant - Treefolk
+      </type>
+      <oracleText>Put a 2/5 green Treefolk Shaman creature token onto the battlefield.&lt;br&gt;Whenever a Forest enters the battlefield under your control, you may return Reach of Branches from your graveyard to your hand.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Put a 2/5 green Treefolk Shaman creature token onto the battlefield.&lt;br&gt;Whenever a Forest enters the battlefield under your control, you may return Reach of Branches from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370493
+      </id>
+      <name>Reveillark
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Reveillark leaves the battlefield, return up to two target creature cards with power 2 or less from your graveyard to the battlefield.&lt;br&gt;Evoke {5}{W} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying&lt;br&gt;When Reveillark leaves the battlefield, return up to two target creature cards with power 2 or less from your graveyard to the battlefield.&lt;br&gt;Evoke {5}{W} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370515
+      </id>
+      <name>Stonehewer Giant
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Giant Warrior
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Vigilance&lt;br&gt;{1}{W}, {T}: Search your library for an Equipment card and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Vigilance&lt;br&gt;{1}{W}, {T}: Search your library for an Equipment card and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>370390
+      </id>
+      <name>Vendilion Clique
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Legendary Creature - Faerie Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flash&lt;br&gt;Flying&lt;br&gt;When Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of his or her library, then draws a card.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>Flash&lt;br&gt;Flying&lt;br&gt;When Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of his or her library, then draws a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370519
+      </id>
+      <name>Walker of the Grove
+      </name>
+      <cost>{6}{G}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>7
+      </power>
+      <toughness>7
+      </toughness>
+      <oracleText>When Walker of the Grove leaves the battlefield, put a 4/4 green Elemental creature token onto the battlefield.&lt;br&gt;Evoke {4}{G} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>When Walker of the Grove leaves the battlefield, put a 4/4 green Elemental creature token onto the battlefield.&lt;br&gt;Evoke {4}{G} &lt;i&gt;(You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370488
+      </id>
+      <name>Warren Weirding
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Tribal Sorcery - Goblin
+      </type>
+      <oracleText>Target player sacrifices a creature. If a Goblin is sacrificed this way, that player puts two 1/1 black Goblin Rogue creature tokens onto the battlefield, and those tokens gain haste until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Target player sacrifices a creature. If a Goblin is sacrificed this way, that player puts two 1/1 black Goblin Rogue creature tokens onto the battlefield, and those tokens gain haste until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370479
+      </id>
+      <name>War-Spike Changeling
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;{R}: War-Spike Changeling gains first strike until end of turn.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Changeling &lt;i&gt;(This card is every creature type at all times.)&lt;/i&gt;&lt;br&gt;{R}: War-Spike Changeling gains first strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>370463
+      </id>
+      <name>Demigod of Revenge
+      </name>
+      <cost>{B/R}{B/R}{B/R}{B/R}{B/R}
+      </cost>
+      <type>Creature - Spirit Avatar
+      </type>
+      <power>5
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying, haste&lt;br&gt;When you cast Demigod of Revenge, return all cards named Demigod of Revenge from your graveyard to the battlefield.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying, haste&lt;br&gt;When you cast Demigod of Revenge, return all cards named Demigod of Revenge from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370410
+      </id>
+      <name>Faerie Macabre
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Faerie Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Discard Faerie Macabre: Exile up to two target cards from graveyards.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flying&lt;br&gt;Discard Faerie Macabre: Exile up to two target cards from graveyards.
+      </text>
+    </mc>
+    <mc>
+      <id>370458
+      </id>
+      <name>Kitchen Finks
+      </name>
+      <cost>{1}{G/W}{G/W}
+      </cost>
+      <type>Creature - Ouphe
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Kitchen Finks enters the battlefield, you gain 2 life.&lt;br&gt;Persist &lt;i&gt;(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>When Kitchen Finks enters the battlefield, you gain 2 life.&lt;br&gt;Persist &lt;i&gt;(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370568
+      </id>
+      <name>Manamorphose
+      </name>
+      <cost>{1}{R/G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Add two mana in any combination of colors to your mana pool.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Add two mana in any combination of colors to your mana pool.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370518
+      </id>
+      <name>Murderous Redcap
+      </name>
+      <cost>{2}{B/R}{B/R}
+      </cost>
+      <type>Creature - Goblin Assassin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Murderous Redcap enters the battlefield, it deals damage equal to its power to target creature or player.&lt;br&gt;Persist &lt;i&gt;(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>When Murderous Redcap enters the battlefield, it deals damage equal to its power to target creature or player.&lt;br&gt;Persist &lt;i&gt;(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370429
+      </id>
+      <name>Oona, Queen of the Fae
+      </name>
+      <cost>{3}{U/B}{U/B}{U/B}
+      </cost>
+      <type>Legendary Creature - Faerie Wizard
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{X}{U/B}: Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, put a 1/1 blue and black Faerie Rogue creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying&lt;br&gt;{X}{U/B}: Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, put a 1/1 blue and black Faerie Rogue creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370423
+      </id>
+      <name>Plumeveil
+      </name>
+      <cost>{W/U}{W/U}{W/U}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flash&lt;br&gt;Defender, flying
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Flash&lt;br&gt;Defender, flying
+      </text>
+    </mc>
+    <mc>
+      <id>370406
+      </id>
+      <name>Woodfall Primus
+      </name>
+      <cost>{5}{G}{G}{G}
+      </cost>
+      <type>Creature - Treefolk Shaman
+      </type>
+      <power>6
+      </power>
+      <toughness>6
+      </toughness>
+      <oracleText>Trample&lt;br&gt;When Woodfall Primus enters the battlefield, destroy target noncreature permanent.&lt;br&gt;Persist &lt;i&gt;(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Trample&lt;br&gt;When Woodfall Primus enters the battlefield, destroy target noncreature permanent.&lt;br&gt;Persist &lt;i&gt;(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370373
+      </id>
+      <name>Cenn's Enlistment
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put two 1/1 white Kithkin Soldier creature tokens onto the battlefield.&lt;br&gt;Retrace &lt;i&gt;(You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Put two 1/1 white Kithkin Soldier creature tokens onto the battlefield.&lt;br&gt;Retrace &lt;i&gt;(You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370505
+      </id>
+      <name>Cold-Eyed Selkie
+      </name>
+      <cost>{1}{G/U}{G/U}
+      </cost>
+      <type>Creature - Merfolk Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Islandwalk&lt;br&gt;Whenever Cold-Eyed Selkie deals combat damage to a player, you may draw that many cards.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Islandwalk&lt;br&gt;Whenever Cold-Eyed Selkie deals combat damage to a player, you may draw that many cards.
+      </text>
+    </mc>
+    <mc>
+      <id>370565
+      </id>
+      <name>Divinity of Pride
+      </name>
+      <cost>{W/B}{W/B}{W/B}{W/B}{W/B}
+      </cost>
+      <type>Creature - Spirit Avatar
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying, lifelink&lt;br&gt;Divinity of Pride gets +4/+4 as long as you have 25 or more life.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying, lifelink&lt;br&gt;Divinity of Pride gets +4/+4 as long as you have 25 or more life.
+      </text>
+    </mc>
+    <mc>
+      <id>370466
+      </id>
+      <name>Figure of Destiny
+      </name>
+      <cost>{R/W}
+      </cost>
+      <type>Creature - Kithkin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{R/W}: Figure of Destiny becomes a 2/2 Kithkin Spirit.&lt;br&gt;{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior.&lt;br&gt;{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>{R/W}: Figure of Destiny becomes a 2/2 Kithkin Spirit.&lt;br&gt;{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a 4/4 Kithkin Spirit Warrior.&lt;br&gt;{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes an 8/8 Kithkin Spirit Warrior Avatar with flying and first strike.
+      </text>
+    </mc>
+    <mc>
+      <id>370449
+      </id>
+      <name>Flickerwisp
+      </name>
+      <cost>{1}{W}{W}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Flying&lt;br&gt;When Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>370522
+      </id>
+      <name>Glen Elendra Archmage
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Creature - Faerie Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{U}, Sacrifice Glen Elendra Archmage: Counter target noncreature spell.&lt;br&gt;Persist &lt;i&gt;(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Flying&lt;br&gt;{U}, Sacrifice Glen Elendra Archmage: Counter target noncreature spell.&lt;br&gt;Persist &lt;i&gt;(When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370478
+      </id>
+      <name>Raven's Crime
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards a card.&lt;br&gt;Retrace &lt;i&gt;(You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Target player discards a card.&lt;br&gt;Retrace &lt;i&gt;(You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370474
+      </id>
+      <name>Syphon Life
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player loses 2 life and you gain 2 life.&lt;br&gt;Retrace &lt;i&gt;(You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Target player loses 2 life and you gain 2 life.&lt;br&gt;Retrace &lt;i&gt;(You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370532
+      </id>
+      <name>Worm Harvest
+      </name>
+      <cost>{2}{B/G}{B/G}{B/G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put a 1/1 black and green Worm creature token onto the battlefield for each land card in your graveyard.&lt;br&gt;Retrace &lt;i&gt;(You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Put a 1/1 black and green Worm creature token onto the battlefield for each land card in your graveyard.&lt;br&gt;Retrace &lt;i&gt;(You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370527
+      </id>
+      <name>Dispeller's Capsule
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}{W}, {T}, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>{2}{W}, {T}, Sacrifice Dispeller's Capsule: Destroy target artifact or enchantment.
+      </text>
+    </mc>
+    <mc>
+      <id>370551
+      </id>
+      <name>Elspeth, Knight-Errant
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Planeswalker - Elspeth
+      </type>
+      <toughness>4
+      </toughness>
+      <oracleText>+1: Put a 1/1 white Soldier creature token onto the battlefield.&lt;br&gt;+1: Target creature gets +3/+3 and gains flying until end of turn.&lt;br&gt;-8: You get an emblem with "Artifacts, creatures, enchantments, and lands you control are indestructible."
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>+1: Put a 1/1 white Soldier creature token onto the battlefield.&lt;br&gt;+1: Target creature gets +3/+3 and gains flying until end of turn.&lt;br&gt;-8: You get an emblem with "Artifacts, creatures, enchantments, and lands you control are indestructible."
+      </text>
+    </mc>
+    <mc>
+      <id>370378
+      </id>
+      <name>Etherium Sculptor
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Artifact Creature - Vedalken Artificer
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Artifact spells you cast cost {1} less to cast.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Artifact spells you cast cost {1} less to cast.
+      </text>
+    </mc>
+    <mc>
+      <id>370504
+      </id>
+      <name>Ethersworn Canonist
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Artifact Creature - Human Cleric
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Each player who has cast a nonartifact spell this turn can't cast additional nonartifact spells.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Each player who has cast a nonartifact spell this turn can't cast additional nonartifact spells.
+      </text>
+    </mc>
+    <mc>
+      <id>370462
+      </id>
+      <name>Executioner's Capsule
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{1}{B}, {T}, Sacrifice Executioner's Capsule: Destroy target nonblack creature.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>{1}{B}, {T}, Sacrifice Executioner's Capsule: Destroy target nonblack creature.
+      </text>
+    </mc>
+    <mc>
+      <id>370556
+      </id>
+      <name>Relic of Progenitus
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Target player exiles a card from his or her graveyard.&lt;br&gt;{1}, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>{T}: Target player exiles a card from his or her graveyard.&lt;br&gt;{1}, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>370485
+      </id>
+      <name>Sanctum Gargoyle
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Artifact Creature - Gargoyle
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Sanctum Gargoyle enters the battlefield, you may return target artifact card from your graveyard to your hand.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flying&lt;br&gt;When Sanctum Gargoyle enters the battlefield, you may return target artifact card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370566
+      </id>
+      <name>Sarkhan Vol
+      </name>
+      <cost>{2}{R}{G}
+      </cost>
+      <type>Planeswalker - Sarkhan
+      </type>
+      <toughness>4
+      </toughness>
+      <oracleText>+1: Creatures you control get +1/+1 and gain haste until end of turn.&lt;br&gt;-2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.&lt;br&gt;-6: Put five 4/4 red Dragon creature tokens with flying onto the battlefield.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>+1: Creatures you control get +1/+1 and gain haste until end of turn.&lt;br&gt;-2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.&lt;br&gt;-6: Put five 4/4 red Dragon creature tokens with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>370375
+      </id>
+      <name>Tidehollow Sculler
+      </name>
+      <cost>{W}{B}
+      </cost>
+      <type>Artifact Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Tidehollow Sculler enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.&lt;br&gt;When Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>When Tidehollow Sculler enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.&lt;br&gt;When Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370360
+      </id>
+      <name>Absorb Vis
+      </name>
+      <cost>{6}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player loses 4 life and you gain 4 life.&lt;br&gt;Basic landcycling {1}{B} &lt;i&gt;({1}{B}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Target player loses 4 life and you gain 4 life.&lt;br&gt;Basic landcycling {1}{B} &lt;i&gt;({1}{B}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370495
+      </id>
+      <name>Court Homunculus
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Artifact Creature - Homunculus
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Court Homunculus gets +1/+1 as long as you control another artifact.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Court Homunculus gets +1/+1 as long as you control another artifact.
+      </text>
+    </mc>
+    <mc>
+      <id>370391
+      </id>
+      <name>Drag Down
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Domain- Target creature gets -1/-1 until end of turn for each basic land type among lands you control.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Domain- Target creature gets -1/-1 until end of turn for each basic land type among lands you control.
+      </text>
+    </mc>
+    <mc>
+      <id>370498
+      </id>
+      <name>Esperzoa
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Artifact Creature - Jellyfish
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Flying&lt;br&gt;At the beginning of your upkeep, return an artifact you control to its owner's hand.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Flying&lt;br&gt;At the beginning of your upkeep, return an artifact you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>370421
+      </id>
+      <name>Faerie Mechanist
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Artifact Creature - Faerie Artificer
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Flying&lt;br&gt;When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>370367
+      </id>
+      <name>Fiery Fall
+      </name>
+      <cost>{5}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Fiery Fall deals 5 damage to target creature.&lt;br&gt;Basic landcycling {1}{R} &lt;i&gt;({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Fiery Fall deals 5 damage to target creature.&lt;br&gt;Basic landcycling {1}{R} &lt;i&gt;({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370371
+      </id>
+      <name>Gleam of Resistance
+      </name>
+      <cost>{4}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Creatures you control get +1/+2 until end of turn. Untap those creatures.&lt;br&gt;Basic landcycling {1}{W} &lt;i&gt;({1}{W}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Creatures you control get +1/+2 until end of turn. Untap those creatures.&lt;br&gt;Basic landcycling {1}{W} &lt;i&gt;({1}{W}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370379
+      </id>
+      <name>Knight of the Reliquary
+      </name>
+      <cost>{1}{G}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Knight of the Reliquary gets +1/+1 for each land card in your graveyard.&lt;br&gt;{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Knight of the Reliquary gets +1/+1 for each land card in your graveyard.&lt;br&gt;{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>370408
+      </id>
+      <name>Path to Exile
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>370405
+      </id>
+      <name>Progenitus
+      </name>
+      <cost>{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}
+      </cost>
+      <type>Legendary Creature - Hydra Avatar
+      </type>
+      <power>10
+      </power>
+      <toughness>10
+      </toughness>
+      <oracleText>Protection from everything&lt;br&gt;If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <text>Protection from everything&lt;br&gt;If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.
+      </text>
+    </mc>
+    <mc>
+      <id>370372
+      </id>
+      <name>Sylvan Bounty
+      </name>
+      <cost>{5}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player gains 8 life.&lt;br&gt;Basic landcycling {1}{G} &lt;i&gt;({1}{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Target player gains 8 life.&lt;br&gt;Basic landcycling {1}{G} &lt;i&gt;({1}{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370369
+      </id>
+      <name>Traumatic Visions
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell.&lt;br&gt;Basic landcycling {1}{U} &lt;i&gt;({1}{U}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Common
+      </rarity>
+      <text>Counter target spell.&lt;br&gt;Basic landcycling {1}{U} &lt;i&gt;({1}{U}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>370521
+      </id>
+      <name>Maelstrom Pulse
+      </name>
+      <cost>{1}{B}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy target nonland permanent and all other permanents with the same name as that permanent.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <text>Destroy target nonland permanent and all other permanents with the same name as that permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>370509
+      </id>
+      <name>Mind Funeral
+      </name>
+      <cost>{1}{U}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals cards from the top of his or her library until four land cards are revealed. That player puts all cards revealed this way into his or her graveyard.
+      </oracleText>
+      <edition>Modern Masters
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <text>Target opponent reveals cards from the top of his or her library until four land cards are revealed. That player puts all cards revealed this way into his or her graveyard.
+      </text>
+    </mc>
+  </list>
+</cards>

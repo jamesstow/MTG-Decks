@@ -1,0 +1,2535 @@
+
+<cards>
+  <name>Anthologies</name>
+  <key>Anthologies</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>-2146729983
+      </id>
+      <name>Nevinyrral's Disk
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Nevinyrral's Disk enters the battlefield tapped.&lt;br&gt;&lt;br&gt;{1}, {T}: Destroy all artifacts, creatures, and enchantments.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Mark Tedin
+      </artist>
+      <num>1
+      </num>
+      <text>Nevinyrral's Disk enters the battlefield tapped.&lt;br&gt;&lt;br&gt;{1}, {T}: Destroy all artifacts, creatures, and enchantments.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/1.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729982
+      </id>
+      <name>Goblin King
+      </name>
+      <cost>{1}{R}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Other Goblin creatures get +1/+1 and have mountainwalk. (They can't be blocked as long as defending player controls a Mountain.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>2
+      </num>
+      <text>Other Goblin creatures get +1/+1 and have mountainwalk. (They can't be blocked as long as defending player controls a Mountain.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/2.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729981
+      </id>
+      <name>Goblin Warrens
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>{2}{R}, Sacrifice two Goblins: Put three 1/1 red Goblin creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Dan Frazier
+      </artist>
+      <num>3
+      </num>
+      <text>{2}{R}, Sacrifice two Goblins: Put three 1/1 red Goblin creature tokens onto the battlefield.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/3.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729980
+      </id>
+      <name>Volcanic Dragon
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Creature - Dragon
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;&lt;br&gt;Haste (This creature can attack and {T} as soon as it comes under your control.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Janine Johnston
+      </artist>
+      <num>4
+      </num>
+      <text>Flying&lt;br&gt;&lt;br&gt;Haste (This creature can attack and {T} as soon as it comes under your control.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/4.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729979
+      </id>
+      <name>Strip Mine
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;&lt;br&gt;{T}, Sacrifice Strip Mine: Destroy target land.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Daniel Gelon
+      </artist>
+      <num>5
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;&lt;br&gt;{T}, Sacrifice Strip Mine: Destroy target land.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/5.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729978
+      </id>
+      <name>Lady Orca
+      </name>
+      <cost>{5}{B}{R}
+      </cost>
+      <type>Legendary Creature - Demon
+      </type>
+      <power>7
+      </power>
+      <toughness>4
+      </toughness>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Sandra Everingham
+      </artist>
+      <num>6
+      </num>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/6.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729977
+      </id>
+      <name>Black Knight
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike (This creature deals combat damage before creatures without first strike.)&lt;br&gt;&lt;br&gt;Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Adrian Smith
+      </artist>
+      <num>7
+      </num>
+      <text>First strike (This creature deals combat damage before creatures without first strike.)&lt;br&gt;&lt;br&gt;Protection from white (This creature can't be blocked, targeted, dealt damage, or enchanted by anything white.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/7.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729976
+      </id>
+      <name>Hypnotic Specter
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Creature - Specter
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;&lt;br&gt;Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Douglas Shuler
+      </artist>
+      <num>8
+      </num>
+      <text>Flying&lt;br&gt;&lt;br&gt;Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/8.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729975
+      </id>
+      <name>Knight of Stromgald
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from white&lt;br&gt;&lt;br&gt;{B}: Knight of Stromgald gains first strike until end of turn.&lt;br&gt;&lt;br&gt;{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Mark Poole
+      </artist>
+      <num>9
+      </num>
+      <text>Protection from white&lt;br&gt;&lt;br&gt;{B}: Knight of Stromgald gains first strike until end of turn.&lt;br&gt;&lt;br&gt;{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/9.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729974
+      </id>
+      <name>Ihsan's Shade
+      </name>
+      <cost>{3}{B}{B}{B}
+      </cost>
+      <type>Legendary Creature - Shade Knight
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Protection from white
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Christopher Rush
+      </artist>
+      <num>10
+      </num>
+      <text>Protection from white
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/10.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729973
+      </id>
+      <name>Goblin Balloon Brigade
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Warrior
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{R}: Goblin Balloon Brigade gains flying until end of turn.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Andi Rusu
+      </artist>
+      <num>11
+      </num>
+      <text>{R}: Goblin Balloon Brigade gains flying until end of turn.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/11.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729972
+      </id>
+      <name>Goblin Mutant
+      </name>
+      <cost>{2}{R}{R}
+      </cost>
+      <type>Creature - Goblin Mutant
+      </type>
+      <power>5
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Trample&lt;br&gt;&lt;br&gt;Goblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.&lt;br&gt;&lt;br&gt;Goblin Mutant can't block creatures with power 3 or greater.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Daniel Gelon
+      </artist>
+      <num>12
+      </num>
+      <text>Trample&lt;br&gt;&lt;br&gt;Goblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.&lt;br&gt;&lt;br&gt;Goblin Mutant can't block creatures with power 3 or greater.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/12.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729971
+      </id>
+      <name>Goblin Offensive
+      </name>
+      <cost>{X}{1}{R}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put X 1/1 red Goblin creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Carl Critchlow
+      </artist>
+      <num>13
+      </num>
+      <text>Put X 1/1 red Goblin creature tokens onto the battlefield.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/13.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729970
+      </id>
+      <name>Goblin Recruiter
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards and reveal those cards. Shuffle your library, then put them on top of it in any order.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Scott Kirschner
+      </artist>
+      <num>14
+      </num>
+      <text>When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards and reveal those cards. Shuffle your library, then put them on top of it in any order.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/14.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729969
+      </id>
+      <name>Goblin Snowman
+      </name>
+      <cost>{3}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Goblin Snowman blocks, prevent all combat damage that would be dealt to and dealt by it this turn.&lt;br&gt;&lt;br&gt;{T}: Goblin Snowman deals 1 damage to target creature it's blocking.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Daniel Gelon
+      </artist>
+      <num>15
+      </num>
+      <text>Whenever Goblin Snowman blocks, prevent all combat damage that would be dealt to and dealt by it this turn.&lt;br&gt;&lt;br&gt;{T}: Goblin Snowman deals 1 damage to target creature it's blocking.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/15.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729968
+      </id>
+      <name>Pyrokinesis
+      </name>
+      <cost>{4}{R}{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>You may exile a red card from your hand rather than pay Pyrokinesis's mana cost.&lt;br&gt;&lt;br&gt;Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Ron Spencer
+      </artist>
+      <num>16
+      </num>
+      <text>You may exile a red card from your hand rather than pay Pyrokinesis's mana cost.&lt;br&gt;&lt;br&gt;Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/16.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729967
+      </id>
+      <name>Uthden Troll
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Troll
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}: Regenerate Uthden Troll.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Douglas Shuler
+      </artist>
+      <num>17
+      </num>
+      <text>{R}: Regenerate Uthden Troll.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/17.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729965
+      </id>
+      <name>Aesthir Glider
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact Creature - Bird
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;&lt;br&gt;Aesthir Glider can't block.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Ruth Thompson
+      </artist>
+      <num>19
+      </num>
+      <text>Flying&lt;br&gt;&lt;br&gt;Aesthir Glider can't block.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/19.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729964
+      </id>
+      <name>Polluted Mire
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Polluted Mire enters the battlefield tapped.&lt;br&gt;&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Stephen Daniele
+      </artist>
+      <num>20
+      </num>
+      <text>Polluted Mire enters the battlefield tapped.&lt;br&gt;&lt;br&gt;{T}: Add {B} to your mana pool.&lt;br&gt;&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/20.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729963
+      </id>
+      <name>Smoldering Crater
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Smoldering Crater enters the battlefield tapped.&lt;br&gt;&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Mark Tedin
+      </artist>
+      <num>21
+      </num>
+      <text>Smoldering Crater enters the battlefield tapped.&lt;br&gt;&lt;br&gt;{T}: Add {R} to your mana pool.&lt;br&gt;&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/21.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729962
+      </id>
+      <name>Cuombajj Witches
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent's choice.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Kaja Foglio
+      </artist>
+      <num>22
+      </num>
+      <text>{T}: Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent's choice.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/22.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729961
+      </id>
+      <name>Feast of the Unicorn
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;&lt;br&gt;Enchanted creature gets +4/+0.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Dennis Detwiller
+      </artist>
+      <num>23
+      </num>
+      <text>Enchant creature&lt;br&gt;&lt;br&gt;Enchanted creature gets +4/+0.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/23.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729960
+      </id>
+      <name>Hymn to Tourach
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player discards two cards at random.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Liz Danforth
+      </artist>
+      <num>24
+      </num>
+      <text>Target player discards two cards at random.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/24.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729959
+      </id>
+      <name>Terror
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonartifact, nonblack creature. It can't be regenerated.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Ron Spencer
+      </artist>
+      <num>25
+      </num>
+      <text>Destroy target nonartifact, nonblack creature. It can't be regenerated.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/25.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729958
+      </id>
+      <name>Unholy Strength
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;&lt;br&gt;Enchanted creature gets +2/+1.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Douglas Shuler
+      </artist>
+      <num>26
+      </num>
+      <text>Enchant creature&lt;br&gt;&lt;br&gt;Enchanted creature gets +2/+1.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/26.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729957
+      </id>
+      <name>Fireball
+      </name>
+      <cost>{X}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.&lt;br&gt;&lt;br&gt;Fireball costs {1} more to cast for each target beyond the first.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Mark Tedin
+      </artist>
+      <num>27
+      </num>
+      <text>Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.&lt;br&gt;&lt;br&gt;Fireball costs {1} more to cast for each target beyond the first.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/27.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729956
+      </id>
+      <name>Goblin Digging Team
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}, Sacrifice Goblin Digging Team: Destroy target Wall.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Phil Foglio
+      </artist>
+      <num>28
+      </num>
+      <text>{T}, Sacrifice Goblin Digging Team: Destroy target Wall.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/28.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729955
+      </id>
+      <name>Goblin Grenade
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>As an additional cost to cast Goblin Grenade, sacrifice a Goblin.&lt;br&gt;&lt;br&gt;Goblin Grenade deals 5 damage to target creature or player.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Ron Spencer
+      </artist>
+      <num>29
+      </num>
+      <text>As an additional cost to cast Goblin Grenade, sacrifice a Goblin.&lt;br&gt;&lt;br&gt;Goblin Grenade deals 5 damage to target creature or player.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/29.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729954
+      </id>
+      <name>Goblin Hero
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Pete Venters
+      </artist>
+      <num>30
+      </num>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/30.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729953
+      </id>
+      <name>Goblin Matron
+      </name>
+      <cost>{2}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Daniel Gelon
+      </artist>
+      <num>31
+      </num>
+      <text>When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/31.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729952
+      </id>
+      <name>Goblin Tinkerer
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin Artificer
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{R}, {T}: Destroy target artifact. That artifact deals damage equal to its converted mana cost to Goblin Tinkerer.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Hannibal King
+      </artist>
+      <num>32
+      </num>
+      <text>{R}, {T}: Destroy target artifact. That artifact deals damage equal to its converted mana cost to Goblin Tinkerer.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/32.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729951
+      </id>
+      <name>Goblin Vandal
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Goblin Vandal attacks and isn't blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Franz Vohwinkel
+      </artist>
+      <num>33
+      </num>
+      <text>Whenever Goblin Vandal attacks and isn't blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/33.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729950
+      </id>
+      <name>Lightning Bolt
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Lightning Bolt deals 3 damage to target creature or player.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Christopher Rush
+      </artist>
+      <num>34
+      </num>
+      <text>Lightning Bolt deals 3 damage to target creature or player.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/34.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729949
+      </id>
+      <name>Mogg Fanatic
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Brom
+      </artist>
+      <num>35
+      </num>
+      <text>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/35.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729948
+      </id>
+      <name>Mogg Flunkies
+      </name>
+      <cost>{1}{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Mogg Flunkies can't attack or block alone.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Brom
+      </artist>
+      <num>36
+      </num>
+      <text>Mogg Flunkies can't attack or block alone.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/36.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729947
+      </id>
+      <name>Mogg Raider
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Brian Snõddy
+      </artist>
+      <num>37
+      </num>
+      <text>Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/37.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729946
+      </id>
+      <name>Pyrotechnics
+      </name>
+      <cost>{4}{R}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Anson Maddocks
+      </artist>
+      <num>38
+      </num>
+      <text>Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/38.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729945
+      </id>
+      <name>Raging Goblin
+      </name>
+      <cost>{R}
+      </cost>
+      <type>Creature - Goblin Berserker
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Haste (This creature can attack and {T} as soon as it comes under your control.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Brian Snõddy
+      </artist>
+      <num>39
+      </num>
+      <text>Haste (This creature can attack and {T} as soon as it comes under your control.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/39.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729944
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>({T}: Add {R} to your mana pool.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Douglas Shuler
+      </artist>
+      <num>40
+      </num>
+      <text>({T}: Add {R} to your mana pool.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/40.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729943
+      </id>
+      <name>Mountain
+      </name>
+      <type>Basic Land - Mountain
+      </type>
+      <oracleText>({T}: Add {R} to your mana pool.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>41
+      </num>
+      <text>({T}: Add {R} to your mana pool.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/41.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729942
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>({T}: Add {B} to your mana pool.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Douglas Shuler
+      </artist>
+      <num>42
+      </num>
+      <text>({T}: Add {B} to your mana pool.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/42.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729941
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>({T}: Add {B} to your mana pool.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Brom
+      </artist>
+      <num>43
+      </num>
+      <text>({T}: Add {B} to your mana pool.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/43.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729940
+      </id>
+      <name>Brushland
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;&lt;br&gt;{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Bryon Wackwitz
+      </artist>
+      <num>44
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;&lt;br&gt;{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/44.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729939
+      </id>
+      <name>Mirri, Cat Warrior
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Legendary Creature - Cat Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can't be blocked as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Daren Bader
+      </artist>
+      <num>45
+      </num>
+      <text>First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can't be blocked as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/45.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729938
+      </id>
+      <name>Armageddon
+      </name>
+      <cost>{3}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Destroy all lands.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Jesper Myrfors
+      </artist>
+      <num>46
+      </num>
+      <text>Destroy all lands.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/46.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729937
+      </id>
+      <name>Sacred Mesa
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>At the beginning of your upkeep, sacrifice Sacred Mesa unless you sacrifice a Pegasus.&lt;br&gt;&lt;br&gt;{1}{W}: Put a 1/1 white Pegasus creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Margaret Organ-Kean
+      </artist>
+      <num>47
+      </num>
+      <text>At the beginning of your upkeep, sacrifice Sacred Mesa unless you sacrifice a Pegasus.&lt;br&gt;&lt;br&gt;{1}{W}: Put a 1/1 white Pegasus creature token with flying onto the battlefield.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/47.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729936
+      </id>
+      <name>Pendelhaven
+      </name>
+      <type>Legendary Land
+      </type>
+      <oracleText>{T}: Add {G} to your mana pool.&lt;br&gt;&lt;br&gt;{T}: Target 1/1 creature gets +1/+2 until end of turn.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Bryon Wackwitz
+      </artist>
+      <num>48
+      </num>
+      <text>{T}: Add {G} to your mana pool.&lt;br&gt;&lt;br&gt;{T}: Target 1/1 creature gets +1/+2 until end of turn.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/48.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729935
+      </id>
+      <name>Jalum Tome
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{2}, {T}: Draw a card, then discard a card.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>49
+      </num>
+      <text>{2}, {T}: Draw a card, then discard a card.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/49.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729934
+      </id>
+      <name>Ranger en-Vec
+      </name>
+      <cost>{1}{W}{G}
+      </cost>
+      <type>Creature - Human Soldier Archer
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike&lt;br&gt;&lt;br&gt;{G}: Regenerate Ranger en-Vec.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Randy Elliott
+      </artist>
+      <num>50
+      </num>
+      <text>First strike&lt;br&gt;&lt;br&gt;{G}: Regenerate Ranger en-Vec.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/50.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729933
+      </id>
+      <name>Erhnam Djinn
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Djinn
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Ken Meyer, Jr.
+      </artist>
+      <num>51
+      </num>
+      <text>At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/51.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729932
+      </id>
+      <name>Hurricane
+      </name>
+      <cost>{X}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Hurricane deals X damage to each creature with flying and each player.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Cornelius Brudi
+      </artist>
+      <num>52
+      </num>
+      <text>Hurricane deals X damage to each creature with flying and each player.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/52.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729931
+      </id>
+      <name>Spectral Bears
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Bear Spirit
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Spectral Bears attacks, if defending player controls no black nontoken permanents, it doesn't untap during your next untap step.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Pat Morrissey
+      </artist>
+      <num>53
+      </num>
+      <text>Whenever Spectral Bears attacks, if defending player controls no black nontoken permanents, it doesn't untap during your next untap step.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/53.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729930
+      </id>
+      <name>Overrun
+      </name>
+      <cost>{2}{G}{G}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Creatures you control get +3/+3 and gain trample until end of turn.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Jeff Miracola
+      </artist>
+      <num>54
+      </num>
+      <text>Creatures you control get +3/+3 and gain trample until end of turn.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/54.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729929
+      </id>
+      <name>Order of the White Shield
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from black&lt;br&gt;&lt;br&gt;{W}: Order of the White Shield gains first strike until end of turn.&lt;br&gt;&lt;br&gt;{W}{W}: Order of the White Shield gets +1/+0 until end of turn.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Ruth Thompson
+      </artist>
+      <num>55
+      </num>
+      <text>Protection from black&lt;br&gt;&lt;br&gt;{W}: Order of the White Shield gains first strike until end of turn.&lt;br&gt;&lt;br&gt;{W}{W}: Order of the White Shield gets +1/+0 until end of turn.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/55.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729928
+      </id>
+      <name>Pegasus Charger
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Pegasus
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying (This creature can't be blocked except by creatures with flying or reach.)&lt;br&gt;&lt;br&gt;First strike (This creature deals combat damage before creatures without first strike.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Val Mayerik
+      </artist>
+      <num>56
+      </num>
+      <text>Flying (This creature can't be blocked except by creatures with flying or reach.)&lt;br&gt;&lt;br&gt;First strike (This creature deals combat damage before creatures without first strike.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/56.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729927
+      </id>
+      <name>Serra Angel
+      </name>
+      <cost>{3}{W}{W}
+      </cost>
+      <type>Creature - Angel
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;&lt;br&gt;Vigilance (Attacking doesn't cause this creature to tap.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Douglas Shuler
+      </artist>
+      <num>57
+      </num>
+      <text>Flying&lt;br&gt;&lt;br&gt;Vigilance (Attacking doesn't cause this creature to tap.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/57.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729926
+      </id>
+      <name>Swords to Plowshares
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature. Its controller gains life equal to its power.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Jeff A. Menges
+      </artist>
+      <num>58
+      </num>
+      <text>Exile target creature. Its controller gains life equal to its power.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/58.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729925
+      </id>
+      <name>White Knight
+      </name>
+      <cost>{W}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>First strike (This creature deals combat damage before creatures without first strike.)&lt;br&gt;&lt;br&gt;Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Daniel Gelon
+      </artist>
+      <num>59
+      </num>
+      <text>First strike (This creature deals combat damage before creatures without first strike.)&lt;br&gt;&lt;br&gt;Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/59.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729924
+      </id>
+      <name>Pegasus Stampede
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;br&gt;&lt;br&gt;Put a 1/1 white Pegasus creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Mark Zug
+      </artist>
+      <num>60
+      </num>
+      <text>Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)&lt;br&gt;&lt;br&gt;Put a 1/1 white Pegasus creature token with flying onto the battlefield.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/60.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729923
+      </id>
+      <name>Drifting Meadow
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Drifting Meadow enters the battlefield tapped.&lt;br&gt;&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Bob Eggleton
+      </artist>
+      <num>61
+      </num>
+      <text>Drifting Meadow enters the battlefield tapped.&lt;br&gt;&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/61.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729922
+      </id>
+      <name>Slippery Karst
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Slippery Karst enters the battlefield tapped.&lt;br&gt;&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Stephen Daniele
+      </artist>
+      <num>62
+      </num>
+      <text>Slippery Karst enters the battlefield tapped.&lt;br&gt;&lt;br&gt;{T}: Add {G} to your mana pool.&lt;br&gt;&lt;br&gt;Cycling {2} ({2}, Discard this card: Draw a card.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/62.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729921
+      </id>
+      <name>Serrated Arrows
+      </name>
+      <cost>{4}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>Serrated Arrows enters the battlefield with three arrowhead counters on it.&lt;br&gt;&lt;br&gt;At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.&lt;br&gt;&lt;br&gt;{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>David A. Cherry
+      </artist>
+      <num>63
+      </num>
+      <text>Serrated Arrows enters the battlefield with three arrowhead counters on it.&lt;br&gt;&lt;br&gt;At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.&lt;br&gt;&lt;br&gt;{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/63.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729920
+      </id>
+      <name>Canopy Spider
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Reach (This creature can block creatures with flying.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Christopher Rush
+      </artist>
+      <num>64
+      </num>
+      <text>Reach (This creature can block creatures with flying.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/64.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729919
+      </id>
+      <name>Carnivorous Plant
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Plant Wall
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Defender
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Quinton Hoover
+      </artist>
+      <num>65
+      </num>
+      <text>Defender
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/65.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729918
+      </id>
+      <name>Giant Growth
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +3/+3 until end of turn.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Sandra Everingham
+      </artist>
+      <num>66
+      </num>
+      <text>Target creature gets +3/+3 until end of turn.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/66.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729917
+      </id>
+      <name>Giant Spider
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>2
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Reach (This creature can block creatures with flying.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Sandra Everingham
+      </artist>
+      <num>67
+      </num>
+      <text>Reach (This creature can block creatures with flying.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/67.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729916
+      </id>
+      <name>Gorilla Chieftain
+      </name>
+      <cost>{2}{G}{G}
+      </cost>
+      <type>Creature - Ape
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{1}{G}: Regenerate Gorilla Chieftain.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Quinton Hoover
+      </artist>
+      <num>68
+      </num>
+      <text>{1}{G}: Regenerate Gorilla Chieftain.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/68.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729915
+      </id>
+      <name>Llanowar Elves
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Elf Druid
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Add {G} to your mana pool.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Anson Maddocks
+      </artist>
+      <num>69
+      </num>
+      <text>{T}: Add {G} to your mana pool.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/69.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729914
+      </id>
+      <name>Scavenger Folk
+      </name>
+      <cost>{G}
+      </cost>
+      <type>Creature - Human
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Dennis Detwiller
+      </artist>
+      <num>70
+      </num>
+      <text>{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/70.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729913
+      </id>
+      <name>Woolly Spider
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>2
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Reach (This creature can block creatures with flying.)&lt;br&gt;&lt;br&gt;Whenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Daniel Gelon
+      </artist>
+      <num>71
+      </num>
+      <text>Reach (This creature can block creatures with flying.)&lt;br&gt;&lt;br&gt;Whenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/71.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729912
+      </id>
+      <name>Armored Pegasus
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Pegasus
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Andrew Robinson
+      </artist>
+      <num>72
+      </num>
+      <text>Flying
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/72.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729911
+      </id>
+      <name>Benalish Knight
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flash (You may cast this spell any time you could cast an instant.)&lt;br&gt;&lt;br&gt;First strike (This creature deals combat damage before creatures without first strike.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Zina Saunders
+      </artist>
+      <num>73
+      </num>
+      <text>Flash (You may cast this spell any time you could cast an instant.)&lt;br&gt;&lt;br&gt;First strike (This creature deals combat damage before creatures without first strike.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/73.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729910
+      </id>
+      <name>Combat Medic
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Creature - Human Cleric Soldier
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Liz Danforth
+      </artist>
+      <num>74
+      </num>
+      <text>{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/74.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729909
+      </id>
+      <name>Disenchant
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target artifact or enchantment.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Liz Danforth
+      </artist>
+      <num>75
+      </num>
+      <text>Destroy target artifact or enchantment.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/75.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729908
+      </id>
+      <name>Freewind Falcon
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Bird
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying, protection from red
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Una Fricker
+      </artist>
+      <num>76
+      </num>
+      <text>Flying, protection from red
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/76.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729907
+      </id>
+      <name>Icatian Javelineers
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Icatian Javelineers enters the battlefield with a javelin counter on it.&lt;br&gt;&lt;br&gt;{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Edward P. Beard, Jr.
+      </artist>
+      <num>77
+      </num>
+      <text>Icatian Javelineers enters the battlefield with a javelin counter on it.&lt;br&gt;&lt;br&gt;{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/77.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729906
+      </id>
+      <name>Infantry Veteran
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Soldier
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Target attacking creature gets +1/+1 until end of turn.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Christopher Rush
+      </artist>
+      <num>78
+      </num>
+      <text>{T}: Target attacking creature gets +1/+1 until end of turn.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/78.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729905
+      </id>
+      <name>Pacifism
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;&lt;br&gt;Enchanted creature can't attack or block.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Robert Bliss
+      </artist>
+      <num>79
+      </num>
+      <text>Enchant creature&lt;br&gt;&lt;br&gt;Enchanted creature can't attack or block.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/79.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729903
+      </id>
+      <name>Samite Healer
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>81
+      </num>
+      <text>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/81.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729902
+      </id>
+      <name>Warrior's Honor
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Creatures you control get +1/+1 until end of turn.
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>D. Alexander Gregory
+      </artist>
+      <num>82
+      </num>
+      <text>Creatures you control get +1/+1 until end of turn.
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/82.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729901
+      </id>
+      <name>Youthful Knight
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Creature - Human Knight
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike (This creature deals combat damage before creatures without first strike.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Special
+      </rarity>
+      <artist>Rebecca Guay
+      </artist>
+      <num>83
+      </num>
+      <text>First strike (This creature deals combat damage before creatures without first strike.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/83.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729900
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>({T}: Add {G} to your mana pool.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Quinton Hoover
+      </artist>
+      <num>84
+      </num>
+      <text>({T}: Add {G} to your mana pool.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/84.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729899
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>({T}: Add {G} to your mana pool.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Tony Roberts
+      </artist>
+      <num>85
+      </num>
+      <text>({T}: Add {G} to your mana pool.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/85.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729898
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>({T}: Add {W} to your mana pool.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Tom Wänerstrand
+      </artist>
+      <num>86
+      </num>
+      <text>({T}: Add {W} to your mana pool.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/86.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+    <mc>
+      <id>-2146729897
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>({T}: Add {W} to your mana pool.)
+      </oracleText>
+      <edition>Anthologies
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Douglas Shuler
+      </artist>
+      <num>87
+      </num>
+      <text>({T}: Add {W} to your mana pool.)
+      </text>
+      <properties>
+        <entry>
+          <string>IMAGE_URL</string>
+          <string>http://magiccards.info/scans/en/at/87.jpg</string>
+        </entry>
+      </properties>
+    </mc>
+  </list>
+</cards>

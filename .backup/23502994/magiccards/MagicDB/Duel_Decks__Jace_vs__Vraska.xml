@@ -1,0 +1,1837 @@
+
+<cards>
+  <name>Duel_Decks__Jace_vs__Vraska</name>
+  <key>Duel_Decks__Jace_vs__Vraska</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>380236
+      </id>
+      <name>Acidic Slime
+      </name>
+      <cost>{3}{G}{G}
+      </cost>
+      <type>Creature - Ooze
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>64
+      </num>
+      <text>Deathtouch &lt;i&gt;(Any amount of damage this deals to a creature is enough to destroy it.)&lt;/i&gt;&lt;br&gt;When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.
+      </text>
+    </mc>
+    <mc>
+      <id>380272
+      </id>
+      <name>Aeon Chronicler
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Avatar
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>Aeon Chronicler's power and toughness are each equal to the number of cards in your hand.&lt;br&gt;Suspend X—{X}{3}{U}. X can't be 0.  &lt;i&gt;(Rather than cast this card from your hand, you may pay {X}{3}{U} and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;&lt;br&gt;Whenever a time counter is removed from Aeon Chronicler while it's exiled, draw a card.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Dan Dos Santos
+      </artist>
+      <num>17
+      </num>
+      <text>Aeon Chronicler's power and toughness are each equal to the number of cards in your hand.&lt;br&gt;Suspend X—{X}{3}{U}. X can't be 0.  &lt;i&gt;(Rather than cast this card from your hand, you may pay {X}{3}{U} and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;&lt;br&gt;Whenever a time counter is removed from Aeon Chronicler while it's exiled, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>380241
+      </id>
+      <name>Æther Adept
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Æther Adept enters the battlefield, return target creature to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Eric Deschamps
+      </artist>
+      <num>12
+      </num>
+      <text>When Æther Adept enters the battlefield, return target creature to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>380263
+      </id>
+      <name>Æther Figment
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Kicker {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Æther Figment can't be blocked.&lt;br&gt;If Æther Figment was kicked, it enters the battlefield with two +1/+1 counters on it.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Thomas M. Baxa
+      </artist>
+      <num>5
+      </num>
+      <text>Kicker {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Æther Figment can't be blocked.&lt;br&gt;If Æther Figment was kicked, it enters the battlefield with two +1/+1 counters on it.
+      </text>
+    </mc>
+    <mc>
+      <id>380253
+      </id>
+      <name>Agoraphobia
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -5/-0.&lt;br&gt;{2}{U}: Return Agoraphobia to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jim Murray
+      </artist>
+      <num>22
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -5/-0.&lt;br&gt;{2}{U}: Return Agoraphobia to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>380252
+      </id>
+      <name>Archaeomancer
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>13
+      </num>
+      <text>When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
+      </text>
+    </mc>
+    <mc>
+      <id>380228
+      </id>
+      <name>Body Double
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Shapeshifter
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>You may have Body Double enter the battlefield as a copy of any creature card in a graveyard.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Winona Nelson
+      </artist>
+      <num>15
+      </num>
+      <text>You may have Body Double enter the battlefield as a copy of any creature card in a graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>380269
+      </id>
+      <name>Chronomaton
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact Creature - Golem
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>{1}, {T}: Put a +1/+1 counter on Chronomaton.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Vincent Proce
+      </artist>
+      <num>2
+      </num>
+      <text>{1}, {T}: Put a +1/+1 counter on Chronomaton.
+      </text>
+    </mc>
+    <mc>
+      <id>380259
+      </id>
+      <name>Claustrophobia
+      </name>
+      <cost>{1}{U}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;When Claustrophobia enters the battlefield, tap enchanted creature.&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Pancoast
+      </artist>
+      <num>27
+      </num>
+      <text>Enchant creature&lt;br&gt;When Claustrophobia enters the battlefield, tap enchanted creature.&lt;br&gt;Enchanted creature doesn't untap during its controller's untap step.
+      </text>
+    </mc>
+    <mc>
+      <id>380246
+      </id>
+      <name>Consume Strength
+      </name>
+      <cost>{1}{B}{G}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Adam Rex
+      </artist>
+      <num>74
+      </num>
+      <text>Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380201
+      </id>
+      <name>Control Magic
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;You control enchanted creature.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>30
+      </num>
+      <text>Enchant creature&lt;br&gt;You control enchanted creature.
+      </text>
+    </mc>
+    <mc>
+      <id>380254
+      </id>
+      <name>Corpse Traders
+      </name>
+      <cost>{3}{B}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{2}{B}, Sacrifice a creature: Target opponent reveals his or her hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>58
+      </num>
+      <text>{2}{B}, Sacrifice a creature: Target opponent reveals his or her hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+      </text>
+    </mc>
+    <mc>
+      <id>380256
+      </id>
+      <name>Crosstown Courier
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Vedalken
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Crosstown Courier deals combat damage to a player, that player puts that many cards from the top of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Chase Stone
+      </artist>
+      <num>6
+      </num>
+      <text>Whenever Crosstown Courier deals combat damage to a player, that player puts that many cards from the top of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>380262
+      </id>
+      <name>Death-Hood Cobra
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{1}{G}: Death-Hood Cobra gains reach until end of turn. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;&lt;br&gt;{1}{G}: Death-Hood Cobra gains deathtouch until end of turn. &lt;i&gt;(Any amount of damage it deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jason Felix
+      </artist>
+      <num>47
+      </num>
+      <text>{1}{G}: Death-Hood Cobra gains reach until end of turn. &lt;i&gt;(It can block creatures with flying.)&lt;/i&gt;&lt;br&gt;{1}{G}: Death-Hood Cobra gains deathtouch until end of turn. &lt;i&gt;(Any amount of damage it deals to a creature is enough to destroy it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380232
+      </id>
+      <name>Dread Statuary
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{4}: Dread Statuary becomes a 4/2 Golem artifact creature until end of turn. It's still a land.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jason A. Engle
+      </artist>
+      <num>35
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{4}: Dread Statuary becomes a 4/2 Golem artifact creature until end of turn. It's still a land.
+      </text>
+    </mc>
+    <mc>
+      <id>380210
+      </id>
+      <name>Dream Stalker
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>1
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>When Dream Stalker enters the battlefield, return a permanent you control to its owner's hand.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Brian Despain
+      </artist>
+      <num>7
+      </num>
+      <text>When Dream Stalker enters the battlefield, return a permanent you control to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>380205
+      </id>
+      <name>Drooling Groodion
+      </name>
+      <cost>{3}{B}{B}{G}
+      </cost>
+      <type>Creature - Beast
+      </type>
+      <power>4
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{2}{B}{G}, Sacrifice a creature: Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>65
+      </num>
+      <text>{2}{B}{G}, Sacrifice a creature: Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380243
+      </id>
+      <name>Errant Ephemeron
+      </name>
+      <cost>{6}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Suspend 4—{1}{U} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Luca Zontini
+      </artist>
+      <num>20
+      </num>
+      <text>Flying&lt;br&gt;Suspend 4—{1}{U} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380200
+      </id>
+      <name>Festerhide Boar
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Boar
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Morbid- Festerhide Boar enters the battlefield with two +1/+1 counters on it if a creature died this turn.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Nils Hamm
+      </artist>
+      <num>59
+      </num>
+      <text>Trample&lt;br&gt;Morbid- Festerhide Boar enters the battlefield with two +1/+1 counters on it if a creature died this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380209
+      </id>
+      <name>Forest
+      </name>
+      <type>Basic Land - Forest
+      </type>
+      <oracleText>G
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>85
+      </num>
+      <text>G
+      </text>
+    </mc>
+    <mc>
+      <id>380251
+      </id>
+      <name>Future Sight
+      </name>
+      <cost>{2}{U}{U}{U}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Play with the top card of your library revealed.&lt;br&gt;You may play the top card of your library.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Dan Scott
+      </artist>
+      <num>33
+      </num>
+      <text>Play with the top card of your library revealed.&lt;br&gt;You may play the top card of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>380268
+      </id>
+      <name>Gatecreeper Vine
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Plant
+      </type>
+      <power>0
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Defender&lt;br&gt;When Gatecreeper Vine enters the battlefield, you may search your library for a basic land card or a Gate card, reveal it, put it into your hand, then shuffle your library.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Trevor Claxton
+      </artist>
+      <num>48
+      </num>
+      <text>Defender&lt;br&gt;When Gatecreeper Vine enters the battlefield, you may search your library for a basic land card or a Gate card, reveal it, put it into your hand, then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>380220
+      </id>
+      <name>Golgari Guildgate
+      </name>
+      <type>Land - Gate
+      </type>
+      <oracleText>Golgari Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {B} or {G} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Eytan Zana
+      </artist>
+      <num>76
+      </num>
+      <text>Golgari Guildgate enters the battlefield tapped.&lt;br&gt;{T}: Add {B} or {G} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>380267
+      </id>
+      <name>Griptide
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put target creature on top of its owner's library.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>28
+      </num>
+      <text>Put target creature on top of its owner's library.
+      </text>
+    </mc>
+    <mc>
+      <id>380274
+      </id>
+      <name>Grisly Spectacle
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Destroy target nonartifact creature. Its controller puts a number of cards equal to that creature's power from the top of his or her library into his or her graveyard.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>75
+      </num>
+      <text>Destroy target nonartifact creature. Its controller puts a number of cards equal to that creature's power from the top of his or her library into his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>380231
+      </id>
+      <name>Halimar Depths
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Halimar Depths enters the battlefield tapped.&lt;br&gt;When Halimar Depths enters the battlefield, look at the top three cards of your library, then put them back in any order.&lt;br&gt;{T}: Add {U} to your mana pool.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>36
+      </num>
+      <text>Halimar Depths enters the battlefield tapped.&lt;br&gt;When Halimar Depths enters the battlefield, look at the top three cards of your library, then put them back in any order.&lt;br&gt;{T}: Add {U} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>380193
+      </id>
+      <name>Highway Robber
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Human Mercenary
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>61
+      </num>
+      <text>When Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>380225
+      </id>
+      <name>Hypnotic Cloud
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kicker {4} &lt;i&gt;(You may pay an additional {4} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target player discards a card. If Hypnotic Cloud was kicked, that player discards three cards instead.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Randy Gallegos
+      </artist>
+      <num>67
+      </num>
+      <text>Kicker {4} &lt;i&gt;(You may pay an additional {4} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Target player discards a card. If Hypnotic Cloud was kicked, that player discards three cards instead.
+      </text>
+    </mc>
+    <mc>
+      <id>380188
+      </id>
+      <name>Into the Roil
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker {1}{U} &lt;i&gt;(You may pay an additional {1}{U} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Return target nonland permanent to its owner's hand. If Into the Roil was kicked, draw a card.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Kieran Yanner
+      </artist>
+      <num>23
+      </num>
+      <text>Kicker {1}{U} &lt;i&gt;(You may pay an additional {1}{U} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Return target nonland permanent to its owner's hand. If Into the Roil was kicked, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>380217
+      </id>
+      <name>Island
+      </name>
+      <type>Basic Land - Island
+      </type>
+      <oracleText>U
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>38
+      </num>
+      <text>U
+      </text>
+    </mc>
+    <mc>
+      <id>380190
+      </id>
+      <name>Jace, Architect of Thought
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Planeswalker - Jace
+      </type>
+      <toughness>4
+      </toughness>
+      <oracleText>+1: Until your next turn, whenever a creature an opponent controls attacks, it gets -1/-0 until end of turn.&lt;br&gt;-2: Reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other on the bottom of your library in any order.&lt;br&gt;-8: For each player, search that player's library for a nonland card and exile it, then that player shuffles his or her library. You may cast those cards without paying their mana costs.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>1
+      </num>
+      <text>+1: Until your next turn, whenever a creature an opponent controls attacks, it gets -1/-0 until end of turn.&lt;br&gt;-2: Reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other on the bottom of your library in any order.&lt;br&gt;-8: For each player, search that player's library for a nonland card and exile it, then that player shuffles his or her library. You may cast those cards without paying their mana costs.
+      </text>
+    </mc>
+    <mc>
+      <id>380211
+      </id>
+      <name>Jace's Ingenuity
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Draw three cards.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>32
+      </num>
+      <text>Draw three cards.
+      </text>
+    </mc>
+    <mc>
+      <id>380206
+      </id>
+      <name>Jace's Mindseeker
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Creature - Fish Illusion
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Jace's Mindseeker enters the battlefield, target opponent puts the top five cards of his or her library into his or her graveyard. You may cast an instant or sorcery card from among them without paying its mana cost.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>19
+      </num>
+      <text>Flying&lt;br&gt;When Jace's Mindseeker enters the battlefield, target opponent puts the top five cards of his or her library into his or her graveyard. You may cast an instant or sorcery card from among them without paying its mana cost.
+      </text>
+    </mc>
+    <mc>
+      <id>380245
+      </id>
+      <name>Jace's Phantasm
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Jace's Phantasm gets +4/+4 as long as an opponent has ten or more cards in his or her graveyard.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Johann Bodin
+      </artist>
+      <num>3
+      </num>
+      <text>Flying&lt;br&gt;Jace's Phantasm gets +4/+4 as long as an opponent has ten or more cards in his or her graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>380275
+      </id>
+      <name>Krovikan Mist
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>*
+      </power>
+      <toughness>*
+      </toughness>
+      <oracleText>Flying&lt;br&gt;Krovikan Mist's power and toughness are each equal to the number of Illusions on the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jeremy Jarvis
+      </artist>
+      <num>8
+      </num>
+      <text>Flying&lt;br&gt;Krovikan Mist's power and toughness are each equal to the number of Illusions on the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>380218
+      </id>
+      <name>Last Kiss
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Last Kiss deals 2 damage to target creature and you gain 2 life.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Vance Kovacs
+      </artist>
+      <num>71
+      </num>
+      <text>Last Kiss deals 2 damage to target creature and you gain 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>380257
+      </id>
+      <name>Leyline Phantom
+      </name>
+      <cost>{4}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>When Leyline Phantom deals combat damage, return it to its owner's hand. &lt;i&gt;(Return it only if it survived combat.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Yee
+      </artist>
+      <num>16
+      </num>
+      <text>When Leyline Phantom deals combat damage, return it to its owner's hand. &lt;i&gt;(Return it only if it survived combat.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380238
+      </id>
+      <name>Marsh Casualties
+      </name>
+      <cost>{B}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Kicker {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Creatures target player controls get -1/-1 until end of turn. If Marsh Casualties was kicked, those creatures get -2/-2 until end of turn instead.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Scott Chou
+      </artist>
+      <num>69
+      </num>
+      <text>Kicker {3} &lt;i&gt;(You may pay an additional {3} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Creatures target player controls get -1/-1 until end of turn. If Marsh Casualties was kicked, those creatures get -2/-2 until end of turn instead.
+      </text>
+    </mc>
+    <mc>
+      <id>380199
+      </id>
+      <name>Memory Lapse
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Rebecca Guay
+      </artist>
+      <num>24
+      </num>
+      <text>Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.
+      </text>
+    </mc>
+    <mc>
+      <id>380233
+      </id>
+      <name>Merfolk Wayfinder
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Merfolk Scout
+      </type>
+      <power>1
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>9
+      </num>
+      <text>Flying&lt;br&gt;When Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.
+      </text>
+    </mc>
+    <mc>
+      <id>380249
+      </id>
+      <name>Mold Shambler
+      </name>
+      <cost>{3}{G}
+      </cost>
+      <type>Creature - Fungus Beast
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Kicker {1}{G} &lt;i&gt;(You may pay an additional {1}{G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>60
+      </num>
+      <text>Kicker {1}{G} &lt;i&gt;(You may pay an additional {1}{G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.
+      </text>
+    </mc>
+    <mc>
+      <id>380273
+      </id>
+      <name>Nekrataal
+      </name>
+      <cost>{2}{B}{B}
+      </cost>
+      <type>Creature - Human Assassin
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>62
+      </num>
+      <text>First strike &lt;i&gt;(This creature deals combat damage before creatures without first strike.)&lt;/i&gt;&lt;br&gt;When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.
+      </text>
+    </mc>
+    <mc>
+      <id>380191
+      </id>
+      <name>Night's Whisper
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>You draw two cards and you lose 2 life.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>John Severin Brassell
+      </artist>
+      <num>68
+      </num>
+      <text>You draw two cards and you lose 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>380265
+      </id>
+      <name>Ohran Viper
+      </name>
+      <cost>{1}{G}{G}
+      </cost>
+      <type>Snow Creature - Snake
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever Ohran Viper deals combat damage to a creature, destroy that creature at end of combat.&lt;br&gt;Whenever Ohran Viper deals combat damage to a player, you may draw a card.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Kev Walker
+      </artist>
+      <num>57
+      </num>
+      <text>Whenever Ohran Viper deals combat damage to a creature, destroy that creature at end of combat.&lt;br&gt;Whenever Ohran Viper deals combat damage to a player, you may draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>380248
+      </id>
+      <name>Oran-Rief Recluse
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Spider
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Kicker {2}{G} &lt;i&gt;(You may pay an additional {2}{G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;When Oran-Rief Recluse enters the battlefield, if it was kicked, destroy target creature with flying.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Lars Grant-West
+      </artist>
+      <num>54
+      </num>
+      <text>Kicker {2}{G} &lt;i&gt;(You may pay an additional {2}{G} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Reach &lt;i&gt;(This creature can block creatures with flying.)&lt;/i&gt;&lt;br&gt;When Oran-Rief Recluse enters the battlefield, if it was kicked, destroy target creature with flying.
+      </text>
+    </mc>
+    <mc>
+      <id>380219
+      </id>
+      <name>Phantasmal Bear
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Creature - Bear Illusion
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Phantasmal Bear becomes the target of a spell or ability, sacrifice it.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Ryan Yee
+      </artist>
+      <num>4
+      </num>
+      <text>When Phantasmal Bear becomes the target of a spell or ability, sacrifice it.
+      </text>
+    </mc>
+    <mc>
+      <id>380215
+      </id>
+      <name>Phantasmal Dragon
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Creature - Dragon Illusion
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Phantasmal Dragon becomes the target of a spell or ability, sacrifice it.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>14
+      </num>
+      <text>Flying&lt;br&gt;When Phantasmal Dragon becomes the target of a spell or ability, sacrifice it.
+      </text>
+    </mc>
+    <mc>
+      <id>380270
+      </id>
+      <name>Prohibit
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Kicker {2} &lt;i&gt;(You may pay an additional {2} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Counter target spell if its converted mana cost is 2 or less. If Prohibit was kicked, counter that spell if its converted mana cost is 4 or less instead.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Adam Rex
+      </artist>
+      <num>25
+      </num>
+      <text>Kicker {2} &lt;i&gt;(You may pay an additional {2} as you cast this spell.)&lt;/i&gt;&lt;br&gt;Counter target spell if its converted mana cost is 2 or less. If Prohibit was kicked, counter that spell if its converted mana cost is 4 or less instead.
+      </text>
+    </mc>
+    <mc>
+      <id>380250
+      </id>
+      <name>Pulse Tracker
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Vampire Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever Pulse Tracker attacks, each opponent loses 1 life.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Andrew Robinson
+      </artist>
+      <num>43
+      </num>
+      <text>Whenever Pulse Tracker attacks, each opponent loses 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>380242
+      </id>
+      <name>Putrid Leech
+      </name>
+      <cost>{B}{G}
+      </cost>
+      <type>Creature - Zombie Leech
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate this ability only once each turn.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Craig J Spearing
+      </artist>
+      <num>51
+      </num>
+      <text>Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate this ability only once each turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380216
+      </id>
+      <name>Ray of Command
+      </name>
+      <cost>{3}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Andrew Robinson
+      </artist>
+      <num>29
+      </num>
+      <text>Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.
+      </text>
+    </mc>
+    <mc>
+      <id>380224
+      </id>
+      <name>Reaper of the Wilds
+      </name>
+      <cost>{2}{B}{G}
+      </cost>
+      <type>Creature - Gorgon
+      </type>
+      <power>4
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Whenever another creature dies, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{B}: Reaper of the Wilds gains deathtouch until end of turn.&lt;br&gt;{1}{G}: Reaper of the Wilds gains hexproof until end of turn.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Karl Kopinski
+      </artist>
+      <num>63
+      </num>
+      <text>Whenever another creature dies, scry 1. &lt;i&gt;(Look at the top card of your library. You may put that card on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{B}: Reaper of the Wilds gains deathtouch until end of turn.&lt;br&gt;{1}{G}: Reaper of the Wilds gains hexproof until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380255
+      </id>
+      <name>Remand
+      </name>
+      <cost>{1}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Zoltan Boros
+      </artist>
+      <num>26
+      </num>
+      <text>Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>380197
+      </id>
+      <name>Riftwing Cloudskate
+      </name>
+      <cost>{3}{U}{U}
+      </cost>
+      <type>Creature - Illusion
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Riftwing Cloudskate enters the battlefield, return target permanent to its owner's hand.&lt;br&gt;Suspend 3—{1}{U} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Carl Critchlow
+      </artist>
+      <num>18
+      </num>
+      <text>Flying&lt;br&gt;When Riftwing Cloudskate enters the battlefield, return target permanent to its owner's hand.&lt;br&gt;Suspend 3—{1}{U} &lt;i&gt;(Rather than cast this card from your hand, you may pay {1}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380260
+      </id>
+      <name>River Boa
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Snake
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Islandwalk&lt;br&gt;{G}: Regenerate River Boa.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Paul Bonner
+      </artist>
+      <num>49
+      </num>
+      <text>Islandwalk&lt;br&gt;{G}: Regenerate River Boa.
+      </text>
+    </mc>
+    <mc>
+      <id>380234
+      </id>
+      <name>Rogue's Passage
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{4}, {T}: Target creature can't be blocked this turn.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Christine Choi
+      </artist>
+      <num>77
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{4}, {T}: Target creature can't be blocked this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380189
+      </id>
+      <name>Sadistic Augermage
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>When Sadistic Augermage dies, each player puts a card from his or her hand on top of his or her library.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Nick Percival
+      </artist>
+      <num>52
+      </num>
+      <text>When Sadistic Augermage dies, each player puts a card from his or her hand on top of his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>380247
+      </id>
+      <name>Sea Gate Oracle
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Daniel Ljunggren
+      </artist>
+      <num>10
+      </num>
+      <text>When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+      </text>
+    </mc>
+    <mc>
+      <id>380212
+      </id>
+      <name>Shadow Alley Denizen
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Creature - Vampire Rogue
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever another black creature enters the battlefield under your control, target creature gains intimidate until end of turn. &lt;i&gt;(It can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Cynthia Sheppard
+      </artist>
+      <num>44
+      </num>
+      <text>Whenever another black creature enters the battlefield under your control, target creature gains intimidate until end of turn. &lt;i&gt;(It can't be blocked except by artifact creatures and/or creatures that share a color with it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380226
+      </id>
+      <name>Slate Street Ruffian
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Creature - Human Warrior
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Slate Street Ruffian becomes blocked, defending player discards a card.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Jim Murray
+      </artist>
+      <num>53
+      </num>
+      <text>Whenever Slate Street Ruffian becomes blocked, defending player discards a card.
+      </text>
+    </mc>
+    <mc>
+      <id>380196
+      </id>
+      <name>Spawnwrithe
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Elemental
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Trample&lt;br&gt;Whenever Spawnwrithe deals combat damage to a player, put a token that's a copy of Spawnwrithe onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Daarken
+      </artist>
+      <num>55
+      </num>
+      <text>Trample&lt;br&gt;Whenever Spawnwrithe deals combat damage to a player, put a token that's a copy of Spawnwrithe onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>380258
+      </id>
+      <name>Spelltwine
+      </name>
+      <cost>{5}{U}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Exile target instant or sorcery card from your graveyard and target instant or sorcery card from an opponent's graveyard. Copy those cards. Cast the copies if able without paying their mana costs. Exile Spelltwine.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Noah Bradley
+      </artist>
+      <num>34
+      </num>
+      <text>Exile target instant or sorcery card from your graveyard and target instant or sorcery card from an opponent's graveyard. Copy those cards. Cast the copies if able without paying their mana costs. Exile Spelltwine.
+      </text>
+    </mc>
+    <mc>
+      <id>380204
+      </id>
+      <name>Stab Wound
+      </name>
+      <cost>{2}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant creature&lt;br&gt;Enchanted creature gets -2/-2.&lt;br&gt;At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Scott Chou
+      </artist>
+      <num>72
+      </num>
+      <text>Enchant creature&lt;br&gt;Enchanted creature gets -2/-2.&lt;br&gt;At the beginning of the upkeep of enchanted creature's controller, that player loses 2 life.
+      </text>
+    </mc>
+    <mc>
+      <id>380202
+      </id>
+      <name>Stealer of Secrets
+      </name>
+      <cost>{2}{U}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Whenever Stealer of Secrets deals combat damage to a player, draw a card.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Michael C. Hayes
+      </artist>
+      <num>11
+      </num>
+      <text>Whenever Stealer of Secrets deals combat damage to a player, draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>380230
+      </id>
+      <name>Stonefare Crocodile
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Creature - Crocodile
+      </type>
+      <power>3
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{2}{B}: Stonefare Crocodile gains lifelink until end of turn. &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Tomasz Jedruszek
+      </artist>
+      <num>56
+      </num>
+      <text>{2}{B}: Stonefare Crocodile gains lifelink until end of turn. &lt;i&gt;(Damage dealt by this creature also causes you to gain that much life.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>380266
+      </id>
+      <name>Summoner's Bane
+      </name>
+      <cost>{2}{U}{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Counter target creature spell. Put a 2/2 blue Illusion creature token onto the battlefield.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Cyril Van Der Haegen
+      </artist>
+      <num>31
+      </num>
+      <text>Counter target creature spell. Put a 2/2 blue Illusion creature token onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>380239
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>80
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>380213
+      </id>
+      <name>Tainted Wood
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {B} or {G} to your mana pool. Activate this ability only if you control a Swamp.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Rob Alexander
+      </artist>
+      <num>78
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {B} or {G} to your mana pool. Activate this ability only if you control a Swamp.
+      </text>
+    </mc>
+    <mc>
+      <id>380195
+      </id>
+      <name>Tavern Swindler
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Human Rogue
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Cynthia Sheppard
+      </artist>
+      <num>45
+      </num>
+      <text>{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.
+      </text>
+    </mc>
+    <mc>
+      <id>380203
+      </id>
+      <name>Thought Scour
+      </name>
+      <cost>{U}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target player puts the top two cards of his or her library into his or her graveyard.&lt;br&gt;Draw a card.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>David Rapoza
+      </artist>
+      <num>21
+      </num>
+      <text>Target player puts the top two cards of his or her library into his or her graveyard.&lt;br&gt;Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>380221
+      </id>
+      <name>Tragic Slip
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Target creature gets -1/-1 until end of turn.&lt;br&gt;Morbid- That creature gets -13/-13 until end of turn instead if a creature died this turn.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>66
+      </num>
+      <text>Target creature gets -1/-1 until end of turn.&lt;br&gt;Morbid- That creature gets -13/-13 until end of turn instead if a creature died this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>380235
+      </id>
+      <name>Treasured Find
+      </name>
+      <cost>{B}{G}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Return target card from your graveyard to your hand. Exile Treasured Find.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jason Chan
+      </artist>
+      <num>70
+      </num>
+      <text>Return target card from your graveyard to your hand. Exile Treasured Find.
+      </text>
+    </mc>
+    <mc>
+      <id>380227
+      </id>
+      <name>Underworld Connections
+      </name>
+      <cost>{1}{B}{B}
+      </cost>
+      <type>Enchantment - Aura
+      </type>
+      <oracleText>Enchant land&lt;br&gt;Enchanted land has "{T}, Pay 1 life: Draw a card."
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Yeong-Hao Han
+      </artist>
+      <num>73
+      </num>
+      <text>Enchant land&lt;br&gt;Enchanted land has "{T}, Pay 1 life: Draw a card."
+      </text>
+    </mc>
+    <mc>
+      <id>380244
+      </id>
+      <name>Vinelasher Kudzu
+      </name>
+      <cost>{1}{G}
+      </cost>
+      <type>Creature - Plant
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever a land enters the battlefield under your control, put a +1/+1 counter on Vinelasher Kudzu.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Mark Tedin
+      </artist>
+      <num>50
+      </num>
+      <text>Whenever a land enters the battlefield under your control, put a +1/+1 counter on Vinelasher Kudzu.
+      </text>
+    </mc>
+    <mc>
+      <id>380214
+      </id>
+      <name>Vraska the Unseen
+      </name>
+      <cost>{3}{B}{G}
+      </cost>
+      <type>Planeswalker - Vraska
+      </type>
+      <toughness>5
+      </toughness>
+      <oracleText>+1: Until your next turn, whenever a creature deals combat damage to Vraska the Unseen, destroy that creature.&lt;br&gt;-3: Destroy target nonland permanent.&lt;br&gt;-7: Put three 1/1 black Assassin creature tokens onto the battlefield with "Whenever this creature deals combat damage to a player, that player loses the game."
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>42
+      </num>
+      <text>+1: Until your next turn, whenever a creature deals combat damage to Vraska the Unseen, destroy that creature.&lt;br&gt;-3: Destroy target nonland permanent.&lt;br&gt;-7: Put three 1/1 black Assassin creature tokens onto the battlefield with "Whenever this creature deals combat damage to a player, that player loses the game."
+      </text>
+    </mc>
+    <mc>
+      <id>380207
+      </id>
+      <name>Wight of Precinct Six
+      </name>
+      <cost>{1}{B}
+      </cost>
+      <type>Creature - Zombie
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Wight of Precinct Six gets +1/+1 for each creature card in your opponents' graveyards.
+      </oracleText>
+      <edition>Duel Decks: Jace vs. Vraska
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Ryan Barger
+      </artist>
+      <num>46
+      </num>
+      <text>Wight of Precinct Six gets +1/+1 for each creature card in your opponents' graveyards.
+      </text>
+    </mc>
+  </list>
+</cards>

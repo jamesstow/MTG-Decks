@@ -1,0 +1,429 @@
+
+<cards>
+  <name>From_the_Vault__Legends</name>
+  <key>From_the_Vault__Legends</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>244670
+      </id>
+      <name>Cao Cao, Lord of Wei
+      </name>
+      <cost>{3}{B}{B}
+      </cost>
+      <type>Legendary Creature - Human Soldier
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>{T}: Target opponent discards two cards. Activate this ability only during your turn, before attackers are declared.
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.214
+      </rating>
+      <artist>Gao Jianzhang
+      </artist>
+      <num>1
+      </num>
+      <text>{T}: Target opponent discards two cards. Activate this ability only during your turn, before attackers are declared.
+      </text>
+    </mc>
+    <mc>
+      <id>244665
+      </id>
+      <name>Captain Sisay
+      </name>
+      <cost>{2}{G}{W}
+      </cost>
+      <type>Legendary Creature - Human Soldier
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>{T}: Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library.
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.409
+      </rating>
+      <artist>Ray Lago
+      </artist>
+      <num>2
+      </num>
+      <text>{T}: Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library.
+      </text>
+    </mc>
+    <mc>
+      <id>244674
+      </id>
+      <name>Doran, the Siege Tower
+      </name>
+      <cost>{B}{G}{W}
+      </cost>
+      <type>Legendary Creature - Treefolk Shaman
+      </type>
+      <power>0
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Each creature assigns combat damage equal to its toughness rather than its power.
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Mark Zug
+      </artist>
+      <num>3
+      </num>
+      <text>Each creature assigns combat damage equal to its toughness rather than its power.
+      </text>
+    </mc>
+    <mc>
+      <id>244666
+      </id>
+      <name>Kiki-Jiki, Mirror Breaker
+      </name>
+      <cost>{2}{R}{R}{R}
+      </cost>
+      <type>Legendary Creature - Goblin Shaman
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>Haste&lt;br&gt;{T}: Put a token that's a copy of target nonlegendary creature you control onto the battlefield. That token has haste. Sacrifice it at the beginning of the next end step.
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.714
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>4
+      </num>
+      <text>Haste&lt;br&gt;{T}: Put a token that's a copy of target nonlegendary creature you control onto the battlefield. That token has haste. Sacrifice it at the beginning of the next end step.
+      </text>
+    </mc>
+    <mc>
+      <id>244672
+      </id>
+      <name>Kresh the Bloodbraided
+      </name>
+      <cost>{2}{B}{R}{G}
+      </cost>
+      <type>Legendary Creature - Human Warrior
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Whenever another creature dies, you may put X +1/+1 counters on Kresh the Bloodbraided, where X is that creature's power.
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.286
+      </rating>
+      <artist>Steve Argyle
+      </artist>
+      <num>5
+      </num>
+      <text>Whenever another creature dies, you may put X +1/+1 counters on Kresh the Bloodbraided, where X is that creature's power.
+      </text>
+    </mc>
+    <mc>
+      <id>259296
+      </id>
+      <name>Mikaeus, the Lunarch
+      </name>
+      <cost>{X}{W}
+      </cost>
+      <type>Legendary Creature - Human Cleric
+      </type>
+      <power>0
+      </power>
+      <toughness>0
+      </toughness>
+      <oracleText>Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.&lt;br&gt;{T}: Put a +1/+1 counter on Mikaeus.&lt;br&gt;{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.519
+      </rating>
+      <artist>Steven Belledin
+      </artist>
+      <num>6
+      </num>
+      <text>Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.&lt;br&gt;{T}: Put a +1/+1 counter on Mikaeus.&lt;br&gt;{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.
+      </text>
+    </mc>
+    <mc>
+      <id>259295
+      </id>
+      <name>Omnath, Locus of Mana
+      </name>
+      <cost>{2}{G}
+      </cost>
+      <type>Legendary Creature - Elemental
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Green mana doesn't empty from your mana pool as steps and phases end.&lt;br&gt;Omnath, Locus of Mana gets +1/+1 for each green mana in your mana pool.
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.147
+      </rating>
+      <artist>Mike Bierek
+      </artist>
+      <num>7
+      </num>
+      <text>Green mana doesn't empty from your mana pool as steps and phases end.&lt;br&gt;Omnath, Locus of Mana gets +1/+1 for each green mana in your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>244668
+      </id>
+      <name>Oona, Queen of the Fae
+      </name>
+      <cost>{3}{U/B}{U/B}{U/B}
+      </cost>
+      <type>Legendary Creature - Faerie Wizard
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{X}{U/B}: Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, put a 1/1 blue and black Faerie Rogue creature token with flying onto the battlefield.
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Adam Rex
+      </artist>
+      <num>8
+      </num>
+      <text>Flying&lt;br&gt;{X}{U/B}: Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, put a 1/1 blue and black Faerie Rogue creature token with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>244675
+      </id>
+      <name>Progenitus
+      </name>
+      <cost>{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}
+      </cost>
+      <type>Legendary Creature - Hydra Avatar
+      </type>
+      <power>10
+      </power>
+      <toughness>10
+      </toughness>
+      <oracleText>Protection from everything&lt;br&gt;If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.354
+      </rating>
+      <artist>Mike Bierek
+      </artist>
+      <num>9
+      </num>
+      <text>Protection from everything&lt;br&gt;If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.
+      </text>
+    </mc>
+    <mc>
+      <id>244669
+      </id>
+      <name>Rafiq of the Many
+      </name>
+      <cost>{1}{G}{W}{U}
+      </cost>
+      <type>Legendary Creature - Human Knight
+      </type>
+      <power>3
+      </power>
+      <toughness>3
+      </toughness>
+      <oracleText>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever a creature you control attacks alone, it gains double strike until end of turn.
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.156
+      </rating>
+      <artist>Wayne Reynolds
+      </artist>
+      <num>10
+      </num>
+      <text>Exalted &lt;i&gt;(Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)&lt;/i&gt;&lt;br&gt;Whenever a creature you control attacks alone, it gains double strike until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>244664
+      </id>
+      <name>Sharuum the Hegemon
+      </name>
+      <cost>{3}{W}{U}{B}
+      </cost>
+      <type>Legendary Artifact Creature - Sphinx
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;When Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.038
+      </rating>
+      <artist>Todd Lockwood
+      </artist>
+      <num>11
+      </num>
+      <text>Flying&lt;br&gt;When Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>244663
+      </id>
+      <name>Sun Quan, Lord of Wu
+      </name>
+      <cost>{4}{U}{U}
+      </cost>
+      <type>Legendary Creature - Human Soldier
+      </type>
+      <power>4
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Creatures you control have horsemanship. &lt;i&gt;(They can't be blocked except by creatures with horsemanship.)&lt;/i&gt;
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.5
+      </rating>
+      <artist>Xu Xiaoming
+      </artist>
+      <num>12
+      </num>
+      <text>Creatures you control have horsemanship. &lt;i&gt;(They can't be blocked except by creatures with horsemanship.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>244667
+      </id>
+      <name>Teferi, Mage of Zhalfir
+      </name>
+      <cost>{2}{U}{U}{U}
+      </cost>
+      <type>Legendary Creature - Human Wizard
+      </type>
+      <power>3
+      </power>
+      <toughness>4
+      </toughness>
+      <oracleText>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Creature cards you own that aren't on the battlefield have flash.&lt;br&gt;Each opponent can cast spells only any time he or she could cast a sorcery.
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.74
+      </rating>
+      <artist>Volkan Baga
+      </artist>
+      <num>13
+      </num>
+      <text>Flash &lt;i&gt;(You may cast this spell any time you could cast an instant.)&lt;/i&gt;&lt;br&gt;Creature cards you own that aren't on the battlefield have flash.&lt;br&gt;Each opponent can cast spells only any time he or she could cast a sorcery.
+      </text>
+    </mc>
+    <mc>
+      <id>261321
+      </id>
+      <name>Ulamog, the Infinite Gyre
+      </name>
+      <cost>{11}
+      </cost>
+      <type>Legendary Creature - Eldrazi
+      </type>
+      <power>10
+      </power>
+      <toughness>10
+      </toughness>
+      <oracleText>When you cast Ulamog, the Infinite Gyre, destroy target permanent.&lt;br&gt;Annihilator 4 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices four permanents.)&lt;/i&gt;&lt;br&gt;Ulamog is indestructible.&lt;br&gt;When Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.115
+      </rating>
+      <artist>Aleksi Briclot
+      </artist>
+      <num>14
+      </num>
+      <text>When you cast Ulamog, the Infinite Gyre, destroy target permanent.&lt;br&gt;Annihilator 4 &lt;i&gt;(Whenever this creature attacks, defending player sacrifices four permanents.)&lt;/i&gt;&lt;br&gt;Ulamog is indestructible.&lt;br&gt;When Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>244677
+      </id>
+      <name>Visara the Dreadful
+      </name>
+      <cost>{3}{B}{B}{B}
+      </cost>
+      <type>Legendary Creature - Gorgon
+      </type>
+      <power>5
+      </power>
+      <toughness>5
+      </toughness>
+      <oracleText>Flying&lt;br&gt;{T}: Destroy target creature. It can't be regenerated.
+      </oracleText>
+      <edition>From the Vault: Legends
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <rating>4.643
+      </rating>
+      <artist>Brad Rigney
+      </artist>
+      <num>15
+      </num>
+      <text>Flying&lt;br&gt;{T}: Destroy target creature. It can't be regenerated.
+      </text>
+    </mc>
+  </list>
+</cards>

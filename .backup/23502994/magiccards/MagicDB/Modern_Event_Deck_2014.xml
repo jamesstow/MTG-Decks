@@ -1,0 +1,583 @@
+
+<cards>
+  <name>Modern_Event_Deck_2014</name>
+  <key>Modern_Event_Deck_2014</key>
+  <comment></comment>
+  <type></type>
+  <list>
+    <mc>
+      <id>382179
+      </id>
+      <name>Burrenton Forge-Tender
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Kithkin Wizard
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Protection from red&lt;br&gt;Sacrifice Burrenton Forge-Tender: Prevent all damage a red source of your choice would deal this turn.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Chuck Lukacs
+      </artist>
+      <num>22
+      </num>
+      <text>Protection from red&lt;br&gt;Sacrifice Burrenton Forge-Tender: Prevent all damage a red source of your choice would deal this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382180
+      </id>
+      <name>Caves of Koilos
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {W} or {B} to your mana pool. Caves of Koilos deals 1 damage to you.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jim Nelson
+      </artist>
+      <num>14
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}: Add {W} or {B} to your mana pool. Caves of Koilos deals 1 damage to you.
+      </text>
+    </mc>
+    <mc>
+      <id>382181
+      </id>
+      <name>City of Brass
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Whenever City of Brass becomes tapped, it deals 1 damage to you.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Jung Park
+      </artist>
+      <num>15
+      </num>
+      <text>Whenever City of Brass becomes tapped, it deals 1 damage to you.&lt;br&gt;{T}: Add one mana of any color to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>382182
+      </id>
+      <name>Dismember
+      </name>
+      <cost>{1}{BP}{BP}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>&lt;i&gt;({BP} can be paid with either {B} or 2 life.)&lt;/i&gt;&lt;br&gt;Target creature gets -5/-5 until end of turn.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Terese Nielsen
+      </artist>
+      <num>25
+      </num>
+      <text>&lt;i&gt;({BP} can be paid with either {B} or 2 life.)&lt;/i&gt;&lt;br&gt;Target creature gets -5/-5 until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382183
+      </id>
+      <name>Duress
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Steven Belledin
+      </artist>
+      <num>23
+      </num>
+      <text>Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+      </text>
+    </mc>
+    <mc>
+      <id>382184
+      </id>
+      <name>Elspeth, Knight-Errant
+      </name>
+      <cost>{2}{W}{W}
+      </cost>
+      <type>Planeswalker - Elspeth
+      </type>
+      <toughness>4
+      </toughness>
+      <oracleText>+1: Put a 1/1 white Soldier creature token onto the battlefield.&lt;br&gt;+1: Target creature gets +3/+3 and gains flying until end of turn.&lt;br&gt;-8: You get an emblem with "Artifacts, creatures, enchantments, and lands you control have indestructible."
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Volkan Baga
+      </artist>
+      <num>13
+      </num>
+      <text>+1: Put a 1/1 white Soldier creature token onto the battlefield.&lt;br&gt;+1: Target creature gets +3/+3 and gains flying until end of turn.&lt;br&gt;-8: You get an emblem with "Artifacts, creatures, enchantments, and lands you control have indestructible."
+      </text>
+    </mc>
+    <mc>
+      <id>382185
+      </id>
+      <name>Ghost Quarter
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Peter Mohrbacher
+      </artist>
+      <num>26
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>382186
+      </id>
+      <name>Honor of the Pure
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>White creatures you control get +1/+1.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Greg Staples
+      </artist>
+      <num>6
+      </num>
+      <text>White creatures you control get +1/+1.
+      </text>
+    </mc>
+    <mc>
+      <id>382187
+      </id>
+      <name>Inquisition of Kozilek
+      </name>
+      <cost>{B}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Target player reveals his or her hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Tomasz Jedruszek
+      </artist>
+      <num>4
+      </num>
+      <text>Target player reveals his or her hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.
+      </text>
+    </mc>
+    <mc>
+      <id>382188
+      </id>
+      <name>Intangible Virtue
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Enchantment
+      </type>
+      <oracleText>Creature tokens you control get +1/+1 and have vigilance.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Clint Cearley
+      </artist>
+      <num>7
+      </num>
+      <text>Creature tokens you control get +1/+1 and have vigilance.
+      </text>
+    </mc>
+    <mc>
+      <id>382189
+      </id>
+      <name>Isolated Chapel
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.&lt;br&gt;{T}: Add {W} or {B} to your mana pool.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Cliff Childs
+      </artist>
+      <num>16
+      </num>
+      <text>Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.&lt;br&gt;{T}: Add {W} or {B} to your mana pool.
+      </text>
+    </mc>
+    <mc>
+      <id>382190
+      </id>
+      <name>Kataki, War's Wage
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Legendary Creature - Spirit
+      </type>
+      <power>2
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {1}."
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Matt Thompson
+      </artist>
+      <num>24
+      </num>
+      <text>All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {1}."
+      </text>
+    </mc>
+    <mc>
+      <id>382191
+      </id>
+      <name>Lingering Souls
+      </name>
+      <cost>{2}{W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>Put two 1/1 white Spirit creature tokens with flying onto the battlefield.&lt;br&gt;Flashback {1}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Bud Cook
+      </artist>
+      <num>11
+      </num>
+      <text>Put two 1/1 white Spirit creature tokens with flying onto the battlefield.&lt;br&gt;Flashback {1}{B} &lt;i&gt;(You may cast this card from your graveyard for its flashback cost. Then exile it.)&lt;/i&gt;
+      </text>
+    </mc>
+    <mc>
+      <id>382192
+      </id>
+      <name>Path to Exile
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Todd Lockwood
+      </artist>
+      <num>3
+      </num>
+      <text>Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.
+      </text>
+    </mc>
+    <mc>
+      <id>382193
+      </id>
+      <name>Plains
+      </name>
+      <type>Basic Land - Plains
+      </type>
+      <oracleText>W
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>19
+      </num>
+      <text>W
+      </text>
+    </mc>
+    <mc>
+      <id>382194
+      </id>
+      <name>Raise the Alarm
+      </name>
+      <cost>{1}{W}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Put two 1/1 white Soldier creature tokens onto the battlefield.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>John Matson
+      </artist>
+      <num>8
+      </num>
+      <text>Put two 1/1 white Soldier creature tokens onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>382195
+      </id>
+      <name>Relic of Progenitus
+      </name>
+      <cost>{1}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>{T}: Target player exiles a card from his or her graveyard.&lt;br&gt;{1}, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Jean-Sébastien Rossbach
+      </artist>
+      <num>21
+      </num>
+      <text>{T}: Target player exiles a card from his or her graveyard.&lt;br&gt;{1}, Exile Relic of Progenitus: Exile all cards from all graveyards. Draw a card.
+      </text>
+    </mc>
+    <mc>
+      <id>382196
+      </id>
+      <name>Shrine of Loyal Legions
+      </name>
+      <cost>{2}
+      </cost>
+      <type>Artifact
+      </type>
+      <oracleText>At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions.&lt;br&gt;{3}, {T}, Sacrifice Shrine of Loyal Legions: Put a 1/1 colorless Myr artifact creature token onto the battlefield for each charge counter on Shrine of Loyal Legions.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Igor Kieryluk
+      </artist>
+      <num>5
+      </num>
+      <text>At the beginning of your upkeep or whenever you cast a white spell, put a charge counter on Shrine of Loyal Legions.&lt;br&gt;{3}, {T}, Sacrifice Shrine of Loyal Legions: Put a 1/1 colorless Myr artifact creature token onto the battlefield for each charge counter on Shrine of Loyal Legions.
+      </text>
+    </mc>
+    <mc>
+      <id>382197
+      </id>
+      <name>Soul Warden
+      </name>
+      <cost>{W}
+      </cost>
+      <type>Creature - Human Cleric
+      </type>
+      <power>1
+      </power>
+      <toughness>1
+      </toughness>
+      <oracleText>Whenever another creature enters the battlefield, you gain 1 life.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Common
+      </rarity>
+      <artist>Randy Gallegos
+      </artist>
+      <num>1
+      </num>
+      <text>Whenever another creature enters the battlefield, you gain 1 life.
+      </text>
+    </mc>
+    <mc>
+      <id>382198
+      </id>
+      <name>Spectral Procession
+      </name>
+      <cost>{2/W}{2/W}{2/W}
+      </cost>
+      <type>Sorcery
+      </type>
+      <oracleText>&lt;i&gt;({2/W} can be paid with any two mana or with {W}. This card's converted mana cost is 6.)&lt;/i&gt;&lt;br&gt;Put three 1/1 white Spirit creature tokens with flying onto the battlefield.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Tomasz Jedruszek
+      </artist>
+      <num>12
+      </num>
+      <text>&lt;i&gt;({2/W} can be paid with any two mana or with {W}. This card's converted mana cost is 6.)&lt;/i&gt;&lt;br&gt;Put three 1/1 white Spirit creature tokens with flying onto the battlefield.
+      </text>
+    </mc>
+    <mc>
+      <id>382199
+      </id>
+      <name>Swamp
+      </name>
+      <type>Basic Land - Swamp
+      </type>
+      <oracleText>B
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Land
+      </rarity>
+      <artist>Adam Paquette
+      </artist>
+      <num>20
+      </num>
+      <text>B
+      </text>
+    </mc>
+    <mc>
+      <id>382200
+      </id>
+      <name>Sword of Feast and Famine
+      </name>
+      <cost>{3}
+      </cost>
+      <type>Artifact - Equipment
+      </type>
+      <oracleText>Equipped creature gets +2/+2 and has protection from black and from green.&lt;br&gt;Whenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.&lt;br&gt;Equip {2}
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Mythic Rare
+      </rarity>
+      <artist>Chris Rahn
+      </artist>
+      <num>10
+      </num>
+      <text>Equipped creature gets +2/+2 and has protection from black and from green.&lt;br&gt;Whenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control.&lt;br&gt;Equip {2}
+      </text>
+    </mc>
+    <mc>
+      <id>382201
+      </id>
+      <name>Tidehollow Sculler
+      </name>
+      <cost>{W}{B}
+      </cost>
+      <type>Artifact Creature - Zombie
+      </type>
+      <power>2
+      </power>
+      <toughness>2
+      </toughness>
+      <oracleText>When Tidehollow Sculler enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.&lt;br&gt;When Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>rk post
+      </artist>
+      <num>2
+      </num>
+      <text>When Tidehollow Sculler enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.&lt;br&gt;When Tidehollow Sculler leaves the battlefield, return the exiled card to its owner's hand.
+      </text>
+    </mc>
+    <mc>
+      <id>382202
+      </id>
+      <name>Vault of the Archangel
+      </name>
+      <type>Land
+      </type>
+      <oracleText>{T}: Add {1} to your mana pool.&lt;br&gt;{2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>John Avon
+      </artist>
+      <num>17
+      </num>
+      <text>{T}: Add {1} to your mana pool.&lt;br&gt;{2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382203
+      </id>
+      <name>Windbrisk Heights
+      </name>
+      <type>Land
+      </type>
+      <oracleText>Hideaway &lt;i&gt;(This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Rare
+      </rarity>
+      <artist>Omar Rayyan
+      </artist>
+      <num>18
+      </num>
+      <text>Hideaway &lt;i&gt;(This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)&lt;/i&gt;&lt;br&gt;{T}: Add {W} to your mana pool.&lt;br&gt;{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.
+      </text>
+    </mc>
+    <mc>
+      <id>382204
+      </id>
+      <name>Zealous Persecution
+      </name>
+      <cost>{W}{B}
+      </cost>
+      <type>Instant
+      </type>
+      <oracleText>Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.
+      </oracleText>
+      <edition>Modern Event Deck 2014
+      </edition>
+      <rarity>Uncommon
+      </rarity>
+      <artist>Christopher Moeller
+      </artist>
+      <num>9
+      </num>
+      <text>Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.
+      </text>
+    </mc>
+  </list>
+</cards>
